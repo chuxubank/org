@@ -1,0 +1,111 @@
+* Root :elfeed:
+https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/raw/elfeed.opml
+** Programming :programming:
+*** [[https://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&type=mp4][2015 Fall: 15-213 Introduction to Computer Systems]] :csapp:podcast:
+*** [[https://rsshub.app/acm/amturingaward][A.M. Turing Award Winners]] :acm:
+*** Rust :rust:
+**** [[https://this-week-in-rust.org/rss.xml][This Week in Rust]]
+**** [[https://blog.rust-lang.org/feed.xml][Rust Blog]]
+*** [[https://feed.gradle.org/blog.atom][The Gradle Blog]] :gradle:
+*** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
+*** Apple :apple:
+**** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
+**** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
+**** [[https://ericasadun.com/feed/][Erica Sadun]] :xcode:
+*** Google :google:
+**** Android :android:
+***** [[http://feeds.feedburner.com/blogspot/hsDu][Android Developers Blog]]
+http://www.blogger.com/feeds/6755709643044947179/posts/default?redirect=false
+***** [[https://androidstudio.googleblog.com/feeds/posts/default][Android Studio Release Updates]] :ide:
+https://www.blogger.com/feeds/3325683420543787015/posts/default
+***** [[https://developer.android.com/feeds/androidx-release-notes.xml][AndroidX - Release Notes]] :androix:
+*** Emacs :emacs:
+**** Org :org:
+***** [[https://updates.orgmode.org/feed/help][Org Help]]
+***** [[https://updates.orgmode.org/feed/changes][Org Changes]]
+***** [[https://updates.orgmode.org/feed/releases][Org Releases]]
+**** [[https://emacstalk.codeberg.page/podcast/index.xml][EmacsTalk]] :podcast:
+*** UEFI :uefi:
+**** [[https://uefi.org/press-releases.xml][UEFI Forum]]
+*** 美团 :meituan:
+**** [[https://rsshub.app/meituan/tech/home][美团技术团队]]
+*** 阿里云 :aliyun:
+**** [[https://rsshub.app/aliyun-kernel/index][阿里云系统组技术博客]]
+** Tech :tech:
+*** [[https://rsshub.app/sspai/index][少数派]] :sspai:
+https://sspai.com/feed
+*** [[https://rsshub.app/chaping/news][差评资讯 - 全部]] :chaping:
+*** Blog :blog:
+**** [[https://rsshub.app/blogs/paulgraham][Paul Graham: Essays]]
+Paul Graham (/ɡræm/; born 1964) is an English-born American computer scientist, essayist, entrepreneur, venture capitalist, and author. He is best known for his work on the programming language Lisp, his former startup Viaweb (later renamed Yahoo! Store), cofounding the influential startup accelerator and seed capital firm Y Combinator, his essays, and Hacker News. He is the author of several computer programming books, including: On Lisp, ANSI Common Lisp, and Hackers & Painters. Technology journalist Steven Levy has described Graham as a "hacker philosopher".
+https://en.wikipedia.org/wiki/Paul_Graham_(programmer)
+**** [[https://daringfireball.net/feeds/main][Daring Fireball]] :markdown:
+John Gruber (born 1973) is a technology blogger, UI designer, and one of the inventors of the Markdown markup language.
+https://en.wikipedia.org/wiki/John_Gruber
+**** [[https://cate.blog/feed/][Accidentally in Code]]
+Cate is an Engineering Director at DuckDuckGo and an advisor at Glowforge.
+https://cate.blog/about/
+**** [[https://feeds.kottke.org/main][Jason Kottke]]
+Jason Kottke (born September 27, 1973) is an American blogger, graphic designer, and web designer known for his blog Kottke.org. He won a Lifetime Achievement Award as a blogger. As of July 2013, his blog is ranked #66 overall and #20 in Science on the Technorati Top 100.
+https://en.wikipedia.org/wiki/Jason_Kottke
+**** [[https://rsshub.app/blogs/wangyin][王垠的博客 - 当然我在扯淡]]
+**** [[https://archive.casouri.cat/note/rss.xml][Casouri - Notes]] :emacs:
+**** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
+** Science :science:
+*** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
+[[https://www.nature.com/nature.rss]]
+*** NASA :nasa:
+**** [[https://rsshub.app/nasa/apod][NASA Astronomy Picture of the Day]] :image:
+*** AAAS :aaas:
+**** [[https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science][AAAS: Science: Table of Contents]]
+**** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][AAAS: Table of Contents]]
+**** [[https://www.science.org/rss/news_current.xml][Latest News from Science Magazine]]
+** Art :art:
+*** [[https://rsshub.app/dailyart/zh][DailyArt]]
+** Sport :sport:
+*** [[https://rsshub.app/dongqiudi/daily][懂球帝专题-早报]] :dqd:
+https://rsshub.app/dongqiudi/special/48
+** ACGN :acgn:
+*** Anime :anime:
+**** Bangumi :bangumi:
+***** bilibili :bili:
+****** [[https://rsshub.chuxubank.top/bilibili/user/bangumi/136410][淡月霜痕 的追番列表]]
+*** Game :game:
+**** [[https://rsshub.app/epicgames/freegames][Epic Games Store - Free Games]] :epic:
+*** Novel :novel:
+**** [[https://rsshub.app/aozora/newbook][青空文庫新着リスト]] :japanese:
+** YouTube :youtube:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ][老高與小茉 Mr ＆ Mrs Gao]]
+** News :news:
+*** BBC :bbc:
+**** [[https://rsshub.app/bbc/world][BBC News world]]
+https://feeds.bbci.co.uk/news/rss.xml
+**** [[https://rsshub.app/bbc/chinese][BBC News 中文网]]
+https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+*** [[https://news.ycombinator.com/rss][Hacker News]] :hn:
+*** [[https://rsshub.app/nhk/news_web_easy][NEWS WEB EASY]] :nhk:japanese:
+*** [[https://www.asahi.com/rss/asahi/newsheadlines.rdf][朝日新聞デジタル]] :asahi:japanese:
+*** [[https://rsshub.app/guancha/headline][观察者网 - 头条]] :guan:
+** Government :gov:
+*** 半月谈 :byt:
+**** [[https://rsshub.app/banyuetan/byt][时事大事库—半月谈]]
+**** [[https://rsshub.app/banyuetan/jicengzhili][基层治理-半月谈]]
+**** [[https://rsshub.app/banyuetan/jinritan][今日谈-半月谈]]
+**** [[https://rsshub.app/banyuetan/shizhengjiangjie][时政讲解-半月谈]]
+*** [[https://rsshub.app/gov/xinwen/tujie/zhengce][图解政策 - 中国政府网]] :image:
+*** [[https://rsshub.app/gov/zhengce/wenjian][最新文件 - 中国政府网]]
+*** [[https://rsshub.app/gov/zhengce/zuixin][最新政策 - 中国政府网]]
+*** [[https://rsshub.app/gov/fmprc/fyrbt][中华人民共和国外交部-发言人表态]]
+*** [[https://rsshub.app/gov/news/gwy][中国政府网 - 国务院信息]]
+*** [[https://rsshub.app/gov/news/yw][中国政府网 - 新闻要闻]] :important:news:
+*** [[https://rsshub.app/gov/news/gd][中国政府网 - 滚动新闻]] :news:
+*** [[https://rsshub.app/gov/news/bm][中国政府网 - 部门政务]]
+*** [[https://rsshub.app/gov/news/zhengce][中国政府网 - 政策文件]]
+*** 新华网 :xinhua:
+**** [[https://rsshub.app/news/whxw][新华社新闻-新华网]] :news:
+*** 求是 :qstheory:
+**** [[https://rsshub.app/qstheory][头条 - 求是网]]
+** Life :life:
+*** [[https://rsshub.app/aqicn/shanghai/pm25,pm10][上海AQI]] :air:
+*** [[https://rsshub.app/uniqlo/stylingbook/men][Uniqlo styling book]] :buy:
+*** [[https://rsshub.app/bing][Bing每日壁纸]] :image:

@@ -1,0 +1,30 @@
+[[https://beorgapp.com/manual/scripting/][An Introduction to beorg Scripting]]
+* Fonts
+#+begin_src scheme
+  (set! editor-font "Menlo 16")
+#+end_src
+* Keywords
+[[file:~/.doom/modules/lang/org/config.el::(setq org-todo-keywords][Doom Emacs Org Config]]
+#+begin_src scheme
+  (set! org-todo-action-keywords '("TODO" "PROJ" "LOOP" "STRT" "WAIT" "HOLD" "IDEA"))
+  (set! org-todo-done-keywords '("DONE" "KILL"))
+#+end_src
+* File
+#+begin_src scheme
+  (set! file-disable-delete #f)
+#+end_src
+* Toolbar
+#+begin_src scheme
+  (set! editor-toolbar-items '(("icon-left" (backward-char))
+                               ("icon-right" (forward-char))
+                               ("icon-list" (insert "- "))
+                               ("icon-todolist" (insert "- [ ] "))
+                               ("icon-change" (show-transform-commands))
+                               ("icon-tools" (show-tools-commands))
+                               ("icon-file" (insert-code-snippet))))
+  (set! editor-toolbar-show-in-mini #t)
+#+end_src
+* Org
+#+begin_src scheme
+  (set! org-tags-column 0)
+#+end_src

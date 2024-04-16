@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Elfeed Export</title>
+  </head>
+  <body>
+    <outline xmlUrl="https://rsshub.app/uniqlo/stylingbook/men" title="Uniqlo styling book"/>
+    <outline xmlUrl="https://rsshub.app/guancha/headline" title="观察者网 - 头条"/>
+    <outline xmlUrl="https://rsshub.app/nhk/news_web_easy" title="NEWS WEB EASY"/>
+    <outline xmlUrl="https://news.ycombinator.com/rss" title="Hacker News"/>
+    <outline xmlUrl="https://rsshub.app/bbc/chinese" title=""/>
+    <outline xmlUrl="https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" title="BBC Chinese - 主页"/>
+    <outline xmlUrl="https://rsshub.app/bbc/world" title=""/>
+    <outline xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" title="BBC News - Home"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ" title="老高與小茉 Mr &amp; Mrs Gao"/>
+    <outline xmlUrl="https://rsshub.app/epicgames/freegames" title="Epic Games Store - Free Games"/>
+    <outline xmlUrl="https://rsshub.chuxubank.top/bilibili/user/bangumi/136410" title="淡月霜痕 的追番列表"/>
+    <outline xmlUrl="https://rsshub.app/dongqiudi/daily" title="懂球帝专题-早报"/>
+    <outline xmlUrl="https://rsshub.app/nasa/apod" title="NASA Astronomy Picture of the Day"/>
+    <outline xmlUrl="https://rsshub.app/dailyart/zh" title="DailyArt"/>
+    <outline xmlUrl="http://feeds.nature.com/nature/rss/current" title="Nature"/>
+    <outline xmlUrl="https://www.science.org/rss/news_current.xml" title="Latest News from Science Magazine"/>
+    <outline xmlUrl="https://www.science.org/action/showFeed?type=axatoc&amp;feed=rss&amp;jc=science" title="AAAS: Table of Contents"/>
+    <outline xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" title="AAAS: Science: Table of Contents"/>
+    <outline xmlUrl="https://karthinks.com/index.xml" title="Karthinks"/>
+    <outline xmlUrl="https://archive.casouri.cat/note/rss.xml" title="Notes"/>
+    <outline xmlUrl="https://rsshub.app/blogs/wangyin" title="王垠的博客 - 当然我在扯淡"/>
+    <outline xmlUrl="https://cate.blog/feed/" title="Accidentally in Code"/>
+    <outline xmlUrl="https://daringfireball.net/feeds/main" title="Daring Fireball"/>
+    <outline xmlUrl="https://rsshub.app/blogs/paulgraham" title="Paul Graham: Essays"/>
+    <outline xmlUrl="https://rsshub.app/chaping/news" title="差评资讯 - 全部"/>
+    <outline xmlUrl="https://sspai.com/feed" title="少数派"/>
+    <outline xmlUrl="https://rsshub.app/meituan/tech/home" title="美团技术团队"/>
+    <outline xmlUrl="https://karthinks.com/index.xml" title="Karthinks"/>
+    <outline xmlUrl="https://emacstalk.codeberg.page/podcast/index.xml" title="EmacsTalk"/>
+    <outline xmlUrl="https://developer.android.com/feeds/androidx-release-notes.xml" title="AndroidX - Release Notes"/>
+    <outline xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default" title="Android Studio Release Updates"/>
+    <outline xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" title="Android Developers Blog"/>
+    <outline xmlUrl="https://ericasadun.com/feed/" title="Erica Sadun"/>
+    <outline xmlUrl="https://shapeof.com/rss.xml" title="The Shape of Everything"/>
+    <outline xmlUrl="https://beckyhansmeyer.com/feed/" title="Becky Hansmeyer"/>
+    <outline xmlUrl="https://jvns.ca/atom.xml" title="Julia Evans"/>
+    <outline xmlUrl="https://feed.gradle.org/blog.atom" title="The Gradle Blog"/>
+    <outline xmlUrl="https://blog.rust-lang.org/feed.xml" title="Rust Blog"/>
+    <outline xmlUrl="https://this-week-in-rust.org/rss.xml" title="This Week in Rust"/>
+    <outline xmlUrl="https://rsshub.app/acm/amturingaward" title="A.M. Turing Award Winners"/>
+    <outline xmlUrl="https://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&amp;type=mp4" title="2015 Fall: 15-213 Introduction to Computer Systems"/>
+  </body>
+</opml>

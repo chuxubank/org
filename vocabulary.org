@@ -1,0 +1,301 @@
+* Vocabulary
+** truncation 
+n. 截去；【植】切干萌芽 | 网络 截断；截尾；截词
+** Accumulate [əˈkjumjəˌleɪt]
+v. 积累；积聚；（数量）逐渐增加；（数额）逐渐增长 | 网络 堆积；累积；积蓄 | Synonym v. mount up,buildup,accrue,amass,collect | Antonym v. disperse
+** extract [ˈekˌstrækt]
+n. 提取物；摘录；精；节录 | v. 提取；摘录；提炼；获得 | 网络 抽出；抽取；拔出 | Synonym v. take out,remove,obtain,winkle out,unearth n. excerpt,cutting,quotation,citation,abstract | Antonym v. put in n. source
+** dist ['dɪst]
+n. 蒸馏 | 网络 距离(distance)；两点间的距离；测量两点之间的距离和角度
+** Ledger [ˈledʒər]
+n. 收支总账；分类账簿；分户账簿 | 网络 分类帐；总帐；横木 | Synonym n. book,account book,record book,record,register
+** repetitive [rɪˈpetətɪv]
+adj. 重复乏味的；多次重复的 | 网络 重复生产；反复性的；反复的 | Synonym adj. boring,dull,monotonous,tedious,tiresome | Antonym adj. varied
+** deterministic [dɪˌtɜːmɪ'nɪstɪk]
+adj. 确定性；决定性的；必然 | 网络 确定性的；确定的；确定过程式
+** 集成性 
+网络 Integration; Integrated; integrating
+** 光标 [guāng biāo] 
+na. cursor | 网络 Cursors; caret; Marker
+** penultimate [pəˈnʌltɪmət]
+adj. 倒数第二的 | 网络 倒数第二个；倒数第二音节；倒数第二音节的 | Synonym adj. last but one,second to last,next to last
+** Auxiliary [ɔɡˈzɪljəri]
+n. 助动词；辅助工；辅助人员 | adj. 辅助的；备用的 | 网络 辅助设备；补助的；支援的 | Synonym adj. supplementary,secondary,support,back up,supporting | Antonym adj. main
+** redux
+网络 终极效果器；回来的；回家
+** prescient [ˈpreʃənt]
+adj. 预知的；先觉的 | 网络 有先见之明的；预见的；有预知能力的 | Synonym adj. prophetic,psychic,clairvoyant,discerning,perceptive
+** diary [ˈdaɪəri]
+n. 日记；（工作日程）记事簿；日记簿 | 网络 日志；日记本；青涩日记 | Synonym n. journal,record,log,chronicle,memoir
+** prepare [prɪˈper]
+v. 调制；使做好准备；把…预备好；使（自己）有准备 | 网络 筹备；配制；拍摄准备 | Synonym v. get ready,arrange,organize,plan,set up
+** persist [pərˈsɪst]
+v. 保持；持续存在；维持；顽强地坚持 | 网络 固执；存留；持久 | Synonym v. persevere,continue,keep it up,keep at,keep on | Antonym v. give up,fade away
+** mandatory [ˈmændəˌtɔri]
+adj. 强制的；法定的；义务的 | n. 同“mandatary” | 网络 命令的；强制性的；强迫的 | Synonym adj. obligatory,compulsory,required,fixed,binding | Antonym adj. optional
+** scarlet [ˈskɑrlət]
+n. 猩红；红布；(大主教,英国高等法院法官,英国队军军官等的)红衣 | adj. 猩红的；鲜红的 | 网络 猩红色；绯红；深红
+** retrieved [rɪˈtriv]
+n. 挽回 | v. 恢复；(猎狗将猎获物)找回；拉回(钩鱼线)；(从灾难中等)救出 | 网络 重新取回；收回；找回了 | Synonym v. save,get back,recover,regain,repossess | Antonym v. lose
+** Temporally
+网络 时间上
+** coordinates [koʊˈɔrdɪnət]
+adj. 同位的；协调的；【语】对等的；【数】坐标的 | n. 【数】坐标；(图书,资料编目的)交叉索引；同等者；同位 | v. 使成同等；使成同位；使配合；调整 | 网络 坐标系；座标；坐标轴 | Synonym v. organize,direct,manage,synchronize,harmonize
+** interpolated [ɪnˈtɜrpəˌleɪt]
+v. 添改；添入；窜改(文稿)；插话 | n. 【数】插值；内推 | 网络 内插；以内插值替换的；以内插值替换 | Synonym v. add,cut in,include,incorporate,insert
+** preceded [prɪˈsid]
+v. 居先于；在…之上；优于；比…重要 | 网络 领先；先前的；先於 | Synonym v. head,lead,come first,go before,pave the way | Antonym v. follow
+** Unleashed [ʌnˈliʃ]
+v. 〈比喻〉解放；放纵；发动；解开…的皮带[链索] | 网络 狼犬丹尼；释放；猛虎出笼 | Synonym v. set free,uncheck,unbridle,let loose,release | Antonym v. control
+** retrieval [rɪˈtriv(ə)l]
+n. 取回；索回；数据检索 | 网络 恢复；提取；补偿 | Synonym n. recovery,repossession,rescue,reclamation,salvage | Antonym n. loss
+** lightweight [ˈlaɪtˌweɪt]
+adj. 薄型的；不严肃的；给人印象不深的 | n. 轻量级拳击手（体重在 57 至 61 公斤之间） | 网络 轻量化；轻便；轻量级的 | Synonym adj. frivolous,trivial,insubstantial,inconsequential,unimportant n. small fry,little man,little guy,pawn | Antonym adj. serious n. heavyweight
+** Integrate [ˈɪntəˌɡreɪt]
+v. 成为一体；（使）加入 | adj. 完全的 | 网络 整合；使一体化；积分 | Synonym v. mix,fit in,join in,assimilate,take part | Antonym v. separate
+** systematism ['sɪstəməˌtɪzəm]
+n. 制度化；分门别类；体系化 | 网络 系统化；组织化
+** systemaltization
+网络 体系化
+** Liskov
+网络 替换原则
+** propose [prəˈpoʊz]
+v. 建议；提议；求婚；打算 | 网络 提出；计划 | Synonym v. suggest,offer,recommend,proposition,advise
+** periphery [pəˈrɪf(ə)ri]
+n. 外围；边缘；周围；次要部分 | 网络 周边；边陲；圆周 | Synonym n. margin,edge,sideline,border,fringe | Antonym n. center,centre
+** troll [troʊl]
+v. 曳绳钓（鱼）；拖钓；搜查；搜索 | n. 巨怪；恶意挑衅的帖子（在互联网讨论组张贴）；“投饵”人 | 网络 巨魔；洞穴巨人；食人妖 | Synonym n. giant,ogre,hobgoblin,goblin,monster v. fish,angle,trail,spin,lure
+** Strategy [ˈstrætədʒi]
+n. 策略；战略；策划；战略部署 | 网络 策略模式；谋略；计谋 | Synonym n. plan,scheme,policy,approach,tactic
+** VERSE [vɜrs]
+n. 诗；韵文；诗节；歌曲的段落 | v. 作诗；用诗表现；(把…)写成诗 | 网络 诗歌；诗句；诗行 | Antonym n. prose
+** 肃穆 [sù mù]
+na. solemn and respectful | 网络 solemnity; serious; vitr
+** practical [ˈpræktɪk(ə)l]
+adj. 实际的；真实的；客观存在的；切实可行的 | n. 实习课；实践课；实验考核 | 网络 实用的；实践的；实用性 | Antonym adj. theoretical
+** restriction [rɪˈstrɪkʃ(ə)n]
+n. 限制；约束；制约因素；限制规定 | 网络 限定；束缚；限制工作
+** recursive [rɪˈkɜrsɪv]
+adj. 递归的；循环的 | 网络 递回；递归地；递归下载
+** incremental [ˌɪŋkrəˈment(ə)l]
+adj. 增加的；【数】增量的；增额的 | 网络 增量式；渐进式；渐进的
+** enumeration [ɪˌnjuːmə'reɪʃ(ə)n]
+n. 列举；计算；详述；细目 | 网络 枚举；列举型别；枚举类型
+** overlay ['oʊvər.leɪ]
+v. 覆盖；铺；包；镀 | n. 涂层；套图透明膜；上衬；覆盖物 | 网络 叠加；重叠；覆盖层 | Synonym v. cover,coat,put over,drape,shroud n. overlap,intersection,edge,join,connection
+** mutable ['mjutəb(ə)l]
+adj. 可变的；会变的 | 网络 易变的；性情不定的；变动 | Synonym adj. changeable,variable,alterable,changing,fluctuating | Antonym adj. fixed
+** redundant [rɪˈdʌndənt]
+adj. 被裁减的；多余的；不需要的 | 网络 冗余；过剩的；过多的 | Synonym adj. laid off,let go,out of work,jobless,superfluous
+** abbreviate [əˈbriːviːeɪt]
+v. 缩写；缩短；缩写为；简称 | 网络 节略；省略；简略 | Synonym v. abridge,condense,curtail,cut,cut short | Antonym v. lengthen
+** tedious ['tidiəs]
+adj. 冗长的；啰嗦的；单调乏味的；令人厌烦的 | 网络 冗长乏味的；单调的；沉闷的 | Synonym adj. boring,dull,deadly,dreary,monotonous | Antonym adj. interesting
+** genres ['ʒɑnrə]
+n. (诗,剧,小说,散文的)体裁；世态画 | 网络 类型；流派；文类 | Synonym n. type,sort,kind,category,field
+** Hyperparameter
+网络 超参数；分别有一个带有超参数
+** Convolutional [kɒnvə'luʃənəl]
+adj. 脑回的 | 网络 码；卷码；卷积
+** Rectified ['rektə.faɪ]
+v. 改正；矫正；整顿；【电】整流 | 网络 调整；整流的；修正 | Synonym v. put right,set right,correct,remedy,cure | Antonym v. damage
+** Arithmetic [.erɪθ'metɪk]
+n. 算术；算术运算；四则运算 | 网络 算法；计算；算数 | Synonym n. sums,math,calculation,mathematics
+** inefficiency [.ɪnɪ'fɪʃ(ə)nsi]
+n. 无效；无能 | 网络 无效率；低效率；缺乏效率 | Synonym n. disorganization,incompetence,inadequacy,wastefulness,ineptitude | Antonym n. competence
+** 反对 [fǎn duì]
+n. opposition; objection | v. oppose; object; disapprove | 网络 against; object to; be opposed to
+** 明确 [míng què]
+na. explicit; make clear; unequivocal | 网络 Specific; definite; Clarity
+** descriptive [dɪ'skrɪptɪv]
+adj. 描写的；叙述的；说明的；描写性的（描述语言的实际应用而非使用规则） | 网络 描述性；描述性的；描述的 | Synonym adj. explanatory,illustrative,narrative,informative,factual | Antonym adj. imaginative
+** unconditional [.ʌnkən'dɪʃən(ə)l]
+adj. 无条件的；无限制的；绝对的 | 网络 无保留；有条件与无条件的；非条件式 | Synonym adj. unqualified,total,categorical,absolute,unrestricted | Antonym adj. qualified
+** Director [daɪ'rektər]
+n. 董事；经理；理事；（某一活动的）负责人 | 网络 导演；主任；总监 | Synonym n. manager,leader,executive,administrator,boss
+** 加速 [jiā sù]
+na. acceleration; accelerate; quicken | 网络 speed up; Turbo; expedite
+** 简介 [jiǎn jiè]
+na. brief introduction; synopsis | 网络 Introduction; Brief Introduction; About
+** sparse [spɑrs]
+adj. 稀少的；稀疏的；零落的 | 网络 创建稀疏矩阵；生成稀疏矩阵 | Synonym adj. thin,spare,scant,scarce,light | Antonym adj. dense
+** preempt [pri'empt]
+v. 优先购买；〔建〕预先占用 | n. 〔经〕优先占有 | 网络 以先买权取得；抢占；占先 | Synonym v. forestall,anticipate,obstruct,block,prevent | Antonym v. react
+** skeleton [ˈskelɪt(ə)n]
+n. 骨架；骨干；梗概；〈非正式〉骨瘦如柴的人(或动物) | adj. 骨瘦如柴的；(计划,组织或结构等)基本的 | 网络 骷髅；骨骼；骷髅兵 | Synonym n. frame,bones,carcass,plan,outline adj. minimum,basic,essential,minimal | Antonym adj. full
+** Separate ['sep(ə).reɪt]
+v. 分离；区分；隔开；区别 | adj. 单独的；独立的；分开的；不同的 | n. (杂志论文的)抽印本；单行本；可以不配套单独穿的妇女服装 | 网络 分离的；分居；分隔 | Synonym adj. unconnected,individual,independent,unattached,distinct v. divide,part,break away,secede,divorce | Antonym adj. connected,attached v. unite,join,marry
+** Journal ['dʒɜrn(ə)l]
+n. 杂志；日记；日志；（用于报纸名）…报 | 网络 期刊；日报；日记帐 | Synonym n. periodical,magazine,paper,weekly,monthly
+** Annotation [ˌænə'teɪʃ(ə)n]
+n. 注释；注解；附注；评注 | 网络 标注；注记；批注 | Synonym n. footnote,gloss,marginal note,explanation,note
+** facilities [fə'sɪləti]
+n. 设备；机构；容易；机敏 | 网络 设施；工具；配套设施 | Synonym n. skill,ability,capability,capacity,talent | Antonym n. inability
+** integrity [ɪn'teɡrəti]
+n. 完整；诚实正直；完好 | 网络 完整性；诚信；诚信正直 | Synonym n. honesty,truth,truthfulness,honour,honor | Antonym n. dishonesty
+** rationale [.ræʃə'næl]
+n. 基本原理；根本原因 | 网络 理论基础；理由；基本理由 | Synonym n. basis,justification,motivation,validation,reasoning
+** script [skrɪpt]
+n. 剧本；电影剧本；笔迹；广播（或讲话等）稿 | v. 为电影（或戏剧等）写剧本 | 网络 脚本；手稿；手迹 | Synonym n. screenplay,text,play,words,libretto
+** entities ['entəti]
+n. 实体；统一体；存在(物)；(有别于属性等的)本质 | 网络 实体段；实体节；字符实体 | Synonym n. object,unit,thing,article,being | Antonym n. nonentity
+** subscript ['sʌbskrɪpt]
+n. 下标 | adj. 写在下面的 | 网络 写在下方的；上标；脚注
+** Folium ['fəʊlɪəm]
+n. 【地】薄层；【数】叶形线 | 网络 叶片；叶线；薄片
+** Descartes [deiˈkɑrt]
+na. Ren&#233; Descartes 笛卡儿 | 网络 笛卡尔；迪卡尔；迪卡儿
+** variable ['veriəb(ə)l]
+n. 变量；可变因素；可变情况 | adj. 多变的；易变的；变化无常的；可更改的 | 网络 变数；可变的；变项 | Synonym adj. varying,changing,fluctuating,changeable,erratic | Antonym adj. constant,consistent,fixed
+** nerd [nɜrd]
+n. 令人厌烦的人；愚蠢的人；落伍的人；电脑迷 | 网络 书呆子；非糜烂性反流病(non-erosive reflux disease)；非糜烂性胃食管反流病
+** subprocess [sʌbp'rəʊses]
+n. 中间过程；亚过程 | 网络 子进程；子流程；子过程
+** Discrete [dɪˈskrit]
+adj. 离散的；分离的；各别的 | 网络 不连续的；分立的；离散型 | Synonym adj. separate,distinct,disconnected,detached,isolated
+** incrementally
+网络 递增地；增量模式；渐进性的
+** asymptotic [æsɪmp'tɒtɪk]
+adj. 渐近 | 网络 渐近的；渐近线的；渐近性
+** urges [ɜrdʒ]
+v. 鼓励；催促；强烈要求；推进 | n. 冲动；推动力 | 网络 欲望；敦促；呼吁 | Synonym v. advise,commend,advocate,beg,recommend n. need,wish,impulse,desire,longing | Antonym v. dissuade,discourage n. disinclination
+** typo [ˈtaɪpoʊ]
+n. 打字（或排印）文稿的小错误 | 网络 打字错误；错字；排印错误 | Synonym n. misprint,typographical error,error,mistake | Antonym n. correction
+** Novel [ˈnɑv(ə)l]
+adj. 新颖的；与众不同的；珍奇的 | n. （长篇）小说 | 网络 新奇的；长篇小说；新的 | Synonym n. narrative,story,tale,book adj. original,new,fresh,different,innovative | Antonym adj. well-worn
+** guinea [ˈɡɪni]
+n. 几尼（英国旧时金币或货币单位，价值 21 先令，现值 1.05 英镑。现时有些价格仍用几尼计算，如马匹买卖） | 网络 几内亚；几内亚宣布独立日；几内亚共和国
+** pioneers [ˌpaɪəˈnɪr]
+n. 先驱；拓荒者；提倡者；【军】轻工兵 | v. 开辟；提倡 | 网络 先驱者；先锋；先驱们 | Synonym n. innovator,inventor,forerunner,developer,creator v. lead the way,open up,forge,found,initiate
+** Concatenate [kɑnˈkæt(ə)ˌneɪt]
+adj. 连锁状的 | v. 使(成串地)连结[衔接]起来 | 网络 连接；串联；多联体
+** sneaky [ˈsniki]
+adj. 悄悄的；偷偷摸摸的；鬼鬼祟祟的 | 网络 鬼祟的；卑鄙的；狡猾的 | Synonym adj. sly,devious,shifty,underhand,mean | Antonym adj. honest
+** criminal [ˈkrɪmɪn(ə)l]
+n. 罪犯 | adj. 犯罪的；犯法的；涉及犯罪的；刑法的 | 网络 犯人；刑事；刑事犯 | Synonym n. offender,convict,prisoner,felon,lawbreaker adj. illegal,wrong,against the law,illicit,scandalous | Antonym adj. legal
+** scum [skʌm]
+n. 浮渣；败类；浮沫；浮垢 | v. 去除(浮渣)；形成泡沫；生浮皮  变得满是浮渣 | 网络 人渣；渣滓；水垢 | Synonym n. layer,filth,froth,foam,crust
+** brainer
+网络 费脑筋的事情；布累纳德；热点板块闻风而动
+** piecemeal [ˈpisˌmil]
+adj. 逐渐做成（或发生）的；零敲碎打的；零散的 | adv. 一件一件 | n. 断片 | 网络 零碎的；零碎地；一件一件的 | Synonym adv. by piecemeal
+** subtle [ˈsʌt(ə)l]
+adj. 不易察觉的；不明显的；微妙的；机智的 | 网络 精巧的；细微的；精细的 | Synonym adj. slight,faint,fine,thin,understated | Antonym adj. obvious,blatant,obtuse
+** motion [ˈmoʊʃ(ə)n]
+n. 运动；动议；提议；移动 | v. 示意 | 网络 动作；手势；动态 | Antonym n. rest
+** glyphs
+n. 【建】束腰竖沟；雕像；表达信息的符号 | 网络 字形；雕文；雕纹
+** Monotonicity
+网络 单调性；单调特性；单一性
+** race [reɪs]
+n. 种族；赛跑；竞争；民族 | v. （和…）比赛；参加比赛；使比赛；让…参加速度比赛 | adj. 人种的 | 网络 黄婉伶；竞赛 | Synonym v. compete,take part,run,vie,speed n. contest,competition,sprint,battle,duel | Antonym v. withdraw,crawl
+** bistable  [baɪ'steɪbl]
+adj. 【物理学】双稳定的 | n. 【物理学】双稳定 | 网络 双稳态；双稳态的；双稳的
+** inaccurate [ɪnˈækjərət]
+adj. 不精确的；不准确的；有错误的 | 网络 不精密的；不正确 | Synonym adj. imprecise,inexact,mistaken,erroneous,wrong | Antonym adj. precise
+** approximations [əˌprɑksɪˈmeɪʃ(ə)n]
+n. 近似；接近；【数】近似值；略计 | 网络 逼近；约稿；逼近信号 | Synonym n. estimate,guess,calculation,guesstimate
+** Numerical [nuˈmerɪk(ə)l]
+adj. 数字的；用数字表示的 | 网络 数值的；用数表示的 | Synonym adj. mathematical,arithmetic,arithmetical,statistical
+** exponent [ɪkˈspoʊnənt]
+n. 指数；（观点、理论等的）拥护者；（某种活动的）能手 | adj. 讲解的 | 网络 幂；解释者；说明者 | Synonym n. advocate,proponent,promoter,fan,champion
+** Equispaced [ˌikwɪ'speɪst]
+网络 平均间隔；均布
+** 纵横捭阖 [zòng héng bǎi hé]
+na. be perpendicular and horizontal | 网络 bǎi; haohaodehuo
+** fringe [frɪndʒ]
+n. 外围；刘海儿；流苏；额前短垂发 | adj. 边缘的；附加的 | v. 形成…的边缘 | 网络 危机边缘；迷离档案；须边 | Synonym adj. peripheral,outlying,marginal,far-flung,unconventional n. tassel,edging,edge,border,trimming | Antonym adj. central,mainstream n. centre,center
+** gutter [ˈɡʌtər]
+n. 阴沟；檐沟；天沟；路旁排水沟 | v. 忽明忽暗；摇曳不定 | 网络 槽；水槽；檐槽 | Synonym v. flicker,sputter,waver,drip,fade n. drain,sewer,channel,trench,trough | Antonym v. flare
+** hoisting ['hɔɪstɪŋ]
+n. 提升 | v. “hoist”的现在分词 | 网络 吊装；起吊；起升
+** recency
+n. 新近 | 网络 近因；新近性；新近度
+** sense [sens]
+n. 意识；意义；理智；判断力 | v. 意识到；感觉到；觉察出；检测出 | 网络 感官；意思；见识 | Synonym v. perceive,have a feeling,intuit,guess,suspect n. meaning,feeling,appreciation,gist,opinion | Antonym v. observe n. folly
+** patron [ˈpeɪtrən]
+n. 顾客；资助者 | 网络 赞助人；庇护者；保护人 | Synonym n. supporter,fan,benefactor,sponsor,investor
+** figure [ˈfɪɡjər]
+n. 图形；人物；身材；体形 | v. 认为；是重要部分；是…的部分；计算（数量或成本） | 网络 数字；外形；形状 | Synonym n. shape,form,number,numeral,amount v. play a part,feature,appear,participate,fit into | Antonym v. doubt
+**  failover [ˈfɛlˌoʊvə]
+n. 【IT】故障转移能力；失效备援能力；失效转移模式 | 网络 故障切换；容错移转；失效切换
+** vending  [vend]
+v. 贩卖；出售；发表(意见,言论) | 网络 电子市场；自动贩卖；贩卖的 | Synonym v. sell,trade,deal in,hawk,flog
+** hierarchical [ˌhaɪəˈrɑrkɪk(ə)l]
+adj. 按等级划分的；等级制度的 | 网络 阶层式；分层的；分等级的 | Synonym n. graded,tiered,ordered,classified,categorized
+** geographical [ˌdʒiəˈɡræfɪk(ə)l]
+adj. 地理学的 | 网络 地理的；地理上的；地理学上的 | Synonym adj. physical,topographical,terrestrial,earthly,environmental
+** proximity [prɑkˈsɪməti]
+n. 邻近 | 网络 接近；亲近；接近性 | Synonym n. nearness,closeness,juxtaposition,immediacy,vicinity | Antonym n. remoteness
+** cluster [ˈklʌstər]
+n. 群集；簇；组；挂 | v. 集中；簇拥；(使)成群；(使)群集 | 网络 集群；丛集；串 | Synonym n. band,collection,constellation,gathering,knot v. assemble,bunch,bundle,collect,come together | Antonym v. disperse
+** slavishly
+adv. 死板地；奴隶般地 | 网络 亦步亦趋；奴隶般的；盲从地
+** Conceptual [kənˈseptʃuəl]
+adj. 概念（上）的；观念（上）的 | 网络 观念艺术；概念上的；概念的 | Synonym adj. ideological,philosophical,moral,political,ethical
+** Ad hoc [ˌæd ˈhɑk]
+adj. 临时安排的；特别的；专门的 | 网络 自组织；即席；自组网 | Synonym adj. unplanned,informal,impromptu,improvised,off-the-cuff | Antonym adj. planned
+** hopping [ˈhɑpɪŋ]
+adj. 很活跃的；忙忙碌碌的 | v. “hop”的现在分词 | 网络 跳跃；单脚跳；是跳的意思
+** Encapsulation [ɛnˈkæpsəˌleɪʃən]
+n. 封装；封闭；〔生〕包囊作用 | adj. 包囊；胶囊化作用；包胶囊；微囊化 | 网络 封装性；封装模式；包封
+** segmentation [ˌsɛɡmənˈteɪʃ(ə)n]
+n. 分割；分裂 | 网络 市场细分；分段；市场区隔 | Synonym n. division,subdivision,separation,splitting up,dissection | Antonym n. integration
+** topology [tə'pɒlədʒɪ]
+n. 拓扑结构；构相 | 网络 拓扑学；拓朴；拓朴学
+** Datagram [græm]
+n. 数据报 | 网络 数据报文；数据包；资料包
+** Aside [əˈsaɪd]
+adv. 留；存；到旁边；在旁边 | n. 旁白；低声说的话；离题话 | 网络 在一边；到一边；一旁 | Synonym n. digression,departure,tangent,interposition,parenthesis adv. sideways,away,sidewise,notwithstanding,regardless
+** check in
+v. 〈美〉报到；(旅馆)登记 | 网络 入住；办理登记手续；签到 | Synonym v. register,sign in,sign up,sign on,enroll
+** magnetized [ˈmæɡnəˌtaɪz]
+v. 吸引；使磁化；使有磁力；催眠 | 网络 已磁化的；磁场迷阵；磁化了 | Synonym v. attract,charm,influence,draw,pull | Antonym v. repel
+** delicate [ˈdelɪkət]
+adj. 精致的，微妙的，脆弱的，熟练的，柔和的 | 网络 精美的；易碎的；娇弱的 | Synonym adj. fragile,frail,subtle,faint,fine | Antonym adj. robust,overpowering,rough,inelegant,straightforward
+** disturbance [dɪˈstɜrbəns]
+n. 干扰；障碍；紊乱；骚乱 | 网络 动乱；扰动；骚动 | Synonym n. trouble,commotion,riot,uproar,fracas
+** ripples [ˈrɪp(ə)l]
+n. 涟漪；波动；麻梳；用麻梳梳(去麻子) | v. 使起涟漪；卷(头发)；作潺潺声 | 网络 波纹；简单的波纹；一池春水 | Synonym n. wave,undulation,current,wrinkle v. undulate,swell,flow,move,rise and fall | Antonym n. stillness
+** outward [ˈaʊtwərd]
+n. 外表；外在事务；周围世界；〈罕〉外部 | adj. 表面的；外表的；外出的；向外的 | adv. 同“outwards. outward and homeward” | 网络 外面的；公开的；外部的 | Antonym adj. inward
+** eddy [ˈedi]
+v. (使)起漩涡；(使)旋转；波涛起伏；产生旋流 | n. 埃迪〔姓氏〕；涡；涟漪 | adj. 旋涡的；螺旋的 | 网络 艾迪；涡流；涡旋 | Synonym n. current,maelstrom,swirl,vortex,whirl
+** currents [ˈkʌrənt]
+n. 电流；水流；气流；趋势 | adj. 现在的；现行的；通用的；现在有效的 | 网络 潮流；洋流；海流 | Synonym adj. present,existing,in progress,recent,up-to-date n. flow,stream,undercurrent,tide,flux | Antonym adj. dated
+** atmosphere [ˈætməˌsfɪr]
+n. 大气；气氛；气压；风格 | 网络 大气层；空气；氛围 | Synonym n. air,sky,heaven,ether,troposphere
+** momentary [ˈmoʊmənˌteri]
+adj. 短促的；短暂的；片刻的 | 网络 瞬间的；瞬息间的；瞬时的 | Synonym adj. brief,fleeting,passing,temporary,transitory | Antonym adj. permanent,interminable
+** pockets [ˈpɑkɪt]
+n. 衣袋；穴；钱袋；(袋鼠等的)袋 | v. 藏住(感情等)；操纵；【台】把球打进(球囊)；把…装在衣袋内 | adj. 小型的；金钱上的；秘密的 | 网络 口袋；袋数；口袋数 | Synonym n. pocket
+** cosmic [ˈkɑzmɪk]
+adj. 宇宙的；巨大且重要的 | 网络 广大无边的；宇宙大；宇宙表 | Synonym adj. intergalactic,interplanetary,interstellar,galactic,planetary | Antonym adj. terrestrial,tiny
+** fork off
+网络 派生
+** royal [ˈrɔɪəl]
+n. 王室成员 | adj. 国王的；女王的；皇家的；王室的 | 网络 皇家金堡；皇族；皇室的 | Synonym adj. regal,imperial,majestic,stately,noble | Antonym adj. ordinary
+** palms [pɑlm, pɑm]
+n. 手掌；棕榈(树)；掌尺；(手套等的)掌部 | v. (变戏法等时)把(东西)藏在手心里；哄骗；用手掌抚摩；用手抚弄 | 网络 掌心；棕榈树；棕榈酒店
+** spaced [speɪst]
+v. “space”的过去分词和过去式 | 网络 屋事生非；奇情空间；隔开的
+** equidistant [ˌekwɪˈdɪstənt]
+adj. 等距；等距离 | 网络 等距的；等距离的；距离相等的 | Synonym adj. between,in between,intermediate,middle
+** shovel [ˈʃʌv(ə)l]
+n. 铲；铁铲；（推土机、挖土机等的）铲 | v. 铲；铲起 | 网络 铲子；铁锹；铁锨 | Synonym n. shovel hat
+** carriage [ˈkerɪdʒ]
+n. 运输；运费；举止；仪态 | 网络 马车；四轮马车；客车厢 | Synonym n. coach,hansom cab,trap,gig,stagecoach
+** monicker [ˈmɑnɪkər]
+n. 外号；徒步旅行者认路的记号；〈俚〉名字 | 网络 绰号；标记 | Synonym n. name,first name,signature,nickname,given name
+** preface [ˈprefəs]
+n. 序言 | v. 为…写序言；以…为开端；作…的开场白 | 网络 前言；序文；卷首语 | Synonym v. prefix,precede,begin,start,start off n. foreword,preamble,introduction,prologue,prelude | Antonym n. postscript
+** atomic [əˈtɑmɪk]
+adj. 原子的；与原子有关的；原子能的；原子武器的 | 网络 原子性；阿托米克；原子操作 | Synonym adj. nuclear,thermonuclear,fissionable,microscopic,submicroscopic | Antonym adj. gigantic
+** expansions [ɪkˈspænʃ(ə)n]
+n. 扩张；展开；扩建；扩大 | 网络 总线扩展；扩张活动；伸展 | Synonym n. growth,development,increase,extension,opening out | Antonym n. contraction
+** substituted [ˈsʌbstɪˌtut]
+v. 〈美〉代替；用…代替；【化】取代；作…代理者 | n. 代替者[物]；候补员；后补选手；收入(数) | 网络 代替的；替代；取代的 | Synonym n. alternative,replacement,stand-in,locum,surrogate adj. supernumerary,extra,auxiliary,additional,ancillary v. replace with,exchange,switch,fill in for,take the place of | Antonym adj. permanent
+** threshold [ˈθreʃˌhoʊld]
+n. 阈；门槛；起点；开端 | 网络 阈值；阀值；临界值 | Synonym n. doorway,door,doorstep,entrance,entry | Antonym n. end
+** adequate [ˈædəkwət]
+adj. 足够的；合格的；合乎需要的 | 网络 适当的；充分的；充足的 | Synonym adj. sufficient,ample,enough,plenty,passable | Antonym adj. insufficient,inadequate

@@ -1,0 +1,3340 @@
+* From buy.org :ARCHIVE:
+** DONE 双模机械键盘
+CLOSED: [2021-11-05 Fri 09:26]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-11 Thu 15:08
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+| Brand  | Model    | Connection              | Keys | Type      | Texture | Size       | Price(CNY) | Weight(Kg) | Backlight |
+| Fuhlen | G610     | Wired(USB2.0) Bluetooth |   61 | Cherry    |         | 291*101*39 |        279 |       0.63 |         1 |
+| NIZ    | Atom66   |                         |      |           | PBT     | 299*109*36 |            |            |           |
+| IKBC   | W200mini | Wired Bluetooth         |   61 | Cherry MX | PBT     | 285*110*32 |        299 |      0.561 |         0 |
+** DONE 客厅电视
+CLOSED: [2022-02-24 Thu 09:11]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-24 Thu 11:26
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- Note taken on [2022-02-24 Thu 11:25] \\
+  红米 87
+[2022-02-06 Sun 13:15]
+** KILL 徽章墙
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-27 Sun 10:30
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 药盒
+CLOSED: [2022-02-27 Sun 14:46]
+:PROPERTIES:
+:Budget:   100
+:ARCHIVE_TIME: 2022-03-07 Mon 09:32
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 扫地机器人
+CLOSED: [2022-03-02 Wed 11:34] SCHEDULED: <2022-03-01 Tue>
+:PROPERTIES:
+:Budget:   4000
+:ARCHIVE_TIME: 2022-03-07 Mon 09:32
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 抹布架
+CLOSED: [2022-02-27 Sun 14:47]
+:PROPERTIES:
+:Budget:   50
+:ARCHIVE_TIME: 2022-03-07 Mon 09:32
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购/厨房
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 电视支架
+CLOSED: [2022-02-24 Thu 12:08]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-07 Mon 09:33
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+[2022-02-06 Sun 13:14]
+** DONE 定时插座
+CLOSED: [2022-02-24 Thu 09:11]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-07 Mon 09:33
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+[2022-01-26 Wed 00:11]
+** DONE iPhone 13 Pro
+CLOSED: [2021-12-28 Tue 15:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-07 Mon 09:33
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 妈妈三八节礼物
+CLOSED: [2022-03-08 Tue 07:44] SCHEDULED: <2022-03-07 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-10 Thu 19:13
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 厨余粉碎机
+CLOSED: [2022-06-03 Fri 13:44] SCHEDULED: <2022-05-31 Tue 20:00>
+:PROPERTIES:
+:Budget:   4000
+:ARCHIVE_TIME: 2022-06-22 Wed 23:15
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+[2022-02-06 Sun 13:14]
+** DONE 太阳能灯
+CLOSED: [2022-06-19 Sun 21:13]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:15
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+[2022-03-10 Thu 18:50]
+** KILL MBP
+CLOSED: [2021-12-28 Tue 15:37] SCHEDULED: <2021-12-12 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:15
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 无线充电手机支架
+CLOSED: [2022-04-10 Sun 20:02]
+:PROPERTIES:
+:BUDGET:   200
+:ARCHIVE_TIME: 2022-06-22 Wed 23:16
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 人体工学椅
+CLOSED: [2022-03-17 Thu 22:18] SCHEDULED: <2022-02-25 Fri>
+:PROPERTIES:
+:Budget:   4000
+:ARCHIVE_TIME: 2022-06-22 Wed 23:16
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_OLPATH: 新家采购
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 柠檬酸（象印）
+CLOSED: [2022-04-10 Sun 20:02]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:16
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 捡球器
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:16
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 切割板
+CLOSED: [2022-06-19 Sun 21:13]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:16
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 新家采购
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-22 Wed 23:17
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: PROJ
+:END:
+*** DONE 升降书桌
+CLOSED: [2022-06-15 Wed 21:11] DEADLINE: <2022-06-18 Sat> SCHEDULED: <2022-06-17 Fri 20:00>
+:PROPERTIES:
+:Budget:   5000
+:END:
+** DONE Magesafe 车载手机支架
+CLOSED: [2022-07-18 Mon 07:16] SCHEDULED: <2022-07-17 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 门踢
+CLOSED: [2022-07-18 Mon 07:16] SCHEDULED: <2022-07-17 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE HomePod mini
+CLOSED: [2022-07-14 Thu 22:11] SCHEDULED: <2022-06-22 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE A3 打印机
+CLOSED: [2022-07-23 Sat 09:01] SCHEDULED: <2022-06-22 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Aqara 清单确认
+CLOSED: [2022-03-28 Mon 00:33] SCHEDULED: <2022-03-11 Fri 18:00>
+:PROPERTIES:
+:EXPORT_LATEX_CLASS_OPTIONS: [landscape]
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+| 名称                          | 类型        | 价格 | 服务费 | 合同个数 | 需要个数 | 合同费用 | 需要费用 | 链接       | 备注            |
+|-------------------------------+-------------+------+--------+----------+----------+----------+----------+------------+-----------------|
+| 新版 Aqara 双路模块           |             |  139 |   0.15 |        0 |        0 |       0. |       0. |            |                 |
+| G3 摄像头（白色）(价格已修改) | 摄像头,网关 |  399 |   0.15 |        0 |        1 |       0. |   458.85 | [[aqara:d26]]  |                 |
+| P100 霸王锁体                 | 门锁        |  348 |      0 |        0 |        0 |        0 |        0 |            |                 |
+| 智能开关 T1（零火单键）       | 开关        |  259 |   0.15 |        0 |       10 |       0. |   2978.5 | [[aqara:d31]]  |                 |
+| 全自动霸王导向片+门扣板       | 门锁        |    0 |      0 |        0 |        1 |        0 |        0 |            |                 |
+| T1 无线开关（双键）           | 开关        |  149 |   0.15 |        0 |        0 |       0. |       0. |            |                 |
+| 星空灰智能插座 H1（网关版）   | 网关        |  399 |   0.15 |        2 |        2 |    917.7 |    917.7 | [[aqara:smart-wall-outlet-h1-hub][h1-hub]]     |                 |
+| M2 网关                       | 网关        |  399 |   0.15 |        1 |        1 |   458.85 |   458.85 | [[aqara:d1_2]] |                 |
+| M1S 网关                      | 网关        |  249 |   0.15 |        2 |        2 |    572.7 |    572.7 | [[aqara:d29]]  |                 |
+| HomePod mini 灰               | 网关        |  749 |   0.15 |        1 |        1 |   861.35 |   861.35 |            |                 |
+| 小爱音响 Pro                  | 网关        |  299 |   0.15 |        1 |        1 |   343.85 |   343.85 |            |                 |
+| 空调温控器 S2                 | 开关        |  269 |   0.15 |       10 |        0 |   3093.5 |       0. |            |                 |
+| T1 无线开关                   | 开关        |  119 |   0.15 |        3 |        0 |   410.55 |       0. |            |                 |
+| 智能开关 T1（零火三键）       | 开关        |  299 |   0.15 |       13 |       14 |  4470.05 |   4813.9 | [[aqara:d31]]  |                 |
+| 智能开关 T1（零火双键）       | 开关        |  279 |   0.15 |       18 |       22 |   5775.3 |   7058.7 | [[aqara:d31]]  |                 |
+| T1 人体传感器                 | 传感器      |  199 |   0.15 |        5 |        0 |  1144.25 |       0. | [[aqara:d17]]  | [[jd:100003525727]] |
+| T1 温湿度传感器               | 传感器      |  149 |   0.15 |        1 |        0 |   171.35 |       0. |            |                 |
+| 高精度人体传感器              | 传感器      |  299 |   0.15 |        1 |        0 |   343.85 |       0. |            |                 |
+| 摄像机 G2H                    | 摄像头      |  399 |   0.15 |        1 |        0 |   458.85 |       0. |            |                 |
+| 一折穹轨工艺费                |             |  100 |      0 |        2 |        2 |      200 |      200 |            |                 |
+| 异形轨道包装运输费            |             |   50 |      0 |        1 |        1 |       50 |       50 |            |                 |
+| 智能窗帘电机 C2+3 米直轨      | 窗帘        | 1199 |   0.15 |        9 |        9 | 12409.65 | 12409.65 |            |                 |
+| H100 门锁                     | 门锁        | 2699 |   0.15 |        1 |        1 |  3103.85 |  3103.85 | [[aqara:smart-door-lock-h100][h100 lock]]  |                 |
+| 合同优惠产品服务费增补        |             |  195 |      0 |        1 |        1 |      195 |      195 |            |                 |
+| 摄像头服务费增补              |             |   60 |      0 |        0 |        1 |        0 |       60 |            |                 |
+| 总价                          |             |      |        |          |          | 34980.65 |  34482.9 |            |                 |
+#+TBLFM: $7=$3*(1+$4)*$5::@27$7=vsum(@I..@>>)
+#+TBLFM: $8=$3*(1+$4)*$6::@27$8=vsum(@I..@>>)
+** DONE 标签打印纸
+CLOSED: [2022-07-24 Sun 09:41] SCHEDULED: <2022-07-18 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-26 Tue 15:06
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 屏幕挂灯
+:PROPERTIES:
+:BUDGET:   300
+:ARCHIVE_TIME: 2022-08-07 Sun 09:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 降噪耳机
+CLOSED: [2022-10-17 Mon 20:06] SCHEDULED: <2022-09-28 Wed>
+:PROPERTIES:
+:Budget:   2000
+:ARCHIVE_TIME: 2023-04-14 Fri 22:59
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "KILL"       [2022-10-17 Mon 20:06]
+- State "KILL"       from "TODO"       [2022-09-30 Fri 08:59]
+| Brand | Model       | Date | Price(CNY) | Duration    | Official | JD                |
+|-------+-------------+------+------------+-------------+----------+-------------------|
+| BOSS  | QC35 II     | 2017 |       1399 | 20h         |          | [[jd:5046941]]        |
+| SONY  | WH-1000XM4  | 2020 |       1799 | 30h         |          | [[jd:100014488266]]   |
+| SONY  | WH-1000XM5  | 2022 |       2299 | 30h         |          | [[jdhk:100023744685]] |
+| Apple | [[https://www.apple.com.cn/airpods-pro/][AirPods Pro]] | 2019 |       1799 | 4.5h/5h/24h |          | [[jd:100009691096]]   |
+| Apple | AirPods Max | 2020 |       4399 | 20h         |          |                   |
+| MI    | [[https://www.mi.com/miair2pro][Air 2 Pro]]   | 2020 |        649 | ?/7h/28h    |          |                   |
+** DONE [#C] 软路由
+CLOSED: [2022-09-01 Thu 08:02] SCHEDULED: <2022-06-17 Fri 20:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 22:59
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-01 Thu 08:02]
+- NAS
+- IPTV
+- HomeAssistant Debian
+x86
+** DONE Google Pixel 6 Pro 保护套
+CLOSED: [2022-11-10 Thu 20:00] DEADLINE: <2022-11-11 Fri> SCHEDULED: <2022-11-08 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:00
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-11-10 Thu 20:00]
+** DONE 浴巾
+CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:00
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+** DONE 抹布
+CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:00
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+** DONE 牙刷杯子
+CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:00
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+** DONE [#C] 买拖鞋
+CLOSED: <2023-04-14 Fri> SCHEDULED: <2022-08-01 Mon 19:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:00
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "KILL"       from "TODO"       [2022-09-02 Fri 02:31]
+[2022-07-30 Sat 18:49]
+** DONE [#B] 垃圾袋
+CLOSED: [2022-08-30 Tue 11:36] SCHEDULED: <2022-08-12 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 20:40
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-08-30 Tue 11:36]
+** DONE 洗碗块
+CLOSED: [2022-11-01 Tue 20:32]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 20:40
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-11-01 Tue 20:32]
+** DONE 湿纸巾
+SCHEDULED: <2023-04-17 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 21:35
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 内衣架
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 23:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 花露水
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 23:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 餐巾纸
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 23:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 电蚊香
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 23:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 洗衣粉
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-17 Mon 23:28
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** KILL U 型枕
+DEADLINE: <2023-08-26 Sat> SCHEDULED: <2023-08-25 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 20:48
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 牙膏
+DEADLINE: <2023-07-30 Sun> SCHEDULED: <2023-07-27 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 20:48
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Mackbook Air 13
+CLOSED: [2023-06-21 Wed 07:54] SCHEDULED: <2023-06-19 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 20:48
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-06-21 Wed 07:54]
+** DONE 打印机
+SCHEDULED: <2023-11-11 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:03
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 鞋子
+SCHEDULED: <2023-05-04 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:03
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 洗洁精
+CLOSED: [2023-05-04 Thu 19:54] SCHEDULED: <2023-04-25 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-04 Thu 19:54]
+- State "DONE"       from "TODO"       [2023-05-03 Wed 13:44]
+** DONE 洗手液
+CLOSED: [2023-05-04 Thu 19:59] SCHEDULED: <2023-04-25 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-04 Thu 19:59]
+** DONE 拖把
+CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+** DONE 扫帚
+CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+** DONE 晾衣服的杆子 [1/1]
+CLOSED: [2023-04-18 Tue 23:01] SCHEDULED: <2023-04-17 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-18 Tue 23:01]
+*** DONE 卷尺
+CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
+- State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+** DONE 指甲剪
+CLOSED: [2023-04-17 Mon 23:54]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-17 Mon 23:54]
+** DONE 砧板
+SCHEDULED: <2023-05-11 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 21:04
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+* From inbox.org :ARCHIVE:
+** DONE org bibtex roam pdf
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-11 Thu 15:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/org-roam/org-roam-bibtex
+https://github.com/jkitchin/org-ref
+[[https://zotero.org]]
+** DONE 调整透明代理
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-11 Thu 15:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/eycorsican/leaf
+** DONE UX/UI 单开门
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-11 Thu 15:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 预约饭店
+CLOSED: [2021-11-12 Fri 17:30] SCHEDULED: <2021-11-12 Fri 18:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-25 Thu 23:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2021-11-12 Fri 11:51]
+** DONE 更改电费帐户名
+CLOSED: [2021-12-14 Tue 14:06] SCHEDULED: <2021-12-13 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-12-14 Tue 14:10
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 问书协关于入会条件
+SCHEDULED: <2021-12-13 Mon 09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-12-14 Tue 14:11
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE [#A] 新家装修 [4/4]
+SCHEDULED: <2021-12-12 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-18 Tue 09:49
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 灯光
+- [X] 视频监控系统
+- [X] 电动窗帘
+- [X] 全屋 Wi-Fi
+** DONE 准备简历、面试
+CLOSED: [2021-12-22 Wed 07:41]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-18 Tue 09:49
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** KILL orb 去除 org-ref
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-25 Tue 13:17
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 带橡皮擦
+CLOSED: [2022-02-06 Sun 13:08] SCHEDULED: <2022-01-27 Thu 19:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-07 Mon 10:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 复议违章
+CLOSED: [2022-02-08 Tue 07:27] SCHEDULED: <2022-02-08 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-08 Tue 09:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-02-02 Wed 00:38]
+** DONE 安装小圆镜
+CLOSED: [2022-02-08 Tue 08:54] SCHEDULED: <2022-02-08 Tue 07:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-08 Tue 09:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-01-27 Thu 12:49]
+** DONE 归还行驶证
+CLOSED: [2022-02-16 Wed 19:33] SCHEDULED: <2022-02-16 Wed 20:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-17 Thu 10:11
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 预订亲父的右腕
+CLOSED: [2022-02-19 Sat 09:02] SCHEDULED: <2022-02-19 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-24 Thu 21:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 取电话卡
+CLOSED: [2022-02-27 Sun 20:58] SCHEDULED: <2022-02-27 Sun 19:20>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-02 Wed 12:47
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+23 号 503
+http://maps.apple.com/?q=佘北家园木槿苑
+** DONE Optimize org with doom-emacs
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-02 Wed 12:48
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[[https://github.com/hlissner/doom-emacs/blob/master/modules/lang/org/config.el]]
+** DONE Android Compose
+SCHEDULED: <2022-03-01 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-07 Mon 09:38
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-03-01 Tue 11:46]
+https://developer.android.google.cn/jetpack/compose/documentation
+** DONE 收拾衣服
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-10 Thu 15:47
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带柜锁
+CLOSED: [2022-07-05 Tue 23:50] SCHEDULED: <2022-07-05 Tue 07:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-06 Wed 09:06
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带礼物
+CLOSED: [2022-08-04 Thu 07:55] SCHEDULED: <2022-08-04 Thu 20:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 确认 AP 数量
+SCHEDULED: <2022-03-14 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-03-12 Sat 00:15]
+** DONE 修复监控
+CLOSED: [2022-03-12 Sat 09:04] SCHEDULED: <2022-03-12 Sat 07:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 修复科学上网中断
+CLOSED: [2022-03-26 Sat 17:54] SCHEDULED: <2022-03-11 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 携号转网
+CLOSED: [2022-03-19 Sat 15:45] SCHEDULED: <2022-03-19 Sat 08:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 测试吉他音响
+CLOSED: [2022-04-09 Sat 21:35] SCHEDULED: <2022-03-18 Fri 19:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 外公智能马桶盖
+CLOSED: [2022-06-04 Sat 07:10] SCHEDULED: <2022-06-01 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 石头机器人 换货
+CLOSED: [2022-07-02 Sat 10:04] SCHEDULED: <2022-06-22 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-04 Thu 08:59
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-06-22 Wed 21:25]
+** DONE 购买路由器
+CLOSED: [2023-02-26 Sun 08:27] SCHEDULED: <2023-02-22 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:54
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-02-26 Sun 08:27]
+** DONE 将相机放到餐厅
+CLOSED: [2023-02-21 Tue 08:40] SCHEDULED: <2023-02-15 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:54
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-02-21 Tue 08:40]
+** DONE 篆刻
+CLOSED: [2023-02-12 Sun 18:34] SCHEDULED: <2023-02-11 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:54
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-02-12 Sun 18:34]
+
+- Note taken on [2023-02-11 Sat 09:44] \\
+  @所有人
+  設計印稿三方
+  ① 淡古之韻
+  ② 書者散也
+  ③ 守其神
+  其他自選內容也可以，這週上課帶來。謝謝
+** DONE 申请 August 锁
+CLOSED: [2022-09-30 Fri 21:33] SCHEDULED: <2022-09-26 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:54
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-30 Fri 21:33]
+** DONE [#A] 连接打印机
+CLOSED: [2022-08-14 Sun 14:20] SCHEDULED: <2022-08-14 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:54
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** KILL Appium 自动买菜
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+[2022-04-10 Sun 20:01]
+** DONE 给车位续费
+CLOSED: [2022-09-16 Fri 11:09] SCHEDULED: <2022-09-14 Wed> DEADLINE: <2022-09-18 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-16 Fri 11:09]
+- State "TODO"       from ""           [2022-08-30 Tue 18:36]
+[2022-08-30 Tue 18:29]
+** DONE 买电熨斗
+CLOSED: [2022-10-29 Sat 14:38] SCHEDULED: <2022-10-01 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-10-29 Sat 14:38]
+[2022-09-09 Fri 22:35]
+** DONE 预报名
+SCHEDULED: <2022-09-26 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-09-26 Mon 18:17]
+** DONE 带蓝牙耳机 AUX 线
+CLOSED: [2022-10-01 Sat 21:37] SCHEDULED: <2022-09-29>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-10-01 Sat 21:37]
+[2022-09-29 Thu 19:39]
+** DONE 买鞋子
+SCHEDULED: <2022-12-02>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2022-12-02 Fri 08:31]
+** DONE 带眼罩
+CLOSED: [2023-01-05 Thu 00:44] SCHEDULED: <2023-01-04 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-11 Sat 11:55
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from ""           [2023-01-05 Thu 00:44]
+[2023-01-04 Wed 18:23]
+** DONE 京东白条还款
+DEADLINE: <2023-04-17 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 清洗车内空调滤网
+CLOSED: [2023-04-11 Tue 07:54] SCHEDULED: <2023-04-09 Sun 09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-11 Tue 07:54]
+** DONE 磨指甲
+CLOSED: [2023-03-27 Mon 07:47] SCHEDULED: <2023-03-24 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-03-27 Mon 07:47]
+** DONE HomeAssistant frigate 录像
+CLOSED: [2022-11-22 Tue 12:11] SCHEDULED: <2022-11-19 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-11-22 Tue 12:11]
+** KILL 预约保洁
+CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2023-04-14 Fri 07:38]
+** KILL 检查青光眼
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:03
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+** DONE HomeAssistant 灯光调节
+CLOSED: [2023-02-26 Sun 08:28] SCHEDULED: <2022-11-19 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-14 Fri 23:03
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-02-26 Sun 08:28]
+** DONE 修复 GnuPG
+CLOSED: [2023-05-22 Mon 19:10] SCHEDULED: <2023-05-22 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:01
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-22 Mon 19:10]
+*downgrade* GnuPG from 2.4.1 -> 2.4.0 fixed the problem.
+
+#+begin_src sh
+brew info gnupg | grep "From:" | cut -d " " -f 2
+#+end_src
+
+#+RESULTS:
+: https://mirrors.ustc.edu.cn/homebrew-core.git/Formula/gnupg.rb
+
+#+begin_src sh
+URL=https://raw.githubusercontent.com/Homebrew/homebrew-core/59edfe598541186430d49cc34f42671e849e2fc9/Formula/gnupg.rb
+wget $URL
+brew uninstall gnupg
+brew install -s gnupg.rb
+#+end_src
+
+#+RESULTS:
+| ==>   | Searching | for    | similarly | named | formulae | and | casks... |
+| ==>   | Formulae  |        |           |       |          |     |          |
+| gnupg |           |        |           |       |          |     |          |
+|       |           |        |           |       |          |     |          |
+| To    | install   | gnupg, | run:      |       |          |     |          |
+| brew  | install   | gnupg  |           |       |          |     |          |
+** DONE 问医生
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:03
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- 睡姿
+- 棉球
+- 发烧怎么办
+- 冰淇淋能吃吗
+- 可否碰到伤口
+- 第几天可以刷牙
+- 漱口水能用吗
+** DONE chezmoi 管理配置
+SCHEDULED: <2023-04-10 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:04
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE M Stand Coffee
+DEADLINE: <2023-05-31 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:04
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Fix rss feed
+SCHEDULED: <2023-06-09 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:08
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 母亲节
+SCHEDULED: <2023-05-14 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 携带维生素
+CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-21 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-21 Sun 12:59]
+** DONE 携带口罩
+SCHEDULED: <2023-05-21 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 购买口香糖
+CLOSED: [2023-05-04 Thu 19:59] SCHEDULED: <2023-04-27 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 16:09
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-04 Thu 19:59]
+** DONE 带演唱会物品 [9/9]
+SCHEDULED: <2023-11-16 Thu 13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-17 Fri 09:58
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 手套
+- [X] 口罩
+- [X] 保温杯
+- [X] 帽子
+- [X] 妆造
+- [X] 荧光棒
+- [X] 养乐多
+- [X] 身份证
+- [X] 充电宝
+** DONE 交管线上学习
+DEADLINE: <2023-10-10 Tue> SCHEDULED: <2023-10-08 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-17 Fri 09:59
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+[2023-10-08 Sun 17:49]
+** DONE 修手表
+CLOSED: [2023-11-05 Sun 15:13] SCHEDULED: <2023-11-03 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-05 Sun 15:13]
+** DONE 修复网易云 Shortcut
+CLOSED: [2023-10-31 Tue 09:05] SCHEDULED: <2023-10-24 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-10-31 Tue 09:05]
+** DONE Track beorg tag issue
+CLOSED: [2023-10-10 Tue 09:17] SCHEDULED: <2023-10-09 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-10-10 Tue 09:17]
+https://appsonthemove.freshdesk.com/support/discussions/topics/14000013560/
+** DONE 接外公外婆
+CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-09-29 Fri 11:55]
+** KILL 买水果
+CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2023-09-29 Fri 11:55]
+** DONE 下载博世说明书
+CLOSED: [2023-10-03 Tue 08:46] SCHEDULED: <2023-09-23 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-10-03 Tue 08:46]
+** DONE 医保报销
+SCHEDULED: <2023-09-18 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:20
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** KILL How to & What is
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:20
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+A question site for worldwide knowledge.
+** KILL Improve pdf-tools
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:20
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+https://github.com/dalanicolai/dala-emacs-lisp
+https://github.com/condy0919/pdf-mode/
+** KILL 韩国签证
+DEADLINE: <2023-07-01 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 23:20
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 陈香贵优惠券
+SCHEDULED: <2023-11-21 Tue 09:00 ++0w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-14 Tue 09:24]
+:ARCHIVE_TIME: 2023-11-20 Mon 23:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-14 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-11-07 Tue 13:14]
+- State "DONE"       from "TODO"       [2023-10-31 Tue 09:05]
+- State "DONE"       from "TODO"       [2023-10-24 Tue 13:33]
+- State "DONE"       from "TODO"       [2023-10-17 Tue 09:29]
+- State "DONE"       from "TODO"       [2023-10-10 Tue 09:02]
+- State "KILL"       from "TODO"       [2023-10-03 Tue 08:45]
+- State "KILL"       from "TODO"       [2023-09-26 Tue 09:57]
+- State "KILL"       from "TODO"       [2023-09-19 Tue 09:25]
+- State "DONE"       from "TODO"       [2023-09-13 Wed 09:46]
+- State "DONE"       from "TODO"       [2023-09-05 Tue 19:23]
+- State "DONE"       from "TODO"       [2023-08-29 Tue 11:20]
+- State "DONE"       from "TODO"       [2023-08-22 Tue 10:20]
+[2023-08-16 Wed 09:14]
+** DONE 兑换生馄饨
+CLOSED: [2023-11-29 Wed 19:23] SCHEDULED: <2023-11-28 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-03 Sun 18:28
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-29 Wed 19:23]
+[2023-11-27 Mon 09:56]
+** DONE 询问桥接
+CLOSED: [2023-11-22 Wed 18:00] SCHEDULED: <2023-11-22 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-03 Sun 18:29
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-22 Wed 18:00]
+https://tcp.ping.pe/chuxubank.asuscomm.com:8443
+** DONE 带土豆
+CLOSED: [2023-11-23 Thu 09:45] SCHEDULED: <2023-11-21 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-03 Sun 18:29
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-23 Thu 09:45]
+*** DONE 炸土豆
+SCHEDULED: <2023-11-21 Tue 18:30>
+** DONE 创建个体户 [2/2]
+SCHEDULED: <2023-11-04 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-03 Sun 18:29
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_OLPATH: 机器人 Money
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-11-16 Thu 10:53]
+周家浜路 255 号
+- [X] 身份证
+- [X] 淘宝证明
+** DONE M Stand 咖啡
+SCHEDULED: <2023-12-12 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带牙膏
+SCHEDULED: <2023-12-10 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带土豆
+CLOSED: [2023-12-14 Thu 20:29] SCHEDULED: <2023-12-14 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-12-14 Thu 20:29]
+- State "DONE"       from "TODO"       [2023-11-23 Thu 09:45]
+*** DONE 炸土豆
+CLOSED: [2023-12-14 Thu 19:44] SCHEDULED: <2023-12-14 Thu 18:30>
+- State "DONE"       from "TODO"       [2023-12-14 Thu 19:44]
+** DONE 机器人 Money
+SCHEDULED: <2023-08-10 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 三立方 杯子
+CLOSED: [2023-12-14 Thu 12:37] SCHEDULED: <2023-12-14 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-12-14 Thu 12:37]
+[2023-12-13 Wed 19:34]
+** DONE 询问电子营业执照
+CLOSED: [2023-12-07 Thu 11:19] SCHEDULED: <2023-12-07 Thu 13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-12-07 Thu 11:19]
+** DONE 华心糖水
+CLOSED: [2023-12-14 Thu 19:44] SCHEDULED: <2023-12-14 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-12-14 Thu 19:44]
+[2023-12-13 Wed 19:34]
+** DONE 带螺丝钉和螺丝刀
+CLOSED: [2023-12-20 Wed 20:03] SCHEDULED: <2023-12-20 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-30 Sat 16:00
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-12-20 Wed 20:03]
+[2023-12-19 Tue 23:05]
+** DONE 开 10k 发票
+SCHEDULED: <2024-01-08 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-01-25 Thu 15:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 开收款发票
+DEADLINE: <2023-12-31 Sun> SCHEDULED: <2023-12-29 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-01-25 Thu 15:02
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 办税
+SCHEDULED: <2023-12-29 Fri>
+** DONE 带转接器和电源
+SCHEDULED: <2024-01-30 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-20 Tue 15:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 办理停车
+SCHEDULED: <2024-02-20 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-20 Tue 15:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+* From watch.org :ARCHIVE:
+** KILL 《我的姐姐》
+CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-20 Sat 21:33
+:ARCHIVE_FILE: ~/org/watch.org
+:ARCHIVE_CATEGORY: watch
+:ARCHIVE_TODO: KILL
+:END:
+** KILL 柯南剧场版《绯色的子弹》
+CLOSED: [2021-04-17 Sat 11:12] SCHEDULED: <2021-04-17 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-11-20 Sat 21:33
+:ARCHIVE_FILE: ~/org/watch.org
+:ARCHIVE_CATEGORY: watch
+:ARCHIVE_TODO: KILL
+:END:
+<2021-04-10 Sat>
+[2021-04-10 Sat 10:30]
+* From study.org :ARCHIVE:
+** DONE 完成 [[id:cce4cd49-fcbb-415b-b5eb-5faee6e89294][2021 上海行测 A类]]
+SCHEDULED: <2021-11-03 Wed>
+:PROPERTIES:
+:Effort:   3:00
+:ARCHIVE_TIME: 2021-12-06 Mon 13:57
+:ARCHIVE_FILE: ~/org/study.org
+:ARCHIVE_OLPATH: 公务员
+:ARCHIVE_CATEGORY: study
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2021-11-05 Fri 16:56]--[2021-11-05 Fri 17:04] =>  0:08
+CLOCK: [2021-11-05 Fri 16:48]--[2021-11-05 Fri 16:55] =>  0:07
+CLOCK: [2021-11-05 Fri 16:20]--[2021-11-05 Fri 16:47] =>  0:27
+CLOCK: [2021-11-05 Fri 15:59]--[2021-11-05 Fri 16:19] =>  0:20
+CLOCK: [2021-11-05 Fri 09:28]--[2021-11-05 Fri 11:58] =>  2:30
+CLOCK: [2021-11-04 Thu 11:25]--[2021-11-04 Thu 11:28] =>  0:03
+CLOCK: [2021-11-03 Wed 16:04]--[2021-11-03 Wed 16:50] =>  0:46
+CLOCK: [2021-11-03 Wed 13:17]--[2021-11-03 Wed 13:32] =>  0:15
+:END:
+* From work.org :ARCHIVE:
+** 上海致研智能 :ARCHIVE:
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-01-11 Tue 10:45
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_CATEGORY: work
+:VISIBILITY: folded
+:END:
+*** 要求
+- 主观能动性
+- 做深 做专
+- 持续学习
+*** WIFI 密码
+- Zhiyan_SH5 :: Zhiyan_SH54321
+- Zhiyan_SH24 :: Zhiyan_SH24321
+- Zhiyan_SH_GUEST :: Zhiyan_SH
+*** 地址
+上海致研智能科技有限公司
+上海市松江区泗泾镇高技路 655 号 2 号楼 106 室
+*** SMB 网络盘
+- SD :: j5aLYQKh
+*** 项目
+**** 机器人
+**** 流通系统
+- server :: sip.i-zhiyan.com:9000
+- user :: sip2dev
+- password :: zhiyan666
+**** 人脸注册机
+***** 青海大学医学院
+服务器端口号：7090
+
+配置
+以小端模式读取卡号：开
+使用内建相机：关
+
+登录
+用户名：admin
+密码：awsd4321
+**** 电子书
+***** 借阅机（大屏）
++ 导入压缩包
+  - 复制文件到系统本地目录（加密）
+  - 将 Excel 文件内容导入到数据库中
++ 重复书籍
+  - 神秘岛
+  - 兔子坡
+  - 骆驼祥子
+  - 新月集
+  - 城南旧事
+****** 系统参数
+***** 手机端阅读
+***** 少儿阅读测评
+***** 瀑布流
+***** DONE 横向瀑布流
+***** DONE 可以调节的参数（方向、借阅机/瀑布流）
+**** 移动盘点
+- web :: http://192.168.2.12:5001/Home
+- admin :: zhiyan666
+- key :: =ZY-PDC-Y100-20190605=
+- clientid :: =B850-AD4C-FC50-63C5-C6FC-1C64-255A-C2F2=
+- ZY21A3 :: E0040150C22B981E
+- LYG01B23 :: E0040150CD063CD7
+- gy :: 123456
+***** 常州河海实验小学
+- ZY-PDC-Y100-20210514 :: B17F-C768-9478-15E9-AB07-F93A-0226-6206
+***** 十四中
+http://h14zinvapi.i-zhiyan.com
+**** 绿色柜子
+***** 天线
+配置参数-硬件开关-上传天线接口编号
+***** 门控
+调试门控主板
+打开串口调试工具
+测试左侧门控指令，需要现场将读者卡放在读卡器上，选择串口，波特率 38400，发送如下命令：
+#+begin_example
+A7 07 02 02 01 06 表示输出到 2 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 03 01 C2 表示输出到 3 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 04 01 AC 表示输出到 4 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 05 01 68 表示输出到 5 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 06 01 3D 表示输出到 6 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 07 01 F9 表示输出到 7 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+A7 07 02 08 01 E1 表示输出到 8 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
+#+end_example
+重复上述步骤检测右侧门对应的输出位和输入状态位
+根据读到的数据确定门控对应的信息
+**** 微型图书馆
+**** ICBC
+[[https://open.icbc.com.cn/icbc/apip/api_list.html?productId=P0039][二维码扫码支付]]
+**** ICMS
+- 天津阅读空间 :: TJYDKJ
+- 上海致研 :: ZHIYAN01
+*** 项目汇总
+| 项目              | 代码位置                                                 | 分支 | 备注      |
+|-------------------+----------------------------------------------------------+------+-----------|
+| 盘点服务器代码    | http://code.zhiyan.com/Jerry.Chu/ZY.Library.Inventory    |      |           |
+| 盘点服务器部署    | http://code.zhiyan.com/Jerry.Chu/inventory-server-docker |      |           |
+|-------------------+----------------------------------------------------------+------+-----------|
+| 移动盘点车        | http://code.zhiyan.com/Android/Inventory_HF              | dev  | HFSMC     |
+| 单开门自动借还    | http://code.zhiyan.com/Jerry.Chu/SelfCheck               |      | SelfCheck |
+| 大屏阅读 + 瀑布流 | http://code.zhiyan.com/Android/ebookapps                 | main | ZY-AD-EBK |
+| 儿童学习机        | http://code.zhiyan.com/Android/xLauncher                 |      | ZY-AD-XLA |
+| 双开门漂流柜      | http://code.zhiyan.com/Android/minicab_d_hf              |      | SPLG-D-HF |
+| 人脸注册机        | http://code.zhiyan.com/Android/FaceRegister              |      | ZY-AD-FRG |
+|-------------------+----------------------------------------------------------+------+-----------|
+| 二维码验证        | http://code.zhiyan.com/Jerry.Chu/zyqr                    |      |           |
+
+| 子模块   | 代码位置                                        |
+| 设备管理 | http://code.zhiyan.com/Jerry.Chu/module-device  |
+| 升级     | http://code.zhiyan.com/Jerry.Chu/module-upgrade |
+| 授权     | http://code.zhiyan.com/Jerry.Chu/module-license |
+
+P.S: 有子模块的项目需要用 ~--recursive~ 选项进行 ~clone~
+
+以上项目文件全部在 =Work.zip/Code= 目录下，Build 生成的 APK 文件全部在 =Work.zip/Apk= 目录下。
+
+部分项目使用了签名，所有签名文件都在 =Work.zip/KeyStore= 目录下，需要自行在 =~/.gradle/gradle.properties= 中声明文件路径。
+例如：
+#+begin_example
+keyStorePath=/home/misaka/Work/Android/KeyStore
+#+end_example
+*** 其他
+共享盘下的 =软件开发部/Jerry Chu/= 的部分文档
+#+begin_example
+├── Android
+│   ├── KeyStore
+│   │   ├── splg-d-hf.jks
+│   │   ├── ZY-AD-EBK.jks
+│   │   ├── ZY-AD-FRG.jks
+│   │   ├── ZY-AD-XLA.jks
+│   │   └── zy_key.jks
+│   ├── Tools
+│   │   └── Android-SerialPort-Tool.apk
+│   └── 刷机
+│       ├── DriverAssitant_v4.5.zip
+│       ├── EB1003_zxV1.0.0_20201017.img
+│       ├── EB1003整机升级.docx
+│       └── FactoryTool_v1.66.zip
+├── Config
+│   ├── 1
+│   │   └── device.xml
+│   ├── 2
+│   │   └── device.xml
+│   ├── 3
+│   │   └── device.xml
+│   ├── 4
+│   │   └── device.xml
+│   ├── atanta
+│   │   └── default.xml
+│   ├── device.xml
+│   └── zhiyan
+│       └── 162D
+│           └── device.xml
+├── Git-2.33.1-64-bit.exe
+├── 交接
+│   ├── work.pdf
+│   ├── Work.zip
+│   ├── 工作交接表-褚旭.xlsx
+│   └── 盘点安装视频
+│       ├── Inventory-1.mp4
+│       ├── Inventory-2.mp4
+│       ├── Inventory-3.mp4
+│       └── 盘点录屏.mp4
+├── 共享
+│   ├── Screenshot from 2021-06-07 10-52-31.png
+│   └── Windows 修改 Host 步骤.md
+├── 文档
+│   ├── 串口
+│   │   ├── USB SerialPort.jpg
+│   │   ├── 二维码读取器
+│   │   │   ├── 7130N_集成手册中英文对照版_V1.0 .pdf
+│   │   │   ├── 7160N规格书.pdf
+│   │   │   ├── 7160集成手册.pdf
+│   │   │   ├── C系列+ak.pdf
+│   │   │   ├── 串口指令说明_V0.9.pdf
+│   │   │   └── 二维条码扫描仪用户指南V 1.2.4.pdf
+│   │   └── 门控板
+│   │       └── 单开门-广东-老版本-锁控板协议规格书（新版）20210118.pdf
+│   ├── 主板
+│   │   ├── Face X2-人脸识别一体机-产品规格书.pdf
+│   │   ├── 亮钻
+│   │   │   ├── K4_mech.dxf
+│   │   │   ├── K4_ RK3399-亮钻科技.pdf
+│   │   │   └── K4主板产品规格书V6(20200709).pdf
+│   │   └── 天奕达
+│   │       └── TYD专业工控板EM50-G规格书.pdf
+│   ├── 接口
+│   │   └── docs_致研读者卡动态二维码接口.docx
+│   ├── 流通
+│   │   └── SIP2 Protocol Definition.pdf
+│   ├── 盘点
+│   │   └── 致研移动盘点车用户手册v1.0.docx
+│   └── 索书号的排列规则.doc
+├── 电子书
+│   ├── books_with_id.xlsx
+│   ├── ZY-AD-EBK.1.0.2.20210930104416.apk
+│   ├── 图书信息.xlsx
+│   └── 精选89.zip
+├── 盘点
+│   ├── 20201207河海小学层架表导入.xlsx
+│   ├── 20201221河海小学层架表增补导入.xlsx
+│   └── 20210716莲湖小学层架表导入.xlsx
+└── 软著
+    ├── MeaQ源代码.docx
+    ├── MeaQ用户手册(1).docx
+    └── MeaQ用户手册.docx
+#+end_example
+** DONE 办理停车
+SCHEDULED: <2022-02-15 Tue 12:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-15 Tue 09:58
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE [[https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1685913895/New+Engineer+--+Xu+Chu][New Engineer -- Xu Chu]] [0/0]
+DEADLINE: <2022-01-19 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-18 Fri 16:12
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Pages
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE [[https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/1685914572/2022-01-05+Onboarding+-+Xu+Chu+Android+Engineer][2022-01-05 Onboarding - Xu Chu (Android Engineer)]] [2/2]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-18 Fri 16:13
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Pages
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE Get building access card of 1st floor from front desk and assign to employee
+CLOSED: [2022-02-10 Thu 08:18] SCHEDULED: <2022-01-21 Fri>
+*** DONE Complete the training courses before the due dates
+SCHEDULED: <2022-02-14 Mon> DEADLINE: <2022-04-05 Tue>
+[[https://assaabloya.plateau.com/learning/user/learning/viewCurriculumStatus.do?backto=%2Fuser%2Fpersonal%2FviewPersonalHome.do][Cources]]
+** Video Player
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-19 Sat 14:51
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Develop/android-design
+:ARCHIVE_CATEGORY: work
+:END:
+*** ExoPlayer vs IJKPlayer
+** DONE Confirm "Set up lock" title string
+SCHEDULED: <2022-03-23 Wed 10:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-23 Wed 13:12
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android/Setup Lock V2
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+** DONE 确认播放按钮位置（播放、暂停 UI）
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-23 Wed 13:12
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android/Setup Lock V2
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+** DONE AppFeature
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-23 Wed 13:12
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+#+begin_src js
+  {
+    "activityFeedV4": true,
+    "qrsetup": false,
+    "qrsetup-yalechina": true,
+    "qrsetup-panpan": true,
+    "qrsetup-gatemanchina": true,
+    "debugmode": true,
+    "messagingProtocol": "aliMqtt"
+  }
+#+end_src
+** DONE 体检报销
+SCHEDULED: <2022-03-25 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-03 Wed 08:13
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Routine
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+杂费
+** DONE Migrate Luna code to China Project [1/1]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-03 Wed 15:46
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+- [X] [[https://bitbucket.org/august_team/luna/src/develop/app/src/main/java/com/august/luna/ble2/ManagedLockConnection.kt][ManagedLockConnection.kt]]
+** DONE 请假
+CLOSED: [2022-08-04 Thu 07:55] SCHEDULED: <2022-08-03 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-13 Sat 11:08
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带零食
+SCHEDULED: <2022-08-10 Wed 07:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-13 Sat 11:08
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 撤诉申请
+CLOSED: [2022-08-30 Tue 18:36]
+:PROPERTIES:
+:EXPORT_OPTIONS: toc:nil
+:EXPORT_AUTHOR: 褚旭
+:ARCHIVE_TIME: 2022-10-19 Wed 07:50
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ZhiYan/准备社保材料
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+SCHEDULED: <2022-08-17 Wed>
+- State "DONE"       from "TODO"       [2022-08-30 Tue 18:36]
+本人于 <2022-02-25 Fri> 投诉 上海致研职能有限公司 未缴纳 2020 年 2 月 到 3 月的社保费用，但因与单位存在工资收入争议（实际未发放 2020 年 2 月 到 3 月的工资），申请撤诉。
+# 身份证正反面 撤诉专用
+** 撤诉专用
+:PROPERTIES:
+:EXPORT_OPTIONS: toc:nil
+:EXPORT_AUTHOR: 褚旭
+:ARCHIVE_TIME: 2022-10-19 Wed 07:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ZhiYan/准备社保材料
+:ARCHIVE_CATEGORY: work
+:END:
+#+ATTR_LATEX: :width .5\textwidth
+[[file:~/Downloads/IMG_1033.JPG]]
+#+ATTR_LATEX: :width .5\textwidth
+[[file:~/Downloads/IMG_1034.JPG]]
+** ADP
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-31 Tue 08:33
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+Hi all, 最近群里消息比较多，在这里帮大家做一下整理:
+
+1. 为了保护其他决赛圈的同事,请大家遵循以下要求：
+（1） 阳性人员须经 7 天居家隔离医学观察，于第 8 天持有核酸单管阴性证明或抗原阴性证明返回公司；
+（2）密接人员须经 5 天居家隔离医学观察，于第 6 天持核酸单管阴性证明或抗原阴性证明返回公司。
+
+2. 申请休假的同事请参考以下文档：https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/263357117/How+to+request+leave+by+ADP
+	•	在微信群“APAC Product Innovation Team”中发送消息时，可参考以下模版：
+FYI: ChuXu will take annual leave on because [reason]. I have submitted a leave request in ADP, which is approved by [Manager]. [Name] will be my backup. Ping me on WeChat or Teams if any emergency. Sorry for the inconvenience. @Angie Xu Please help to record it.”
+
+3. 申请 WFH 的同事在微信群“AA-APAC-Engineers”发送信息，无需在大群发送，可参考 Hui 发送的邮件内容，具体如下（标绿部分为需要替代的内容）：
+	•	Message example #1 for close contact
+[Name] would like to request work from home from 2022/12/01 to 2022/12/05, because my [who] has been tested positive for COVID-19 on 2022/12/01. According to HR’s emails, I need quarantine myself for 5 days starting from 2022/12/01, and could go back to office on 2022/12/06.
+	•	Message example #2 for people tested positive
+[Name] would like to request work from home from 2022/12/01 to 2022/12/07, because I have been tested positive for COVID-19 on 2022/12/01. According to HR’s emails and related policy, I need be quarantined for 7 days starting from 2022/12/01, and could go back to office on 2022/12/08 if I am tested negative.
+
+4. Angie Xu 现在每天都需要统计大家的健康情况反馈给 HR 和 Paul，所以请大家在发送 WFH 申请邮件的时候也抄送给 Angie。
+
+5. Angie Xu 每天都会在本群统计在公司办公人数，大家看到请及时点赞，便于汇总数据。
+
+6. 请自测阳性的同事将自己的身体状态、抗原检测结果及时告知 Angie Xu，Angie 也会根据记录及时提醒各位同事何时可以返回公司上班。
+
+以上内容请大家理解与配合，谢谢～ [🌹]
+** DONE 诸葛
+SCHEDULED: <2023-03-01 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-03-01 Wed 10:37
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: TODO
+:END:
+- [ ] 页面加载速度太慢
+- [ ] 设备信息是否更新
+- 用户详情页面
+  + [ ] 没有刷新功能
+  + [ ] 用户事件顺序
+  + [ ] 根据设备筛选
+  + [ ] IP 解析不对
+  + [ ] 事件更新速度太慢
+  + [ ] 设备型号直接对应的设备名称
+    - 如 22041211AC 对应 Redmi K50
+- [ ] 错误事件名称无法删除 (脏数据)
+- [ ] 长列表没有分页
+- [ ] 匿名用户 Userid: 登出状态下的事件
+  - iOS 新装/覆盖安装/注销/登出：注册流程都是记录在上一个用户名上
+  - Android 新装：匿名用户覆盖安装/注销/登出：上一个用户名上
+** DONE RNA-6511 给 QA 列出测试范围
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+| File Name                                          | Change Type                               | Affect Pages                     | Notes                       |
+| app/build.gradle                                   | Remove Package & Plugin                   | N/A                              | Do Not Need Test            |
+| .../util/lockselector/LockSelectorFragment.kt      | kotlin-android-extensions -> findViewById | OrihsAccessRequestDetailFragment | Not Used In Eco-system Apps |
+| .../util/recycler/BaseRecyclerFragment.kt          | Reformat                                  | N/A                              | Do Not Need Test            |
+| .../OrihsLockDescriptionActivity.kt                | kotlin-android-extensions -> viewBinding  | OrihsLockDescriptionActivity     | Not Used In Eco-system Apps |
+| .../OrihsLockDescriptionFragment.kt                | kotlin-android-extensions -> viewBinding  | OrihsLockDescriptionFragment     | Not Used In Eco-system Apps |
+| .../v1/lockselector/OrihsLockSelectorActivity.kt   | kotlin-android-extensions -> viewBinding  | OrihsLockSelectorActivity        | Not Used In Eco-system Apps |
+| .../v1/request/OrihsAccessRequestDetailActivity.kt | kotlin-android-extensions -> viewBinding  | OrihsAccessRequestDetailActivity | Not Used In Eco-system Apps |
+| .../v1/request/OrihsAccessRequestDetailFragment.kt | kotlin-android-extensions -> viewBinding  | OrihsAccessRequestDetailFragment | Not Used In Eco-system Apps |
+| .../house/activityFeed/ActivityFeedV3Fragment.kt   | kotlin-android-extensions -> findViewById | ActivityFeedV3Fragment           | Need Test                   |
+| .../thirdparty/ThirdPartyResultActivity.kt         | kotlin-android-extensions -> viewBinding  | ThirdPartyResultActivity         | Need Test                   |
+| .../ui/setup/lock/ModuleNotConnectLockFragment.kt  | kotlin-android-extensions -> viewBinding  | ModuleNotConnectLockFragment     | Old Code in LockSetupV1     |
+| .../luna/ui/setup/policy/PolicyDialogFragment.kt   | kotlin-android-extensions -> viewBinding  | PolicyDialogFragment             | Need Test                   |
+| .../luna/ui/setup/policy/PolicyWebviewActivity.kt  | kotlin-android-extensions -> viewBinding  | PolicyWebviewActivity            | Need Test                   |
+| .../main/res/layout/activity_policy_webview.xml    | add id                                    | PolicyWebviewActivity            | Need Test                   |
+| .../fragment_orihs_delivery_instructions.xml       | add id                                    | OrihsLockDescriptionFragment     | Not Used In Eco-system Apps |
+** DONE 给 UI 关于 WebView Error 的图
+SCHEDULED: <2022-09-21 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 告知 Android WebView 无滚动效果
+SCHEDULED: <2022-09-21 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 更新 Story
+SCHEDULED: <2022-09-21 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 选择 Story
+SCHEDULED: <2022-09-14 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+https://assaabloyapac.atlassian.net/jira/dashboards/10767
+** DONE 报销
+DEADLINE: <2022-12-16 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 完成机器人开发
+CLOSED: [2023-04-07 Fri 23:50] DEADLINE: <2023-03-15 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:52
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-07 Fri 23:50]
+** DONE BottomSheet
+CLOSED: [2023-03-21 Tue 14:44] SCHEDULED: <2023-03-20 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:53
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-03-21 Tue 14:44]
+[[https://medium.com/@traviswkim/show-an-activity-with-bottomsheet-behavior-1ca2f77285b8][Show an activity with BottomSheet Behavior]]
+** DONE 拍摄机器人视频
+CLOSED: [2023-04-12 Wed 22:00] SCHEDULED: <2023-04-09 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:53
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-12 Wed 22:00]
+** DONE Delete 2022 Duplicated Goal
+CLOSED: [2023-04-27 Thu 00:31] SCHEDULED: <2023-04-24 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:53
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-27 Thu 00:31]
+** DONE 完善 BI UT
+SCHEDULED: <2022-09-11 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:56
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 完成机器人项目
+CLOSED: [2022-10-10 Mon 23:29] DEADLINE: <2022-09-30 Fri> SCHEDULED: <2022-09-25 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:56
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-10-10 Mon 23:29]
+** DONE 盘点系统
+CLOSED: [2022-11-01 Tue 20:32] DEADLINE: <2022-10-26 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:56
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-11-01 Tue 20:32]
+** DONE 更新第三方库 Technical Requirement
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:57
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE GPS Courses
+CLOSED: [2022-10-20 Thu 18:59] SCHEDULED: <2022-10-14 Fri> DEADLINE: <2022-09-30 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:57
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-10-20 Thu 18:59]
+- State "TODO"       from "DONE"       [2022-09-02 Fri 02:30]
+- State "DONE"       from "TODO"       [2022-09-02 Fri 02:29]
+https://performancemanager.successfactors.eu/sf/home?bplte_company=assaabloya
+** DONE Retrospect report
+SCHEDULED: <2022-09-14 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 15:57
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/1662583440/Retrospective+Reports
+https://assaabloyapac.atlassian.net/browse/RNA-6665
+** DONE 2.19.0 Questions
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:04
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+1. 蓝牙权限的弹框在锁有 Bridge 连接时的逻辑
+   https://assaabloyapac.atlassian.net/browse/RNA-6263
+2. EntryCode/DistressCode 输入母码时的弹框内容
+** DONE 技术分享
+CLOSED: [2022-12-06 Tue 21:42]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:04
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-12-06 Tue 21:42]
+** DONE 2022 Good Ticket
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:04
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- https://assaabloyapac.atlassian.net/browse/RNA-6282
+- https://assaabloyapac.atlassian.net/browse/RNA-6228
+- https://assaabloyapac.atlassian.net/browse/RNA-6371
+- https://assaabloyapac.atlassian.net/browse/RNA-6511
+- https://assaabloyapac.atlassian.net/browse/RNA-7035
+** DONE 将 PR 的状态和 Ticket 的状态关联
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:05
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** TODO Add build app id to let debug and product together
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:05
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: TODO
+:END:
+** TODO Refact with Flow and data source
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-10 Wed 16:05
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: TODO
+:END:
+** DONE GPS Goal
+DEADLINE: <2023-08-25 Fri> SCHEDULED: <2023-08-21 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-06 Wed 23:00
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** KILL 流程改进
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:20
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: KILL
+:END:
+Test Case 修改之后，应该发送邮件告知 Dev ，再次 Review， 等到没有问题之后发送 Frozen 的邮件，这样可以减少后期 Bug 的出现
+- RNA-6292 ：AC 和后面会议都没有涉及
+- 面向测试编程
+** KILL 自动化 Release Build Test
+SCHEDULED: <2023-04-24 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:20
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: KILL
+:END:
+** KILL Code Delete
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:20
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: KILL
+:END:
+- OrihsEnrollmentFragment
+** KILL 申请中国 Bridge
+CLOSED: [2022-07-08 Fri 18:15] SCHEDULED: <2022-07-05 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:21
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: KILL
+:END:
+** DONE EF Private Class
+SCHEDULED: <2022-09-28 Wed +0w> DEADLINE: <2022-09-26 Mon>
+:PROPERTIES:
+:LAST_REPEAT: [2022-09-24 Sat 16:34]
+:ARCHIVE_TIME: 2023-09-11 Mon 11:21
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-24 Sat 16:34]
+- State "DONE"       from "TODO"       [2022-09-24 Sat 16:33]
+- State "DONE"       from "TODO"       [2022-08-29 Mon 12:14]
+- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
+- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
+- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
+- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
+- State "DONE"       from "TODO"       [2022-07-16 Sat 09:00]
+** DONE [#A] EF 3 Classes
+CLOSED: [2022-09-25 Sun 08:24] DEADLINE: <2022-09-26 Mon> SCHEDULED: <2022-09-24 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:21
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-25 Sun 08:24]
+** TODO 在 Smoke 阶段 进行小米市场的隐私政策检测测试
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 11:22
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: TODO
+:END:
+** DONE Complete EF English
+CLOSED: [2023-09-30 Sat 13:17] DEADLINE: <2023-09-22 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-22 Fri 22:39
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:LAST_REPEAT: [2023-09-28 Thu 09:38]
+:END:
+:PROPERTIES:
+:LAST_REPEAT: [2023-09-22 Fri 22:38]
+- State "DONE"       from "TODO"       [2023-09-22 Fri 22:30]
+- State "DONE"       from "TODO"       [2023-09-15 Fri 15:06]
+- State "DONE"       from "TODO"       [2023-09-06 Wed 23:59]
+- State "DONE"       from "TODO"       [2023-09-06 Wed 23:00]
+- State "DONE"       from ""           [2023-09-28 Thu 09:38]
+- State "DONE"       from "TODO"       [2023-09-30 Sat 13:17]
+** DONE 一键切换网络
+SCHEDULED: <2023-09-19 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-22 Fri 22:39
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+#+begin_src sh
+  brew services stop xray
+  networksetup -switchtolocation "Work"
+  brew services start xray --file=/usr/local/etc/xray/work/homebrew.mxcl.xray.plist
+#+end_src
+
+#+RESULTS:
+| Stopping | `xray`...    | (might  | take         | a       | while)              |         |                     |
+| ==>      | Successfully | stopped | `xray`       | (label: | homebrew.mxcl.xray) |         |                     |
+| found    | it!          | ==>     | Successfully | started | `xray`              | (label: | homebrew.mxcl.xray) |
+
+#+begin_src sh
+  brew services stop xray
+  networksetup -switchtolocation "Automatic"
+  brew services start xray --file=/usr/local/etc/xray/basic/homebrew.mxcl.xray.plist
+#+end_src
+
+#+RESULTS:
+| Stopping | `xray`...    | (might  | take         | a       | while)              |         |                     |
+| ==>      | Successfully | stopped | `xray`       | (label: | homebrew.mxcl.xray) |         |                     |
+| found    | it!          | ==>     | Successfully | started | `xray`              | (label: | homebrew.mxcl.xray) |
+
+[[file:~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Raycast/network-work.sh::@raycast.title Network Work]]
+** Documents
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:35
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+*** Global
+- [[https://augusthome.atlassian.net/l/c/3Wf1Xrw5][BLE commands during lock setup flow]]
+** Jira
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:35
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+*** Global
+- Story Points only: 1/2/3/5 (Fibonacci number)
+*** China
+- Type
+  + Bug
+  + Task
+  + Story
+    - Can Assign to QA
+  + Epic
+  + Sub-task
+  + Story-bug
+** PR Tickets
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:35
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+1. 定性（什么样的 Bug）
+2. 分析（如何复现）
+3. 解决方案（能否处理等）
+*** Template
+**** Title
+#+begin_example
+JIRA_ID [Platform][ChangeType][Lock][Feature][FixVersion] Short description
+#+end_example
+- JIRA_ID :: the Jira ticket ID link
+- Platform :: Android or iOS. This is optional, no need to add it for IOS-xxx or AND-xxx ticket
+- ChangeType :: Story or Bug or Refactor or UT, etc
+- Lock :: lock model or AllLocks
+- Feature :: the feature of the change. This is optional
+- [HOLD] ::
+  - Put it in the beginning of commit message, to indicate that PR is not ready for review by August.
+  - When it's ready for August to review, remove [HOLD] and put it in https://augusthome.atlassian.net/wiki/spaces/SOF/pages/963085833/APAC+Pull+Requests
+**** Content
+***** Purpose
+I made this PR because...
+***** Notable Changes
+***** Documentation
+***** Dependencies
+***** Testing
+** Setup Lock V1 Research
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:35
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+- iOS
+  https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1695023421/Setup+Lock+Flow+-+2022+01+29
+- Android
+  https://assaabloyapac.atlassian.net/wiki/spaces/~585273973/pages/1694564599/Setup+process+Set-up+lock+process+research
+** Setup Lock V2 Demo
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:35
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+Hello everyone, my name is Chu Xu, an Android Engineer from the Shanghai Innovation team.
+Another presenter is Sophie, Hi Sophie Can you hear me.
+...(Sophie)
+We will introduce a new lock setup flow from four parts, the first two parts are Business and Technical Drivers, this explain the reason why we developed the new setup lock flow. The third part is a comparison of the old and new process. Finally, we will conclude with a sample demonstration.
+Let's start with Sophie to introduce us the business drivers.
+...(Sophie)
+When comes to technical drivers, there are many things we want to improve in this new flow.
+For iOS, we want to upgrade the programming language from OC to Swift, we can also remove a lot of OC dead codes.
+For Android, we also upgrade the programming language from Java to Kotlin, update the technology stack to Coroutine and Jetpack Compose, and apply the new MVVM architecture.
+In General, we want to make the UI and logic consistent between iOS and Android, and add more technical documents for setup flow process.
+We have two more things for Android, one is the SetupLockSteps, we can assemble the steps into a tree-like data structure, so it's easy to add, remove, or navigate back and forward between different setup steps. The other one is Jetpack Compose and the Component Library, we extend the android-design library to add some China Android Component UIs and colors for three brand which are Yale China, Panpan and Gateman China, this makes the UI components simple and easy to maintain and means less code, compared to the Android View system.
+Here are some noticeable comparison about the lock setup version one and version two.
+First, we display video instead of pictures on the registration introduction page, the video and tip content is associated with the brand and type of lock, which helps users setup their locks more accurately.
+Next, we reduce the main steps for new users from nine to four, and unified the UI on iOS and Android, so users can setup their lock mor easily and quickly with a consistent experience on both iOS and Android, and all the complexity is now behind the scenes.
+Next, we make the error page more clear and use well defined dialogs with retry button based on different error type, users ...
+Finally, we handle the cases when user exits the setup lock process midway, we soft reset the lock on server so that the lock can be re-setup next time even users exit with errors.
+*** House Names
+Fairview
+Bellini
+Red Lotus
+Southern Comfort
+Brighton
+Corona
+Black Adder
+Lakeside
+Oaklands
+Rose Cottage
+Heaven's Haven
+Black Gate
+Grasshopper Hill
+Dawn Star
+Cricket Grove
+Western Hill
+Blue Lagoon
+Red Hook
+Northern Light
+Avocado Grove
+Mayfair Dominion
+Land's End
+Moon Palace
+Antler's Burrow
+Foxwood
+Crisper's Edge
+Dewberry
+Nautilus
+Lily of the Valley
+The Little Blue House
+Woodside
+Trail Hollow
+Meadow View
+Gold Odyssey Farm
+Clover Club
+Eve's Perfection
+Copacabana
+House of Secrets
+House of Mystery
+The Blue Spruce
+Noah's Mill
+Orchard House of Dakota
+** Technical requirement template
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:36
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY
+:ARCHIVE_CATEGORY: work
+:END:
+https://augusthome.atlassian.net/wiki/spaces/SPM/pages/2620882945/China+Tech+requirements+process
+https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1763966997/Android+Team+Tasks+Tracking
+https://assaabloyapac.atlassian.net/browse/RNA-3344
+https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1709114591/Template-+tech+requirements+registratino
+https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1846149140/Y2023-+Tech+requirements+registration
+*** Camera
+https://developer.android.com/guide/topics/media/camera#camera-preview
+https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1763770466/Upgrade+Camera+library+to+CameraX
+https://developers.google.com/ml-kit/vision/barcode-scanning/android#performance-tips
+https://github.com/googlesamples/mlkit/tree/master/android
+** DONE Setup Lock V2 [2/2]
+:PROPERTIES:
+:Version:  2.16.0 2.17.0
+:ARCHIVE_TIME: 2023-10-19 Thu 09:44
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+- AC
+  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1698431346/PRD-Set+up+process+optimize
+  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1706065921/Requirement-Set+up+pop-up+optimize
+- WBS
+  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1699252365/WBS+for+lock+set+up+process+optimization
+- POC
+  https://assaabloyapac.atlassian.net/wiki/spaces/~585273973/pages/1701118335/POC+Improve+Setting+Up+Lock
+*** KILL Android 完成、失败界面的图片使用的是 iPhone 背景图
+*** DONE Step 1
+- API
+  https://assaabloyapac.atlassian.net/wiki/spaces/ST/pages/1709047938/Get+display+contents
+- Video
+  https://www.tsinghua.edu.cn/__local/8/FD/D7/5A62E727ECA239CC360EB7D997D_DA48A008_1840E22.mp4
+  https://s3.cn-northwest-1.amazonaws.com.cn/com.aaecosys.ui-devices/dev/lock/videos/YaleAccessOperationVideo.mp4
+** DONE BI buried point ZhuGe
+:PROPERTIES:
+:Version:  2.18.0
+:ARCHIVE_TIME: 2023-10-19 Thu 09:44
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: china
+:END:
+https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717928080/Y2022-+v2.18.0+Yale+China+Project+Overview
+- BI Documents
+  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1391657290/ZhugeIO+BI+Integration+References
+  https://assaabloyapac.atlassian.net/browse/RNA-3899
+  https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1657963290/Android+BI+-+ZhuGe
+  https://statics-analysis.aaecosys.com/
+  https://assaabloyapac.atlassian.net/wiki/spaces/~415578750/pages/1735197346/Requirement+confirmation+record
+- PRD
+  https://docs.google.com/spreadsheets/d/15G6CehgJhVj7E8Q3Ml2KpOHOJDb0YVLJJnGf7X2ddgU/edit#gid=678700217
+- WBS
+  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717895214/Work+estimate+for+China+v2.18.0+BI+Add+Multi+Pindcode+FP
+*** Questions
+- [X] BindDevice_enable_modulepage 这个 enable 前面多了一个空格
+- [X] Zhuge Chinese Display
+*** 加密
+house_ID
+83d976c9-79b2-46c5-8ae2-a559a5867fa1
+ddab0ce169b25a37c6e447811a793dba9804c99995fe761a2a49264c2ef6138621daf81eeeff90db
+lock_ID
+1C2A1E50FDB29347AB6EA5B9AB5B2BA5
+729c78e6676882699c6503749598f2b6b27c46f8147a908435a1e24370eca743ad4448a0c72fc6ae
+提供了两组数据，短的的是原始数据，长的是加密后的数据
+des-cbc
+"desKey": "rqd43xm6",
+"desIV": "yxgieiql",
+#+begin_src js
+  function encryptContext(context, obj) {
+    const cipher = crypto.createCipheriv("des-cbc", obj.desKey, obj.desIV);
+    cipher.setAutoPadding(true);
+    let encryptedText = cipher.update(context, "utf-8", "hex");
+    encryptedText += cipher.final("hex");
+    return encryptedText;
+  }
+#+end_src
+** 2.19
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:44
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_ITAGS: china
+:END:
+Overview
+https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1725300737/Y2022-+v2.19.0+Yale+China+PANPAN+GA+Project+Overview
+PRD
+https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717076071/Requirement-+Add+Multi+Pindcode+FP
+Confirmation
+https://assaabloyapac.atlassian.net/wiki/spaces/~415578750/pages/1738604728/R2.19.0+Requirement+Confirmation+Record
+*** State
+- Not Saved （未保存）loading
+- Added （已添加）loaded
+- Not Deleted （待删除）deleting
+- Not Added （未添加）
+** Research String
+:PROPERTIES:
+:header-args: :dir ~/Developer/AA/ecosystem-android :file-ext csv :output-dir ~/Downloads
+:ARCHIVE_TIME: 2023-10-19 Thu 09:46
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Projects
+:ARCHIVE_CATEGORY: work
+:END:
+
+#+name: rg-count
+#+begin_src shell :var query="Yale"
+  rg -ci --sort path $query .
+#+end_src
+
+#+name: rg-unique
+#+begin_src shell :var query="Yale" glob="*.{java,kt}"
+  rg -oiI "\b?\w*$query\w*\b?" -g $glob . | sort | uniq -c | sort -hr | sed 's/^ *//;s/ /:/'
+#+end_src
+
+#+name: format-unique
+#+begin_src awk :cmd-line "-F:"
+  {printf "%s,%d\n", $2, $1; total+=$1; line++}
+  END {printf "Line %d,%d", line, total}
+#+end_src
+
+#+name: format-count
+#+begin_src awk :cmd-line "-F:"
+  {printf "%s,%d\n", $1, $2; total+=$2; line++}
+  END {printf "Line %d,%d", line, total}
+#+end_src
+*** Yale Access
+#+name: yale-count
+#+call: format-count() :stdin rg-count("Yale Access") :colnames '("Name" "Count")
+
+#+RESULTS: yale-count
+| Name                                                        | Count |
+|-------------------------------------------------------------+-------|
+| ./app/src/gateman/play/listings/en-US/short-description.txt |     1 |
+| ./app/src/gateman/play/listings/en-US/title.txt             |     1 |
+| ./app/src/main/res/values/strings.xml                       |     4 |
+| ./app/src/main/res/values-da/strings.xml                    |     4 |
+| ./app/src/main/res/values-de/strings.xml                    |    21 |
+| ./app/src/main/res/values-en/strings.xml                    |     1 |
+| ./app/src/main/res/values-es/strings.xml                    |     4 |
+| ./app/src/main/res/values-fi/strings.xml                    |    24 |
+| ./app/src/main/res/values-nl/strings.xml                    |     3 |
+| ./app/src/main/res/values-no/strings.xml                    |    40 |
+| ./app/src/main/res/values-zh/strings.xml                    |     7 |
+| ./app/src/yale/play/listings/en-US/short-description.txt    |     1 |
+| ./app/src/yale/play/listings/en-US/title.txt                |     1 |
+| ./app/src/yale/res/values/strings.xml                       |     2 |
+| ./app/src/yaleChina/res/values/strings.xml                  |     1 |
+| Line 15                                                     |   115 |
+
+#+name: yale-unique
+#+call: format-unique() :stdin rg-unique("Yale Access", glob="*.xml") :colnames '("Name" "Count")
+
+#+RESULTS: yale-unique
+| Name                                              | Count |
+|---------------------------------------------------+-------|
+| Yale	Access                                    |   104 |
+| YALE	ACCESS                                    |     3 |
+| 让我们把你的智能锁连接到你的Yale	Access账户         |     2 |
+| 我们把你的摄像门铃和你Yale	Access的账户连接起来         |     1 |
+| 感谢您选择使用YALE	ACCESS以及对我们一直以来的信任 |     1 |
+| 首先请确认在YALE	ACCESS里已完成门锁的绑定              |     1 |
+| 连接你的Yale	Access账户和Airbnb账户              |     1 |
+| 欢迎使用YALE	ACCESS                            |     1 |
+| nYale	Access                                    |     1 |
+| Line 9                                            |   115 |
+*** August
+#+name: august-count
+#+call: format-count() :stdin rg-count("August") :colnames '("Name" "Count")
+
+#+RESULTS: august-count
+[[file:../Downloads/format-count.csv]]
+
+#+name: august-unique
+#+call: format-unique() :stdin rg-unique("August") :colnames '("Name" "Count")
+
+#+RESULTS: august-unique
+| Name                                                                    | Count |
+|-------------------------------------------------------------------------+-------|
+| august                                                                  | 11711 |
+| AugustUtils                                                             |   945 |
+| AugustAPIClient                                                         |   687 |
+| AugustBluetoothManager                                                  |   494 |
+| AugustLockCommConstants                                                 |   449 |
+| August                                                                  |   315 |
+| AugustAPIClientWrapper                                                  |   193 |
+| AugustLockProtocol                                                      |   188 |
+| AugustBluetoothConnection                                               |   126 |
+| AugustBluetoothAgent                                                    |   121 |
+| augustsdk                                                               |   110 |
+| AugustAccessPartner                                                     |   107 |
+| augustBluetoothManager                                                  |    88 |
+| augustAPIClientWrapper                                                  |    74 |
+| AugustAPI                                                               |    66 |
+| augustDateFormat                                                        |    65 |
+| AugustEncryption                                                        |    64 |
+| AugustAPIRestAdapter                                                    |    61 |
+| augustDateFormatUnderTest                                               |    53 |
+| AugustScanResult                                                        |    51 |
+| getAugustBleScanner                                                     |    48 |
+| AugustDateFormat                                                        |    47 |
+| isFirstAugustLock                                                       |    40 |
+| augustAPI                                                               |    33 |
+| augusthome                                                              |    30 |
+| augustBluetoothManagerInterface                                         |    30 |
+| augustaccess                                                            |    27 |
+| augustService                                                           |    26 |
+| AugustSetupOnboardingActivity                                           |    22 |
+| augustServiceUuids                                                      |    21 |
+| AugustWiFiDevice                                                        |    20 |
+| mMockAugustAPI                                                          |    17 |
+| augustScanResult                                                        |    16 |
+| augustWorksWith                                                         |    15 |
+| augustBleScanner                                                        |    15 |
+| AugustSetUpBoardingRepository                                           |    15 |
+| AugustPremiumActivity                                                   |    15 |
+| AugustLiveDataUtility                                                   |    15 |
+| mAugustAPIClient                                                        |    14 |
+| getAugustAccessPartners                                                 |    14 |
+| AugustSetUpBoardingViewModel                                            |    14 |
+| getAugustAccessPartnerTags                                              |    13 |
+| augustConnection                                                        |    12 |
+| AugustBridgeAPI                                                         |    12 |
+| AUGUST                                                                  |    11 |
+| augustSetUpBoardingRepository                                           |    10 |
+| AugustBleScannerLegacy                                                  |    10 |
+| AugustAccessActivity                                                    |    10 |
+| AugustLockComm                                                          |     9 |
+| AugustBleScanner                                                        |     9 |
+| augustAccessPartner                                                     |     8 |
+| supportsAugustChime                                                     |     7 |
+| getAugustHouse                                                          |     7 |
+| august_app                                                              |     7 |
+| augustAgent                                                             |     7 |
+| augustRedColor                                                          |     6 |
+| augustLightColors                                                       |     6 |
+| qrSetupAugust                                                           |     5 |
+| isAugust                                                                |     5 |
+| getAugustAPI                                                            |     5 |
+| augustPhoneNumber                                                       |     5 |
+| CheckIsAugustSetupOnBoardingActivity                                    |     5 |
+| AugustSetupBoardingViewModelFactory                                     |     5 |
+| AugustColors                                                            |     5 |
+| onAugustScanFound                                                       |     4 |
+| onAugustScanFailed                                                      |     4 |
+| formatPhoneNumberToAugust                                               |     4 |
+| copyAugustAgent                                                         |     4 |
+| checkIsAugustSetupOnBoardingActivity                                    |     4 |
+| august_team                                                             |     4 |
+| august_smart_lock                                                       |     4 |
+| augustTealColor                                                         |     4 |
+| augustContacts                                                          |     4 |
+| JumpToAugustSetupOnBoardingActivityAndClearCurrentUser                  |     4 |
+| AugustStoreWebViewActivity                                              |     4 |
+| AugustHeaderInterceptor                                                 |     4 |
+| AugustContactsAdapter                                                   |     4 |
+| AugustBleScannerV2                                                      |     4 |
+| AUGUST_WIFI                                                             |     4 |
+| prepareAugustAPIClientGetBridgeInfoToReturnSuccess                      |     3 |
+| prepareAugustAPIClientGetBridgeInfoForInvalidArguments                  |     3 |
+| prepareAugustAPIClientAreOfflineNotificationsEnabledToReturnSuccess     |     3 |
+| prepareAugustAPIClientAreOfflineNotificationsEnabledForInvalidArguments |     3 |
+| postAugustStory                                                         |     3 |
+| manufacturerData_August                                                 |     3 |
+| mAugustAPIClientWrapper                                                 |     3 |
+| listAugustDevice                                                        |     3 |
+| getAugustAccessMyPartners                                               |     3 |
+| augustServiceV3                                                         |     3 |
+| augustServiceV2                                                         |     3 |
+| augustServiceV1                                                         |     3 |
+| augustMessage                                                           |     3 |
+| augustHouseName                                                         |     3 |
+| augustAccess                                                            |     3 |
+| HEADER_AUGUST_ACCESS_TOKEN                                              |     3 |
+| CellAugustAccessBinding                                                 |     3 |
+| AugustLoggingInterceptor                                                |     3 |
+| AugustBle2                                                              |     3 |
+| AugustAccessPartnerActivity                                             |     3 |
+| ActivityAuguststoreBinding                                              |     3 |
+| ActivityAugustaccessBinding                                             |     3 |
+| qrsetup_august                                                          |     2 |
+| prepareAugustAPIClientGetBridgeInfoToReturnFailure                      |     2 |
+| prepareAugustAPIClientAreOfflineNotificationsEnabledToReturnFailure     |     2 |
+| onScanFoundAugustDevice                                                 |     2 |
+| onAugustScanTimeout                                                     |     2 |
+| menu_item_august_access                                                 |     2 |
+| isAugustEmployee                                                        |     2 |
+| initializeAugustConnection                                              |     2 |
+| getStepsForAugust                                                       |     2 |
+| getAugustAccessPartnersSuspended                                        |     2 |
+| getAugustAccessPartnerTagsSuspended                                     |     2 |
+| comAugustCredentialExtrasTypeKey                                        |     2 |
+| augustappversionok                                                      |     2 |
+| august_app_android                                                      |     2 |
+| augustTitle                                                             |     2 |
+| augustHouseTitle                                                        |     2 |
+| augustHeaderInterceptor                                                 |     2 |
+| augustContactsHeader                                                    |     2 |
+| augustContactsDivider                                                   |     2 |
+| augustApiClient                                                         |     2 |
+| augustAccessPartners                                                    |     2 |
+| ShowAugustStore                                                         |     2 |
+| MANUFACTURER_ID_AUGUST                                                  |     2 |
+| HEADER_AUGUST_API_KEY                                                   |     2 |
+| FixShowAugustStore                                                      |     2 |
+| AugustRESTClient                                                        |     2 |
+| AugustAccess                                                            |     2 |
+| AUGUST_KEYPAD                                                           |     2 |
+| AUGUST_BRIDGE                                                           |     2 |
+| workswith_integration_connect_august_title                              |     1 |
+| workswith_integration_connect_august_message                            |     1 |
+| whenInitWith_StagingAugustEnUs_verify                                   |     1 |
+| unable_to_unpair_august_device_with_nest                                |     1 |
+| unable_to_pair_august_lock_nest_cam_try_again                           |     1 |
+| unable_to_pair_august_device_with_nest                                  |     1 |
+| softResetAugustLockReceivedAckResponse                                  |     1 |
+| softResetAugustLockNoBleConnection                                      |     1 |
+| softResetAugustLockFailedAckResponse                                    |     1 |
+| shop_august_connect                                                     |     1 |
+| share_august_video_with                                                 |     1 |
+| select_august_house_for_nest_name                                       |     1 |
+| select_august_connect                                                   |     1 |
+| rate_august_app                                                         |     1 |
+| providesAugustSetUpBoardingRepository                                   |     1 |
+| providesAugustAPIClientWrapper                                          |     1 |
+| no_august_doorbellcam_found                                             |     1 |
+| no_august_connect_found                                                 |     1 |
+| nest_settings_august_house_title                                        |     1 |
+| nest_settings_august_house_field                                        |     1 |
+| nest_settings_august_house_container                                    |     1 |
+| nest_required_august_smart_lock                                         |     1 |
+| nAugust                                                                 |     1 |
+| lets_setup_august_connect                                               |     1 |
+| is_august_module_inserted                                               |     1 |
+| hardResetAugustLockReceivedAckResponse                                  |     1 |
+| hardResetAugustLockNoBleConnection                                      |     1 |
+| hardResetAugustLockFailedAckResponse                                    |     1 |
+| disconnect_august_connect_content                                       |     1 |
+| disconnect_august_connect                                               |     1 |
+| augustble2                                                              |     1 |
+| augustandroid                                                           |     1 |
+| august_video_recording                                                  |     1 |
+| august_video_                                                           |     1 |
+| august_access_works_with_title                                          |     1 |
+| augustStoreWebView                                                      |     1 |
+| augustStore                                                             |     1 |
+| augustHouseClicked                                                      |     1 |
+| augustHQ                                                                |     1 |
+| augustBle2                                                              |     1 |
+| augustAPIWrapper                                                        |     1 |
+| AugustWiFiDeviceTest                                                    |     1 |
+| AugustUtilsTest                                                         |     1 |
+| AugustUtilsStaticTest                                                   |     1 |
+| AugustSetUpBoardingViewModelTest                                        |     1 |
+| AugustSetUpBoardingRepositoryTest                                       |     1 |
+| AugustScanResults                                                       |     1 |
+| AugustRXWifiTest                                                        |     1 |
+| AugustManager                                                           |     1 |
+| AugustLockCommProtocol                                                  |     1 |
+| AugustHQ                                                                |     1 |
+| AugustDateFormatTest                                                    |     1 |
+| AugustBluetoothMessenger                                                |     1 |
+| AugustBluetoothManger                                                   |     1 |
+| AugustBluetoothManagerTest                                              |     1 |
+| AugustBluetoothManagerRobolectricTest                                   |     1 |
+| AugustBluetoothManagerLegacyPowerMockTest                               |     1 |
+| AugustBluetoothConnectio                                                |     1 |
+| AugustBluetoothAgentTest                                                |     1 |
+| AugustBluetootManager                                                   |     1 |
+| AugustBleScannerV2PowerMockTest                                         |     1 |
+| AugustBleScannerLegacyPowerMockTest                                     |     1 |
+| AugustAPIRestAdapterTest                                                |     1 |
+| AugustAPIClientWrapperTest                                              |     1 |
+| AugustAPIClientTest                                                     |     1 |
+| AUGUST_FLAVOR                                                           |     1 |
+| Line 196                                                                | 16891 |
+
+#+name: august-string
+#+call: format-unique() :stdin rg-unique("August", glob="*.xml") :colnames '("Name" "Count")
+
+#+RESULTS: august-string
+| Name                                           | Count |
+|------------------------------------------------+-------|
+| August                                         |   667 |
+| august                                         |   565 |
+| AugustButton                                   |   208 |
+| onboarding_from_an_august_owner                |    30 |
+| doorbell_event_detail_need_august_subscription |    28 |
+| keychain_welcome_to_august                     |    27 |
+| onboarding_august_wifi_smart_lock              |    25 |
+| onboarding_august_smart_lock                   |    25 |
+| august_smart_lock                              |    25 |
+| august_doorbell_cam                            |    24 |
+| workswith_integration_connect_august_title     |    23 |
+| title_activity_august_access                   |    23 |
+| onboarding_create_your_august_account          |    23 |
+| august_access_disclaimer_text                  |    23 |
+| nav_drawer_august                              |    22 |
+| is_august_module_inserted                      |    22 |
+| airbnb_august_message                          |    22 |
+| stories_review_paired_with_august_house        |    21 |
+| share_august_video_with                        |    21 |
+| onboarding_august_smart_lock_pro               |    21 |
+| devicesetup_requires_an_august_smart_lock      |    21 |
+| conflicting_august_app                         |    21 |
+| august_contacts_header                         |    21 |
+| accesspartner_how_will_it_work_with_august     |    21 |
+| unable_to_unpair_august_device_with_nest       |    20 |
+| unable_to_pair_august_lock_nest_cam_try_again  |    20 |
+| unable_to_pair_august_device_with_nest         |    20 |
+| shop_august_connect                            |    20 |
+| select_august_house_for_nest_name              |    20 |
+| select_august_connect                          |    20 |
+| rate_august_app                                |    20 |
+| no_august_connect_found                        |    20 |
+| nest_required_august_smart_lock                |    20 |
+| lets_setup_august_connect                      |    20 |
+| disconnect_august_connect_content              |    20 |
+| disconnect_august_connect                      |    20 |
+| august_video_recording                         |    20 |
+| august_doorbell_cam_pro                        |    20 |
+| no_august_doorbellcam_found                    |    19 |
+| AugustSetting                                  |    11 |
+| Augustkonto                                    |     9 |
+| august_app                                     |     7 |
+| Augustmodul                                    |     7 |
+| menu_item_august_access                        |     5 |
+| ic_menu_august_active_monitoring               |     5 |
+| color_august_ambiguous_position                |     5 |
+| august_access_works_with_title                 |     5 |
+| augusthome                                     |     4 |
+| august_margin_top_default                      |     4 |
+| augustWorksWith                                |     4 |
+| nest_settings_august_house_title               |     3 |
+| Augustmodulen                                  |     3 |
+| AugustAlternativeLink                          |     3 |
+| workswith_integration_connect_august_message   |     2 |
+| nAugust                                        |     2 |
+| august_doorbell_hydra                          |     2 |
+| augustAccess                                   |     2 |
+| Augustem                                       |     2 |
+| Augusta                                        |     2 |
+| AugustSetupOnboardingActivity                  |     2 |
+| 你的爱彼迎账户目前已经关联到不同的August账户           |     1 |
+| 你确定想要断开你的August                           |     1 |
+| 你没有任何匹配August录像的设备                      |     1 |
+| 同步到你的August账户                              |     1 |
+| 确保您的August模块已安装到您的锁中                   |     1 |
+| 检测到与August冲突的应用程序                        |     1 |
+| 分享我的August                                   |     1 |
+| 您的August模块无法与您的锁建立通讯                   |     1 |
+| 你的August和爱彼迎账户已连接                        |     1 |
+| فيAugust                                        |     1 |
+| 将XFINITY同步到您的August账户                      |     1 |
+| 将Harmony同步到您的August账户                      |     1 |
+| لAugust                                         |     1 |
+| s已经同步到你的August账户                          |     1 |
+| n如果该门铃注册了August的录像订阅                    |     1 |
+| n我们希望您用August                               |     1 |
+| nest_settings_august_house_field               |     1 |
+| nest_settings_august_house_container           |     1 |
+| cell_august_access                             |     1 |
+| august_store_web_view                          |     1 |
+| August模块无法与您的锁建立通讯                      |     1 |
+| August入口                                      |     1 |
+| Augustvideo                                    |     1 |
+| Augusti                                        |     1 |
+| Augustägare                                    |     1 |
+| AugustStoreWebViewActivity                     |     1 |
+| AugustPremiumActivity                          |     1 |
+| AugustActionButton                             |     1 |
+| AugustAccessPartnerActivity                    |     1 |
+| AugustAccessActivity                           |     1 |
+| Airbnb已经同步到你的August账户                     |     1 |
+| AUGUST                                         |     1 |
+| Line 92                                        |  2349 |
+** 报销
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-19 Thu 09:46
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: ASSA ABLOY/Notes
+:ARCHIVE_CATEGORY: work
+:END:
+https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/21922084/How+to+claim+routine+expense
+Daisy Sun
+*** T&E 审批流
+**** 出差、业务
+**** 费用报销
+地点：shanghai
+支出用途：？
+下次和 team 其他人一起的餐费报销选择“CHC25286_2 团队建设”，然后写一下名单
+*** 电话费
+发票抬头需要开个人姓名
+付款方式：PAYMENT
+收据编号：发票编号
+*** 体检费
+类别：杂费
+*** 增值税发票
+不含税和税额分开填写（填写两次）
+- VAT CHC93702
+  发票号码在附加信息中再写一遍
+*** 环保、安全
+Michael Deng
+**** Safety first
+** DONE [#A] RobotOS 图书查询
+CLOSED: [2022-09-19 Mon 07:03] DEADLINE: <2022-08-31 Wed> SCHEDULED: <2022-07-11 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:01
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: XingZhi
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2022-09-19 Mon 07:03]
+*** KILL [#C] 接口
+*** KILL 4000 问法
+*** DONE [#A] TTS
+*** DONE [#A] NLP 唤醒
+**** 机器人 NLP 配置
+1. 导入自定义领域 (xingzhi_library)
+2. 场景管理中添加 App
+   名称：图书查询（Query Book)
+   appid: e1b238fb76d49bb03e49a895968fed78
+3. 在 NLP Launcher 下新建
+   1. query_book 绑定 query_book 资源
+   2. open_query_book 绑定 open_query_book 资源
+4. 最重要：图书查询场景的 Main 下关联 Launcher 场景
+   query_book 和 open_query_book
+*** DONE 倒计时退出
+*** DONE [#C] 本地图片
+*** DONE 查询
+| domain  | intent     | intent 说明 | slot         | slot 说明         | query 举例         |
+| library | query_book | 查询书籍     | book_name    | 书名“西游记”       | 查询西游记这本书      |
+|         |            |            | author       | 作者“吴承恩”       | 查询吴承恩的书       |
+|         |            |            | publish_date | 出版时期 “2022 年” | 查询 2022 年出版的书 |
+*** 竞品
+[[https://mp.weixin.qq.com/s/8qvzxYg-A9YJANK2gkjvyw][能“跑腿”借书还书，导览机器人又上“新才艺”啦！ - 海恒智能]]
+[[https://mp.weixin.qq.com/s/f3tjcitJ1_hH28v9v6wkrw][智能服务机器人“小杜”来啦！图书馆、文化馆等公共场所的新晋“网红”！ - 云图]]
+** DONE 党校 Plus 发货
+DEADLINE: <2023-09-22 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:01
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: XingZhi
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带茶叶去公司
+CLOSED: [2023-09-28 Thu 09:38] SCHEDULED: <2023-09-27 Wed 09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:24
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-09-28 Thu 09:38]
+** DONE GPS Learning
+CLOSED: [2023-07-20 Thu 10:31] DEADLINE: <2023-07-20 Thu> SCHEDULED: <2023-07-11 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:24
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-07-20 Thu 10:31]
+** KILL 携带转接头
+CLOSED: [2023-05-21 Sun 09:01] SCHEDULED: <2023-05-21 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:24
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2023-05-21 Sun 09:01]
+** TODO Gradle 8 Failed Unit Test
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 13:24
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: TODO
+:END:
+| CredentialRepositoryTest           | getAllEntryCodesToSyncRx                                                                         |
+| LockRepositoryTest                 | parseUserDataOfRuleTest                                                                          |
+| LockRepositoryTest                 | updateRuleDataToDBTest                                                                           |
+| LockSelectorViewModelTest          | addFlags                                                                                         |
+| LockSelectorViewModelTest          | removeFlags                                                                                      |
+| LockSelectorViewModelTest          | testCompleteSelection                                                                            |
+| LockSelectorViewModelTest          | testGetIsProcessingObservable                                                                    |
+| LockSelectorViewModelTest          | testGetRecyclerDataObservable                                                                    |
+| LockSelectorViewModelTest          | testGetSelectedLocksObservable                                                                   |
+| LockSelectorViewModelTest          | testIsBridgeRequiredFalse                                                                        |
+| LockSelectorViewModelTest          | testIsBridgeRequiredTrue                                                                         |
+| LockSelectorViewModelTest          | testIsExcludeBridgeOfflineFalse                                                                  |
+| LockSelectorViewModelTest          | testIsExcludeBridgeOfflineTrue                                                                   |
+| LockSelectorViewModelTest          | testIsExcludeBridgeOnlineFalse                                                                   |
+| LockSelectorViewModelTest          | testIsExcludeBridgeOnlineTrue                                                                    |
+| LockSelectorViewModelTest          | testIsInteractive                                                                                |
+| LockSelectorViewModelTest          | testIsMultilockSelection                                                                         |
+| LockSelectorViewModelTest          | testIsNotInteractive                                                                             |
+| LockSelectorViewModelTest          | testIsNotMultilockSelection                                                                      |
+| LockSelectorViewModelTest          | testIsNotSingleDeselectMode                                                                      |
+| LockSelectorViewModelTest          | testIsSingleDeselectMode                                                                         |
+| LockSelectorViewModelTest          | testLoadLocks                                                                                    |
+| LockSelectorViewModelTest          | testLoadLocksNotInitialized                                                                      |
+| LockSelectorViewModelTest          | testOnUserActionBridgeRequiredExcludingThoseThatAreOnlineAndBridgeInfoIsOnline                   |
+| LockSelectorViewModelTest          | testOnUserActionIsAlreadyProcessing                                                              |
+| LockSelectorViewModelTest          | testOnUserActionIsNotInteractive                                                                 |
+| LockSelectorViewModelTest          | testOnUserClickAction                                                                            |
+| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredAndBridgeInfoIsNull                                           |
+| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOfflineAndBridgeInfoIsOffline            |
+| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOfflineAndBridgeInfoIsOnline             |
+| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOnlineAndBridgeInfoIsOffline             |
+| LockSelectorViewModelTest          | testOnUserModificationAction                                                                     |
+| LockSelectorViewModelTest          | testSetFlags                                                                                     |
+| LockSelectorViewModelTest          | testSetInitialSelectedLocks                                                                      |
+| LockSelectorViewModelTest          | testSetInitialSelectedLocksWhenAlreadyInitialized                                                |
+| OrchestraDashboardViewModelTest    | setSignUpActivityResult                                                                          |
+| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusAlreadyInProgress                                              |
+| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusIdleProgressSignupResultCanceled                               |
+| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusIdleProgressThrowsException                                    |
+| OrchestraDashboardViewModelTest    | testGetAccessListEmptyListMessageStateObservable                                                 |
+| OrchestraDashboardViewModelTest    | testGetAccessListLoadingState                                                                    |
+| OrchestraDashboardViewModelTest    | testGetAccessListRequestsObservable                                                              |
+| OrchestraDashboardViewModelTest    | testGetResumeProgressStateObservable                                                             |
+| OrchestraDashboardViewModelTest    | testLoadAccessRequestsAlreadyInProgress                                                          |
+| OrchestraDashboardViewModelTest    | testLoadAccessRequestsReadyFailure                                                               |
+| OrchestraDashboardViewModelTest    | testLoadAccessRequestsReadySuccess                                                               |
+| OrchestraDashboardViewModelTest    | testSortAccessRequestsEmptyListShouldReturnAnEmptyList                                           |
+| OrchestraDashboardViewModelTest    | testSortAccessRequestsNonPendingShouldSortByCreationDateWithTheLastCreatedAheadOfTheFirstCreated |
+| OrchestraDashboardViewModelTest    | testSortAccessRequestsPendingShouldBeFirst                                                       |
+| OrchestraDashboardViewModelTest    | testSortAccessRequestsRandomizedExhaustive                                                       |
+| OrchestraDashboardViewModelTest    | testSortAccessRequestsThePendingRequestThatIsGoingToExpireTheEarliestShouldBeFirst               |
+| OrchestraV1RepositoryTest          | initializationError                                                                              |
+| UserPromptManagerTest              | initializationError                                                                              |
+| EntryCodeSequenceDriverBuilderTest | initializationError                                                                              |
+| VulcanControllerTest               | testCallSequence                                                                                 |
+| VulcanControllerTest               | testSessionReset                                                                                 |
+| VulcanControllerTest               | testTidIncrementOnSignal                                                                         |
+| AccessControlViewModelTest         | initializationError                                                                              |
+| ScanOrInputViewModelTest           | backPressed                                                                                      |
+| ScanOrInputViewModelTest           | nextStepByDevicePickerLock                                                                       |
+| ScanOrInputViewModelTest           | nextStepByDevicePickerOtherDevice                                                                |
+| ScanOrInputViewModelTest           | nextStepByLock                                                                                   |
+| ScanOrInputViewModelTest           | nextStepByOtherDevice                                                                            |
+| UserRecyclerAdapterTest            | testGuests                                                                                       |
+| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAll                                                           |
+| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicateInvited                                     |
+| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicateOwners                                      |
+| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicatedUsersInPinAndInvited                       |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAll                                                                  |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyGuests                                                       |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyInvited                                                      |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyOwners                                                       |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyVisitors                                                     |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllExceptAnyUser                                                     |
+| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllExceptInvited                                                     |
+| AugustUtilsStaticTest              | testChangeUserDoorbellPermissions                                                                |
+| AugustUtilsStaticTest              | testEqualsEntryCode                                                                              |
+| AugustUtilsStaticTest              | testGetPrefixCodeForCountryCode                                                                  |
+| AugustUtilsStaticTest              | testGetScanResultSecurity                                                                        |
+| AugustUtilsStaticTest              | testHandlePotentialInternationalNumberFromContacts                                               |
+| AugustUtilsStaticTest              | testRemoveUserFromAllDevices                                                                     |
+| AugustUtilsTest                    | isAppInstalled                                                                                   |
+| LockPolicyViewModelTest            | initializationError                                                                              |
+** ZhiYan
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-01-09 Tue 13:39
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+*** 上海致研智能科技有限公司
+- 地址 :: 上海市松江区泗泾镇高技路 655 号 2 幢 102 室
+- 法人 :: 窦海峰
+- 联系电话 :: 18918963669
+- 统一社会信用代码 :: 913101123987007868
+
+#+name: 工资表
+|    月份 | 实发税后 | 应发 |    奖金 |
+|  2020.2 |        0 | 6500 |         |
+|  2020.3 |        0 | 6500 |         |
+|  2020.4 |  2191.25 |      |         |
+|  2020.5 |  4382.50 |      |         |
+|  2020.6 |  5014.80 |      |         |
+|  2020.7 |  5682.50 |      |         |
+|  2020.8 |  5732.50 |      |         |
+|  2020.9 |  6244.84 |      |         |
+| 2020.10 |  6232.50 |      |         |
+| 2020.11 |  6232.50 |      |         |
+| 2020.12 |  6248.89 |      |         |
+|  2021.1 |  6232.50 |      | 7569.49 |
+|  2021.2 |  6195.52 |      |         |
+|  2021.3 |  6195.53 |      |         |
+|  2021.4 |  6195.53 |      |         |
+|  2021.5 |  6195.53 |      |         |
+|  2021.6 |  9136.04 |      |         |
+|  2021.7 |  7650.53 |      |         |
+|  2021.8 |  7529.37 |      |         |
+|  2021.9 |  7529.37 |      |         |
+| 2021.11 |  7529.38 |      |         |
+| 2021.12 |  7529.37 |      |         |
+*** KILL 劳动仲裁
+DEADLINE: <2022-10-01 Sat>
+https://zwdt.sh.gov.cn/govPortals/bsfw/item/89faa0eb-5b22-4480-843b-45c71f74000f
+文化路 150 号
+电话： 57614659
+*** DONE [#A] 准备社保材料
+DEADLINE: <2022-08-15 Mon>
+** XingZhi
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-01-09 Tue 13:40
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+*** DONE [#A] 超高频盘点
+DEADLINE: <2023-12-20 Wed> SCHEDULED: <2023-10-30 Mon>
+*** DONE 盘点交付
+DEADLINE: <2023-12-27 Wed> SCHEDULED: <2023-12-25 Mon>
+* From calligraphy.org :ARCHIVE:
+** DONE 热可擦笔
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-14 Mon 16:04
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+[2021-05-11 Tue 07:29]
+** DONE 李双阳小草
+SCHEDULED: <2022-08-11 Thu 20:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-13 Sat 09:16
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 设计印稿
+SCHEDULED: <2022-08-13 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-14 Sun 10:35
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+1 曼福
+2 長相隨
+** KILL 陋室铭
+CLOSED: [2023-01-05 Thu 00:45] SCHEDULED: <2023-01-01 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-05-01 Mon 17:11
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2023-01-05 Thu 00:45]
+** DONE 上海市第十一届篆隶书法作品展
+DEADLINE: <2022-06-30 Thu> SCHEDULED: <2022-06-19 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-01 Sat 20:41
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: 展览
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+https://mp.weixin.qq.com/s/d__SRCnWPISGWLpJmrR2og
+*** 内容
+劝君莫惜金缕衣，劝君须惜少年时。
+有花堪折直须折，莫待无花空折枝。
+青天无云月如烛，露泣梨花白如玉。
+子规一夜啼到明，美人独在空房宿。
+空赐罗衣不赐恩，一薰香后一销魂。
+虽然舞袖何曾舞，常对春风裛泪痕。
+不洗残妆凭绣床，也同女伴绣鸳鸯。
+回针刺到双飞处，忆著征夫泪数行。
+眼想心思梦里惊，无人知我此时情。
+不如池上鸳鸯鸟，双宿双飞过一生。
+一去辽阳系梦魂，忽传征骑到中门。
+纱窗不肯施红粉，徒遣萧郎问泪痕。
+莺啼露冷酒初醒，罨画楼西晓角鸣。
+翠羽帐中人梦觉，宝钗斜坠枕函声。
+行人南北分征路，流水东西接御沟。
+终日坡前怨离别，谩名长乐是长愁。
+偏倚绣床愁不起，双垂玉箸翠鬟低。
+卷帘相待无消息，夜合花前日又西。
+悔将泪眼向东开，特地愁从望里来。
+三十六峰犹不见，况伊如燕这身材。
+满目笙歌一段空，万般离恨总随风。
+多情为谢残阳意，与展晴霞片片红。
+两心不语暗知情，灯下裁缝月下行。
+行到阶前知未睡，夜深闻放剪刀声。
+近寒食雨草萋萋，著麦苗风柳映堤。
+早是有家归未得，杜鹃休向耳边啼。
+水纹珍簟思悠悠，千里佳期一夕休。
+从此无心爱良夜，任他明月下西楼。
+数日相随两不忘，郎心如妾妾如郎。
+出门便是东西路，把取红笺各断肠。
+无定河边暮角声，赫连台畔旅人情。
+函关归路千馀里，一夕秋风白发生。
+花落长川草色青，暮山重叠两冥冥。
+逢春便觉飘蓬苦，今日分飞一涕零。
+洛阳才子邻箫恨，湘水佳人锦瑟愁。
+今昔两成惆怅事，临邛春尽暮江流。
+浙江轻浪去悠悠，望海楼吹望海愁。
+莫怪乡心随魄断，十年为客在他州。
+*** 论盛孝章书
+岁月不居，时节如流。五十之年，忽焉已至。公为始满，融又过二。海内知识，零落殆尽，惟会稽盛孝章尚存。其人困于孙氏，妻孥湮没，单孑独立，孤危愁苦。若使忧能伤人，此子不得复永年矣！
+《春秋传》曰：“诸侯有相灭亡者，桓公不能救，则桓公耻之。”今孝章实丈夫之雄也天下谈士依以扬声而身不免于幽絷命不期于旦夕是吾祖不当复论损益之友而朱穆所以绝交也。公诚能驰一介之使，加咫尺之书，则孝章可致，友道可弘矣。
+今之少年，喜谤前辈，或能讥评孝章。孝章要为有天下大名，九牧之民所共称叹。燕君市骏马之骨，非欲以骋道里，乃当以招绝足也。惟公匡复汉室，宗社将绝，又能正之。正之之术，实须得贤。珠玉无胫而自至者，以人好之也，况贤者之有足乎！昭王筑台以尊郭隗，隗虽小才，而逢大遇，竟能发明主之至心，故乐毅自魏往，剧辛自赵往，邹衍自齐往。向使郭隗倒悬而王不解，临溺而王不拯，则士亦将高翔远引，莫有北首燕路者矣。凡所称引，自公所知，而复有云者，欲公崇笃斯义也。因表不悉。
+** KILL 全国第九届楹联书法作品展览
+CLOSED: [2022-10-02 Sun 07:22] DEADLINE: <2022-09-30 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-01 Sat 20:42
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: 展览
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2022-10-02 Sun 07:22]
+https://mp.weixin.qq.com/s/aTUPYgYT-6L0352lbYZpVQ
+** DONE 拍摄宣传短视频
+CLOSED: [2023-04-23 Sun 10:17] SCHEDULED: <2023-04-23 Sun 10:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 10:26
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-23 Sun 10:17]
+上身浅色衬衫或者外套。仪表整洁干净，女生建议画淡妆。若是党员，请佩戴党徽。
+刘霆tel:13564493116
+** DONE 领取作品
+DEADLINE: <2023-04-27 Thu> SCHEDULED: <2023-04-27 Thu 10:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 10:26
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 会员登记表、承诺书
+CLOSED: [2023-04-27 Thu 00:28] SCHEDULED: <2023-04-26 Wed 09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 10:26
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-27 Thu 00:28]
+** DONE 2022 上海市书法家协会表彰大会暨新会员入会仪式
+CLOSED: [2023-04-28 Fri 09:25] SCHEDULED: <2023-04-27 Thu 09:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 10:26
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-28 Fri 09:25]
+延安西路 200 号 3 号楼 3 楼多功能厅
+会员登记表、承诺书将上传在联系群内，请自行下载、妥善填写，并带到会场提交；另根据要求缴纳入会费 350 元、2023 年会费 100 元，共计 450 元，办理入会手续并领取会员证。会议议程安排 1 天，会议重要，请安排好时间，准时出席。
+** DONE 打印书协入会发言
+CLOSED: [2023-04-27 Thu 00:29] SCHEDULED: <2023-04-26 Wed 09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 10:26
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-04-27 Thu 00:29]
+* From ning.org :ARCHIVE:
+** DONE Apple Watch
+CLOSED: [2022-02-09 Wed 12:04] SCHEDULED: <2022-01-23 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-17 Thu 12:18
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- Note taken on [2022-02-08 Tue 11:43] \\
+  带身份证
+** DONE Track Pad
+CLOSED: [2022-01-27 Thu 07:49] SCHEDULED: <2022-01-26 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-02-17 Thu 12:18
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+** KILL 钉钉文案
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-16 Wed 12:18
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 字母项链
+DEADLINE: <2022-06-01 Wed> SCHEDULED: <2022-05-02 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-05-06 Fri 21:29
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Baker Bee 面包
+CLOSED: [2022-03-04 Fri 19:32] SCHEDULED: <2022-03-04 Fri 13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-05-06 Fri 21:29
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- 原味红豆黄油
+- 伯爵生奶油
+- 豆乳
+- 黑芝麻红豆
+- 麦苗
+** DONE 拿饺子
+SCHEDULED: <2023-09-19 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-20 Wed 15:35
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 带东西
+CLOSED: [2023-09-19 Tue 17:10] SCHEDULED: <2023-09-19 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-20 Wed 15:35
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-09-19 Tue 17:10]
+- 饭盒
+- 勺子
+** DONE 个税申报
+CLOSED: [2023-06-29 Thu 11:39] SCHEDULED: <2023-06-26 Mon 07:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-06-29 Thu 11:39]
+** DONE 带咖啡冰杯
+SCHEDULED: <2023-05-31 Wed 06:40>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+** DONE 看视频
+CLOSED: [2023-07-27 Thu 08:26] SCHEDULED: <2023-07-24 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-07-27 Thu 08:26]
+@所有人 关于做好 2023 年暑假教师研修的通知
+https://jfy.pudong-edu.sh.cn/web/pdjfy/4560078-4560000015236.htm?Page=1
+https://basic.smartedu.cn/training/2023sqpx
+前期发布的师德专题培训是这个通知的一部分，认定 4 课时，其他模块专题完成 6 课时即可，总共 10 课时。
+智慧中小学教育平台
+** DONE 买花
+CLOSED: [2023-05-18 Thu 15:54] SCHEDULED: <2023-05-18 Thu 15:10>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-18 Thu 15:54]
+[2023-05-18 Thu 10:44]
+** KILL 讨论喜欢和讨厌的食物
+SCHEDULED: <2023-08-06 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: KILL
+:END:
+** DONE 报名共享课程
+CLOSED: [2023-09-21 Thu 23:33] SCHEDULED: <2023-09-19 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-09-21 Thu 23:33]
+** DONE 语文练习答案
+CLOSED: [2023-09-29 Fri 11:54] SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 20:33
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Remind
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-09-29 Fri 11:54]
+** DONE 传绯闻？
+CLOSED: [2024-02-05 Mon 13:40] SCHEDULED: <2024-02-01 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-18 Sun 10:16
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-02-05 Mon 13:40]
+** DONE 买 iPhone13 Pro Max 钢化膜
+CLOSED: [2024-01-30 Tue 11:53] SCHEDULED: <2024-01-24 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-20 Tue 15:22
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-01-30 Tue 11:53]
+* From life.org :ARCHIVE:
+** TODO Charge SONY 1000XM5
+SCHEDULED: <2024-05-14 Tue 11:30 .+1m>
+:PROPERTIES:
+:LAST_REPEAT: [2024-04-14 Sun 13:16]
+:ARCHIVE_TIME: 2024-01-25 Thu 14:15
+:ARCHIVE_FILE: ~/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: TODO
+:END:
+- State "DONE"       from "TODO"       [2024-04-14 Sun 13:16]
+- State "DONE"       from "TODO"       [2024-03-12 Tue 11:45]
+- State "DONE"       from "TODO"       [2024-01-30 Tue 21:17]
+- State "KILL"       from "TODO"       [2023-12-25 Mon 10:17]
+- State "DONE"       from "TODO"       [2023-12-25 Mon 10:17]
+- State "DONE"       from "TODO"       [2023-11-25 Sat 10:52]
+- State "DONE"       from "TODO"       [2023-10-24 Tue 13:33]
+- State "DONE"       from "TODO"       [2023-09-24 Sun 14:12]
+- State "DONE"       from "TODO"       [2023-08-24 Thu 12:48]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 14:07]
+- State "DONE"       from "TODO"       [2023-06-24 Sat 12:10]
+- State "DONE"       from "TODO"       [2023-05-22 Mon 19:33]
+- State "KILL"       from "TODO"       [2023-04-20 Thu 12:12]
+- State "DONE"       from "TODO"       [2023-03-24 Fri 13:00]
+- State "DONE"       from "TODO"       [2023-02-22 Wed 12:02]
+- State "DONE"       from "TODO"       [2023-01-18 Wed 00:45]
+** DONE 更换手表电池
+CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-26 Mon 09:48
+:ARCHIVE_FILE: ~/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-02-25 Sun 19:08]
+*** DONE 购买手表电池
+SCHEDULED: <2024-02-01 Thu>

@@ -1,0 +1,40 @@
+* SCSEE
+#+begin_src elisp
+  (fset 'set-page
+   (kmacro-lambda-form [?\C-e ?\C-  ?\C-b ?\C-b ?\M-w ?  ?o ?v ?\C-y ?\C-\\ ?\M-j ?\\ ?  return return ?\C-x ?o ?\M-i ?\C-c ?\C-f] 0 "%d"))
+  (global-set-key [f8] 'set-page)
+#+end_src
+
+#+RESULTS:
+: set-page
+* Set page with counter (org-noter)
+#+begin_src elisp
+  (fset 'set-page-with-count
+     (kmacro-lambda-form [?  ?o ?\C-u ?v f3 return ?\C-m ?  ?o ?\M-i ?  ?c ?n] 1 "^%d、"))
+  (global-set-key [f8] 'set-page-with-count)
+#+end_src
+
+#+RESULTS:
+: set-page-with-count
+
+* Answer and next (org-noter)
+#+begin_src elisp
+  (fset 'answer-and-next
+   (kmacro-lambda-form [?  ?c ?x ?  ?p ?s ?e ?l ?\C-m ?\C-u ?\C-x ?q ?\C-m ?\C-\M-n ?  ?o] 0 "%d"))
+  (global-set-key [f8] 'answer-and-next)
+#+end_src
+
+#+RESULTS:
+: answer-and-next
+* Right and wrong (org-noter)
+#+begin_src elisp
+  (fset 'right
+     (kmacro-lambda-form [?  ?c ?t ?r ?  ?c ?n ?\C-\M-. ?  ?o ?\C-l] 0 "%d"))
+  (global-set-key [f8] 'right)
+  (fset 'wrong
+     (kmacro-lambda-form [?  ?c ?t ?w ?\C-c ?\C-x ?p ?c ?o ?r return ?\C-u ?\C-x ?q return ?  ?c ?n ?\C-\M-. ?  ?o ?\C-l] 0 "%d"))
+  (global-set-key [f9] 'wrong)
+#+end_src
+
+#+RESULTS:
+: wrong

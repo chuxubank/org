@@ -1,0 +1,19 @@
+
+* Licenses
+** [2022-09-18 Sun] 初次使用
+#+begin_src json
+  {
+    "appId": "com.xingzhi.robot",
+    "issuedTime": ,
+    "notBefore": 1538671712,
+    "notAfter": 1640966400,
+    "customerInfo": "亚马逊公司"
+  }
+#+end_src
+
+#+begin_src elisp
+  (md5 "@eNw+W{5~c@5<q.}")
+#+end_src
+
+#+RESULTS:
+: 83997f21fa98c01da3cc79339403b025

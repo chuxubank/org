@@ -1,0 +1,46 @@
+#+TITLE: Music
+* KILL Take care guitar
+SCHEDULED: <2021-09-03 Fri .+0w/2w>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2021-08-27 Fri 11:50]
+:END:
+- State "KILL"       from "TODO"       [2021-08-27 Fri 11:50]
+- State "DONE"       from "TODO"       [2021-08-19 Thu 22:21]
+- State "DONE"       from "TODO"       [2021-07-12 Mon 23:06]
+- State "DONE"       from "TODO"       [2021-06-16 Wed 07:36]
+- State "DONE"       from "TODO"       [2021-05-25 Tue 07:20]
+- State "DONE"       from "TODO"       [2021-05-07 Fri 08:25]
+- State "DONE"       from "TODO"       [2021-04-16 Fri 22:51]
+- State "DONE"       from "TODO"       [2021-04-09 Fri 07:13]
+- State "DONE"       from "TODO"       [2021-03-18 Thu 23:25]
+- State "DONE"       from "TODO"       [2021-03-02 Tue 13:40]
+- State "DONE"       from "TODO"       [2020-10-11 Sun 11:07]
+- State "DONE"       from "TODO"       [2020-09-22 Tue 09:18]
+- State "DONE"       from "TODO"       [2020-09-14 Mon 12:00]
+- State "DONE"       from "TODO"       [2020-07-02 Thu 08:02]
+- State "DONE"       from "TODO"       [2020-06-30 Tue 07:41]
+- State "DONE"       from "TODO"       [2020-06-23 Tue 00:23]
+- State "DONE"       from "TODO"       [2020-06-18 Thu 10:52]
+- State "DONE"       from "TODO"       [2020-06-14 Sun 19:32]
+- State "DONE"       from "TODO"       [2020-06-10 Wed 07:57]
+- State "DONE"       from "TODO"       [2020-06-01 Mon 23:51]
+- State "DONE"       from "TODO"       [2020-05-27 Wed 08:54]
+- State "DONE"       from "TODO"       [2020-05-22 Fri 07:09]
+- State "DONE"       from "TODO"       [2020-05-13 Wed 20:40]
+- State "DONE"       from "TODO"       [2020-04-29 Wed 06:20]
+- State "DONE"       from "TODO"       [2020-04-21 Tue 08:08]
+- State "DONE"       from "TODO"       [2020-04-13 Mon 06:59]
+* Project
+** HOLD 制作 wowaka 印象曲
+DEADLINE: <2025-04-01 Tue> SCHEDULED: <2025-01-01 Wed>
+** PROJ VOCALOID all legend song -> guitar
+** PROJ 一首歌中混杂多位 P 主风格
+** PROJ 灵笼 MAD
+选曲：[[https://music.163.com/song?id=1334830040&userid=50598042][Take Over - Hidden Citizens/Ruelle]]
+最后三个 Take Over 分别对应 查尔斯，马克，4068
+** WAIT 制作音乐动画
+[[https://www.youtube.com/watch?v=dJf4wCdLU18][心予報 - Eve MV - YouTube]]
+* TODO Apple Music 经典摇滚
+[2021-03-24 Wed 21:21]
+https://music.apple.com/cn/curator/apple-music-%E7%BB%8F%E5%85%B8%E6%91%87%E6%BB%9A/976439531

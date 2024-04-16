@@ -1,0 +1,44 @@
+#+title: Inbox
+* TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
+* TODO Fix use-package with package-selected-packages
+* TODO Change personal config to use (provide 'x)
+** TODO Use featurep instead of package-installed-p
+* TODO IPTV
+SCHEDULED: <2024-04-05 Fri>
+- Note taken on [2024-04-05 Fri 06:52] \\
+  https://github.com/lizongying/my-tv
+* TODO Org handle Open Graph protocol
+SCHEDULED: <2024-05-29 Wed>
+* TODO 配置 nerd.chuxubank.top
+SCHEDULED: <2024-01-01 Mon>
+[[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
+* TODO 使用 Kotlin Multiplatform 实现 Org Agenda
+SCHEDULED: <2024-04-02 Tue>
+* TODO Use FSRS for Anki
+SCHEDULED: <2024-03-02 Sat>
+https://github.com/open-spaced-repetition/fsrs4anki
+* DONE Learn Emacs term
+SCHEDULED: <2023-10-01 Sun>
+[[info:emacs#Terminal emulator][emacs#Terminal emulator]]
+* TODO Learn org babel and noweb
+https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
+* TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
+SCHEDULED: <2023-12-21 Thu>
+* TODO 三鲜豆皮
+* TODO 书法 NFT
+* TODO Bitcoin Whitepaper
+* STRT beancount 学习记账
+DEADLINE: <2024-04-08 Mon> SCHEDULED: <2024-01-01 Mon>
+* WAIT 简历制作
+* WAIT 刷算法题
+* WAIT 学习日语
+* IDEA ha.el
+homeassistant
+* IDEA 吃药提醒 App
+* IDEA 国际驾照
+* TODO 江苏银行公积金还贷
+SCHEDULED: <2024-02-01 Thu>
+[2023-10-07 Sat 09:15]
+* DONE Emacs 配置 Docker 化
+SCHEDULED: <2024-01-01 Mon>
+[2023-12-03 Sun 11:34]

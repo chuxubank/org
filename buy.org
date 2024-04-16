@@ -1,0 +1,14 @@
+#+TITLE: Buy
+#+options: toc:nil
+#+link: jd      https://item.jd.com/%s.html
+#+link: jdhk    https://npcitem.jd.hk/%s.html
+#+link: aqara   https://www.aqara.com/cn/productDetail/%s
+#+property: Budget
+#+columns: %20ITEM %TODO(State) %BUDGET(CNY){$}
+* TODO 小米 4K 显示器
+* TODO 篆书字帖
+袁敞碑
+袁安碑
+明清
+王福庵
+* TODO USB Typc-C Hub

@@ -1,0 +1,268 @@
+#+title: Notes
+
+* Inbox
+** [2024-01-17 Wed] archlinux brewfile
+https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks#List_of_installed_packages
+** [2024-01-17 Wed] OrbStack
+#+begin_src sh
+  ln -s /mnt/mac/Users/xuchu1/.local/share/chezmoi ~/.local/share/
+#+end_src
+
+** [2023-05-10 Wed] iOS Voice
+Available TTS voices:
+{{tts ar-001 voices=Apple_Majed:Front}}
+{{tts bg-BG voices=Apple_Daria:Front}}
+{{tts ca-ES voices=Apple_Montse:Front}}
+{{tts cs-CZ voices=Apple_Zuzana:Front}}
+{{tts da-DK voices=Apple_Sara:Front}}
+{{tts de-DE voices=Apple_Anna:Front}}
+{{tts de-DE voices=Apple_Eddy:Front}}
+{{tts de-DE voices=Apple_Flo:Front}}
+{{tts de-DE voices=Apple_Grandma:Front}}
+{{tts de-DE voices=Apple_Grandpa:Front}}
+{{tts de-DE voices=Apple_Helena:Front}}
+{{tts de-DE voices=Apple_Martin:Front}}
+{{tts de-DE voices=Apple_Reed:Front}}
+{{tts de-DE voices=Apple_Rocko:Front}}
+{{tts de-DE voices=Apple_Sandy:Front}}
+{{tts de-DE voices=Apple_Shelley:Front}}
+{{tts el-GR voices=Apple_Melina:Front}}
+{{tts en-AU voices=Apple_Catherine:Front}}
+{{tts en-AU voices=Apple_Gordon:Front}}
+{{tts en-AU voices=Apple_Karen:Front}}
+{{tts en-GB voices=Apple_Arthur:Front}}
+{{tts en-GB voices=Apple_Daniel:Front}}
+{{tts en-GB voices=Apple_Eddy:Front}}
+{{tts en-GB voices=Apple_Flo:Front}}
+{{tts en-GB voices=Apple_Grandma:Front}}
+{{tts en-GB voices=Apple_Grandpa:Front}}
+{{tts en-GB voices=Apple_Martha:Front}}
+{{tts en-GB voices=Apple_Reed:Front}}
+{{tts en-GB voices=Apple_Rocko:Front}}
+{{tts en-GB voices=Apple_Sandy:Front}}
+{{tts en-GB voices=Apple_Shelley:Front}}
+{{tts en-IE voices=Apple_Moira:Front}}
+{{tts en-IN voices=Apple_Rishi:Front}}
+{{tts en-US voices=Apple_Aaron:Front}}
+{{tts en-US voices=Apple_Albert:Front}}
+{{tts en-US voices=Apple_Bad_News:Front}}
+{{tts en-US voices=Apple_Bahh:Front}}
+{{tts en-US voices=Apple_Bells:Front}}
+{{tts en-US voices=Apple_Boing:Front}}
+{{tts en-US voices=Apple_Bubbles:Front}}
+{{tts en-US voices=Apple_Cellos:Front}}
+{{tts en-US voices=Apple_Eddy:Front}}
+{{tts en-US voices=Apple_Flo:Front}}
+{{tts en-US voices=Apple_Fred:Front}}
+{{tts en-US voices=Apple_Good_News:Front}}
+{{tts en-US voices=Apple_Grandma:Front}}
+{{tts en-US voices=Apple_Grandpa:Front}}
+{{tts en-US voices=Apple_Jester:Front}}
+{{tts en-US voices=Apple_Junior:Front}}
+{{tts en-US voices=Apple_Kathy:Front}}
+{{tts en-US voices=Apple_Nicky:Front}}
+{{tts en-US voices=Apple_Organ:Front}}
+{{tts en-US voices=Apple_Ralph:Front}}
+{{tts en-US voices=Apple_Reed:Front}}
+{{tts en-US voices=Apple_Rocko:Front}}
+{{tts en-US voices=Apple_Samantha:Front}}
+{{tts en-US voices=Apple_Sandy:Front}}
+{{tts en-US voices=Apple_Shelley:Front}}
+{{tts en-US voices=Apple_Superstar:Front}}
+{{tts en-US voices=Apple_Trinoids:Front}}
+{{tts en-US voices=Apple_Whisper:Front}}
+{{tts en-US voices=Apple_Wobble:Front}}
+{{tts en-US voices=Apple_Zarvox:Front}}
+{{tts en-ZA voices=Apple_Tessa:Front}}
+{{tts es-ES voices=Apple_Eddy:Front}}
+{{tts es-ES voices=Apple_Flo:Front}}
+{{tts es-ES voices=Apple_Grandma:Front}}
+{{tts es-ES voices=Apple_Grandpa:Front}}
+{{tts es-ES voices=Apple_Mónica:Front}}
+{{tts es-ES voices=Apple_Reed:Front}}
+{{tts es-ES voices=Apple_Rocko:Front}}
+{{tts es-ES voices=Apple_Sandy:Front}}
+{{tts es-ES voices=Apple_Shelley:Front}}
+{{tts es-MX voices=Apple_Eddy:Front}}
+{{tts es-MX voices=Apple_Flo:Front}}
+{{tts es-MX voices=Apple_Grandma:Front}}
+{{tts es-MX voices=Apple_Grandpa:Front}}
+{{tts es-MX voices=Apple_Paulina:Front}}
+{{tts es-MX voices=Apple_Reed:Front}}
+{{tts es-MX voices=Apple_Rocko:Front}}
+{{tts es-MX voices=Apple_Sandy:Front}}
+{{tts es-MX voices=Apple_Shelley:Front}}
+{{tts fi-FI voices=Apple_Eddy:Front}}
+{{tts fi-FI voices=Apple_Flo:Front}}
+{{tts fi-FI voices=Apple_Grandma:Front}}
+{{tts fi-FI voices=Apple_Grandpa:Front}}
+{{tts fi-FI voices=Apple_Reed:Front}}
+{{tts fi-FI voices=Apple_Rocko:Front}}
+{{tts fi-FI voices=Apple_Sandy:Front}}
+{{tts fi-FI voices=Apple_Satu:Front}}
+{{tts fi-FI voices=Apple_Shelley:Front}}
+{{tts fr-CA voices=Apple_Amélie:Front}}
+{{tts fr-CA voices=Apple_Eddy:Front}}
+{{tts fr-CA voices=Apple_Flo:Front}}
+{{tts fr-CA voices=Apple_Grandma:Front}}
+{{tts fr-CA voices=Apple_Grandpa:Front}}
+{{tts fr-CA voices=Apple_Reed:Front}}
+{{tts fr-CA voices=Apple_Rocko:Front}}
+{{tts fr-CA voices=Apple_Sandy:Front}}
+{{tts fr-CA voices=Apple_Shelley:Front}}
+{{tts fr-FR voices=Apple_Daniel:Front}}
+{{tts fr-FR voices=Apple_Eddy:Front}}
+{{tts fr-FR voices=Apple_Flo:Front}}
+{{tts fr-FR voices=Apple_Grandma:Front}}
+{{tts fr-FR voices=Apple_Grandpa:Front}}
+{{tts fr-FR voices=Apple_Jacques:Front}}
+{{tts fr-FR voices=Apple_Marie:Front}}
+{{tts fr-FR voices=Apple_Rocko:Front}}
+{{tts fr-FR voices=Apple_Sandy:Front}}
+{{tts fr-FR voices=Apple_Shelley:Front}}
+{{tts fr-FR voices=Apple_Thomas:Front}}
+{{tts he-IL voices=Apple_Carmit:Front}}
+{{tts hi-IN voices=Apple_Lekha:Front}}
+{{tts hr-HR voices=Apple_Lana:Front}}
+{{tts hu-HU voices=Apple_Tünde:Front}}
+{{tts id-ID voices=Apple_Damayanti:Front}}
+{{tts it-IT voices=Apple_Alice:Front}}
+{{tts it-IT voices=Apple_Eddy:Front}}
+{{tts it-IT voices=Apple_Flo:Front}}
+{{tts it-IT voices=Apple_Grandma:Front}}
+{{tts it-IT voices=Apple_Grandpa:Front}}
+{{tts it-IT voices=Apple_Reed:Front}}
+{{tts it-IT voices=Apple_Rocko:Front}}
+{{tts it-IT voices=Apple_Sandy:Front}}
+{{tts it-IT voices=Apple_Shelley:Front}}
+{{tts ja-JP voices=Apple_Hattori:Front}}
+{{tts ja-JP voices=Apple_Kyoko:Front}}
+{{tts ja-JP voices=Apple_O-ren:Front}}
+{{tts ko-KR voices=Apple_Yuna:Front}}
+{{tts ms-MY voices=Apple_Amira:Front}}
+{{tts nb-NO voices=Apple_Nora:Front}}
+{{tts nl-BE voices=Apple_Ellen:Front}}
+{{tts nl-NL voices=Apple_Xander:Front}}
+{{tts pl-PL voices=Apple_Zosia:Front}}
+{{tts pt-BR voices=Apple_Eddy:Front}}
+{{tts pt-BR voices=Apple_Flo:Front}}
+{{tts pt-BR voices=Apple_Grandma:Front}}
+{{tts pt-BR voices=Apple_Grandpa:Front}}
+{{tts pt-BR voices=Apple_Luciana:Front}}
+{{tts pt-BR voices=Apple_Reed:Front}}
+{{tts pt-BR voices=Apple_Rocko:Front}}
+{{tts pt-BR voices=Apple_Sandy:Front}}
+{{tts pt-BR voices=Apple_Shelley:Front}}
+{{tts pt-PT voices=Apple_Joana:Front}}
+{{tts ro-RO voices=Apple_Ioana:Front}}
+{{tts ru-RU voices=Apple_Milena:Front}}
+{{tts sk-SK voices=Apple_Laura:Front}}
+{{tts sv-SE voices=Apple_Alva:Front}}
+{{tts th-TH voices=Apple_Kanya:Front}}
+{{tts tr-TR voices=Apple_Yelda:Front}}
+{{tts uk-UA voices=Apple_Lesya:Front}}
+{{tts vi-VN voices=Apple_Linh:Front}}
+{{tts zh-CN voices=Apple_婷婷:Front}}
+{{tts zh-CN voices=Apple_李牧:Front}}
+{{tts zh-CN voices=Apple_语舒:Front}}
+{{tts zh-HK voices=Apple_善怡:Front}}
+{{tts zh-TW voices=Apple_美嘉:Front}}
+** [2023-03-02 Thu] Merlin AsusWRT
+https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/
+** [2022-07-05 Tue] Xray log config
+
+[[file:/usr/local/Cellar/xray/1.5.5/homebrew.mxcl.xray.plist::<key>RunAtLoad</key>]]
+
+#+begin_src plist
+  	<key>StandardErrorPath</key>
+	<string>/usr/local/var/log/xray/error.log</string>
+	<key>StandardOutPath</key>
+	<string>/usr/local/var/log/xray/access.log</string>
+#+end_src
+
+** [2021-12-21 Tue] 面试问题
+- 对 MVVM 的理解，activity 属于哪一部分？
+- Java switch 和 Kotlin when 的区别
+- 进程间通信 Handler Flow
+- Java 调用 C 的步骤
+- C 能否调用 Java 库，如何调用？
+- Kotlin 中 apply also let with run 的区别
+- Kotlin 中 两个协程之间如何交换数据？
+- Kotlin 中 sealed class 与 enum class 的区别
+- 遇到无法复现的 Bug 如何解决
+- 如何构建单元测试（对象如何非 mock 创建）
+- Activity 启动流程
+- 设计模式
+** [2021-08-25 Wed] Fonts
+Courier Prime
+** [2021-08-24 Tue] Deleted content
+text/html; /usr/bin/xdg-open %s ; copiousoutput
+[[file:/sudo:root@ZY-CX:/etc/mailcap][file:/sudo:root@ZY-CX:/etc/mailcap]]
+** [2021-06-11 Fri] 古人已经帮我们总结好了，潘驴邓小闲
+https://t.me/emacs_zh/240564
+* Proxy
+** docker
+#+begin_src sh
+  curl -fsSL https://get.docker.com -o get-docker.sh
+  sh ./get-docker.sh
+#+end_src
+** github-cli
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt
+
+#+begin_src sh
+  gh auth login
+  gh repo clone proxy-config
+#+end_src
+** Speed
+| Circuit  |             IP | Method | Ping | Download | Upload | DateTime               |
+|----------+----------------+--------+------+----------+--------+------------------------|
+| DC8 ZNET | 93.179.113.126 | XTLS   |  169 |     31.1 |     53 | [2022-03-26 Sat 22:00] |
+| DC8 ZNET | 93.179.113.126 | GRPC   |  171 |     10.2 |   14.6 | [2022-03-26 Sat 22:00] |
+| DC2 QNET | 144.34.160.206 | XTLS   |  251 |     2.11 |   3.34 | [2022-03-26 Sat 22:54] |
+| DC2 QNET | 144.34.160.206 | GRPC   |  328 |        1 |   3.34 | [2022-03-26 Sat 22:58] |
+| DC3 CN2  |  23.105.196.50 | XTLS   |  240 |     2.47 |   5.57 | [2022-03-26 Sat 23:28] |
+| DC3 CN2  |  23.105.196.50 | GRPC   |  207 |     0.39 |   4.41 | [2022-03-26 Sat 23:22] |
+| DC4 MCOM | 98.142.139.164 | XTLS   |  309 |    20.30 |  23.87 | [2022-03-27 Sun 10:02] |
+| USCA_FMT |   23.83.225.87 | XTLS   |      |          |        |                        |
+
+* geosite
+#+begin_src sh :dir "/sudo::" :var file="/usr/local/share/xray/geosite.dat"
+  sudo wget https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat -O $file
+  ls -lh $file
+#+end_src
+
+#+RESULTS:
+: -rw-r--r--  1 misaka  admin   1.0M Dec  9 18:09 /usr/local/share/xray/geosite.dat
+* geoip
+#+begin_src sh :dir "/sudo::" :var file="/usr/local/share/xray/geoip.dat"
+  sudo wget https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat -O $file
+  ls -lh $file
+#+end_src
+
+#+RESULTS:
+: -rw-r--r--  1 misaka  admin    11M Dec 13 08:14 /usr/local/share/xray/geoip.dat
+* mmdb
+#+begin_src sh :dir "/sudo::" :var file="/usr/local/bin/geo.mmdb"
+  sudo wget https://github.com/Loyalsoldier/geoip/releases/latest/download/Country.mmdb -O $file
+  ls -lh $file
+#+end_src
+
+#+RESULTS:
+: -rw-r--r--  1 root  admin   5.4M Nov 11 08:49 /usr/local/bin/geo.mmdb
+* org-protocol
+** Org: store-link
+#+begin_src js
+  javascript:location.href='org-protocol://store-link?' + new URLSearchParams({url:location.href, title:document.title});
+#+end_src
+** Org: capture
+#+begin_src js
+  javascript:location.href='org-protocol://capture?' + new URLSearchParams({template:'t', url:window.location.href, title:document.title, body:window.getSelection()});
+#+end_src
+** Org: roam-ref
+#+begin_src js
+  javascript:location.href='org-protocol://roam-ref?' + new URLSearchParams({template:'r', ref:window.location.href, title:document.title, body:window.getSelection()});
+#+end_src
+
+* 充电电池位置
+- 七号 :: ikbc 键盘@2
+- 五号 :: 无线话筒@4

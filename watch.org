@@ -1,0 +1,74 @@
+#+TITLE: Watch
+#+link: bili    https://www.bilibili.com/bangumi/media/%s
+
+* 番剧 [5/27]
+** TODO 四叶游戏
+** TODO 奇巧计程车
+** TODO 化物语
+** TODO 哥布林杀手
+** TODO 虫师
+** TODO 铳墓
+** TODO 心理测量者
+** TODO 好想告诉你
+** TODO Monster
+** TODO Hybrid Child
+** TODO 异种族风俗娘
+** TODO 来自新世界 :dark:
+[[bili:md1598]]
+** TODO 明日之杖
+[[bili:md95252]]
+** TODO Megalo Box 2
+[[bili:md28233916]]
+** TODO 恶魔人 :dark:
+** TODO 不死不幸
+** TODO 文豪野犬
+** TODO 暴食的狂战士
+** TODO 大欺诈师
+** TODO Berserk
+** WAIT 东之伊甸
+** WAIT 电锯人
+** KILL 重启咲良田
+CLOSED: [2022-05-05 Thu 21:24] SCHEDULED: <2022-05-01 Sun>
+** DONE 国王排名
+SCHEDULED: <2021-11-26 Fri 01:25 +0w>
+:PROPERTIES:
+:LAST_REPEAT: [2021-11-20 Sat 07:59]
+:END:
+- State "DONE"       from "TODO"       [2022-01-13 Thu 18:46]
+- State "DONE"       from "TODO"       [2022-01-13 Thu 18:46]
+- State "DONE"       from "TODO"       [2022-01-13 Thu 18:46]
+- State "DONE"       from "TODO"       [2022-01-03 Mon 08:53]
+- State "DONE"       from "TODO"       [2022-01-03 Mon 08:53]
+- State "DONE"       from "TODO"       [2021-11-20 Sat 07:59]
+- State "DONE"       from "TODO"       [2021-11-20 Sat 07:59]
+- State "DONE"       from "TODO"       [2021-11-06 Sat 07:44]
+[[bili:md28235154]]
+** DONE 时光代理人
+[[bili:md28230742]]
+** DONE Vivy
+[[bili:md28233942]]
+** DONE Megalo Box
+SCHEDULED: <2018-04-06 Fri>
+[[bili:md79472]]
+[[wiki-zh:MEGALO_BOX]]
+以 [[明日之杖]] 为蓝本的精神续作
+
+** 二舍六房的七人
+* 电影 [0/4]
+** TODO 猫鼠游戏
+** TODO 华尔街之狼
+** TODO Don't Look Up
+** TODO 低俗小说
+* 电视 [1/4]
+** TODO 请回答 1988
+** TODO 基地
+** TODO 雪滴花
+** TODO 我 准时下班
+[2022-01-27 Thu 12:49]
+** TODO 经常请吃饭的漂亮姐姐
+** DONE 半之半
+SCHEDULED: <2021-04-04 Sun 02:23>
+CLOSED: [2021-04-27 Tue 10:18]
+* 漫画 [1/2]
+** TODO 天国大魔镜
+** DONE 亲爱的我包含杀意
