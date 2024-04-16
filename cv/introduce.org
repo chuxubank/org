@@ -1,0 +1,20 @@
+Good afternoon, my dear teachers and professors.  I am so honoured to have the chance of this interview.
+
+Now I’m going to introduce myself from the following aspects:
+
+First is my brief information:
+
+My name is Chu Xu and I come from Shanghai. I graduated from Shanghai Polytechnic University, majoring in Software Engineering. During the four years of studying in my university, I dedicate myself to programming. I have acquired a lot in this field and have won scholarships and competition award many times.
+
+After graduated from SSPU, I work in the ZhiYan Intelligent Company, as an Android Developer. Mostly we use Kotlin to develop new apps, and I'm welcome to new technics. The latest project I made is a Big Screen App lets user to use WeChat QRCode to check in and check out books by themselves. It's developed with Jetpack Compose UI architecture.
+
+In addition to programming, I also have great interests in sports, music and calligraphy. While playing Basketball I learned how to cooperate and communicate with each other. I also join a rock band in our school as a rhythm guitarist, and enjoying the time we rehearsal and perform together. I have learned calligraphy for more than 10 years, won plenty of prices and now I am a member of Shanghai Youth Calligraphers' Association, but the most important is that calligraphy made me more patient. Success belongs to the persevering. In these activities, I have made a lot of friends, learned how to get along with others and have become an outgoing, warm-hearted and positive boy.
+
+# Second, I want to talk about why I choose to take postgraduate examination.
+
+# That's because I love my major. Seeing my program running rightly and efficiently is such a pleasant thing. Therefore I want to learn more about it. But I am not satisfied with what I have learned until now. I hope I could have a better and deep understanding in programming by studying further in a more advanced and professional environment. This is the very important reason for me to take the postgraduate exams.
+
+# I sincerely hope I could get the opportunity to finish my postgraduate courses here. If I am given a chance to study computer technic in this famous University, I will concentrate on my study and make great efforts to master a good command of advanced computer technic. OK, that's all for my self-introduction. Thank you for your attention.
+
+Andrew Ng's metaphor for AI:
+AI is the new Electricity. Electricity had once transformed countless industries: transportation, manufacturing, healthcare, communications, and more. AI will now bring about an equally big transformation.

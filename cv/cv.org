@@ -1,0 +1,67 @@
+# #+CVSTYLE: 
+# #+CVCOLOR: 
+
+#+LATEX_HEADER: \geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+
+#+TITLE: Android开发
+#+AUTHOR: 褚旭
+#+email: chuxubank@gmail.com
+
+#+ADDRESS: 上海市松江区新农河路398 弄 27 号
+#+MOBILE: (+86) 18516704081
+#+HOMEPAGE: chuxubank.github.io
+#+GITHUB: chuxubank
+#+GITLAB: chuxubank
+#+LINKEDIN: chuxubank
+#+PHOTO: photo.jpg
+
+* Employment
+** Android 开发
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2019-12-01 Mon>
+:TO:       <2021-10-21 Thu>
+:LOCATION: 中国，上海
+:EMPLOYER: 上海致研智能有限公司
+:END:
+
+- 使用 Java 实现 C/S 架构的图书盘点系统的 Android 客户端部分，与 RFID 扫描枪通过蓝牙连接完成图书馆内的图书盘点，并在客户端 实现书籍索书号的排序算法。使用 Docker 改进盘点服务器部署流程，加快公司发货速度。
+- 维护 Java 实现的双开门 RFID 图书自助借还柜，在保持功能不变的情况下精简并美化代码，修复多处 BUG。增加了通过智能中央控 制系统 (ICMS) 远程修改设备配置以及软硬件重启的功能。
+- 使用 C++开发公司的授权控制库，使用 CMake 进行构建。
+- 使用 Kotlin 实现人脸注册机，借助 Google 的 MLKit 和 CameraX 实现识别到人脸且角度合适时抓拍照片并裁切人脸部分区域进行注册，与通过 HID 设备识别出的卡号进行绑定，实现闸机上人脸和刷卡均可通行。
+- 充分利用 AndroidJetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2,Moshi,Coil‐kt,Coroutines,Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
+- 使用 JetpackComposeUI 框架开发图书自助借还机，通过扫描微信读者证二维码读者即可自助完成图书借还。对 Android 的串口通信库使用 Kotlin 协程进行了二次封装，同时支持 USB 串口和 RS‐232/485 串口的通信。
+
+** Android 开发（实习）
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2019-04-01 Mon>
+:TO:       <2019-08-01 Thu>
+:LOCATION: 中国，上海
+:EMPLOYER: 上海西派埃智能化系统有限公司
+:END:
+
+- 负责移动端 NFC 读写工具的开发，使用 Retrofit 和 Realm 进行网络请求和数据持久化，并与手机 NFC 组件交互，进行 NFC 标签的读写。
+- 使用 PersistentCookieJar 读取并存储 Cookie 信息,保持用户登录。
+  + 在使用该库时发现其 Cookie 数据验证与公司提供的不符合,并通过 Java 重写机制修复了此问题。
+
+#+begin_src elisp
+  (org-export-to-file 'moderncv "moderncv.tex")
+  (org-latex-compile "moderncv.tex")
+#+end_src
+
+#+RESULTS:
+: /Users/misaka/org/cv/moderncv.pdf
+
+#+begin_src elisp
+  (org-export-to-file 'awesomecv "awesomecv.tex")
+  (org-latex-compile "awesomecv.tex")
+#+end_src
+
+#+RESULTS:
+: /Users/xuchu1/org/cv/awesomecv.pdf
+
+#+begin_src elisp
+  (org-export-to-file 'altacv "altacv.tex")
+  (org-latex-compile "altacv.tex")
+#+end_src
