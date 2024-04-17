@@ -10,7 +10,7 @@ SCHEDULED: <2024-04-05 Fri>
 * TODO Org handle Open Graph protocol
 SCHEDULED: <2024-05-29 Wed>
 * TODO 配置 nerd.chuxubank.top
-SCHEDULED: <2024-01-01 Mon>
+SCHEDULED: <2024-05-01 Wed>
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO 使用 Kotlin Multiplatform 实现 Org Agenda
 SCHEDULED: <2024-04-02 Tue>
