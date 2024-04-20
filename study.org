@@ -33,19 +33,6 @@ SCHEDULED: <2024-06-01 Sat>
 - [ ] 真题
 - [ ] 肖秀荣
 - [ ] 整理史纲 毛中特时间线
-* 公务员
-** DONE 公务员报名缴费
-DEADLINE: <2021-11-11 Thu> SCHEDULED: <2021-11-05 Fri>
-http://www.shacs.gov.cn/CivilServants/ExamEmployment?type=gwykl
-** DONE 打印准考证
-SCHEDULED: <2021-12-07 Tue 10:00>
-** DONE 核酸检测
-DEADLINE: <2021-12-10 Fri> SCHEDULED: <2021-12-09 Thu 09:00>
-** DONE 成绩公布
-SCHEDULED: <2022-01-14 Fri>
-** KILL 职位报名
-DEADLINE: <2022-02-25 Fri 18:00> SCHEDULED: <2022-02-21 Mon 09:00>
-** TODO 整理时代楷模事例
 * 编程
 ** TODO 6.824
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
