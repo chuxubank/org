@@ -1,4 +1,5 @@
 #+title: Inbox
+* TODO 使用 chezmoi 设置 rime
 * TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 * TODO Fix use-package with package-selected-packages
 * TODO Change personal config to use (provide 'x)
