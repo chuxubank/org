@@ -1,6 +1,7 @@
 #+TITLE: Study
 
 * 考研
+SCHEDULED: <2024-06-01 Sat>
 ** 数学 [0/2]
 - [X] 高数整理
 - [X] 线代整理
@@ -19,11 +20,44 @@
 - [ ] 软件工程
 - [ ] CSAPP
 - [ ] 计算机网络
-*** KILL [#A] 复习软考
-SCHEDULED: <2022-05-31 Tue>
+*** 题目
+- [ ] 两个小球从不同楼层落下 最少测试数目
+- [ ] 分糖果 数值较高的人比两边分的糖果多 每人至少 1 个
+- [ ] 随机数拓展
+** 英语
+- [ ] 单词
+- [ ] 真题
+- [ ] 音标
+** 政治
+- [ ] 整理
+- [ ] 真题
+- [ ] 肖秀荣
+- [ ] 整理史纲 毛中特时间线
+* 公务员
+** DONE 公务员报名缴费
+DEADLINE: <2021-11-11 Thu> SCHEDULED: <2021-11-05 Fri>
+http://www.shacs.gov.cn/CivilServants/ExamEmployment?type=gwykl
+** DONE 打印准考证
+SCHEDULED: <2021-12-07 Tue 10:00>
+** DONE 核酸检测
+DEADLINE: <2021-12-10 Fri> SCHEDULED: <2021-12-09 Thu 09:00>
+** DONE 成绩公布
+SCHEDULED: <2022-01-14 Fri>
+** KILL 职位报名
+DEADLINE: <2022-02-25 Fri 18:00> SCHEDULED: <2022-02-21 Mon 09:00>
+** TODO 整理时代楷模事例
+* 编程
+** TODO 6.824
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
+** TODO 15445
+https://15445.courses.cs.cmu.edu/fall2021/
+* TODO 耶鲁大学公开课：聆听音乐
+https://oyc.yale.edu/music/musi-112/lecture-1
+* TODO [#A] 软考
+SCHEDULED: <2024-04-20 Sat> DEADLINE: <2024-05-26 Sun>
 [[http://www.ruankao.org.cn][中国计算机技术职业资格网]]
 [[http://www.rsj.sh.gov.cn/ksyzc/index801.jsp][上海市职业能力考试院]]
-**** 系统架构设计师
+** 系统架构设计师
 1. 握计算机硬软件与网络的基础知识；
 2. 悉信息系统开发过程；
 3. 解信息系统开发标准、常用信息技术标准；
@@ -43,7 +77,7 @@ SCHEDULED: <2022-05-31 Tue>
     - 信息系统综合知识，考试时间为 150 分钟，笔试，选择题；
     - 系统架构设计案例分析，考试时间为 90 分钟，笔试，问答题；
     - 系统架构设计论文，考试时间为 120 分钟，笔试，论文题。
-**** 信息系统项目管理师
+** 信息系统项目管理师
 1．考试要求
 
 （1）掌握信息系统知识；
@@ -83,39 +117,6 @@ SCHEDULED: <2022-05-31 Tue>
 （2）信息系统项目管理案例分析，考试时间为 90 分钟，笔试，问答题；
 
 （3）信息系统项目管理论文，考试时间为 120 分钟，笔试，论文题。
-**** DONE 软考报名
+** DONE 软考报名
 SCHEDULED: <2022-03-13 Sun>
 https://bm.ruankao.org.cn/sign/welcome
-*** 题目
-- [ ] 两个小球从不同楼层落下 最少测试数目
-- [ ] 分糖果 数值较高的人比两边分的糖果多 每人至少 1 个
-- [ ] 随机数拓展
-** 英语
-- [ ] 单词
-- [ ] 真题
-- [ ] 音标
-** 政治
-- [ ] 整理
-- [ ] 真题
-- [ ] 肖秀荣
-- [ ] 整理史纲 毛中特时间线
-* 公务员
-** DONE 公务员报名缴费
-DEADLINE: <2021-11-11 Thu> SCHEDULED: <2021-11-05 Fri>
-http://www.shacs.gov.cn/CivilServants/ExamEmployment?type=gwykl
-** DONE 打印准考证
-SCHEDULED: <2021-12-07 Tue 10:00>
-** DONE 核酸检测
-DEADLINE: <2021-12-10 Fri> SCHEDULED: <2021-12-09 Thu 09:00>
-** DONE 成绩公布
-SCHEDULED: <2022-01-14 Fri>
-** KILL 职位报名
-DEADLINE: <2022-02-25 Fri 18:00> SCHEDULED: <2022-02-21 Mon 09:00>
-** TODO 整理时代楷模事例
-* 编程
-** TODO 6.824
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
-** TODO 15445
-https://15445.courses.cs.cmu.edu/fall2021/
-* TODO 耶鲁大学公开课：聆听音乐
-https://oyc.yale.edu/music/musi-112/lecture-1
