@@ -5,7 +5,7 @@
 * TODO Change personal config to use (provide 'x)
 ** TODO Use featurep instead of package-installed-p
 * TODO IPTV
-SCHEDULED: <2024-04-05 Fri>
+SCHEDULED: <2024-06-19 Wed>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO Org handle Open Graph protocol
