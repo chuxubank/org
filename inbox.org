@@ -29,7 +29,7 @@ SCHEDULED: <2023-12-21 Thu>
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * STRT beancount 学习记账
-DEADLINE: <2024-05-03 Fri> SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
 * WAIT 简历制作
 * WAIT 刷算法题
 * WAIT 学习日语
