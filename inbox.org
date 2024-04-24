@@ -1,5 +1,7 @@
 #+title: Inbox
-* TODO 制作根据URL自动播放B站的Shortcut
+* TODO Build Emacs as a Java/Kotlin IDE
+SCHEDULED: <2024-04-24 Wed>
+* TODO 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO 使用 chezmoi 设置 rime
 * TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
