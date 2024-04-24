@@ -1,1 +1,9 @@
 #+title: Emacs
+
+* Inbox
+** IDEA ha.el
+homeassistant
+** STRT beancount 学习记账
+SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
+** TODO Build Emacs as a Java/Kotlin IDE
+SCHEDULED: <2024-04-24 Wed>

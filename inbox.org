@@ -1,6 +1,4 @@
 #+title: Inbox
-* TODO Build Emacs as a Java/Kotlin IDE
-SCHEDULED: <2024-04-24 Wed>
 * TODO 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO 使用 chezmoi 设置 rime
@@ -32,14 +30,9 @@ SCHEDULED: <2023-12-21 Thu>
 * TODO 三鲜豆皮
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
-* STRT beancount 学习记账
-SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
 * WAIT 简历制作
 * WAIT 刷算法题
 * WAIT 学习日语
-* IDEA ha.el
-homeassistant
-* IDEA 吃药提醒 App
 * IDEA 国际驾照
 * TODO 江苏银行公积金还贷
 SCHEDULED: <2024-02-01 Thu>
