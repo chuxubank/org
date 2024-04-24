@@ -9,7 +9,7 @@ SCHEDULED: <2024-06-19 Wed>
 SCHEDULED: <2024-05-01 Wed>
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Use FSRS for Anki
-SCHEDULED: <2024-03-02 Sat>
+SCHEDULED: <2024-06-23 Sun>
 https://github.com/open-spaced-repetition/fsrs4anki
 * TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
 SCHEDULED: <2023-12-21 Thu>
