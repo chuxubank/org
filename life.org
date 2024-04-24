@@ -714,7 +714,7 @@ SCHEDULED: <2024-02-02 Fri .+1m>
 - State "KILL"       from "TODO"       [2022-02-22 Tue 07:49]
 - State "DONE"       from "TODO"       [2022-02-06 Sun 10:14]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
-** TODO Renew driver's license
+** DONE Renew driver's license
 SCHEDULED: <2024-04-17 Wed> DEADLINE: <2024-06-20 Thu>
 ** TODO 添加玻璃水
 SCHEDULED: <2026-01-31 Sat .+2y>
