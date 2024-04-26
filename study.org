@@ -44,6 +44,7 @@ https://oyc.yale.edu/music/musi-112/lecture-1
 SCHEDULED: <2024-04-20 Sat> DEADLINE: <2024-05-26 Sun>
 [[http://www.ruankao.org.cn][中国计算机技术职业资格网]]
 [[http://www.rsj.sh.gov.cn/ksyzc/index801.jsp][上海市职业能力考试院]]
+[[https://www.bilibili.com/video/BV1Ba4y1u7EC][【2024年软考高级】《系统架构设计师》新版精讲视频合集-希赛网（含报考指南、精讲考点，建议收藏）！_哔哩哔哩_bilibili]]
 ** 系统架构设计师
 1. 握计算机硬软件与网络的基础知识；
 2. 悉信息系统开发过程；
