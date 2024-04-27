@@ -1,13 +1,14 @@
 #+title: Emacs
 
 * Inbox
-** IDEA ha.el
+** IDEA hass.el
 homeassistant
 ** STRT beancount 学习记账
 SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
 ** TODO 使用 chezmoi 设置 rime
+SCHEDULED: <2024-04-27 Sat>
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
 ** TODO Change personal config to use (provide 'x)

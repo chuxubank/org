@@ -5,7 +5,7 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [17/18]
+* 展览 [18/18]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** DONE 第三届“卫夫人奖”全国书法篆刻作品展
 CLOSED: [2023-07-02 Sun 09:52] DEADLINE: <2023-07-10 Mon> SCHEDULED: <2023-06-29 Thu>
@@ -527,7 +527,7 @@ https://mp.weixin.qq.com/s/gr3X8dCzvhTr_qVdVvis4A
 举世嫉修眉，不特深宫见妒；随人矜寸舌，犹然列国争长。
 一池荷叶衣无尽，翻骄锦绣纂组；数亩松花食有余，绝胜钟鸣鼎食。
 多方分别，是非之窦易开；一味圆融，人我之见不立。上可以陪玉皇大帝，下可以陪卑田院乞儿。
-** TODO 约稿
+** DONE 约稿
 *** 释文
 \specialsectioning
 **** 小窗自纪节选
@@ -637,7 +637,7 @@ SCHEDULED: <2023-03-10 Fri>
 其他自選內容也可以，謝謝！
 ** DONE 宋储钰名章
 SCHEDULED: <2023-05-13 Sat>
-** TODO 篆刻作业
+** DONE 篆刻作业
 @所有人
 週六來的人，把前期設計的印稿都帶來。
 另外可設計
