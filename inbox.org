@@ -1,6 +1,4 @@
 #+title: Inbox
-* TODO 自动查看所有未同步的仓库
-SCHEDULED: <2024-04-27 Sat>
 * TODO 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO IPTV

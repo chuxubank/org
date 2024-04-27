@@ -30,3 +30,5 @@ SCHEDULED: <2023-10-01 Sun>
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-06-23 Sun>
+** TODO 自动查看所有未同步的仓库
+SCHEDULED: <2024-04-27 Sat>
