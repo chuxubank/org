@@ -13,7 +13,7 @@ SCHEDULED: <2024-04-27 Sat>
 :Effort:   30
 :END:
 :LOGBOOK:
-CLOCK: [2024-04-27 Sat 15:36]
+CLOCK: [2024-04-27 Sat 15:36]--[2024-04-27 Sat 16:39] =>  1:03
 :END:
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
