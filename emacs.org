@@ -7,7 +7,7 @@ homeassistant
 SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
-** STRT 使用 chezmoi 设置 rime
+** DONE 使用 chezmoi 设置 rime
 SCHEDULED: <2024-04-27 Sat>
 :PROPERTIES:
 :Effort:   30
