@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 制作根据 URL 自动播放 B 站的 Shortcut
+* DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO IPTV
 SCHEDULED: <2024-06-19 Wed>
@@ -20,7 +20,7 @@ SCHEDULED: <2023-12-21 Thu>
 * WAIT 学习日语
 * TODO 国际驾照
 * TODO 江苏银行公积金还贷
-SCHEDULED: <2024-02-01 Thu>
+SCHEDULED: <2024-05-01 Wed>
 [2023-10-07 Sat 09:15]
 * DONE Emacs 配置 Docker 化
 SCHEDULED: <2024-01-01 Mon>
