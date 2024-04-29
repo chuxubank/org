@@ -1,5 +1,4 @@
 #+title: Inbox
-* TODO 奇诺之旅
 * TODO 迪士尼门票
 SCHEDULED: <2024-04-29 Mon>
 * TODO 清除 OBE 的账户余额
