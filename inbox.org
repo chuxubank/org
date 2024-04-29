@@ -1,7 +1,8 @@
 #+title: Inbox
+* TODO 奇诺之旅
 * TODO 迪士尼门票
 SCHEDULED: <2024-04-29 Mon>
-* TODO 清除OBE的账户余额
+* TODO 清除 OBE 的账户余额
 SCHEDULED: <2024-04-29 Mon>
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
