@@ -1,7 +1,7 @@
 #+title: Inbox
 * TODO 迪士尼门票
 DEADLINE: <2024-05-09 Thu>
-* TODO 清除 Nobe 的账户余额
+* DONE 清除 Nobe 的账户余额
 SCHEDULED: <2024-04-29 Mon>
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
