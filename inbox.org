@@ -24,7 +24,7 @@ SCHEDULED: <2023-12-21 Thu>
 * WAIT 学习日语
 * TODO 国际驾照
 * TODO 江苏银行公积金还贷
-SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-06-01 Sat>
 [2023-10-07 Sat 09:15]
 * DONE Emacs 配置 Docker 化
 SCHEDULED: <2024-01-01 Mon>
