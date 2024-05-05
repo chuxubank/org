@@ -3,6 +3,8 @@
 * Inbox
 ** IDEA hass.el
 homeassistant
+** TODO Org-Agenda 自动 pull repo
+SCHEDULED: <2024-05-06 Mon>
 ** STRT beancount 学习记账
 SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
