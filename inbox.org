@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 迪士尼门票
+* DONE 迪士尼门票
 DEADLINE: <2024-05-09 Thu>
 * DONE 清除 Nobe 的账户余额
 SCHEDULED: <2024-04-29 Mon>
