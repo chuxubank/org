@@ -252,3 +252,29 @@ dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
 在准备出发前，请确保你已经了解了露营地的具体情况和规定，以及当地的天气预报。
 ** 2023-06 June
 *** 2023-06-12 Monday
+* 2024
+** 2024-05 May
+*** 2024-05-08 Wednesday
+**** Remove pdf stamp by mutool
+According to https://raw.githubusercontent.com/hwding/pdf-unstamper/master/src/com/amastigote/unstamper/core/Processor.java,
+Use mutool's javascript to implement the same thing.
+You need to follow the API provided by mupdf at https://mupdf.readthedocs.io/en/latest/mupdf-js.html
+and take https://mupdf.readthedocs.io/en/latest/mutool-run.html as examples.
+
+Just show me your script's code and no other things.
+
+
+***** Input
+- Java code
+  https://raw.githubusercontent.com/hwding/pdf-unstamper/master/src/com/amastigote/unstamper/core/Processor.java
+
+- MuPdf's JavaScript API
+  https://mupdf.readthedocs.io/en/latest/mupdf-js.html
+
+- MuPdf's JavaScript Example
+  https://mupdf.readthedocs.io/en/latest/mutool-run.html
+
+
+***** Question
+- What the Java code's steps to remove stamper?
+- Use MuPdf's JavaScript to do the same thing, show me your code.
