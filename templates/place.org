@@ -1,3 +1,0 @@
-* TOGO %(+url-get-query-content "q")
-[[map:%(+url-get-query-content "q")][%(+url-get-query-content "address")]]
-%^{Type}p
