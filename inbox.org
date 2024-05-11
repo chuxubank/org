@@ -1,6 +1,4 @@
 #+title: Inbox
-* TODO Make xref use ripgrep
-SCHEDULED: <2024-05-11 Sat>
 * DONE 迪士尼门票
 DEADLINE: <2024-05-09 Thu>
 * DONE 清除 Nobe 的账户余额
