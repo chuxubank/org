@@ -1,5 +1,4 @@
 #+title: Emacs
-
 * Inbox
 ** IDEA hass.el
 homeassistant
@@ -69,5 +68,6 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** TODO Make xref use ripgrep
-SCHEDULED: <2024-05-11 Sat>
+** DONE Make xref use ripgrep
+CLOSED: [2024-05-17 Fri 07:24] SCHEDULED: <2024-05-11 Sat>
+- State "DONE"       from "TODO"       [2024-05-17 Fri 07:24]
