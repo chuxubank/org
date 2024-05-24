@@ -278,3 +278,5 @@ Just show me your script's code and no other things.
 ***** Question
 - What the Java code's steps to remove stamper?
 - Use MuPdf's JavaScript to do the same thing, show me your code.
+
+*** 2024-05-24 Friday
