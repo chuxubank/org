@@ -1,5 +1,4 @@
 #+TITLE: Study
-
 * 考研
 SCHEDULED: <2024-06-01 Sat>
 ** 数学 [0/2]
@@ -40,8 +39,9 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-di
 https://15445.courses.cs.cmu.edu/fall2021/
 * TODO 耶鲁大学公开课：聆听音乐
 https://oyc.yale.edu/music/musi-112/lecture-1
-* TODO [#A] 软考
-DEADLINE: <2024-05-25 Sat> SCHEDULED: <2024-04-20 Sat>
+* DONE [#A] 软考
+CLOSED: [2024-05-25 Sat 20:23] DEADLINE: <2024-05-25 Sat> SCHEDULED: <2024-04-20 Sat>
+- State "DONE"       from "TODO"       [2024-05-25 Sat 20:23]
 [[http://www.ruankao.org.cn][中国计算机技术职业资格网]]
 [[http://www.rsj.sh.gov.cn/ksyzc/index801.jsp][上海市职业能力考试院]]
 [[https://www.bilibili.com/video/BV1Ba4y1u7EC][【2024年软考高级】《系统架构设计师》新版精讲视频合集-希赛网（含报考指南、精讲考点，建议收藏）！_哔哩哔哩_bilibili]]
