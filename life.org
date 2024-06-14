@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Cut nails
-SCHEDULED: <2024-06-12 Wed .+6d/9d>
+SCHEDULED: <2024-06-20 Thu .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-06-06 Thu 09:38]
+:LAST_REPEAT: [2024-06-14 Fri 20:24]
 :END:
+- State "DONE"       from "TODO"       [2024-06-14 Fri 20:24]
 - State "DONE"       from "TODO"       [2024-05-20 Mon 09:09]
 - State "DONE"       from "TODO"       [2024-05-14 Tue 09:00]
 - State "DONE"       from "TODO"       [2024-05-06 Mon 09:17]
@@ -146,11 +147,12 @@ SCHEDULED: <2024-06-12 Wed .+6d/9d>
 - State "DONE"       from "TODO"       [2020-07-16 Thu 23:59]
 - State "DONE"       from "TODO"       [2020-07-03 Fri 08:31]
 * TODO Haircut
-SCHEDULED: <2024-05-22 Wed .+1m>
+SCHEDULED: <2024-07-14 Sun .+1m>
 :PROPERTIES:
-:LAST_REPEAT: [2024-04-22 Mon 11:20]
+:LAST_REPEAT: [2024-06-14 Fri 20:24]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-06-14 Fri 20:24]
 - State "DONE"       from "TODO"       [2024-04-22 Mon 11:20]
 - State "DONE"       from "TODO"       [2024-03-12 Tue 23:59]
 - State "DONE"       from "TODO"       [2024-02-06 Tue 15:18]
@@ -613,11 +615,12 @@ SCHEDULED: <2024-06-13 Thu .+3d/5d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2024-06-13 Thu .+1w/2w>
+SCHEDULED: <2024-06-21 Fri .+1w/2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-06-06 Thu 09:24]
+:LAST_REPEAT: [2024-06-14 Fri 20:25]
 :END:
+- State "DONE"       from "TODO"       [2024-06-14 Fri 20:25]
 - State "DONE"       from "TODO"       [2024-06-06 Thu 09:24]
 - State "DONE"       from "TODO"       [2024-05-14 Tue 09:00]
 - State "DONE"       from "TODO"       [2024-05-08 Wed 16:22]
@@ -711,7 +714,7 @@ DEADLINE: <2024-08-10 Sat .+1y>
 :END:
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
 ** TODO Wash Car
-SCHEDULED: <2024-02-02 Fri .+1m>
+SCHEDULED: <2024-06-15 Sat .+1m>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2024-01-02 Tue 10:11]
