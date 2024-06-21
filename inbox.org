@@ -12,7 +12,7 @@ SCHEDULED: <2024-04-29 Mon>
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO IPTV
-SCHEDULED: <2024-06-19 Wed>
+SCHEDULED: <2024-07-21 Sun>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 配置 nerd.chuxubank.top
