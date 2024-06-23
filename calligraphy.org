@@ -527,7 +527,10 @@ https://mp.weixin.qq.com/s/gr3X8dCzvhTr_qVdVvis4A
 举世嫉修眉，不特深宫见妒；随人矜寸舌，犹然列国争长。
 一池荷叶衣无尽，翻骄锦绣纂组；数亩松花食有余，绝胜钟鸣鼎食。
 多方分别，是非之窦易开；一味圆融，人我之见不立。上可以陪玉皇大帝，下可以陪卑田院乞儿。
-** DONE 约稿
+** DONE 第十届上海市民艺术大展
+SCHEDULED: <2024-06-23 Sun>
+https://mp.weixin.qq.com/s/A4gUZPZoeJxhuHk8DIfPmA
+* DONE 约稿
 *** 释文
 \specialsectioning
 **** 小窗自纪节选
