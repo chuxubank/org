@@ -1,7 +1,7 @@
 #+title: Inbox
 * TODO [#B] 办理韩国签证
 SCHEDULED: <2024-06-17 Mon>
-* TODO 换眼镜
+* DONE 换眼镜
 SCHEDULED: <2024-07-14 Sun>
 * DONE 车辆保险逾期
 SCHEDULED: <2024-05-27 Mon>
