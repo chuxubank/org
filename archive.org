@@ -3372,6 +3372,67 @@ CLOSED: [2024-01-30 Tue 11:53] SCHEDULED: <2024-01-24 Wed>
 :ARCHIVE_TODO: DONE
 :END:
 - State "DONE"       from "TODO"       [2024-01-30 Tue 11:53]
+
+** DONE 座位表
+CLOSED: [2023-09-06 Wed 20:57] SCHEDULED: <2023-09-06 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-07-15 Mon 16:31
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Knowledge
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "KILL"       [2023-09-06 Wed 20:57]
+- State "KILL"       from "TODO"       [2023-09-06 Wed 20:57]
+*** 黄色
+杨腾跃
+沈欣怡
+谢馥蔓
+赵栩栋
+罗奕军
+邸昂
+*** 紫色
+于涵
+余念之
+龚小菲
+谢觉隆
+陈昱成
+王格钛
+*** 粉色
+陈杍佑
+尹心然
+耿翌宸
+张睦易
+林宇桐
+宋昱彤
+*** 红色
+周玥辰
+周诚彤
+陈俊逸
+赵隽骁
+胡杨易
+石秦岳
+*** 蓝色
+杨昕骐
+谈洛嘉
+李婉绮
+计筱雨
+叶怿坦
+李冬琦
+*** 绿色
+张天羽
+王怡晴
+朱诗贤
+戴昕艺
+任毅
+陈义信
+*** 橙色
+余周畅婉
+雷雅轩
+陈诗敏
+周诚好
+孙广志
+周诺林
 * From life.org :ARCHIVE:
 ** TODO Charge SONY 1000XM5
 SCHEDULED: <2024-06-23 Sun 11:30 .+1m>
