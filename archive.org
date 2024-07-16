@@ -3471,3 +3471,19 @@ CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
 - State "DONE"       from "TODO"       [2024-02-25 Sun 19:08]
 *** DONE 购买手表电池
 SCHEDULED: <2024-02-01 Thu>
+
+* From emacs.org
+
+** DONE 使用 chezmoi 设置 rime
+SCHEDULED: <2024-04-27 Sat>
+:PROPERTIES:
+:Effort:   30
+:ARCHIVE_TIME: 2024-07-16 Tue 14:27
+:ARCHIVE_FILE: ~/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2024-04-27 Sat 15:36]--[2024-04-27 Sat 16:39] =>  1:03
+:END:
