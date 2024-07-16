@@ -1,6 +1,6 @@
 #+title: Inbox
 * TODO [#B] 办理韩国签证
-SCHEDULED: <2024-06-17 Mon>
+SCHEDULED: <2024-08-01 Thu>
 * DONE 换眼镜
 SCHEDULED: <2024-07-14 Sun>
 * DONE 车辆保险逾期
@@ -16,7 +16,7 @@ SCHEDULED: <2024-07-21 Sun>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 配置 nerd.chuxubank.top
-SCHEDULED: <2024-05-01 Wed>
+SCHEDULED: <2024-08-01 Thu>
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Use FSRS for Anki
 SCHEDULED: <2024-06-23 Sun>

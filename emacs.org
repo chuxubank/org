@@ -5,7 +5,7 @@ homeassistant
 ** TODO Org-Agenda 自动 pull repo
 SCHEDULED: <2024-05-06 Mon>
 ** STRT beancount 学习记账
-SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-01 Sat>
+SCHEDULED: <2024-08-01 Thu> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
 ** DONE 使用 chezmoi 设置 rime
@@ -30,7 +30,7 @@ SCHEDULED: <2023-10-01 Sun>
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-09-01 Sun>
 ** DONE 自动查看所有未同步的仓库
 SCHEDULED: <2024-04-27 Sat>
 ** TODO [#C] 使用 mu4e 邮件客户端
