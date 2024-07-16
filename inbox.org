@@ -1,14 +1,6 @@
 #+title: Inbox
 * TODO [#B] 办理韩国签证
 SCHEDULED: <2024-08-01 Thu>
-* DONE 换眼镜
-SCHEDULED: <2024-07-14 Sun>
-* DONE 车辆保险逾期
-SCHEDULED: <2024-05-27 Mon>
-* DONE 迪士尼门票
-DEADLINE: <2024-05-09 Thu>
-* DONE 清除 Nobe 的账户余额
-SCHEDULED: <2024-04-29 Mon>
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO IPTV
@@ -23,7 +15,6 @@ SCHEDULED: <2024-06-23 Sun>
 https://github.com/open-spaced-repetition/fsrs4anki
 * TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
 SCHEDULED: <2023-12-21 Thu>
-* TODO 三鲜豆皮
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * TODO 刷算法题

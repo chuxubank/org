@@ -725,6 +725,8 @@ SCHEDULED: <2024-07-18 Thu .+1y> DEADLINE: <2024-08-10 Sat .+1y>
 :LAST_REPEAT: [2023-08-10 Thu 00:03]
 :END:
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
+** TODO 车辆续保
+SCHEDULED: <2025-05-27 Mon .+1y>
 ** TODO Wash Car
 SCHEDULED: <2024-06-15 Sat .+1m>
 :PROPERTIES:
@@ -755,8 +757,8 @@ SCHEDULED: <2024-06-15 Sat .+1m>
 - State "KILL"       from "TODO"       [2022-02-22 Tue 07:49]
 - State "DONE"       from "TODO"       [2022-02-06 Sun 10:14]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
-** DONE Renew driver's license
-SCHEDULED: <2024-04-17 Wed> DEADLINE: <2024-06-20 Thu>
+** TODO Renew driver's license
+SCHEDULED: <2034-04-17 Wed> DEADLINE: <2034-06-20 Thu>
 ** TODO 添加玻璃水
 SCHEDULED: <2026-01-31 Sat .+2y>
 :PROPERTIES:
@@ -764,6 +766,6 @@ SCHEDULED: <2026-01-31 Sat .+2y>
 :END:
 - State "DONE"       from "TODO"       [2024-01-31 Wed 09:17]
 ** TODO 更换汽车遥控器电池
-SCHEDULED: <2025-02-26 Wed>
+SCHEDULED: <2025-02-28 Fri>
 *** TODO 购买汽车遥控器电池
 SCHEDULED: <2025-02-26 Wed>
