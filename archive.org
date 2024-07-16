@@ -3472,7 +3472,7 @@ CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
 *** DONE 购买手表电池
 SCHEDULED: <2024-02-01 Thu>
 
-* From emacs.org
+* From emacs.org :ARCHIVE:
 
 ** DONE 使用 chezmoi 设置 rime
 SCHEDULED: <2024-04-27 Sat>

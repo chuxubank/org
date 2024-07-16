@@ -8,14 +8,6 @@ SCHEDULED: <2024-05-06 Mon>
 SCHEDULED: <2024-08-01 Thu> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
-** DONE 使用 chezmoi 设置 rime
-SCHEDULED: <2024-04-27 Sat>
-:PROPERTIES:
-:Effort:   30
-:END:
-:LOGBOOK:
-CLOCK: [2024-04-27 Sat 15:36]--[2024-04-27 Sat 16:39] =>  1:03
-:END:
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
 ** TODO Change personal config to use (provide 'x)
@@ -68,6 +60,3 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** DONE Make xref use ripgrep
-CLOSED: [2024-05-17 Fri 07:24] SCHEDULED: <2024-05-11 Sat>
-- State "DONE"       from "TODO"       [2024-05-17 Fri 07:24]
