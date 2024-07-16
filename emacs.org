@@ -1,11 +1,7 @@
 #+title: Emacs
 * Inbox
-** IDEA hass.el
-homeassistant
 ** TODO Org-Agenda 自动 pull repo
 SCHEDULED: <2024-05-06 Mon>
-** STRT beancount 学习记账
-SCHEDULED: <2024-08-01 Thu> DEADLINE: <2024-06-01 Sat>
 ** TODO Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
@@ -16,15 +12,10 @@ SCHEDULED: <2024-04-24 Wed>
 SCHEDULED: <2024-05-29 Wed>
 ** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
 SCHEDULED: <2025-05-01 Thu>
-** DONE Learn Emacs term
-SCHEDULED: <2023-10-01 Sun>
-[[info:emacs#Terminal emulator][emacs#Terminal emulator]]
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
-** DONE 自动查看所有未同步的仓库
-SCHEDULED: <2024-04-27 Sat>
 ** TODO [#C] 使用 mu4e 邮件客户端
 SCHEDULED: <2024-06-13 Thu>
 https://mmogilvi.users.sourceforge.net/software/oauthbearer.html
@@ -60,3 +51,10 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
+** STRT beancount 学习记账
+SCHEDULED: <2024-08-01 Thu> DEADLINE: <2024-06-01 Sat>
+** IDEA hass.el
+homeassistant
+** DONE Learn Emacs term
+SCHEDULED: <2023-10-01 Sun>
+[[info:emacs#Terminal emulator][emacs#Terminal emulator]]

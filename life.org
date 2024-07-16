@@ -719,8 +719,8 @@ SCHEDULED: <2024-07-22 Mon .+1w>
 :END:
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * Car
-** TODO 预约汽车年检
-DEADLINE: <2024-08-10 Sat .+1y>
+** TODO 汽车年检
+SCHEDULED: <2024-07-18 Thu .+1y> DEADLINE: <2024-08-10 Sat .+1y>
 :PROPERTIES:
 :LAST_REPEAT: [2023-08-10 Thu 00:03]
 :END:
