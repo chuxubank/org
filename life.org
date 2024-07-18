@@ -722,10 +722,11 @@ SCHEDULED: <2024-07-22 Mon .+1w>
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * Car
 ** TODO 汽车年检
-SCHEDULED: <2024-07-18 Thu .+1y> DEADLINE: <2024-08-10 Sat .+1y>
+SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-07-18 Fri .+1y>
 :PROPERTIES:
-:LAST_REPEAT: [2023-08-10 Thu 00:03]
+:LAST_REPEAT: [2024-07-18 Thu 18:40]
 :END:
+- State "DONE"       from "TODO"       [2024-07-18 Thu 18:40]
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
 ** TODO 车辆续保
 SCHEDULED: <2025-05-27 Mon .+1y>
