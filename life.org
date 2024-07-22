@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Cut nails
-SCHEDULED: <2024-07-21 Sun .+6d/9d>
+SCHEDULED: <2024-07-28 Sun .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-07-15 Mon 16:41]
+:LAST_REPEAT: [2024-07-22 Mon 12:37]
 :END:
+- State "DONE"       from "TODO"       [2024-07-22 Mon 12:37]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:41]
 - State "DONE"       from "TODO"       [2024-06-21 Fri 09:31]
 - State "DONE"       from "TODO"       [2024-06-14 Fri 20:24]
@@ -431,11 +432,12 @@ SCHEDULED: <2024-07-18 Thu .+1d/2d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2024-07-18 Thu 07:00 .+3d/5d>
+SCHEDULED: <2024-07-25 Thu 07:00 .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-07-15 Mon 16:41]
+:LAST_REPEAT: [2024-07-22 Mon 12:36]
 :END:
+- State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:41]
 - State "DONE"       from "TODO"       [2024-07-08 Mon 09:17]
 - State "DONE"       from "TODO"       [2024-06-17 Mon 09:24]
@@ -622,11 +624,12 @@ SCHEDULED: <2024-07-18 Thu 07:00 .+3d/5d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2024-07-22 Mon .+1w/2w>
+SCHEDULED: <2024-07-29 Mon .+1w/2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-07-15 Mon 16:41]
+:LAST_REPEAT: [2024-07-22 Mon 12:37]
 :END:
+- State "DONE"       from "TODO"       [2024-07-22 Mon 12:37]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:41]
 - State "DONE"       from "TODO"       [2024-06-21 Fri 09:31]
 - State "DONE"       from "TODO"       [2024-06-14 Fri 20:25]
@@ -715,10 +718,11 @@ SCHEDULED: <2024-08-17 Sat .+1m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Clean bathroom
-SCHEDULED: <2024-07-22 Mon .+1w>
+SCHEDULED: <2024-07-29 Mon .+1w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-15 Mon 16:42]
+:LAST_REPEAT: [2024-07-22 Mon 12:36]
 :END:
+- State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * Car
 ** TODO 汽车年检
