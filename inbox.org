@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO [#B] 办理韩国签证
+* STRT [#B] 办理韩国签证
 SCHEDULED: <2024-07-19 Fri>
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>

@@ -51,8 +51,8 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** STRT beancount 学习记账
-SCHEDULED: <2024-08-01 Thu> DEADLINE: <2024-06-01 Sat>
+** TODO beancount 学习记账
+SCHEDULED: <2024-07-23 Tue> DEADLINE: <2024-06-01 Sat>
 ** IDEA hass.el
 homeassistant
 ** DONE Learn Emacs term
