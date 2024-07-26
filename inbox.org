@@ -1,8 +1,10 @@
 #+title: Inbox
-* TODO 更改报销流程
+* DONE 更改报销流程
 SCHEDULED: <2024-07-24 Wed>
 * WAIT [#B] 办理韩国签证
 SCHEDULED: <2024-07-19 Fri>
+https://www.visa.go.kr/openPage.do?MENU_ID=10301
+E42999540
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
 SCHEDULED: <2024-04-22 Mon>
 * TODO IPTV
