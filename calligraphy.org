@@ -5,7 +5,7 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [18/18]
+* 展览 [18/19]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** DONE 第三届“卫夫人奖”全国书法篆刻作品展
 CLOSED: [2023-07-02 Sun 09:52] DEADLINE: <2023-07-10 Mon> SCHEDULED: <2023-06-29 Thu>
@@ -530,6 +530,9 @@ https://mp.weixin.qq.com/s/gr3X8dCzvhTr_qVdVvis4A
 ** DONE 第十届上海市民艺术大展
 SCHEDULED: <2024-06-23 Sun>
 https://mp.weixin.qq.com/s/A4gUZPZoeJxhuHk8DIfPmA
+** TODO “周慧珺杯”——第八届上海市书法大赛
+SCHEDULED: <2024-07-30 Tue> DEADLINE: <2024-08-10 Sat>
+
 * DONE 约稿
 *** 释文
 \specialsectioning
