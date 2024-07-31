@@ -1,4 +1,9 @@
 #+title: Inbox
+* TODO 打印名字贴
+SCHEDULED: <2024-08-01 Thu>
+* TODO 询问动态密码
+SCHEDULED: <2024-08-01 Thu>
+
 * WAIT [#B] 办理韩国签证
 SCHEDULED: <2024-07-19 Fri>
 https://www.visa.go.kr/openPage.do?MENU_ID=10301
