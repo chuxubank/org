@@ -3092,6 +3092,54 @@ SCHEDULED: <2024-05-27 Mon>
 
   @enduml
 #+end_src
+
+** DONE GPS Goal
+DEADLINE: <2024-07-11 Thu> SCHEDULED: <2024-06-28 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-07-31 Wed 09:42
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+*** Develop Goal
+**** Google IO
+
+** DONE 使用 plantuml 画组件图
+SCHEDULED: <2024-05-27 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-07-31 Wed 09:42
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
+#+begin_src plantuml
+  @startuml
+  package "Application" {
+      [app]
+      [ble2testapp2]
+      [videoplayer-sample]
+  }
+
+  package "Feature" {
+      [:feature:videostreaming] as f_vs
+      [app] --> f_vs
+  }
+
+  package "Core" {
+      [:core:model] as c_mod #Yellow
+      [:core:analysis] as c_ana
+      [:core:android-design] as c_and_des #Green
+      [:core:aaecosystem-commons] as c_aae_com #Green
+      [app] --> c_ana
+      [app] --> c_aae_com
+      f_vs --> c_mod
+      c_ana -> c_mod
+  }
+
+  @enduml
+#+end_src
 * From calligraphy.org :ARCHIVE:
 ** DONE 热可擦笔
 :PROPERTIES:
