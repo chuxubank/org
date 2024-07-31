@@ -3293,6 +3293,16 @@ CLOSED: [2023-04-27 Thu 00:29] SCHEDULED: <2023-04-26 Wed 09:00>
 :ARCHIVE_TODO: DONE
 :END:
 - State "DONE"       from "TODO"       [2023-04-27 Thu 00:29]
+
+** DONE 买纸
+SCHEDULED: <2023-11-19 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-07-31 Wed 09:58
+:ARCHIVE_FILE: ~/org/calligraphy.org
+:ARCHIVE_OLPATH: 展览/全国第十三届书法篆刻展
+:ARCHIVE_CATEGORY: calligraphy
+:ARCHIVE_TODO: DONE
+:END:
 * From ning.org :ARCHIVE:
 ** DONE Apple Watch
 CLOSED: [2022-02-09 Wed 12:04] SCHEDULED: <2022-01-23 Sun>
