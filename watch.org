@@ -1,6 +1,6 @@
 #+TITLE: Watch
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
-* 番剧 [5/27]
+* 番剧 [7/31]
 ** TODO 四叶游戏
 ** TODO 奇巧计程车
 ** TODO 化物语
@@ -53,8 +53,8 @@ SCHEDULED: <2018-04-06 Fri>
 以 [[明日之杖]] 为蓝本的精神续作
 ** 二舍六房的七人
 ** TODO 奇诺之旅
-** STRT 葬送的芙莉莲
-** STRT 怪兽8号
+** DONE 葬送的芙莉莲
+** DONE 怪兽 8 号
 ** STRT 间谍过家家
 * 电影 [0/4]
 ** TODO 猫鼠游戏
