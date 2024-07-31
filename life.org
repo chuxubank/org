@@ -727,6 +727,7 @@ SCHEDULED: <2024-08-17 Sat .+1m>
 * TODO Clean bathroom
 SCHEDULED: <2024-07-29 Mon .+1w>
 :PROPERTIES:
+:STYLE:    habit
 :LAST_REPEAT: [2024-07-22 Mon 12:36]
 :END:
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
