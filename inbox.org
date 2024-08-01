@@ -1,11 +1,11 @@
 #+title: Inbox
 * TODO 打印名字贴
 SCHEDULED: <2024-08-01 Thu>
-* TODO 询问动态密码
+* DONE 询问动态密码
 SCHEDULED: <2024-08-01 Thu>
 
-* WAIT [#B] 办理韩国签证
-SCHEDULED: <2024-07-19 Fri>
+* TODO [#B] 拿韩国签证
+SCHEDULED: <2024-08-02 Fri 09:00>
 https://www.visa.go.kr/openPage.do?MENU_ID=10301
 E42999540
 * DONE 制作根据 URL 自动播放 B 站的 Shortcut
@@ -28,5 +28,4 @@ SCHEDULED: <2023-12-21 Thu>
 * WAIT 学习日语
 * TODO 国际驾照
 * TODO 江苏银行公积金还贷
-SCHEDULED: <2024-06-01 Sat>
-[2023-10-07 Sat 09:15]
+SCHEDULED: <2024-08-02 Fri 09:30>
