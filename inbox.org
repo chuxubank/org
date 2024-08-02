@@ -1,8 +1,8 @@
 #+title: Inbox
 * TODO 打印名字贴
 SCHEDULED: <2024-08-01 Thu>
-* TODO [#B] 拿韩国签证
-SCHEDULED: <2024-08-02 Fri 09:00>
+* TODO [#B] 打印韩国签证
+SCHEDULED: <2024-08-02 Fri 09:00-10:00>
 https://www.visa.go.kr/openPage.do?MENU_ID=10301
 E42999540
 * TODO IPTV
