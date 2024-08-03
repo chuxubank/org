@@ -1,8 +1,9 @@
 #+title: Inbox
 * TODO 打印名字贴
 SCHEDULED: <2024-08-01 Thu>
-* TODO [#B] 打印韩国签证
-SCHEDULED: <2024-08-03 Sat 09:00>
+* DONE [#B] 打印韩国签证
+CLOSED: [2024-08-03 Sat 23:20] SCHEDULED: <2024-08-03 Sat 09:00>
+- State "DONE"       from "TODO"       [2024-08-03 Sat 23:20]
 https://www.visa.go.kr/openPage.do?MENU_ID=10301
 E42999540
 * TODO IPTV
