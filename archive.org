@@ -3658,3 +3658,15 @@ SCHEDULED: <2024-04-27 Sat>
 :ARCHIVE_CATEGORY: emacs
 :ARCHIVE_TODO: DONE
 :END:
+
+* From sideline.org
+
+** DONE Build Shadow CI
+SCHEDULED: <2024-08-05 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-05 Mon 13:14
+:ARCHIVE_FILE: ~/org/sideline.org
+:ARCHIVE_OLPATH: Inbox/借还机器人开发/添加 NLP 语音
+:ARCHIVE_CATEGORY: sideline
+:ARCHIVE_TODO: DONE
+:END:
