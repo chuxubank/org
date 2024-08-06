@@ -1,6 +1,6 @@
 #+TITLE: Study
 * 考研
-SCHEDULED: <2024-08-01 Thu>
+SCHEDULED: <2024-09-01 Sun>
 ** 数学 [0/2]
 - [X] 高数整理
 - [X] 线代整理

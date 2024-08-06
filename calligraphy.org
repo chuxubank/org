@@ -526,7 +526,7 @@ https://mp.weixin.qq.com/s/gr3X8dCzvhTr_qVdVvis4A
 ** DONE 第十届上海市民艺术大展
 SCHEDULED: <2024-06-23 Sun>
 https://mp.weixin.qq.com/s/A4gUZPZoeJxhuHk8DIfPmA
-** STRT “周慧珺杯”——第八届上海市书法大赛
+** WAIT “周慧珺杯”——第八届上海市书法大赛
 SCHEDULED: <2024-07-30 Tue> DEADLINE: <2024-08-10 Sat>
 https://mp.weixin.qq.com/s/xyaNfvbZPqz6nQKESiZOfw
 *** 释文
