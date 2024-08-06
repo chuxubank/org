@@ -1,10 +1,12 @@
 #+title: Inbox
-* TODO 带饮料
-SCHEDULED: <2024-08-07 Wed 06:50>
+* DONE 带饮料
+CLOSED: [2024-08-07 Wed 07:20] SCHEDULED: <2024-08-07 Wed 06:50>
+- State "DONE"       from "TODO"       [2024-08-07 Wed 07:20]
 * TODO 拿小棒槌
 SCHEDULED: <2024-08-07 Wed>
-* TODO 打印名字贴
-SCHEDULED: <2024-08-07 Wed>
+* DONE 打印名字贴
+CLOSED: [2024-08-07 Wed 07:09] SCHEDULED: <2024-08-07 Wed>
+- State "DONE"       from "TODO"       [2024-08-07 Wed 07:09]
 * DONE [#B] 打印韩国签证
 CLOSED: [2024-08-03 Sat 23:20] SCHEDULED: <2024-08-03 Sat 09:00>
 - State "DONE"       from "TODO"       [2024-08-03 Sat 23:20]
