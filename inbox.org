@@ -1,6 +1,4 @@
 #+title: Inbox
-* TODO 打印名字贴
-SCHEDULED: <2024-08-07 Wed>
 * TODO 带饮料
 SCHEDULED: <2024-08-08 Thu 06:50>
 * TODO 拿小棒槌
