@@ -24,8 +24,8 @@
 ** TODO 暴食的狂战士
 ** TODO 大欺诈师
 ** TODO Berserk
-** WAIT 东之伊甸
-** WAIT 电锯人
+** TODO 东之伊甸
+** TODO 电锯人
 ** KILL 重启咲良田
 CLOSED: [2022-05-05 Thu 21:24] SCHEDULED: <2022-05-01 Sun>
 ** DONE 国王排名
