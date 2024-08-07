@@ -1,6 +1,7 @@
 #+title: Inbox
-* DONE 带饮料
-CLOSED: [2024-08-07 Wed 07:20] SCHEDULED: <2024-08-07 Wed 06:50>
+* TODO 带饮料
+SCHEDULED: <2024-08-07 Wed 17:50>
+- State "TODO"       from "DONE"       [2024-08-07 Wed 08:11]
 - State "DONE"       from "TODO"       [2024-08-07 Wed 07:20]
 * TODO 拿小棒槌
 SCHEDULED: <2024-08-07 Wed>
