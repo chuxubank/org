@@ -21,10 +21,10 @@ SCHEDULED: <2024-08-10 Sat>
 SCHEDULED: <2024-08-01 Thu>
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Use FSRS for Anki
-SCHEDULED: <2024-06-23 Sun>
+SCHEDULED: <2024-08-08 Thu>
 https://github.com/open-spaced-repetition/fsrs4anki
 * TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
-SCHEDULED: <2023-12-21 Thu>
+SCHEDULED: <2024-08-08 Thu>
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * TODO 刷算法题
