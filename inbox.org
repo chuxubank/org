@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 智慧平台
+SCHEDULED: <2024-08-11 Sun>
 * DONE 带饮料
 SCHEDULED: <2024-08-07 Wed 17:50>
 - State "TODO"       from "DONE"       [2024-08-07 Wed 08:11]
