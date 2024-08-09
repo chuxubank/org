@@ -1,20 +1,4 @@
 #+title: Inbox
-* TODO 智慧平台
-SCHEDULED: <2024-08-11 Sun>
-* DONE 带饮料
-SCHEDULED: <2024-08-07 Wed 17:50>
-- State "TODO"       from "DONE"       [2024-08-07 Wed 08:11]
-- State "DONE"       from "TODO"       [2024-08-07 Wed 07:20]
-* DONE 拿小棒槌
-SCHEDULED: <2024-08-07 Wed>
-* DONE 打印名字贴
-CLOSED: [2024-08-07 Wed 07:09] SCHEDULED: <2024-08-07 Wed>
-- State "DONE"       from "TODO"       [2024-08-07 Wed 07:09]
-* DONE [#B] 打印韩国签证
-CLOSED: [2024-08-03 Sat 23:20] SCHEDULED: <2024-08-03 Sat 09:00>
-- State "DONE"       from "TODO"       [2024-08-03 Sat 23:20]
-https://www.visa.go.kr/openPage.do?MENU_ID=10301
-E42999540
 * TODO IPTV
 SCHEDULED: <2024-08-10 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
@@ -33,4 +17,4 @@ SCHEDULED: <2024-08-08 Thu>
 * TODO 学习日语
 * TODO 国际驾照
 * TODO 江苏银行公积金还贷
-SCHEDULED: <2024-08-08 Thu>
+SCHEDULED: <2024-08-11 Sun>
