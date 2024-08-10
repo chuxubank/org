@@ -10,14 +10,14 @@ SCHEDULED: <2024-04-24 Wed>
 ** TODO Change personal config to use (provide 'x)
 *** TODO Use featurep instead of package-installed-p
 ** TODO Org handle Open Graph protocol
-SCHEDULED: <2024-05-29 Wed>
+SCHEDULED: <2024-08-19 Mon>
 ** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
 SCHEDULED: <2025-05-01 Thu>
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
-** TODO 使用 mu4e 邮件客户端
+** DONE 使用 mu4e 邮件客户端
 SCHEDULED: <2024-08-07 Wed>
 https://mmogilvi.users.sourceforge.net/software/oauthbearer.html
 https://github.com/cloudentity/oauth2c
@@ -53,7 +53,7 @@ https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
 ** STRT beancount 学习记账
-SCHEDULED: <2024-08-09 Fri>
+SCHEDULED: <2024-08-12 Mon>
 https://github.com/deb-sig/double-entry-generator
 https://fermi.ink/posts/2023/05/31/01/
 ** IDEA hass.el
