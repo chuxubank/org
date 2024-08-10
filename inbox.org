@@ -1,6 +1,6 @@
 #+title: Inbox
 * TODO IPTV
-SCHEDULED: <2024-08-10 Sat>
+SCHEDULED: <2024-08-12 Mon>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 配置 nerd.chuxubank.top
