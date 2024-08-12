@@ -52,7 +52,7 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** STRT beancount 学习记账
+** TODO beancount 学习记账
 SCHEDULED: <2024-08-12 Mon>
 https://github.com/deb-sig/double-entry-generator
 https://fermi.ink/posts/2023/05/31/01/
