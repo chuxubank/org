@@ -20,5 +20,7 @@ SCHEDULED: <2024-08-08 Thu>
 * TODO 国际驾照
 * TODO 江苏银行公积金还贷
 SCHEDULED: <2024-08-11 Sun>
-** TODO 表格签名+寄出
+** DONE 表格签名
 SCHEDULED: <2024-08-12 Mon>
+** TODO 寄表格
+SCHEDULED: <2024-08-13 Tue>
