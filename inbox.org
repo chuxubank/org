@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 取韩元
+* DONE 取韩元
 SCHEDULED: <2024-08-13 Tue>
 * TODO IPTV
 SCHEDULED: <2024-08-20 Tue>
@@ -22,5 +22,5 @@ SCHEDULED: <2024-08-08 Thu>
 SCHEDULED: <2024-08-11 Sun>
 ** DONE 表格签名
 SCHEDULED: <2024-08-12 Mon>
-** TODO 寄表格
+** DONE 寄表格
 SCHEDULED: <2024-08-13 Tue>
