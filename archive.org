@@ -3219,6 +3219,16 @@ SCHEDULED: <2024-05-27 Mon>
 
   @enduml
 #+end_src
+
+** DONE 请假
+SCHEDULED: <2024-08-13 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-13 Tue 12:57
+:ARCHIVE_FILE: ~/org/work.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: work
+:ARCHIVE_TODO: DONE
+:END:
 * From calligraphy.org :ARCHIVE:
 ** DONE 热可擦笔
 :PROPERTIES:
