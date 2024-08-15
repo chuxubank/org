@@ -1,6 +1,7 @@
 #+title: Inbox
-* TODO 给名字贴
-SCHEDULED: <2024-08-15 Thu 06:00>
+* DONE 给名字贴
+CLOSED: [2024-08-15 Thu 05:30] SCHEDULED: <2024-08-15 Thu 06:00>
+- State "DONE"       from "TODO"       [2024-08-15 Thu 05:30]
 * DONE 取韩元
 SCHEDULED: <2024-08-13 Tue>
 * TODO IPTV
