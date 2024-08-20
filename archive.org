@@ -3635,6 +3635,51 @@ DEADLINE: <2024-04-12 Fri>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+
+** DONE 韩国
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-20 Tue 11:34
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 预约证件照
+SCHEDULED: <2024-08-13 Tue>
+*** DONE 预约理发店
+SCHEDULED: <2024-08-13 Tue>
+*** DONE 订酒店
+CLOSED: [2024-08-14 Wed 09:54] SCHEDULED: <2024-08-13 Tue>
+- State "DONE"       from "TODO"       [2024-08-14 Wed 09:54]
+
+** DONE 旅行
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-20 Tue 11:34
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- 南京
+- 扬州
+- 镇江
+- 台州
+- 无锡
+- 苏州
+
+** DONE 开市客
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-20 Tue 11:34
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 紫菜虾仁饺子
+- [X] 巧克力屁屁
+- [X] 蜂蜜百香果酱
+- [X] 烤鸡
+- [X] 巧克力泡芙 注意保质期
 * From life.org :ARCHIVE:
 ** DONE 更换手表电池
 CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
