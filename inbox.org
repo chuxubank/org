@@ -9,13 +9,13 @@ SCHEDULED: <2024-08-20 Tue>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 配置 nerd.chuxubank.top
-SCHEDULED: <2024-08-01 Thu>
+SCHEDULED: <2024-08-20 Tue>
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Use FSRS for Anki
-SCHEDULED: <2024-08-19 Mon>
+SCHEDULED: <2024-08-23 Fri>
 https://github.com/open-spaced-repetition/fsrs4anki
 * TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
-SCHEDULED: <2024-08-08 Thu>
+SCHEDULED: <2024-08-20 Tue>
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * TODO 刷算法题
