@@ -61,3 +61,5 @@ homeassistant
 ** DONE Learn Emacs term
 SCHEDULED: <2023-10-01 Sun>
 [[info:emacs#Terminal emulator][emacs#Terminal emulator]]
+** TODO Display notification from D-Bus on other system like macOS or Windows
+SCHEDULED: <2024-08-20 Tue>
