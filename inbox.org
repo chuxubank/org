@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 续期护照
+* WAIT 续期护照
 SCHEDULED: <2024-08-21 Wed 08:30>
 * DONE 给名字贴
 CLOSED: [2024-08-15 Thu 05:30] SCHEDULED: <2024-08-15 Thu 06:00>

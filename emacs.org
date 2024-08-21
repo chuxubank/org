@@ -1,6 +1,6 @@
 #+title: Emacs
 * Inbox
-** TODO Org-Agenda 自动 pull repo
+** WAIT Org-Agenda 自动 pull repo
 SCHEDULED: <2024-05-06 Mon>
 https://github.com/gitwatch/gitwatch
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
