@@ -198,11 +198,12 @@ SCHEDULED: <2024-09-20 Fri .+1m>
 - State "DONE"       from "TODO"       [2021-02-11 Thu 10:33]
 [2021-02-10 Wed 10:54]
 * TODO Vitamin
-SCHEDULED: <2024-08-03 Sat .+2d/5d>
+SCHEDULED: <2024-08-23 Fri .+2d/5d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-01 Thu 20:55]
+:LAST_REPEAT: [2024-08-21 Wed 22:45]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-08-21 Wed 22:45]
 - State "DONE"       from "TODO"       [2024-08-01 Thu 20:55]
 - State "DONE"       from "TODO"       [2024-06-10 Mon 13:05]
 - State "DONE"       from "TODO"       [2024-04-27 Sat 22:06]
@@ -759,7 +760,7 @@ SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-07-18 Fri .+1y>
 ** TODO 车辆续保
 SCHEDULED: <2025-05-27 Mon .+1y>
 ** TODO Wash Car
-SCHEDULED: <2024-06-15 Sat .+1m>
+SCHEDULED: <2024-08-24 Sat .+1m>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2024-01-02 Tue 10:11]
