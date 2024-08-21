@@ -3883,7 +3883,7 @@ SCHEDULED: <2024-04-27 Sat>
 :ARCHIVE_TODO: DONE
 :END:
 
-* From sideline.org
+* From sideline.org :ARCHIVE:
 
 ** DONE Build Shadow CI
 SCHEDULED: <2024-08-05 Mon>
