@@ -741,7 +741,7 @@ SCHEDULED: <2024-09-20 Fri .+1m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Clean bathroom
-SCHEDULED: <2024-07-29 Mon .+1w>
+SCHEDULED: <2024-08-21 Wed .+1w>
 :PROPERTIES:
 :STYLE:    habit
 :LAST_REPEAT: [2024-07-22 Mon 12:36]
