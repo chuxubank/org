@@ -2,7 +2,7 @@
 * WAIT 续期护照
 SCHEDULED: <2024-08-21 Wed 08:30>
 * TODO IPTV
-SCHEDULED: <2024-08-20 Tue>
+SCHEDULED: <2024-08-24 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 配置 nerd.chuxubank.top

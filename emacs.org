@@ -62,7 +62,7 @@ https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
 ** TODO Use Gnus as Mail client
-SCHEDULED: <2024-08-21 Wed>
+SCHEDULED: <2024-08-22 Thu>
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** DONE Learn Emacs term
 SCHEDULED: <2023-10-01 Sun>
