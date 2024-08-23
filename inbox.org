@@ -16,8 +16,15 @@ SCHEDULED: <2024-08-20 Tue>
 * TODO Use FSRS for Anki
 SCHEDULED: <2024-08-23 Fri>
 https://github.com/open-spaced-repetition/fsrs4anki
-* TODO [#C] 基于 TrueNAS 搭建 nextCloud 私有云
+* TODO 基于 TrueNAS 搭建 nextCloud 私有云
 SCHEDULED: <2024-08-20 Tue>
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+* TODO 整理 Download 文件夹
+:PROPERTIES:
+:BLOCKER:  previous-sibling
+:END:
 * TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * TODO 刷算法题
