@@ -198,11 +198,12 @@ SCHEDULED: <2024-09-20 Fri .+1m>
 - State "DONE"       from "TODO"       [2021-02-11 Thu 10:33]
 [2021-02-10 Wed 10:54]
 * TODO Vitamin
-SCHEDULED: <2024-08-23 Fri .+2d/5d>
+SCHEDULED: <2024-08-25 Sun .+2d/5d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-21 Wed 22:45]
+:LAST_REPEAT: [2024-08-23 Fri 23:12]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-08-23 Fri 23:12]
 - State "DONE"       from "TODO"       [2024-08-21 Wed 22:45]
 - State "DONE"       from "TODO"       [2024-08-01 Thu 20:55]
 - State "DONE"       from "TODO"       [2024-06-10 Mon 13:05]
