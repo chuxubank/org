@@ -4,22 +4,26 @@ SCHEDULED: <2024-08-23 Fri>
 https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-1977583648
 https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-2165164722
 https://github.com/hyprwm/hyprland-plugins
-* WAIT 续期护照
+* DONE 续期护照
 SCHEDULED: <2024-08-21 Wed 08:30>
 * TODO IPTV
 SCHEDULED: <2024-08-24 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
-* TODO 配置 nerd.chuxubank.top
-SCHEDULED: <2024-08-20 Tue>
-[[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Use FSRS for Anki
 SCHEDULED: <2024-08-23 Fri>
 https://github.com/open-spaced-repetition/fsrs4anki
-* TODO 基于 TrueNAS 搭建 nextCloud 私有云
-SCHEDULED: <2024-08-20 Tue>
+* TODO 配置 nerd.chuxubank.top
+SCHEDULED: <2024-08-23 Fri>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+[[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
+* TODO Setup OpenWrt
+* TODO 基于 TrueNAS 搭建 nextCloud 私有云
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:BLOCKER:  previous-sibling
 :END:
 * TODO 整理 Download 文件夹
 :PROPERTIES:
@@ -31,7 +35,7 @@ SCHEDULED: <2024-08-20 Tue>
 * TODO 学习日语
 * TODO 国际驾照
 * WAIT 江苏银行公积金还贷
-SCHEDULED: <2024-08-11 Sun>
+SCHEDULED: <2024-08-30 Fri>
 ** DONE 表格签名
 SCHEDULED: <2024-08-12 Mon>
 ** DONE 寄表格
