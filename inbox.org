@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO Deal with CS2 mouse leggy
+https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-1977583648
 * WAIT 续期护照
 SCHEDULED: <2024-08-21 Wed 08:30>
 * TODO IPTV
