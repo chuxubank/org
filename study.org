@@ -11,8 +11,10 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 2004 年第 23 题 相似对角化
 - [ ] 绕非 y 轴旋转的体积求法
 - [ ] 整理所有结论和技巧（方法）
-*** TODO 高等数学复习
-*** TODO 线性代数复习
+*** 参考书目
+- 《微积分：一种分析视角》 (Calculus: An Analytical Approach) - 作者：Tom M. Apostol
+- 《线性代数及其应用》 (Linear Algebra and Its Applications) - 作者：David C. Lay
+- 《概率论与数理统计》 (Introduction to Probability and Statistics) - 作者：William Mendenhall, Robert J. Beaver, Barbara M. Beaver
 ** 专业课
 *** TODO 学习专业
 - [ ] 数据结构
@@ -23,10 +25,19 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 两个小球从不同楼层落下 最少测试数目
 - [ ] 分糖果 数值较高的人比两边分的糖果多 每人至少 1 个
 - [ ] 随机数拓展
+*** 参考书目
+- 数据结构与算法分析 (Data Structures and Algorithm Analysis) - 作者：Mark Allen Weiss
+- 计算机系统概论 (Computer Systems: A Programmer's Perspective) - 作者：Randal E. Bryant, David R. O'Hallaron
+- 操作系统概念 (Operating System Concepts) - 作者：Abraham Silberschatz, Peter B. Galvin, Greg Gagne
+- 计算机网络：自顶向下方法 (Computer Networking: A Top-Down Approach) - 作者：James F. Kurose, Keith W. Ross
 ** 英语
 - [ ] 单词
 - [ ] 真题
 - [ ] 音标
+*** 参考书目
+- 《英语语法大全》 (English Grammar in Use) - 作者：Raymond Murphy
+- 《高级英语写作》 (Advanced Writing Skills for Students of English) - 作者：Phil Williams
+- 《朗文当代高级英语辞典》 (Longman Dictionary of Contemporary English) - 作者：Pearson Education
 ** 政治
 - [ ] 整理
 - [ ] 真题
@@ -34,6 +45,7 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 整理史纲 毛中特时间线
 * TODO 报名
 DEADLINE: <2024-10-25 Fri> SCHEDULED: <2024-10-08 Tue>
+[[https://gsas.fudan.edu.cn/sszsml2024/index.html][招生目录]]
 * 编程
 ** TODO 6.824
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
