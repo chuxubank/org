@@ -32,6 +32,8 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 真题
 - [ ] 肖秀荣
 - [ ] 整理史纲 毛中特时间线
+* TODO 报名
+DEADLINE: <2024-10-25 Fri> SCHEDULED: <2024-10-08 Tue>
 * 编程
 ** TODO 6.824
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
