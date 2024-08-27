@@ -7,7 +7,7 @@ https://github.com/gitwatch/gitwatch
 ** TODO Change personal config to use (provide 'x)
 *** TODO Use featurep instead of package-installed-p
 ** TODO Org handle Open Graph protocol
-SCHEDULED: <2024-08-23 Fri>
+SCHEDULED: <2025-01-04 Sat>
 ** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
 SCHEDULED: <2025-05-01 Thu>
 ** TODO Learn org babel and noweb
@@ -20,7 +20,7 @@ https://github.com/deb-sig/double-entry-generator
 https://github.com/deb-sig/double-entry-generator/blob/master/example/alipay/example-alipay-records.csv
 https://fermi.ink/posts/2023/05/31/01/
 ** TODO Display notification from D-Bus on other system like macOS or Windows
-SCHEDULED: <2024-08-20 Tue>
+SCHEDULED: <2025-01-11 Sat>
 ** IDEA hass.el
 homeassistant
 ** KILL Build Emacs as a Java/Kotlin IDE
@@ -61,7 +61,7 @@ https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
 ** TODO Use Gnus as Mail client
-SCHEDULED: <2024-08-22 Thu>
+SCHEDULED: <2025-01-11 Sat>
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** DONE Learn Emacs term
 SCHEDULED: <2023-10-01 Sun>
