@@ -301,3 +301,5 @@ n. 阈；门槛；起点；开端 | 网络 阈值；阀值；临界值 | Synonym
 adj. 足够的；合格的；合乎需要的 | 网络 适当的；充分的；充足的 | Synonym adj. sufficient,ample,enough,plenty,passable | Antonym adj. insufficient,inadequate
 ** Insurance [ɪnˈʃʊrəns]
 n. 保险；保险业；保险费；保费 | adj. 胜券在握的 | 网络 保险学；保险界；保险单 | Synonym n. cover,assurance,indemnity,protection,coverage
+** Liabilities [ˌlaɪəˈbɪləti]
+n. 负债；责任；倾向；易于…的倾向[性质] | 网络 债务；负债类；债务负债 | Antonym n. assets
