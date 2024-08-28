@@ -1,5 +1,4 @@
 #+title: Inbox
-* TODO Extend pinyin-isearch with rime double-pinyin
 * KILL Deal with CS2 mouse leggy
 CLOSED: [2024-08-23 Fri 22:12] SCHEDULED: <2024-08-23 Fri>
 - State "KILL"       from "TODO"       [2024-08-23 Fri 22:12]
