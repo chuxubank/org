@@ -199,11 +199,12 @@ SCHEDULED: <2024-09-20 Fri .+1m>
 - State "DONE"       from "TODO"       [2021-02-11 Thu 10:33]
 [2021-02-10 Wed 10:54]
 * TODO Vitamin
-SCHEDULED: <2024-08-25 Sun .+2d/5d>
+SCHEDULED: <2024-08-30 Fri .+2d/5d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-23 Fri 23:12]
+:LAST_REPEAT: [2024-08-28 Wed 22:16]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-08-28 Wed 22:16]
 - State "DONE"       from "TODO"       [2024-08-23 Fri 23:12]
 - State "DONE"       from "TODO"       [2024-08-21 Wed 22:45]
 - State "DONE"       from "TODO"       [2024-08-01 Thu 20:55]
@@ -309,11 +310,12 @@ SCHEDULED: <2024-08-25 Sun .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
 * TODO Do exercise
-SCHEDULED: <2024-08-28 Wed .+1d/2d>
+SCHEDULED: <2024-08-29 Thu .+1d/2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-08-27 Tue 23:13]
+:LAST_REPEAT: [2024-08-28 Wed 22:16]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-08-28 Wed 22:16]
 - State "DONE"       from "TODO"       [2024-08-27 Tue 23:13]
 - State "DONE"       from "TODO"       [2024-08-23 Fri 22:19]
 - State "DONE"       from "TODO"       [2024-08-22 Thu 23:59]

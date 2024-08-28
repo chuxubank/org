@@ -14,7 +14,7 @@ SCHEDULED: <2025-05-01 Thu>
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
-** TODO beancount 学习记账
+** STRT beancount 学习记账
 SCHEDULED: <2024-08-20 Tue>
 https://github.com/deb-sig/double-entry-generator
 https://github.com/deb-sig/double-entry-generator/blob/master/example/alipay/example-alipay-records.csv
