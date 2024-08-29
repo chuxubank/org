@@ -305,3 +305,5 @@ n. 保险；保险业；保险费；保费 | adj. 胜券在握的 | 网络 保�
 n. 负债；责任；倾向；易于…的倾向[性质] | 网络 债务；负债类；债务负债 | Antonym n. assets
 ** Commodities [kəˈmɑdəti]
 n. 商品；日用品；农[矿]产品；有用物品 | 网络 货物；原物料；大宗商品 | Synonym n. product,service,goods,article of trade
+** Equity [ˈekwəti]
+n. （英、美等国的）演员工会 | 网络 公平；公正；权益 | Synonym n. fairness,impartiality,justice,fair play,justness | Antonym n. injustice
