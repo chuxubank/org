@@ -19,6 +19,7 @@ SCHEDULED: <2024-08-20 Tue>
 https://github.com/deb-sig/double-entry-generator
 https://github.com/deb-sig/double-entry-generator/blob/master/example/alipay/example-alipay-records.csv
 https://fermi.ink/posts/2023/05/31/01/
+https://consumeprod.alipay.com/record/index.htm
 ** TODO Display notification from D-Bus on other system like macOS or Windows
 SCHEDULED: <2025-01-11 Sat>
 ** IDEA hass.el
