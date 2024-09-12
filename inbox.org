@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 安上 法式巧克力乳酪
+* DONE 安上 法式巧克力乳酪
 SCHEDULED: <2024-09-12 Thu>
 * DONE 带纸巾到车上
 SCHEDULED: <2024-09-01 Sun>
