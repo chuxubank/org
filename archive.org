@@ -1494,6 +1494,19 @@ SCHEDULED: <2024-08-21 Wed 08:30>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+** KILL Deal with CS2 mouse leggy
+CLOSED: [2024-08-23 Fri 22:12] SCHEDULED: <2024-08-23 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-09-21 Sat 16:22
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2024-08-23 Fri 22:12]
+https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-1977583648
+https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-2165164722
+https://github.com/hyprwm/hyprland-plugins
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>

@@ -1,23 +1,8 @@
 #+title: Inbox
-* DONE 安上 法式巧克力乳酪
-SCHEDULED: <2024-09-12 Thu>
-* DONE 带纸巾到车上
-SCHEDULED: <2024-09-01 Sun>
-* KILL Deal with CS2 mouse leggy
-CLOSED: [2024-08-23 Fri 22:12] SCHEDULED: <2024-08-23 Fri>
-- State "KILL"       from "TODO"       [2024-08-23 Fri 22:12]
-https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-1977583648
-https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-2165164722
-https://github.com/hyprwm/hyprland-plugins
-* DONE 续期护照
-SCHEDULED: <2024-08-21 Wed 08:30>
 * TODO IPTV
 SCHEDULED: <2025-01-01 Wed>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
-* TODO Use FSRS for Anki
-SCHEDULED: <2024-08-23 Fri>
-https://github.com/open-spaced-repetition/fsrs4anki
 * TODO 配置 nerd.chuxubank.top
 SCHEDULED: <2024-08-23 Fri>
 :PROPERTIES:
