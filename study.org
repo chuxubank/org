@@ -1,5 +1,5 @@
 #+TITLE: Study
-* 考研
+* TODO 考研
 SCHEDULED: <2024-09-01 Sun>
 ** 数学 [0/2]
 - [X] 高数整理
@@ -16,7 +16,7 @@ SCHEDULED: <2024-09-01 Sun>
 - 《线性代数及其应用》 (Linear Algebra and Its Applications) - 作者：David C. Lay
 - 《概率论与数理统计》 (Introduction to Probability and Statistics) - 作者：William Mendenhall, Robert J. Beaver, Barbara M. Beaver
 ** 专业课
-*** TODO 学习专业
+*** 学习专业
 - [ ] 数据结构
 - [ ] 软件工程
 - [ ] CSAPP
@@ -43,7 +43,7 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 真题
 - [ ] 肖秀荣
 - [ ] 整理史纲 毛中特时间线
-* TODO 报名
+* TODO 考研报名
 DEADLINE: <2024-10-25 Fri> SCHEDULED: <2024-10-08 Tue>
 [[https://gsas.fudan.edu.cn/sszsml2024/index.html][招生目录]]
 * 编程
