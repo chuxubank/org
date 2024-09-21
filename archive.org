@@ -1467,6 +1467,24 @@ SCHEDULED: <2024-08-23 Fri>
 :ARCHIVE_TODO: DONE
 :END:
 https://github.com/open-spaced-repetition/fsrs4anki
+
+** DONE 带纸巾到车上
+SCHEDULED: <2024-09-01 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-09-21 Sat 16:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 安上 法式巧克力乳酪
+SCHEDULED: <2024-09-12 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-09-21 Sat 16:19
+:ARCHIVE_FILE: ~/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
