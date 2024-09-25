@@ -80,29 +80,12 @@ https://rsshub.app/dongqiudi/special/48
 https://feeds.bbci.co.uk/news/rss.xml
 **** [[https://rsshub.app/bbc/chinese][BBC News 中文网]]
 https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+*** New York Times :nytimes:
+**** [[https://rsshub.app/nytimes/dual][纽约时报中文网 - 中英对照版]]
 *** [[https://news.ycombinator.com/rss][Hacker News]] :hn:
 *** [[https://rsshub.app/nhk/news_web_easy][NEWS WEB EASY]] :nhk:japanese:
 *** [[https://www.asahi.com/rss/asahi/newsheadlines.rdf][朝日新聞デジタル]] :asahi:japanese:
 *** [[https://rsshub.app/guancha/headline][观察者网 - 头条]] :guan:
-** Government :gov:
-*** 半月谈 :byt:
-**** [[https://rsshub.app/banyuetan/byt][时事大事库—半月谈]]
-**** [[https://rsshub.app/banyuetan/jicengzhili][基层治理-半月谈]]
-**** [[https://rsshub.app/banyuetan/jinritan][今日谈-半月谈]]
-**** [[https://rsshub.app/banyuetan/shizhengjiangjie][时政讲解-半月谈]]
-*** [[https://rsshub.app/gov/xinwen/tujie/zhengce][图解政策 - 中国政府网]] :image:
-*** [[https://rsshub.app/gov/zhengce/wenjian][最新文件 - 中国政府网]]
-*** [[https://rsshub.app/gov/zhengce/zuixin][最新政策 - 中国政府网]]
-*** [[https://rsshub.app/gov/fmprc/fyrbt][中华人民共和国外交部-发言人表态]]
-*** [[https://rsshub.app/gov/news/gwy][中国政府网 - 国务院信息]]
-*** [[https://rsshub.app/gov/news/yw][中国政府网 - 新闻要闻]] :important:news:
-*** [[https://rsshub.app/gov/news/gd][中国政府网 - 滚动新闻]] :news:
-*** [[https://rsshub.app/gov/news/bm][中国政府网 - 部门政务]]
-*** [[https://rsshub.app/gov/news/zhengce][中国政府网 - 政策文件]]
-*** 新华网 :xinhua:
-**** [[https://rsshub.app/news/whxw][新华社新闻-新华网]] :news:
-*** 求是 :qstheory:
-**** [[https://rsshub.app/qstheory][头条 - 求是网]]
 ** Life :life:
 *** [[https://rsshub.app/aqicn/shanghai/pm25,pm10][上海AQI]] :air:
 *** [[https://rsshub.app/uniqlo/stylingbook/men][Uniqlo styling book]] :buy:
