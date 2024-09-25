@@ -44,7 +44,6 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
-[[https://www.nature.com/nature.rss]]
 *** NASA :nasa:
 **** [[https://rsshub.app/nasa/apod][NASA Astronomy Picture of the Day]] :image:
 *** AAAS :aaas:
