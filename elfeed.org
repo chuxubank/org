@@ -52,8 +52,9 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][AAAS: Table of Contents]]
 **** [[https://www.science.org/rss/news_current.xml][Latest News from Science Magazine]]
 ** Sport :sport:
-*** [[https://rsshub.app/dongqiudi/daily][懂球帝专题-早报]] :dqd:
-https://rsshub.app/dongqiudi/special/48
+*** 懂球帝 :dqd:
+**** [[https://rsshub.app/dongqiudi/special/48][懂球帝专题-早报]]
+**** [[https://rsshub.app/dongqiudi/special/41][新闻大爆炸]]
 ** ACGN :acgn:
 *** Anime :anime:
 **** Bangumi :bangumi:
