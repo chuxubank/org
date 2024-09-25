@@ -5,7 +5,7 @@ https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/ra
 *** Rust :rust:
 **** [[https://this-week-in-rust.org/rss.xml][This Week in Rust]]
 **** [[https://blog.rust-lang.org/feed.xml][Rust Blog]]
-*** [[https://feed.gradle.org/blog.atom][The Gradle Blog]] :gradle:
+*** [[https://blog.gradle.org/feed.atom][The Gradle Blog]] :gradle:
 *** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
 *** Apple :apple:
 **** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
