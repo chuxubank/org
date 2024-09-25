@@ -2,7 +2,6 @@
 https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/raw/elfeed.opml
 ** Programming :programming:
 *** [[https://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&type=mp4][2015 Fall: 15-213 Introduction to Computer Systems]] :csapp:podcast:
-*** [[https://rsshub.app/acm/amturingaward][A.M. Turing Award Winners]] :acm:
 *** Rust :rust:
 **** [[https://this-week-in-rust.org/rss.xml][This Week in Rust]]
 **** [[https://blog.rust-lang.org/feed.xml][Rust Blog]]
@@ -52,8 +51,6 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science][AAAS: Science: Table of Contents]]
 **** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][AAAS: Table of Contents]]
 **** [[https://www.science.org/rss/news_current.xml][Latest News from Science Magazine]]
-** Art :art:
-*** [[https://rsshub.app/dailyart/zh][DailyArt]]
 ** Sport :sport:
 *** [[https://rsshub.app/dongqiudi/daily][懂球帝专题-早报]] :dqd:
 https://rsshub.app/dongqiudi/special/48
