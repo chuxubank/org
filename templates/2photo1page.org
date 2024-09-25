@@ -1,4 +1,5 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:nil
+#+LATEX_HEADER: \pagestyle{empty}
 
 [[file:/Users/xuchu1/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photo/褚旭-反面.png]]
 
