@@ -46,7 +46,7 @@ https://cate.blog/about/
 **** [[https://feeds.kottke.org/main][Jason Kottke]]
 Jason Kottke (born September 27, 1973) is an American blogger, graphic designer, and web designer known for his blog Kottke.org. He won a Lifetime Achievement Award as a blogger. As of July 2013, his blog is ranked #66 overall and #20 in Science on the Technorati Top 100.
 https://en.wikipedia.org/wiki/Jason_Kottke
-**** [[https://rsshub.app/blogs/wangyin][王垠的博客 - 当然我在扯淡]]
+**** [[https://yinwang1.substack.com/feed][垠的备忘录]]
 **** [[https://archive.casouri.cat/note/rss.xml][Casouri - Notes]] :emacs:
 **** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
 ** Science :science:
