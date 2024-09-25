@@ -6,54 +6,45 @@
   <body>
       <outline title="Programming">
         <outline title="2015 Fall: 15-213 Introduction to Computer Systems" xmlUrl="https://scs.hosted.panopto.com/Panopto/Podcast/Podcast.ashx?courseid=b96d90ae-9871-4fae-91e2-b1627b43e25e&amp;type=mp4"/>
-        <outline title="A.M. Turing Award Winners" xmlUrl="https://rsshub.app/acm/amturingaward"/>
         <outline title="Rust">
           <outline title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/rss.xml"/>
           <outline title="Rust Blog" xmlUrl="https://blog.rust-lang.org/feed.xml"/>
         </outline>
-        <outline title="The Gradle Blog" xmlUrl="https://feed.gradle.org/blog.atom"/>
-        <outline title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml"/>
-        <outline title="Apple">
-          <outline title="Becky Hansmeyer" xmlUrl="https://beckyhansmeyer.com/feed/"/>
-          <outline title="The Shape of Everything" xmlUrl="https://shapeof.com/rss.xml"/>
-          <outline title="Erica Sadun" xmlUrl="https://ericasadun.com/feed/"/>
-        </outline>
+        <outline title="The Gradle Blog" xmlUrl="https://blog.gradle.org/feed.atom"/>
         <outline title="Google">
           <outline title="Android">
-            <outline title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu"/>
+            <outline title="Android Developers Blog" xmlUrl="https://android-developers.blogspot.com/atom.xml"/>
             <outline title="Android Studio Release Updates" xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default"/>
             <outline title="AndroidX - Release Notes" xmlUrl="https://developer.android.com/feeds/androidx-release-notes.xml"/>
           </outline>
         </outline>
         <outline title="Emacs">
-          <outline title="Org">
-            <outline title="Org Help" xmlUrl="https://updates.orgmode.org/feed/help"/>
-            <outline title="Org Changes" xmlUrl="https://updates.orgmode.org/feed/changes"/>
-            <outline title="Org Releases" xmlUrl="https://updates.orgmode.org/feed/releases"/>
-          </outline>
           <outline title="EmacsTalk" xmlUrl="https://emacstalk.codeberg.page/podcast/index.xml"/>
         </outline>
         <outline title="UEFI">
           <outline title="UEFI Forum" xmlUrl="https://uefi.org/press-releases.xml"/>
         </outline>
         <outline title="美团">
-          <outline title="美团技术团队" xmlUrl="https://rsshub.app/meituan/tech/home"/>
-        </outline>
-        <outline title="阿里云">
-          <outline title="阿里云系统组技术博客" xmlUrl="https://rsshub.app/aliyun-kernel/index"/>
+          <outline title="美团技术团队" xmlUrl="https://rsshub.app/meituan/tech"/>
         </outline>
       </outline>
       <outline title="Tech">
-        <outline title="少数派" xmlUrl="https://rsshub.app/sspai/index"/>
-        <outline title="差评资讯 - 全部" xmlUrl="https://rsshub.app/chaping/news"/>
+        <outline title="少数派" xmlUrl="https://sspai.com/feed"/>
+        <outline title="差评-快讯" xmlUrl="https://rsshub.app/chaping/newsflash"/>
         <outline title="Blog">
-          <outline title="Paul Graham: Essays" xmlUrl="https://rsshub.app/blogs/paulgraham"/>
+          <outline title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml"/>
+          <outline title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
           <outline title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main"/>
           <outline title="Accidentally in Code" xmlUrl="https://cate.blog/feed/"/>
           <outline title="Jason Kottke" xmlUrl="https://feeds.kottke.org/main"/>
-          <outline title="王垠的博客 - 当然我在扯淡" xmlUrl="https://rsshub.app/blogs/wangyin"/>
-          <outline title="Casouri - Notes" xmlUrl="https://archive.casouri.cat/note/rss.xml"/>
+          <outline title="垠的备忘录" xmlUrl="https://yinwang1.substack.com/feed"/>
+          <outline title="Casouri - Notes" xmlUrl="https://archive.casouri.cc/note/atom.xml"/>
           <outline title="Karthinks" xmlUrl="https://karthinks.com/index.xml"/>
+          <outline title="Apple">
+            <outline title="Becky Hansmeyer" xmlUrl="https://beckyhansmeyer.com/feed/"/>
+            <outline title="The Shape of Everything" xmlUrl="https://shapeof.com/rss.xml"/>
+            <outline title="Erica Sadun" xmlUrl="https://ericasadun.com/feed/"/>
+          </outline>
         </outline>
       </outline>
       <outline title="Science">
@@ -67,11 +58,11 @@
           <outline title="Latest News from Science Magazine" xmlUrl="https://www.science.org/rss/news_current.xml"/>
         </outline>
       </outline>
-      <outline title="Art">
-        <outline title="DailyArt" xmlUrl="https://rsshub.app/dailyart/zh"/>
-      </outline>
       <outline title="Sport">
-        <outline title="懂球帝专题-早报" xmlUrl="https://rsshub.app/dongqiudi/daily"/>
+        <outline title="懂球帝">
+          <outline title="懂球帝专题-早报" xmlUrl="https://rsshub.app/dongqiudi/special/48"/>
+          <outline title="新闻大爆炸" xmlUrl="https://rsshub.app/dongqiudi/special/41"/>
+        </outline>
       </outline>
       <outline title="ACGN">
         <outline title="Anime">
@@ -84,9 +75,6 @@
         <outline title="Game">
           <outline title="Epic Games Store - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames"/>
         </outline>
-        <outline title="Novel">
-          <outline title="青空文庫新着リスト" xmlUrl="https://rsshub.app/aozora/newbook"/>
-        </outline>
       </outline>
       <outline title="YouTube">
         <outline title="老高與小茉 Mr ＆ Mrs Gao" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ"/>
@@ -96,38 +84,17 @@
           <outline title="BBC News world" xmlUrl="https://rsshub.app/bbc/world"/>
           <outline title="BBC News 中文网" xmlUrl="https://rsshub.app/bbc/chinese"/>
         </outline>
+        <outline title="New York Times">
+          <outline title="纽约时报中文网 - 中英对照版" xmlUrl="https://rsshub.app/nytimes/dual"/>
+        </outline>
         <outline title="Hacker News" xmlUrl="https://news.ycombinator.com/rss"/>
         <outline title="NEWS WEB EASY" xmlUrl="https://rsshub.app/nhk/news_web_easy"/>
         <outline title="朝日新聞デジタル" xmlUrl="https://www.asahi.com/rss/asahi/newsheadlines.rdf"/>
         <outline title="观察者网 - 头条" xmlUrl="https://rsshub.app/guancha/headline"/>
       </outline>
-      <outline title="Government">
-        <outline title="半月谈">
-          <outline title="时事大事库—半月谈" xmlUrl="https://rsshub.app/banyuetan/byt"/>
-          <outline title="基层治理-半月谈" xmlUrl="https://rsshub.app/banyuetan/jicengzhili"/>
-          <outline title="今日谈-半月谈" xmlUrl="https://rsshub.app/banyuetan/jinritan"/>
-          <outline title="时政讲解-半月谈" xmlUrl="https://rsshub.app/banyuetan/shizhengjiangjie"/>
-        </outline>
-        <outline title="图解政策 - 中国政府网" xmlUrl="https://rsshub.app/gov/xinwen/tujie/zhengce"/>
-        <outline title="最新文件 - 中国政府网" xmlUrl="https://rsshub.app/gov/zhengce/wenjian"/>
-        <outline title="最新政策 - 中国政府网" xmlUrl="https://rsshub.app/gov/zhengce/zuixin"/>
-        <outline title="中华人民共和国外交部-发言人表态" xmlUrl="https://rsshub.app/gov/fmprc/fyrbt"/>
-        <outline title="中国政府网 - 国务院信息" xmlUrl="https://rsshub.app/gov/news/gwy"/>
-        <outline title="中国政府网 - 新闻要闻" xmlUrl="https://rsshub.app/gov/news/yw"/>
-        <outline title="中国政府网 - 滚动新闻" xmlUrl="https://rsshub.app/gov/news/gd"/>
-        <outline title="中国政府网 - 部门政务" xmlUrl="https://rsshub.app/gov/news/bm"/>
-        <outline title="中国政府网 - 政策文件" xmlUrl="https://rsshub.app/gov/news/zhengce"/>
-        <outline title="新华网">
-          <outline title="新华社新闻-新华网" xmlUrl="https://rsshub.app/news/whxw"/>
-        </outline>
-        <outline title="求是">
-          <outline title="头条 - 求是网" xmlUrl="https://rsshub.app/qstheory"/>
-        </outline>
-      </outline>
       <outline title="Life">
         <outline title="上海AQI" xmlUrl="https://rsshub.app/aqicn/shanghai/pm25,pm10"/>
-        <outline title="Uniqlo styling book" xmlUrl="https://rsshub.app/uniqlo/stylingbook/men"/>
-        <outline title="Bing每日壁纸" xmlUrl="https://rsshub.app/bing"/>
+        <outline title="Bing每日壁纸" xmlUrl="https://rsshub.app/bing/type=UHD&amp;story=1&amp;lang=zh-CN"/>
       </outline>
   </body>
 </opml>
