@@ -6,11 +6,6 @@ https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/ra
 **** [[https://this-week-in-rust.org/rss.xml][This Week in Rust]]
 **** [[https://blog.rust-lang.org/feed.xml][Rust Blog]]
 *** [[https://blog.gradle.org/feed.atom][The Gradle Blog]] :gradle:
-*** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
-*** Apple :apple:
-**** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
-**** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
-**** [[https://ericasadun.com/feed/][Erica Sadun]] :xcode:
 *** Google :google:
 **** Android :android:
 ***** [[https://android-developers.blogspot.com/atom.xml][Android Developers Blog]]
@@ -23,11 +18,11 @@ https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/ra
 *** 美团 :meituan:
 **** [[https://rsshub.app/meituan/tech][美团技术团队]]
 ** Tech :tech:
-*** [[https://rsshub.app/sspai/index][少数派]] :sspai:
-https://sspai.com/feed
-*** [[https://rsshub.app/chaping/news][差评资讯 - 全部]] :chaping:
+*** [[https://sspai.com/feed][少数派]] :sspai:
+*** [[https://rsshub.app/chaping/newsflash][差评-快讯]] :chaping:
 *** Blog :blog:
-**** [[https://rsshub.app/blogs/paulgraham][Paul Graham: Essays]]
+**** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
+**** [[http://www.aaronsw.com/2002/feeds/pgessays.rss][Paul Graham: Essays]]
 Paul Graham (/ɡræm/; born 1964) is an English-born American computer scientist, essayist, entrepreneur, venture capitalist, and author. He is best known for his work on the programming language Lisp, his former startup Viaweb (later renamed Yahoo! Store), cofounding the influential startup accelerator and seed capital firm Y Combinator, his essays, and Hacker News. He is the author of several computer programming books, including: On Lisp, ANSI Common Lisp, and Hackers & Painters. Technology journalist Steven Levy has described Graham as a "hacker philosopher".
 https://en.wikipedia.org/wiki/Paul_Graham_(programmer)
 **** [[https://daringfireball.net/feeds/main][Daring Fireball]] :markdown:
@@ -42,6 +37,10 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://yinwang1.substack.com/feed][垠的备忘录]]
 **** [[https://archive.casouri.cc/note/atom.xml][Casouri - Notes]] :emacs:
 **** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
+**** Apple :apple:
+***** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
+***** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
+***** [[https://ericasadun.com/feed/][Erica Sadun]] :xcode:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
