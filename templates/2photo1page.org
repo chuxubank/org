@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+#+OPTIONS: toc:nil author:nil date:nil prop:t p:nil
 
 [[file:/Users/xuchu1/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photo/褚旭-反面.png]]
 
