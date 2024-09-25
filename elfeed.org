@@ -62,8 +62,6 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 ****** [[https://rsshub.chuxubank.top/bilibili/user/bangumi/136410][淡月霜痕 的追番列表]]
 *** Game :game:
 **** [[https://rsshub.app/epicgames/freegames][Epic Games Store - Free Games]] :epic:
-*** Novel :novel:
-**** [[https://rsshub.app/aozora/newbook][青空文庫新着リスト]] :japanese:
 ** YouTube :youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ][老高與小茉 Mr ＆ Mrs Gao]]
 ** News :news:
