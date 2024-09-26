@@ -27,9 +27,3 @@ SCHEDULED: <2024-08-23 Fri>
 * TODO 刷算法题
 * TODO 学习日语
 * TODO 国际驾照
-* DONE 江苏银行公积金还贷
-SCHEDULED: <2024-09-11 Wed>
-** DONE 表格签名
-SCHEDULED: <2024-08-12 Mon>
-** DONE 寄表格
-SCHEDULED: <2024-08-13 Tue>
