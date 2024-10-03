@@ -6,7 +6,7 @@ SCHEDULED: <2025-01-01 Wed>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 修复 RSSHub
-* TODO 配置 nerd.chuxubank.top
+* STRT 配置 nerd.chuxubank.top
 SCHEDULED: <2024-08-23 Fri>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")

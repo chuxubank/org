@@ -318,11 +318,12 @@ SCHEDULED: <2024-09-24 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
 * TODO Do exercise
-SCHEDULED: <2024-09-25 Wed .+1d/2d>
+SCHEDULED: <2024-10-03 Thu .+1d/2d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-09-23 Mon 22:53]
+:LAST_REPEAT: [2024-10-02 Wed 23:59]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2024-10-02 Wed 23:59]
 - State "DONE"       from "TODO"       [2024-09-23 Mon 22:53]
 - State "DONE"       from "TODO"       [2024-09-18 Wed 23:59]
 - State "DONE"       from "TODO"       [2024-09-12 Thu 23:59]
@@ -472,11 +473,12 @@ SCHEDULED: <2024-09-25 Wed .+1d/2d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2024-10-02 Wed 06:40 .+3d/5d>
+SCHEDULED: <2024-10-05 Sat 06:40 .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-09-29 Sun 21:11]
+:LAST_REPEAT: [2024-10-02 Wed 23:59]
 :END:
+- State "DONE"       from "TODO"       [2024-10-02 Wed 23:59]
 - State "DONE"       from "TODO"       [2024-09-29 Sun 21:11]
 - State "DONE"       from "TODO"       [2024-09-22 Sun 13:01]
 - State "DONE"       from "TODO"       [2024-09-17 Tue 15:37]
@@ -680,11 +682,12 @@ SCHEDULED: <2024-10-02 Wed 06:40 .+3d/5d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2024-10-02 Wed .+5d/7d>
+SCHEDULED: <2024-10-08 Tue .+5d/7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-09-27 Fri 10:35]
+:LAST_REPEAT: [2024-10-03 Thu 11:02]
 :END:
+- State "DONE"       from "TODO"       [2024-10-03 Thu 11:02]
 - State "DONE"       from "TODO"       [2024-09-27 Fri 10:35]
 - State "DONE"       from "TODO"       [2024-09-19 Thu 08:49]
 - State "DONE"       from "TODO"       [2024-09-14 Sat 13:25]
