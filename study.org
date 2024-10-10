@@ -1,5 +1,5 @@
 #+TITLE: Study
-* TODO 考研
+* KILL 考研
 SCHEDULED: <2024-09-01 Sun>
 ** 数学 [0/2]
 - [X] 高数整理
