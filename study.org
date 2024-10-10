@@ -43,7 +43,7 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 真题
 - [ ] 肖秀荣
 - [ ] 整理史纲 毛中特时间线
-* TODO 考研报名
+* KILL 考研报名
 DEADLINE: <2024-10-25 Fri> SCHEDULED: <2024-10-08 Tue>
 [[https://gsas.fudan.edu.cn/sszsml2024/index.html][招生目录]]
 * 编程
