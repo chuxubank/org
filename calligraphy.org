@@ -756,7 +756,7 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** TODO 练字
-SCHEDULED: <2024-10-12 Sat ++2w>
+SCHEDULED: <2024-10-19 Sat ++2w>
 * Note
 ** 写字时注意
 - 字形结构
