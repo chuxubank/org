@@ -5,13 +5,14 @@ SCHEDULED: <2024-09-26 Thu>
 SCHEDULED: <2025-01-01 Wed>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
-* STRT 配置 nerd
+* DONE 配置 nerd
 SCHEDULED: <2024-08-23 Fri>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
 :END:
 [[file:~/.password-store/Network/Host/Racknerd/web.gpg][Nerd]]
 * TODO Setup OpenWrt
+SCHEDULED: <2024-10-16 Wed>
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
