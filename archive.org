@@ -3896,6 +3896,30 @@ PS: 两个学校这门课的专业课代码是一样的 但是目测试卷并不
 
 本书为主要参考资料，但考生复习不应局限于该教材，且应当关注当前教育改革、教育发展的热点问题，以及教育政策法律的新进展。
 （本学院不提供上述参考书及其它复习资料）
+
+** DONE 做饭
+SCHEDULED: <2024-09-26 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-16 Wed 15:15
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 韩式泡菜豆腐汤
+- [X] Costco 牛肉薄饼
+- [X] 炒土豆丝
+
+** DONE 拿饮料：海底椰 百香果
+CLOSED: [2024-09-01 Sun 13:56] SCHEDULED: <2024-09-01 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-16 Wed 15:15
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-09-01 Sun 13:56]
 * From life.org :ARCHIVE:
 ** DONE 更换手表电池
 CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
