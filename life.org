@@ -688,11 +688,12 @@ SCHEDULED: <2024-10-19 Sat 06:40 .+3d/5d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2024-10-15 Tue .+5d/7d>
+SCHEDULED: <2024-10-20 Sun .+5d/7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-10-10 Thu 22:10]
+:LAST_REPEAT: [2024-10-15 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2024-10-15 Tue 23:59]
 - State "DONE"       from "TODO"       [2024-10-10 Thu 22:10]
 - State "DONE"       from "TODO"       [2024-10-03 Thu 11:02]
 - State "DONE"       from "TODO"       [2024-09-27 Fri 10:35]
@@ -796,7 +797,7 @@ SCHEDULED: <2024-10-22 Tue .+1m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Clean bathroom
-SCHEDULED: <2024-10-13 Sun .+1w>
+SCHEDULED: <2024-10-20 Sun .+2w>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2024-10-06 Sun 19:21]
