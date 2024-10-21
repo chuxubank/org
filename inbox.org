@@ -1,4 +1,8 @@
 #+title: Inbox
+* TODO 兑换日币
+SCHEDULED: <2024-10-21 Mon>
+* TODO 转公积金贷款
+SCHEDULED: <2024-10-21 Mon>
 * TODO 买拖把
 SCHEDULED: <2024-10-21 Mon>
 * TODO 做脸膜
