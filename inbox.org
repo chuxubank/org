@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 沐浴露
+SCHEDULED: <2024-10-24 Thu 12:10>
 * TODO 兑换日币
 SCHEDULED: <2024-10-22 Tue>
 * TODO 转公积金贷款
