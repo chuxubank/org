@@ -1,6 +1,6 @@
 #+TITLE: Watch
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
-* 番剧 [7/31]
+* 番剧 [7/32]
 ** TODO 四叶游戏
 ** TODO 奇巧计程车
 ** TODO 化物语
@@ -26,6 +26,12 @@
 ** TODO Berserk
 ** TODO 东之伊甸
 ** TODO 电锯人
+** TODO 二舍六房的七人
+** STRT 奇诺之旅
+[[bili:md2013]]
+** STRT 间谍过家家
+[[bili:md21086686]]
+35 话
 ** KILL 重启咲良田
 CLOSED: [2022-05-05 Thu 21:24] SCHEDULED: <2022-05-01 Sun>
 ** DONE 国王排名
@@ -51,19 +57,14 @@ SCHEDULED: <2018-04-06 Fri>
 [[bili:md79472]]
 [[wiki-zh:MEGALO_BOX]]
 以 [[明日之杖]] 为蓝本的精神续作
-** 二舍六房的七人
-** STRT 奇诺之旅
-[[bili:md2013]]
 ** DONE 葬送的芙莉莲
 ** DONE 怪兽 8 号
-** STRT 间谍过家家
-[[bili:md21086686]]
-35 话
-* 电影 [0/4]
+* 电影 [1/5]
 ** TODO 猫鼠游戏
-** TODO 华尔街之狼
 ** TODO Don't Look Up
 ** TODO 低俗小说
+** TODO 周处除三害
+** DONE 华尔街之狼
 * 电视 [1/4]
 ** TODO 请回答 1988
 ** TODO 基地
