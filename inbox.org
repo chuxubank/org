@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 拿新银行卡
+SCHEDULED: <2024-10-29 Tue>
 * TODO 沐浴露
 SCHEDULED: <2024-10-24 Thu 12:10>
 * DONE 兑换日币
