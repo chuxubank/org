@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 设置全家会员
+SCHEDULED: <2024-10-23 Wed>
 * TODO 拿新银行卡
 SCHEDULED: <2024-10-29 Tue>
 * TODO 沐浴露
