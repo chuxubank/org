@@ -2552,7 +2552,7 @@ https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717928080/Y2022-+v2.18
 *** Questions
 - [X] BindDevice_enable_modulepage 这个 enable 前面多了一个空格
 - [X] Zhuge Chinese Display
-*** 加密
+*** 加密 :crypt:
 house_ID
 83d976c9-79b2-46c5-8ae2-a559a5867fa1
 ddab0ce169b25a37c6e447811a793dba9804c99995fe761a2a49264c2ef6138621daf81eeeff90db
