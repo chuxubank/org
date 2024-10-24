@@ -1,8 +1,9 @@
 #+title: Inbox
 * TODO 拿新银行卡
 SCHEDULED: <2024-10-29 Tue>
-* TODO 沐浴露
-SCHEDULED: <2024-10-24 Thu 12:10>
+* DONE 沐浴露
+CLOSED: [2024-10-25 Fri 07:45] SCHEDULED: <2024-10-24 Thu 12:10>
+- State "DONE"       from "TODO"       [2024-10-25 Fri 07:45]
 * DONE 火锅调料
 SCHEDULED: <2024-10-24 Thu 07:00>
 * DONE 兑换日币
@@ -12,8 +13,9 @@ CLOSED: [2024-10-22 Tue 14:56] SCHEDULED: <2024-10-22 Tue>
 SCHEDULED: <2024-10-21 Mon>
 * DONE 买拖把
 SCHEDULED: <2024-10-21 Mon>
-* TODO 做脸模
-SCHEDULED: <2024-10-24 Thu 14:00>
+* DONE 做脸模
+CLOSED: [2024-10-25 Fri 07:45] SCHEDULED: <2024-10-24 Thu 14:00>
+- State "DONE"       from "TODO"       [2024-10-25 Fri 07:45]
 * DONE RSSHub 自部署
 SCHEDULED: <2024-09-26 Thu>
 * TODO IPTV
