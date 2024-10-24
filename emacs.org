@@ -32,9 +32,6 @@ https://github.com/gitwatch/gitwatch
 homeassistant
 ** KILL Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
-** DONE Learn Emacs term
-SCHEDULED: <2023-10-01 Sun>
-[[info:emacs#Terminal emulator][emacs#Terminal emulator]]
 ** DONE 使用 mu4e 邮件客户端
 SCHEDULED: <2024-08-07 Wed>
 https://mmogilvi.users.sourceforge.net/software/oauthbearer.html
