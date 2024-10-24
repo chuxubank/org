@@ -8,8 +8,10 @@ https://github.com/gitwatch/gitwatch
 *** TODO Use featurep instead of package-installed-p
 ** TODO Org handle Open Graph protocol
 SCHEDULED: <2025-01-04 Sat>
+** TODO Display notification from D-Bus on other system like macOS or Windows
+SCHEDULED: <2024-10-26 Sat>
 ** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
-SCHEDULED: <2025-05-01 Thu>
+SCHEDULED: <2024-10-26 Sat>
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
@@ -22,8 +24,6 @@ https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** TODO 京东账单导入
 SCHEDULED: <2024-10-16 Wed>
-** TODO Display notification from D-Bus on other system like macOS or Windows
-SCHEDULED: <2025-01-11 Sat>
 ** IDEA hass.el
 homeassistant
 ** KILL Build Emacs as a Java/Kotlin IDE
