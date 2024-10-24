@@ -24,7 +24,7 @@ https://github.com/deb-sig/double-entry-generator
 https://fermi.ink/posts/2023/05/31/01/
 https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
-*** TODO 京东账单导入
+*** STRT 京东账单导入
 SCHEDULED: <2024-10-16 Wed>
 ** WAIT Org-Agenda 自动 pull repo
 https://github.com/gitwatch/gitwatch
