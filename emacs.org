@@ -1,7 +1,5 @@
 #+title: Emacs
 * Inbox
-** WAIT Org-Agenda 自动 pull repo
-https://github.com/gitwatch/gitwatch
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
 ** TODO Change personal config to use (provide 'x)
@@ -16,6 +14,10 @@ SCHEDULED: <2024-10-26 Sat>
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
+** TODO Use Gnus as Mail client
+SCHEDULED: <2025-01-11 Sat>
+https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
+** TODO Extend pinyin-isearch with rime double-pinyin
 ** STRT beancount 学习记账
 SCHEDULED: <2024-08-20 Tue>
 https://github.com/deb-sig/double-entry-generator
@@ -24,6 +26,8 @@ https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** TODO 京东账单导入
 SCHEDULED: <2024-10-16 Wed>
+** WAIT Org-Agenda 自动 pull repo
+https://github.com/gitwatch/gitwatch
 ** IDEA hass.el
 homeassistant
 ** KILL Build Emacs as a Java/Kotlin IDE
@@ -63,10 +67,6 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** TODO Use Gnus as Mail client
-SCHEDULED: <2025-01-11 Sat>
-https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** DONE Learn Emacs term
 SCHEDULED: <2023-10-01 Sun>
 [[info:emacs#Terminal emulator][emacs#Terminal emulator]]
-** TODO Extend pinyin-isearch with rime double-pinyin
