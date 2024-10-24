@@ -3979,6 +3979,16 @@ SCHEDULED: <2024-04-27 Sat>
 :ARCHIVE_TODO: DONE
 :END:
 
+** DONE Learn Emacs term
+SCHEDULED: <2023-10-01 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-24 Thu 09:55
+:ARCHIVE_FILE: ~/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+[[info:emacs#Terminal emulator][emacs#Terminal emulator]]
 * From sideline.org :ARCHIVE:
 
 ** DONE Build Shadow CI
