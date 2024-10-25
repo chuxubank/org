@@ -853,6 +853,8 @@ SCHEDULED: <2024-10-01 Tue .+1m>
 - State "KILL"       from "TODO"       [2022-02-22 Tue 07:49]
 - State "DONE"       from "TODO"       [2022-02-06 Sun 10:14]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
+** TODO Add windshield washer fluid
+SCHEDULED: <2024-10-26 Sat .+3m>
 ** TODO Renew driver's license
 SCHEDULED: <2034-04-17 Wed> DEADLINE: <2034-06-20 Thu>
 ** TODO 添加玻璃水
