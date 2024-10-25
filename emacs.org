@@ -19,13 +19,13 @@ SCHEDULED: <2025-01-04 Sat>
 SCHEDULED: <2025-01-11 Sat>
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** STRT beancount 学习记账
-SCHEDULED: <2024-08-20 Tue>
+SCHEDULED: <2024-12-26 Thu>
 https://github.com/deb-sig/double-entry-generator
 https://fermi.ink/posts/2023/05/31/01/
 https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** STRT 京东账单导入
-SCHEDULED: <2024-10-16 Wed>
+SCHEDULED: <2024-12-16 Mon>
 ** WAIT Org-Agenda 自动 pull repo
 https://github.com/gitwatch/gitwatch
 ** IDEA hass.el
