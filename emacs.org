@@ -25,7 +25,7 @@ https://fermi.ink/posts/2023/05/31/01/
 https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** STRT 京东账单导入
-SCHEDULED: <2024-12-16 Mon>
+SCHEDULED: <2024-12-26 Thu>
 ** WAIT Org-Agenda 自动 pull repo
 https://github.com/gitwatch/gitwatch
 ** IDEA hass.el
