@@ -14,3 +14,5 @@ SCHEDULED: <2024-10-25 Fri>
 明清
 王福庵
 * TODO USB Typc-C Hub
+* TODO Ray-Ban Meta AI
+* TODO 咖啡机
