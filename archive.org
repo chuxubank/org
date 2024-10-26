@@ -4001,7 +4001,7 @@ SCHEDULED: <2024-08-05 Mon>
 :ARCHIVE_TODO: DONE
 :END:
 
-* From licence.org
+* From licence.org :ARCHIVE:
 
 ** Licenses
 :PROPERTIES:
