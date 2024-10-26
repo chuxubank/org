@@ -3,6 +3,7 @@
 SCHEDULED: <2024-10-27 Sun>
 * TODO 上药
 SCHEDULED: <2024-10-27 Sun .+1d>
+* TODO 复诊
 * TODO 整理东西
 SCHEDULED: <2024-11-13 Wed>
 * TODO 拿新银行卡
