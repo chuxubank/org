@@ -4026,3 +4026,15 @@ SCHEDULED: <2024-08-05 Mon>
 
 #+RESULTS:
 : 83997f21fa98c01da3cc79339403b025
+
+* From ning.org.gpg
+
+** DONE 拿护照
+CLOSED: [2024-09-26 Thu 16:41] SCHEDULED: <2024-09-17 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-26 Sat 19:15
+:ARCHIVE_FILE: ~/org/ning.org.gpg
+:ARCHIVE_CATEGORY: ning.org
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-09-26 Thu 16:41]
