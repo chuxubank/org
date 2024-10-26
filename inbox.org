@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 上药
+SCHEDULED: <2024-10-28 Mon .+1>
 * TODO 整理东西
 SCHEDULED: <2024-11-13 Wed>
 * DONE 拿蛋糕
