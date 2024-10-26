@@ -1587,7 +1587,7 @@ SCHEDULED: <2022-01-14 Fri>
 *** KILL 职位报名
 DEADLINE: <2022-02-25 Fri 18:00> SCHEDULED: <2022-02-21 Mon 09:00>
 *** TODO 整理时代楷模事例
-* From work.org :ARCHIVE:
+* From work.org.gpg :ARCHIVE:
 ** 上海致研智能 :ARCHIVE:
 :PROPERTIES:
 :ARCHIVE_TIME: 2022-01-11 Tue 10:45
