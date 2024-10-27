@@ -6,6 +6,7 @@
 #+link: tb      https://detail.tmall.com/item.htm?id=%s
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
+
 * TODO 桌面空气净化器
 SCHEDULED: <2024-10-25 Fri>
 :PROPERTIES:
