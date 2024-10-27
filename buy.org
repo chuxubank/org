@@ -4,7 +4,7 @@
 #+link: jdhk    https://npcitem.jd.hk/%s.html
 #+link: aqara   https://www.aqara.com/cn/productDetail/%s
 #+property: PRICE
-#+columns: %20ITEM %TODO(State) %BUDGET(CNY){$}
+#+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 * TODO 桌面空气净化器
 SCHEDULED: <2024-10-25 Fri>
 ** 霍尼韦尔 HWC05
