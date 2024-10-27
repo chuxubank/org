@@ -3,7 +3,7 @@
 #+link: jd      https://item.jd.com/%s.html
 #+link: jdhk    https://npcitem.jd.hk/%s.html
 #+link: aqara   https://www.aqara.com/cn/productDetail/%s
-#+property: Budget
+#+property: PRICE
 #+columns: %20ITEM %TODO(State) %BUDGET(CNY){$}
 * TODO 桌面空气净化器
 SCHEDULED: <2024-10-25 Fri>
