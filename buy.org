@@ -10,6 +10,7 @@
 SCHEDULED: <2024-10-25 Fri>
 :PROPERTIES:
 :PowerType_ALL: USB Battery AC
+:COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType
 :END:
 ** 霍尼韦尔 HWC05
 :PROPERTIES:
@@ -23,6 +24,13 @@ SCHEDULED: <2024-10-25 Fri>
 :PowerType: USB
 :END:
 [[jd:100131381722]]
+** AIRINUM Hale
+:PROPERTIES:
+:PRICE:    1163
+:PowerType: Battery
+:END:
+[[tb:820721719169]]
+
 * TODO 4K 菊花链显示器
 * TODO 篆书字帖
 袁敞碑
