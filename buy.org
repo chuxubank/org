@@ -3,18 +3,24 @@
 #+link: jd      https://item.jd.com/%s.html
 #+link: jdhk    https://npcitem.jd.hk/%s.html
 #+link: aqara   https://www.aqara.com/cn/productDetail/%s
+#+link: tb      https://detail.tmall.com/item.htm?id=%s
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 * TODO 桌面空气净化器
 SCHEDULED: <2024-10-25 Fri>
+:PROPERTIES:
+:PowerType_ALL: USB Battery AC
+:END:
 ** 霍尼韦尔 HWC05
 :PROPERTIES:
 :PRICE:   596
+:PowerType: USB
 :END:
 [[jd:10040086043569]]
 ** 霍尼韦尔 HWC20
 :PROPERTIES:
 :PRICE:   399
+:PowerType: USB
 :END:
 [[jd:100131381722]]
 * TODO 4K 菊花链显示器
