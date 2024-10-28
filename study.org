@@ -1,6 +1,6 @@
 #+TITLE: Study
-* KILL 考研
-SCHEDULED: <2024-09-01 Sun>
+* TODO 考研
+SCHEDULED: <2024-11-01 Fri>
 ** 数学 [0/2]
 - [X] 高数整理
 - [X] 线代整理
@@ -43,7 +43,7 @@ SCHEDULED: <2024-09-01 Sun>
 - [ ] 真题
 - [ ] 肖秀荣
 - [ ] 整理史纲 毛中特时间线
-* KILL 考研报名
+* DONE 考研报名
 DEADLINE: <2024-10-25 Fri> SCHEDULED: <2024-10-08 Tue>
 [[https://gsas.fudan.edu.cn/sszsml2024/index.html][招生目录]]
 * 编程

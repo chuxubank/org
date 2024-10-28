@@ -9,7 +9,7 @@ SCHEDULED: <2024-09-01 Sun>
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Extend pinyin-isearch with rime double-pinyin
-** TODO Display notification from D-Bus on other system like macOS or Windows
+** STRT Display notification from D-Bus on other system like macOS or Windows
 SCHEDULED: <2024-10-26 Sat>
 ** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
 SCHEDULED: <2024-10-26 Sat>
