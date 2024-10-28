@@ -1,8 +1,6 @@
 #+title: Inbox
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
-* KILL 转公积金贷款
-SCHEDULED: <2024-10-21 Mon>
 * TODO 上药
 SCHEDULED: <2024-10-27 Sun .+1d>
 * TODO 拿新银行卡
