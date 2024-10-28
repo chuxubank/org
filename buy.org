@@ -8,7 +8,7 @@
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 
 * TODO 桌面空气净化器
-SCHEDULED: <2024-10-25 Fri>
+SCHEDULED: <2024-10-31 Thu>
 :PROPERTIES:
 :PowerType_ALL: USB Battery AC
 :COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType %CADR(CADR m^3/h) %Weight(Weight kg)
