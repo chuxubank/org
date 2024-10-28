@@ -11,7 +11,7 @@
 SCHEDULED: <2024-10-25 Fri>
 :PROPERTIES:
 :PowerType_ALL: USB Battery AC
-:COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType
+:COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType %CADR(CADR m^3/h)
 :END:
 ** 霍尼韦尔 HWC05
 :PROPERTIES:
@@ -29,6 +29,7 @@ SCHEDULED: <2024-10-25 Fri>
 :PROPERTIES:
 :PRICE:    1163
 :PowerType: Battery
+:CADR:      8.7
 :END:
 [[tb:820721719169]]
 
