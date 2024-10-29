@@ -39,6 +39,7 @@ SCHEDULED: <2024-10-31 Thu>
 :PowerType: USB Battery
 :PRICE:    236
 :CADR:     10
+:Weight:   0.395
 :END:
 [[tb:632802644211]]
 * TODO 4K 菊花链显示器
