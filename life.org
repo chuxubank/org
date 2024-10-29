@@ -816,6 +816,9 @@ SCHEDULED: <2024-10-20 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
 SCHEDULED: <2024-10-29 Tue .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
 * Car
 ** TODO 汽车年检
 SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-07-18 Fri .+1y>
