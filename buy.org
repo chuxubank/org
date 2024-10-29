@@ -4,6 +4,7 @@
 #+link: jdhk    https://npcitem.jd.hk/%s.html
 #+link: aqara   https://www.aqara.com/cn/productDetail/%s
 #+link: tb      https://detail.tmall.com/item.htm?id=%s
+#+link: xhs     https://www.xiaohongshu.com/explore/%s
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 
