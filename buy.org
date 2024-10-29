@@ -34,7 +34,11 @@ SCHEDULED: <2024-10-31 Thu>
 :Weight:   0.47
 :END:
 [[tb:820721719169]]
-
+** LonHomon CP052
+:PROPERTIES:
+:PowerType: USB Battery
+:END:
+[[tb:632802644211]]
 * TODO 4K 菊花链显示器
 * TODO 篆书字帖
 袁敞碑
