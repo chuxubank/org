@@ -14,6 +14,7 @@ SCHEDULED: <2024-10-31 Thu>
 :PowerType_ALL: USB Battery AC
 :COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType %CADR(CADR m^3/h) %Weight(Weight kg)
 :END:
+[[https://www.xiaohongshu.com/explore/66e82aa20000000027007d54][车载净化器怎么选？]]
 ** 霍尼韦尔 HWC05
 :PROPERTIES:
 :PRICE:   596
