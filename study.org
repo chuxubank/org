@@ -1,4 +1,6 @@
 #+TITLE: Study
+* TODO 网上确认
+SCHEDULED: <2024-11-01 Fri>
 * TODO 考研
 SCHEDULED: <2024-11-01 Fri>
 ** 数学 [2/9]
