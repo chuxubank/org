@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 吃药
+SCHEDULED: <2024-10-30 Wed>
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
 * TODO 上药
