@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 买趁热集合
+SCHEDULED: <2024-10-31 Thu>
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
 * TODO 复诊
