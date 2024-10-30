@@ -1,15 +1,6 @@
 #+title: Inbox
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
-* TODO 上药
-SCHEDULED: <2024-10-31 Thu .+1d>
-:PROPERTIES:
-:LAST_REPEAT: [2024-10-30 Wed 23:38]
-:END:
-- State "DONE"       from "TODO"       [2024-10-30 Wed 23:38]
-- State "DONE"       from "TODO"       [2024-10-29 Tue 23:59]
-* DONE 拿新银行卡
-SCHEDULED: <2024-10-30 Wed>
 * TODO 复诊
 SCHEDULED: <2024-11-07 Thu>
 * TODO 整理东西
