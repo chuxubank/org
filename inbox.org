@@ -1,6 +1,7 @@
 #+title: Inbox
-* TODO 买趁热集合
-SCHEDULED: <2024-10-31 Thu>
+* DONE 买趁热集合
+CLOSED: [2024-10-31 Thu 17:59] SCHEDULED: <2024-10-31 Thu>
+- State "DONE"       from "TODO"       [2024-10-31 Thu 17:59]
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
 * TODO 复诊
