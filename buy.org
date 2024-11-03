@@ -8,43 +8,6 @@
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 
-* DONE 桌面空气净化器
-SCHEDULED: <2024-10-31 Thu>
-:PROPERTIES:
-:PowerType_ALL: USB Battery AC
-:COLUMNS:  %25ITEM %PRICE(Price){$} %PowerType %CADR(CADR m^3/h) %Weight(Weight kg)
-:END:
-[[https://www.xiaohongshu.com/explore/66e82aa20000000027007d54][车载净化器怎么选？]]
-[[xhs:5de4efa70000000001005cb6][中消协车载空净比较实验解读]]
-** 霍尼韦尔 HWC05
-:PROPERTIES:
-:PRICE:   596
-:PowerType: USB
-:END:
-[[jd:10040086043569]]
-** 霍尼韦尔 HWC20
-:PROPERTIES:
-:PRICE:   399
-:PowerType: USB
-:CADR:     20
-:END:
-[[jd:100131381722]]
-** AIRINUM Hale
-:PROPERTIES:
-:PRICE:    1163
-:PowerType: Battery
-:CADR:      8.7
-:Weight:   0.47
-:END:
-[[tb:820721719169]]
-** LonHomon CP052
-:PROPERTIES:
-:PowerType: USB Battery
-:PRICE:    236
-:CADR:     10
-:Weight:   0.395
-:END:
-[[tb:632802644211]]
 * TODO 4K 菊花链显示器
 * TODO 篆书字帖
 袁敞碑
