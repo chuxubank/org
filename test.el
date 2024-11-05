@@ -2,7 +2,7 @@
   (let ((attrs '((:html . "<div style=\"display: flex; justify-content: space-around;\">")
                  (:latex . "\\begin{minipage}{0.25\\textwidth}"))))
     (dolist (block (org-element-map (org-element-parse-buffer) 'special-block
-                     (lambda (b) (when (string= (org-element-property :type b) "horizontal") b))))
+                     (lambda (b) (when (string= (org-element-property :type b) "abcd") b))))
       (let ((contents (org-element-interpret-data (org-element-contents block))))
         (pcase backend
           (`html (format "%s\n%s\n</div>" (alist-get :html attrs) contents))
