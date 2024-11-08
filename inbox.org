@@ -39,4 +39,8 @@ SCHEDULED: <2024-11-03 Sun>
 - [ ] 学校召开校级家委会 把过重的压力给到家长
 - [ ] 组织研学活动 花费巨大 5k 一人
 * TODO 门铃充电
-SCHEDULED: <2024-11-07 Thu .+2m>
+SCHEDULED: <2025-01-08 Wed .+2m>
+:PROPERTIES:
+:LAST_REPEAT: [2024-11-08 Fri 08:30]
+:END:
+- State "DONE"       from "TODO"       [2024-11-08 Fri 08:30]
