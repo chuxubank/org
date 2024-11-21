@@ -7,7 +7,7 @@ CLOSED: [2024-10-31 Thu 17:59] SCHEDULED: <2024-10-31 Thu>
 - State "DONE"       from "TODO"       [2024-10-31 Thu 17:59]
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
-* TODO 复诊
+* KILL 复诊
 SCHEDULED: <2024-11-14 Thu>
 * TODO IPTV
 SCHEDULED: <2025-01-01 Wed>
