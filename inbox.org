@@ -3,9 +3,6 @@
 SCHEDULED: <2024-11-13 Wed>
 * TODO 预订饭店
 [[tel:+86 18930733833]]
-* DONE 买趁热集合
-CLOSED: [2024-10-31 Thu 17:59] SCHEDULED: <2024-10-31 Thu>
-- State "DONE"       from "TODO"       [2024-10-31 Thu 17:59]
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
 * KILL 复诊
