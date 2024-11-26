@@ -69,4 +69,5 @@ https://www.fitzsim.org/blog/?p=596
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
 ** TODO flycheck-xray
 ** TODO quick-sdcv
+SCHEDULED: <2024-11-26 Tue>
 https://github.com/jamescherti/quick-sdcv.el
