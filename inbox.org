@@ -1,5 +1,4 @@
 #+title: Inbox
-* TODO flycheck-xray
 * TODO 开奢侈品的发票
 SCHEDULED: <2024-11-13 Wed>
 * DONE 买趁热集合
