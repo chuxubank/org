@@ -2,6 +2,8 @@
 * Inbox
 ** TODO Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
+** TODO scrcpy for Emacs
+SCHEDULED: <2024-11-27 Wed>
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
 ** TODO Change personal config to use (provide 'x)
