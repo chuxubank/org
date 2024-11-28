@@ -850,6 +850,8 @@ SCHEDULED: <2024-11-28 Thu .+1d>
 - State "DONE"       from "TODO"       [2024-11-04 Mon 23:59]
 - State "DONE"       from "TODO"       [2024-10-31 Thu 00:08]
 - State "DONE"       from "TODO"       [2024-10-30 Wed 16:31]
+* TODO Annual Checkup
+SCHEDULED: <2025-01-10 Fri .+1y>
 * Car
 ** TODO 汽车年检
 SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-07-18 Fri .+1y>
