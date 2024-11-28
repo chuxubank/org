@@ -4325,3 +4325,26 @@ SCHEDULED: <2024-08-05 Mon>
 #+RESULTS:
 : 83997f21fa98c01da3cc79339403b025
 
+
+* From sideline.org.gpg
+
+** DONE 时长授权
+SCHEDULED: <2023-11-04 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-28 Thu 12:19
+:ARCHIVE_FILE: ~/org/sideline.org.gpg
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: sideline.org
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE Release Build
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-28 Thu 12:19
+:ARCHIVE_FILE: ~/org/sideline.org.gpg
+:ARCHIVE_OLPATH: Inbox/上架应用市场
+:ARCHIVE_CATEGORY: sideline.org
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE OpenAPI Package
+SCHEDULED: <2023-09-07 Thu>
