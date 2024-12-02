@@ -317,3 +317,5 @@ n. 反义词 | 网络 反义字；反义语；相反词 | Antonym n. synonym
 n. 商人；批发商；（尤指）进出口批发商；（某活动的）爱好者 | adj. 海上货运的 | 网络 零售商；商家；货方 | Synonym adj. mercantile,commercial,trade,trading,business n. wholesaler,dealer,trader,supplier,broker
 ** 风量 [fēng liàng] 
 na. air quantity; blowing rate | 网络 Air Volume; Air Flow; CFM
+** insists [ɪnˈsɪst]
+v. 硬要；坚决要求；坚决主张；坚决认为 | 网络 坚持；坚持认为 | Synonym v. maintain,claim,assert,contend,swear | Antonym v. deny
