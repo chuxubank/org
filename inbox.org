@@ -1,4 +1,8 @@
 #+title: Inbox
+* TODO Hot Crash
+SCHEDULED: <2024-12-03 Tue 18:00>
+- [ ] 起酥 黄油可颂
+- [ ] 坚果棒
 * TODO 开奢侈品的发票
 SCHEDULED: <2024-11-13 Wed>
 * TODO 预订饭店
