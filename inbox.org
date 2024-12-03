@@ -1,6 +1,8 @@
 #+title: Inbox
 * TODO 开奢侈品的发票
 SCHEDULED: <2024-11-13 Wed>
+* IDEA 自动打印邮箱中的发票
+SCHEDULED: <2024-12-03 Tue>
 * TODO 预订饭店
 [[tel:+86 18930733833]]
 * TODO Setup OpenWrt
