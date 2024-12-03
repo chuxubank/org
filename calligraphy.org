@@ -544,6 +544,8 @@ https://mp.weixin.qq.com/s/xyaNfvbZPqz6nQKESiZOfw
 举世嫉修眉，不特深宫见妒；随人矜寸舌，犹然列国争长。
 贫贱骄人，傲骨生成难改；英雄欺世，浪语必多不经。
 一池荷叶衣无尽，翻骄锦绣纂组；数亩松花食有余，绝胜钟鸣鼎食。
+** TODO 小品展
+- [ ] 落款注意属地
 * DONE 约稿
 *** 释文
 \specialsectioning
