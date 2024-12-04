@@ -17,3 +17,7 @@
 * TODO USB Typc-C Hub
 * TODO Ray-Ban Meta AI
 * TODO 咖啡机
+* TODO Hot Crash
+SCHEDULED: <2024-12-03 Tue 18:00>
+- [ ] 起酥 黄油可颂
+- [ ] 坚果棒
