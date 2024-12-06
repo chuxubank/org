@@ -8,6 +8,7 @@
 * 展览 [19/20]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** TODO 全国第二届书法小品展
+DEADLINE: <2025-02-22 Sat>
 https://mp.weixin.qq.com/s/bQ7IaCYPsosaulczEQohhQ
 - [ ] 落款注意属地
 ** KILL [#A] 2023“中国书法·年展”全国书法篆刻作品展
