@@ -5,8 +5,23 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [19/19]
+* 展览 [19/20]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
+** TODO 全国第二届书法小品展
+https://mp.weixin.qq.com/s/bQ7IaCYPsosaulczEQohhQ
+- [ ] 落款注意属地
+** KILL [#A] 2023“中国书法·年展”全国书法篆刻作品展
+CLOSED: [2023-09-18 Mon 10:53] SCHEDULED: <2023-09-08 Fri> DEADLINE: <2023-09-15 Fri>
+- State "KILL"       from "TODO"       [2023-09-18 Mon 10:53]
+规格：
+书法：书法作品请投寄作品原件，尺寸为 6 尺整张（高 180cm，宽 96cm）以内，一律为竖式。小字类（单字字径一般在 2cm 以内）作品尺寸为 4 尺整张（高 138cm，宽 69cm）以内，一律为竖式。手卷作品尺寸为高 35cm 以内，长度 248cm 以内。册页作品成品尺寸每页高宽不超过 40cm，正文页数为 5—12 开（10—24 页）。手卷、册页作品入展数量一般不超过入展作品总数的 6%。
+信息填写：
+（1）请在投稿作品背面右下方用铅笔正楷注明（册页作品注于最后空白页）：作者真实姓名、性别、身份证号、省份、常用通讯地址、邮编、联系电话（手机）、作品书体、作品名称、内容是否自撰、是否退稿、是否为中国书法家协会会员。所有投稿作品请一律附释文。
+（2）请务必在作品内、外包装明显位置注明投稿书体。
+入展作者待遇：
+1.综合评审前 100 名作者，具备加入中国书法家协会的条件之一。
+2.向综合评审前 100 名作者发放作品收藏费 1000 元（税后），向其他入展作者发放作品收藏费 500 元（税后）。
+https://mp.weixin.qq.com/s/j3Cb6Ph2Ow3rZHslVUDqGQ
 ** DONE 第三届“卫夫人奖”全国书法篆刻作品展
 CLOSED: [2023-07-02 Sun 09:52] DEADLINE: <2023-07-10 Mon> SCHEDULED: <2023-06-29 Thu>
 - State "DONE"       from "TODO"       [2023-07-02 Sun 09:52]
@@ -100,18 +115,6 @@ https://mp.weixin.qq.com/s/IJytmfL2gmM94BmC7-P9aA
 一叶放春流，束缚人亦觉澹宕；孤尊听夜雨，豪华辈尚尔凄其。
 
 清疏畅快，月色最称风光；潇洒风流，花情何如柳态。
-** KILL [#A] 2023“中国书法·年展”全国书法篆刻作品展
-CLOSED: [2023-09-18 Mon 10:53] SCHEDULED: <2023-09-08 Fri> DEADLINE: <2023-09-15 Fri>
-- State "KILL"       from "TODO"       [2023-09-18 Mon 10:53]
-规格：
-书法：书法作品请投寄作品原件，尺寸为 6 尺整张（高 180cm，宽 96cm）以内，一律为竖式。小字类（单字字径一般在 2cm 以内）作品尺寸为 4 尺整张（高 138cm，宽 69cm）以内，一律为竖式。手卷作品尺寸为高 35cm 以内，长度 248cm 以内。册页作品成品尺寸每页高宽不超过 40cm，正文页数为 5—12 开（10—24 页）。手卷、册页作品入展数量一般不超过入展作品总数的 6%。
-信息填写：
-（1）请在投稿作品背面右下方用铅笔正楷注明（册页作品注于最后空白页）：作者真实姓名、性别、身份证号、省份、常用通讯地址、邮编、联系电话（手机）、作品书体、作品名称、内容是否自撰、是否退稿、是否为中国书法家协会会员。所有投稿作品请一律附释文。
-（2）请务必在作品内、外包装明显位置注明投稿书体。
-入展作者待遇：
-1.综合评审前 100 名作者，具备加入中国书法家协会的条件之一。
-2.向综合评审前 100 名作者发放作品收藏费 1000 元（税后），向其他入展作者发放作品收藏费 500 元（税后）。
-https://mp.weixin.qq.com/s/j3Cb6Ph2Ow3rZHslVUDqGQ
 ** DONE [#A] 第二届“白蕉奖”上海市书法篆刻作品展
 CLOSED: [2023-09-19 Tue 09:25] SCHEDULED: <2023-09-14 Thu> DEADLINE: <2023-09-20 Wed>
 - State "DONE"       from "TODO"       [2023-09-19 Tue 09:25]
@@ -544,9 +547,6 @@ https://mp.weixin.qq.com/s/xyaNfvbZPqz6nQKESiZOfw
 举世嫉修眉，不特深宫见妒；随人矜寸舌，犹然列国争长。
 贫贱骄人，傲骨生成难改；英雄欺世，浪语必多不经。
 一池荷叶衣无尽，翻骄锦绣纂组；数亩松花食有余，绝胜钟鸣鼎食。
-** TODO 小品展
-https://mp.weixin.qq.com/s/bQ7IaCYPsosaulczEQohhQ
-- [ ] 落款注意属地
 * DONE 约稿
 *** 释文
 \specialsectioning
