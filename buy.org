@@ -16,8 +16,5 @@
 * TODO USB Typc-C Hub
 * TODO Ray-Ban Meta AI
 * TODO 咖啡机
-* DONE Hot Crash
-CLOSED: [2024-12-05 Thu 16:30] SCHEDULED: <2024-12-05 Thu 17:00>
-- State "DONE"       from "TODO"       [2024-12-05 Thu 16:30]
-- [X] 起酥 黄油可颂
-- [X] 坚果棒
+* TODO 冷热净水机
+DEADLINE: <2024-12-31 Tue> SCHEDULED: <2024-12-08 Sun>
