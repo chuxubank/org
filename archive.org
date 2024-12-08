@@ -552,6 +552,18 @@ SCHEDULED: <2024-10-31 Thu>
 :Weight:   0.395
 :END:
 [[tb:632802644211]]
+
+** DONE Hot Crash
+CLOSED: [2024-12-05 Thu 16:30] SCHEDULED: <2024-12-05 Thu 17:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-08 Sun 12:48
+:ARCHIVE_FILE: ~/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2024-12-05 Thu 16:30]
+- [X] 起酥 黄油可颂
+- [X] 坚果棒
 * From inbox.org :ARCHIVE:
 ** DONE org bibtex roam pdf
 :PROPERTIES:
