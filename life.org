@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Cut nails
-SCHEDULED: <2024-12-09 Mon .+6d/9d>
+SCHEDULED: <2024-12-22 Sun .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-12-03 Tue 15:53]
+:LAST_REPEAT: [2024-12-16 Mon 09:08]
 :END:
+- State "DONE"       from "TODO"       [2024-12-16 Mon 09:08]
 - State "DONE"       from "TODO"       [2024-12-03 Tue 15:53]
 - State "DONE"       from "TODO"       [2024-11-27 Wed 19:46]
 - State "DONE"       from "TODO"       [2024-11-18 Mon 18:48]
