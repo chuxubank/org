@@ -10,6 +10,7 @@ SCHEDULED: <2025-01-01 Wed 10:00>
 SCHEDULED: <2024-11-13 Wed>
 * IDEA 自动打印邮箱中的发票
 SCHEDULED: <2024-12-03 Tue>
+* IDEA 自动分类下载的文件
 * TODO 预订饭店
 [[tel:+86 18930733833]]
 * TODO Setup OpenWrt
