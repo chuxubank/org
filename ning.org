@@ -1,0 +1,307 @@
+#+TITLE: Ning
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+* Inbox
+** TODO 婚礼筹备 [1/4]
+DEADLINE: <2025-05-01 Thu>
+*** DONE 购买手链
+SCHEDULED: <2025-01-15 Wed>
+**** DONE 预订 VCA
+SCHEDULED: <2024-10-25 Fri>
+*** TODO 求婚
+SCHEDULED: <2024-12-26 Thu>
+*** TODO 买车
+*** TODO 四大金刚
+*** TODO 领证
+SCHEDULED: <2025-01-25 Sat>
+* Notes
+** Favorite
+*** 颜色
+- 橙红
+- 墨绿
+- 蓝
+*** 地点
+- 韩国
+- 爱尔兰 利特里姆
+  Leitrim, Ireland
+*** 食物
+- 黄瓜（切丝）
+- 年糕
+- 黄豆粉
+- 栗子
+- 炸汤圆
+*** 果味饮料
+- 荔枝
+- 西瓜
+** Hate
+*** 食物
+- 丝瓜
+- 桂花
+- 糯米制品
+  - 桔红糕
+  - 条头糕
+  - 汤圆
+* Eat [3/9]
+** TODO 素食饭店
+https://mp.weixin.qq.com/s/pDkfU5IlMVtk4t3LiQy5qQ
+** TODO 栗子甜品
+https://mp.weixin.qq.com/s/5J-PpBNP3oSZY8qfMswKPg
+** TODO 冰淇淋
+https://mp.weixin.qq.com/s/OAgIZK69e-JWrUjOb5Cv5w
+** TODO 精酿啤酒
+** TODO 日料
+** TODO 脑花（火锅）
+** DONE 可丽饼
+https://mp.weixin.qq.com/s/r9YTxvnh0_Hwi4pzuYUYEg
+** DONE 好柿桂花茶
+CLOSED: [2023-09-21 Thu 11:19] SCHEDULED: <2023-09-21 Thu 11:00>
+- State "DONE"       from "TODO"       [2023-09-21 Thu 11:19]
+** DONE 柿子蛋糕
+SCHEDULED: <2023-09-17 Sun>
+* Study [0/3]
+** TODO 图片标注（可识别文字）
+- 波浪线
+** TODO Python 自动化
+** TODO AI 作文批改
+- 识别手写体
+- 打分
+- 评价
+- 批改
+** 同济大学 2024 级非全日制教育硕士专业实践要求
+根据全国教育专业学位研究生教育指导委员会《非全日制教育硕士专业学
+位研究生指导性培养方案》（2023 年修订版）相关要求，同济大学 2024 级非全
+日制教育硕士教育教学实践研究应注重结合基础教育学校或中等职业学校的教
+育管理实践开展实践反思。教育教学实践研究包括教学设计与优化研究、课堂
+教学实践研究、班级与课堂管理研究、学校教育管理研究等。撰写不少于 4 份
+高质量实践研究报告或研究案例。
+同济大学会安排相应的专家报告和实习实践教学，各位同学根据通知相关
+要求，参加相关的活动，结合自身教学或管理实践，并完成相应的报告。
+*** TODO 教学设计与优化研究
+SCHEDULED: <2024-12-19 Thu 19:00> DEADLINE: <2025-01-01 Wed>
+对教学设计方案的改进、优化等方面的实践进行研究，撰写教学设计案例。（正文内容不少于 3000 字）
+*** TODO 课堂教学实践研究
+DEADLINE: <2025-07-01 Tue>
+优化课堂教学环节、流程、方法、手段等，提升课堂教学质量的实践研究，撰写课堂教学案例。 （正文内容不少于 3000 字）
+*** TODO 班级与课堂管理研究
+DEADLINE: <2025-07-01 Tue>
+对班级与课堂的组织管理实践进行研究，撰写相关的教学管理案例报告。 （正文内容不少于 3000 字）
+*** TODO 学校教育管理研究
+DEADLINE: <2026-01-01 Thu>
+针对学校教育管理各方面的实践工作进行研究，撰写教育管理案例。（正文内容不少于 5000 字）
+* Entertainment [5/10]
+** TODO 滑雪
+** TODO 性格卡牌游戏
+** TODO Tufting
+** TODO 桐乡
+** TODO 成都
+** DONE 澳门
+** DONE 济州岛
+** DONE 玻璃艺术
+** DONE 苏州
+- 早上吃面
+- 博物馆
+- 中午吃个苏式火锅
+- 下午喝个绿豆汤
+- 奕欧来
+** DONE 野餐
+* Film & TV [1/8]
+** TODO 机智的医生生活
+** TODO 2521
+** TODO 宇宙编辑部
+** TODO 名侦探柯南：贝克街亡灵
+** TODO 天气好我可以去找你吗
+** TODO 名侦探柯南：黑铁的鱼影
+** TODO 如梦之梦（话剧）
+** DONE 半之半
+* Present [10/13]
+** TODO 人体工学椅
+** TODO 戒指
+** TODO LOEWE Cubi
+** KILL 香奈儿墨镜
+SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-02 Sun>
+** KILL 云腿月饼
+** KILL 叙友茶庄（红茶）
+CLOSED: [2023-09-30 Sat 13:17] SCHEDULED: <2023-09-22 Fri>
+- State "KILL"       from "TODO"       [2023-09-30 Sat 13:17]
+** KILL 周年纪念网站
+SCHEDULED: <2023-05-08 Mon> DEADLINE: <2023-05-30 Tue>
+** DONE 北面 冲锋衣（韩版）
+** DONE 教学用麦克风
+SCHEDULED: <2023-09-19 Tue>
+** DONE 拍立得
+** DONE Lululemon 瑜伽垫
+** DONE 移动硬盘
+** DONE 朱宁婕名章
+CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22 Mon>
+- State "DONE"       from "TODO"       [2023-06-02 Fri 09:00]
+* Knowledge [0/0]
+** 三公
+- 上外
+- 浦外
+- 上实
+** 奇怪的数学老师
+许治平（宇宙无敌能吃的奥义皮皮）
+** 账号
+- Instgram :: jud887
+- Bilibili :: itdikdt
+** 公众号
+- 秀米
+** 学籍卡
+#+begin_src vbscript
+  Attribute VB_Name = "Module1"
+  Sub SetRowsToSelectedRowValue()
+     Attribute SetRowsToSelectedRowValue.VB_ProcData.VB_Invoke_Func = "z\n14"
+     Dim selectedRange As Range
+     Dim selectedRow As Range
+     Dim rowCount As Long
+     Dim i As Long
+     Set selectedRange = Selection ' Get the selected range
+     If Not selectedRange Is Nothing Then
+        rowCount = Cells(Rows.Count, selectedRange.Column).End(xlUp).Row ' Find the last row in the selected column
+        For Each selectedRow In selectedRange.Rows
+           With ActiveSheet
+              For i = 1 To rowCount
+                 If .Cells(i, 1).Value = .Cells(selectedRow.Row, 1).Value And _
+                    .Cells(i, 33).Value = .Cells(selectedRow.Row, 33).Value Then
+                    .Range(.Cells(i, selectedRange.Column), .Cells(i, selectedRange.Column + selectedRange.Columns.Count - 1)).Value = _
+                          .Range(.Cells(selectedRow.Row, selectedRange.Column), .Cells(selectedRow.Row, selectedRange.Column + selectedRange.Columns.Count - 1)).Value ' Set the value to the matching rows
+                 End If
+              Next i
+           End With
+        Next selectedRow
+     Else
+        MsgBox "Please select a range before running this macro.", vbExclamation
+     End If
+  End Sub
+#+end_src
+** 副班主任费用组成
+10/7 年级组长会议
+一、各年级组长总结交流
+1、常规落地
+2、亮点+问题
+3、改进措施
+二、副班主任费用组成（600 元包含）：
+1⃣两早两中看班管理
+班主任有事尽量调换，单次费用：600/4/4.5
+2⃣协助管理班级事务
+👉因公外出不扣班主任费用，属于副班主任工作职责范围内
+👉班主任请病事假（整天），从班主任费用中扣除给副班主任，85/天，如遇周一包括班会课
+👉班主任因公因私外出，必须告知副班主任
+‼️私：平台请假+告知年级组长+告知副班主任
+‼️公：门口登记+告知年级组长+告知副班主任
+👉对副班主任看班情况做好记录
+⚠️⚠️⚠️晚托班不能看电视
+（低年级全部任务完成后，可适当看有教育意义的短片）
+三、10 月开始升旗仪式+校班会恢复正常时间
+👉10/16 看儿童剧
+👉10/19 一年级开放日
+‼️10/13 各班教室外墙都布置完成
+四、大队委员竞选
+五、午餐剩菜称重
+五年级较好：1，2，3班
+六、年级组长工作月报表
+* Remind [0/0]
+* Work
+** 日程
+** 学生 :crypt:
+-----BEGIN PGP MESSAGE-----
+
+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
+52eR0WTRQhBt2xCqhzS0onOSMEefqZA=
+=aw+M
+-----END PGP MESSAGE-----
+** DONE 智慧平台
+SCHEDULED: <2024-08-20 Tue>
+https://basic.smartedu.cn/training/2024sqpx
+** TODO 问题总结 [2/8]
+SCHEDULED: <2024-11-03 Sun>
+- [ ] 学校的窗户没法完全打开 ，秋冬换季、教室无法做到通风，秋冬换季 学生容易生病
+- [ ] 放学时段有阻挡汽车的杆子升起来，通道已经很挤了，学生容易被绊倒
+- [ ] 学校需要家长志愿者负责放学，双职工家庭没有时间参与
+- [ ] 7:40 之后栏杆升起不让老师进校
+- [ ] 大队长变成等额竞选 不公平
+- [ ] 学校开展各项活动 变相收费
+- [X] 学校召开校级家委会 把过重的压力给到家长
+- [X] 组织研学活动 花费巨大 5k 一人
