@@ -9,6 +9,11 @@ https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
 ** TODO scrcpy for Emacs
 SCHEDULED: <2024-11-27 Wed>
+** TODO Make image scroll smooth
+https://github.com/casouri/iscroll
+https://github.com/ginqi7/image-slicing
+https://github.com/jcfk/org-sliced-images
+insert-sliced-image
 ** TODO Fix [[file:~/.emacs.d/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
 ** TODO Fix use-package with package-selected-packages
 ** TODO Change personal config to use (provide 'x)
