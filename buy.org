@@ -17,4 +17,4 @@
 * TODO Ray-Ban Meta AI
 * TODO 咖啡机
 * TODO 冷热净水机
-DEADLINE: <2024-12-31 Tue> SCHEDULED: <2024-12-08 Sun>
+DEADLINE: <2024-12-31 Tue>
