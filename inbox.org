@@ -1,7 +1,7 @@
 #+title: Inbox
-* TODO 买 SURA
+* DONE 买 SURA
 SCHEDULED: <2024-12-24 Tue 18:00>
-* TODO 买 M Stand 香草腰果太妃糖
+* DONE 买 M Stand 香草腰果太妃糖
 SCHEDULED: <2024-12-24 Tue 08:00>
 
 * TODO Setup new VPS
