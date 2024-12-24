@@ -6,8 +6,11 @@ SCHEDULED: <2024-12-24 Tue 08:00>
 * TODO 使用 Ansible 优化 HomeLab
 SCHEDULED: <2024-12-24 Tue>
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
+https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
+https://openwrt.org/docs/guide-user/additional-software/opkg
 * TODO Setup new VPS
 SCHEDULED: <2024-12-19 Thu>
+https://bandwagonhost.com/services
 * TODO iapm 兑换
 SCHEDULED: <2025-01-01 Wed 10:00>
 * TODO Conventions
