@@ -10,6 +10,9 @@ https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
 https://openwrt.org/docs/guide-user/additional-software/opkg
 * TODO Setup new VPS
 SCHEDULED: <2024-12-19 Thu>
+:LOGBOOK:
+CLOCK: [2024-12-26 Thu 17:45]--[2024-12-26 Thu 19:45] =>  2:00
+:END:
 https://bandwagonhost.com/services
 * TODO iapm 兑换
 SCHEDULED: <2025-01-01 Wed 10:00>
