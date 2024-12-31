@@ -3719,7 +3719,8 @@ CLOSED: [2022-02-18 Fri 09:45] SCHEDULED: <2022-02-12 Sat> DEADLINE: <2022-02-19
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
-* From ning.org.gpg :ARCHIVE:
+* From ning.org :ARCHIVE:
+
 ** DONE Apple Watch
 CLOSED: [2022-02-09 Wed 12:04] SCHEDULED: <2022-01-23 Sun>
 :PROPERTIES:
@@ -4285,6 +4286,60 @@ DEADLINE: <2024-10-18 Fri> SCHEDULED: <2024-10-16 Wed>
 :ARCHIVE_CATEGORY: ning.org
 :ARCHIVE_TODO: DONE
 :END:
+
+** 看护
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-19 Thu 08:39
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Work/日程
+:ARCHIVE_CATEGORY: ning
+:END:
+- 周一
+- 周三
+
+** KILL 评课
+CLOSED: [2023-05-12 Fri 00:00] SCHEDULED: <2023-05-12 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-19 Thu 08:39
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Work/日程
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2023-05-12 Fri 00:00]
+
+** DONE 义卖
+CLOSED: [2023-06-01 Thu 09:11] SCHEDULED: <2023-06-01 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-19 Thu 08:39
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Work/日程
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-06-01 Thu 09:11]
+
+** DONE 听课
+CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-18 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-19 Thu 08:39
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Work/日程
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2023-05-21 Sun 12:59]
+
+** KILL 复制小区大门钥匙
+SCHEDULED: <2024-12-05 Thu 20:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-12-19 Thu 08:43
+:ARCHIVE_FILE: ~/org/ning.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: ning
+:ARCHIVE_TODO: KILL
+:END:
+
 * From life.org :ARCHIVE:
 ** DONE 更换手表电池
 CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
@@ -4345,7 +4400,7 @@ SCHEDULED: <2023-10-01 Sun>
 :ARCHIVE_TODO: DONE
 :END:
 [[info:emacs#Terminal emulator][emacs#Terminal emulator]]
-* From sideline.org :ARCHIVE:
+* From sideline.org.gpg :ARCHIVE:
 
 ** DONE Build Shadow CI
 SCHEDULED: <2024-08-05 Mon>
@@ -4356,36 +4411,6 @@ SCHEDULED: <2024-08-05 Mon>
 :ARCHIVE_CATEGORY: sideline
 :ARCHIVE_TODO: DONE
 :END:
-
-* From licence.org :ARCHIVE:
-
-** Licenses
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-10-24 Thu 10:46
-:ARCHIVE_FILE: ~/org/licence.org
-:ARCHIVE_CATEGORY: licence
-:END:
-*** [2022-09-18 Sun] 初次使用
-#+begin_src json
-  {
-    "appId": "com.xingzhi.robot",
-    "issuedTime": ,
-    "notBefore": 1538671712,
-    "notAfter": 1640966400,
-    "customerInfo": "亚马逊公司"
-  }
-#+end_src
-
-#+begin_src elisp
-  (md5 "@eNw+W{5~c@5<q.}")
-#+end_src
-
-#+RESULTS:
-: 83997f21fa98c01da3cc79339403b025
-
-
-* From sideline.org.gpg
-
 ** DONE 时长授权
 SCHEDULED: <2023-11-04 Sat>
 :PROPERTIES:
@@ -4465,57 +4490,33 @@ SCHEDULED: <2024-11-27 Wed>
 :ARCHIVE_TODO: DONE
 :END:
 
+
+
+* From licence.org :ARCHIVE:
+
+** Licenses
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-10-24 Thu 10:46
+:ARCHIVE_FILE: ~/org/licence.org
+:ARCHIVE_CATEGORY: licence
+:END:
+*** [2022-09-18 Sun] 初次使用
+#+begin_src json
+  {
+    "appId": "com.xingzhi.robot",
+    "issuedTime": ,
+    "notBefore": 1538671712,
+    "notAfter": 1640966400,
+    "customerInfo": "亚马逊公司"
+  }
+#+end_src
+
+#+begin_src elisp
+  (md5 "@eNw+W{5~c@5<q.}")
+#+end_src
+
+#+RESULTS:
+: 83997f21fa98c01da3cc79339403b025
+
 * From ning.org
 
-** 看护
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-19 Thu 08:39
-:ARCHIVE_FILE: ~/org/ning.org
-:ARCHIVE_OLPATH: Work/日程
-:ARCHIVE_CATEGORY: ning
-:END:
-- 周一
-- 周三
-
-** KILL 评课
-CLOSED: [2023-05-12 Fri 00:00] SCHEDULED: <2023-05-12 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-19 Thu 08:39
-:ARCHIVE_FILE: ~/org/ning.org
-:ARCHIVE_OLPATH: Work/日程
-:ARCHIVE_CATEGORY: ning
-:ARCHIVE_TODO: KILL
-:END:
-- State "KILL"       from "TODO"       [2023-05-12 Fri 00:00]
-
-** DONE 义卖
-CLOSED: [2023-06-01 Thu 09:11] SCHEDULED: <2023-06-01 Thu>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-19 Thu 08:39
-:ARCHIVE_FILE: ~/org/ning.org
-:ARCHIVE_OLPATH: Work/日程
-:ARCHIVE_CATEGORY: ning
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-06-01 Thu 09:11]
-
-** DONE 听课
-CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-18 Thu>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-19 Thu 08:39
-:ARCHIVE_FILE: ~/org/ning.org
-:ARCHIVE_OLPATH: Work/日程
-:ARCHIVE_CATEGORY: ning
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-05-21 Sun 12:59]
-
-** KILL 复制小区大门钥匙
-SCHEDULED: <2024-12-05 Thu 20:30>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-19 Thu 08:43
-:ARCHIVE_FILE: ~/org/ning.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: ning
-:ARCHIVE_TODO: KILL
-:END:
