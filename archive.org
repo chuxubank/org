@@ -4491,7 +4491,6 @@ SCHEDULED: <2024-11-27 Wed>
 :END:
 
 
-
 * From licence.org :ARCHIVE:
 
 ** Licenses
@@ -4517,6 +4516,3 @@ SCHEDULED: <2024-11-27 Wed>
 
 #+RESULTS:
 : 83997f21fa98c01da3cc79339403b025
-
-* From ning.org
-
