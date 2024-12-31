@@ -2,7 +2,7 @@
 * DONE 网上确认
 SCHEDULED: <2024-11-01 Fri>
 * TODO 考研
-SCHEDULED: <2024-12-23 Mon>
+SCHEDULED: <2025-01-01 Wed>
 ** 数学 [2/9]
 - [X] 高数整理
 - [X] 线代整理
