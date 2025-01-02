@@ -112,10 +112,11 @@ DEADLINE: <2026-01-01 Thu>
 ** TODO 名侦探柯南：黑铁的鱼影
 ** TODO 如梦之梦（话剧）
 ** DONE 半之半
-* Present [10/13]
+* Present [10/14]
 ** TODO 人体工学椅
 ** TODO 戒指
 ** TODO LOEWE Cubi
+** TODO 红色围巾
 ** KILL 香奈儿墨镜
 SCHEDULED: <2024-05-01 Wed> DEADLINE: <2024-06-02 Sun>
 ** KILL 云腿月饼
