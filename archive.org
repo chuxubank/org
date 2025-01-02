@@ -3530,22 +3530,6 @@ SCHEDULED: <2024-11-28 Thu 16:50>
 :ARCHIVE_TODO: DONE
 :END:
 
-** TODO 预付停车费
-SCHEDULED: <2024-12-14 Sat 07:00 ++1w>
-:PROPERTIES:
-:LAST_REPEAT: [2024-10-29 Tue 10:57]
-:ARCHIVE_TIME: 2024-12-08 Sun 10:41
-:ARCHIVE_FILE: ~/org/work.org.gpg
-:ARCHIVE_OLPATH: Inbox/Parking Fee
-:ARCHIVE_CATEGORY: work.org
-:ARCHIVE_TODO: TODO
-:END:
-- State "DONE"       from "TODO"       [2024-10-29 Tue 10:57]
-- State "DONE"       from "TODO"       [2024-10-01 Tue 16:41]
-- State "DONE"       from "TODO"       [2024-08-27 Tue 14:05]
-- State "DONE"       from "TODO"       [2024-07-31 Wed 16:53]
-- State "DONE"       from "TODO"       [2024-07-03 Wed 22:56]
-- State "DONE"       from "TODO"       [2024-06-02 Sun 20:15]
 * From calligraphy.org :ARCHIVE:
 ** DONE 热可擦笔
 :PROPERTIES:
