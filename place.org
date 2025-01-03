@@ -12,6 +12,11 @@ CLOSED: [2022-08-08 Mon 20:29] SCHEDULED: <2022-08-08 Mon 10:00>
 :END:
 [[map:同得兴(嘉馀坊店)][中国江苏省苏州市姑苏区人民路嘉馀坊6号(乐桥地铁站8号口步行180米)]]
 - 枫镇大肉面
+** TOGO OaKs 19
+- omakase
+** TOGO Haku
+- 焦糖榛子巧克力香蕉牛奶
+- 维也纳咖啡
 ** TOGO 奥灶面
 :PROPERTIES:
 :Type:     餐饮
