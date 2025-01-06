@@ -1,4 +1,8 @@
 #+title: Inbox
+* TODO 香港
+** TODO 签注
+SCHEDULED: <2025-01-07 Tue>
+** TODO 办银行卡
 * DONE 买 SURA
 SCHEDULED: <2024-12-24 Tue 18:00>
 * DONE 买 M Stand 香草腰果太妃糖
@@ -25,11 +29,9 @@ SCHEDULED: <2024-11-13 Wed>
 * IDEA 自动打印邮箱中的发票
 SCHEDULED: <2024-12-03 Tue>
 * IDEA 自动分类下载的文件
-* TODO 预订饭店
-[[tel:+86 18930733833]]
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
-* TODO 复诊
+* TODO 皮肤科复诊
 SCHEDULED: <2025-01-01 Wed>
 * TODO IPTV
 SCHEDULED: <2025-01-01 Wed>
