@@ -1,7 +1,7 @@
 #+title: Inbox
 * TODO 香港
 ** TODO 签注
-SCHEDULED: <2025-01-07 Tue>
+SCHEDULED: <2025-01-07 Tue 12:30>
 ** TODO 办银行卡
 * TODO 使用 Ansible 优化 HomeLab
 SCHEDULED: <2024-12-24 Tue>
