@@ -760,10 +760,11 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** TODO 练字
-SCHEDULED: <2024-12-28 Sat ++2w>
+SCHEDULED: <2025-01-11 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2024-12-22 Sun 23:59]
+:LAST_REPEAT: [2025-01-04 Sat 20:00]
 :END:
+- State "DONE"       from "TODO"       [2025-01-04 Sat 20:00]
 - State "DONE"       from "TODO"       [2024-12-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2024-12-03 Tue 15:51]
 - State "DONE"       from "TODO"       [2024-11-21 Thu 08:48]

@@ -9,15 +9,13 @@ SCHEDULED: <2025-01-15 Wed>
 SCHEDULED: <2024-10-25 Fri>
 *** TODO 求婚
 SCHEDULED: <2025-01-01 Wed>
-
 **** TODO 买钻戒
 
-**** TODO 西装
+*** TODO 西装
 - 领带
 - 皮鞋
 - 衬衫
-
-**** TODO 女士礼服
+*** TODO 女士礼服
 *** TODO 买车
 *** TODO 四大金刚
 *** TODO 领证
