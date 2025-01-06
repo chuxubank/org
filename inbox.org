@@ -3,10 +3,6 @@
 ** TODO 签注
 SCHEDULED: <2025-01-07 Tue>
 ** TODO 办银行卡
-* DONE 买 SURA
-SCHEDULED: <2024-12-24 Tue 18:00>
-* DONE 买 M Stand 香草腰果太妃糖
-SCHEDULED: <2024-12-24 Tue 08:00>
 * TODO 使用 Ansible 优化 HomeLab
 SCHEDULED: <2024-12-24 Tue>
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
