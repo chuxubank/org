@@ -9,6 +9,8 @@
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 * TODO Reality NFT
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
+* TODO 显卡 5070
+SCHEDULED: <2025-03-01 Sat>
 * TODO 4K 菊花链显示器
 * TODO 篆书字帖
 袁敞碑
