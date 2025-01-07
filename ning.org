@@ -306,7 +306,6 @@ OfxpgABgBhRP0qqs/cdoEAGcTk9eWrjZ2w7kGULhZcmncxbIZa0B7nHACkabgdrw
 SCHEDULED: <2024-08-20 Tue>
 https://basic.smartedu.cn/training/2024sqpx
 ** TODO 问题总结 [2/8]
-SCHEDULED: <2024-11-03 Sun>
 - [ ] 学校的窗户没法完全打开 ，秋冬换季、教室无法做到通风，秋冬换季 学生容易生病
 - [ ] 放学时段有阻挡汽车的杆子升起来，通道已经很挤了，学生容易被绊倒
 - [ ] 学校需要家长志愿者负责放学，双职工家庭没有时间参与
