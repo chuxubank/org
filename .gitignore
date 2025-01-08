@@ -8,6 +8,8 @@ auto/
 *.fdb_latexmk
 *.fls
 *.log
+*.out
+*.xdv
 
 *.html
 
