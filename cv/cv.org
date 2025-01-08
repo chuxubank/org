@@ -54,10 +54,3 @@
   (org-latex-compile "awesomecv.tex")
 #+end_src
 
-#+begin_src elisp :results file link :file "altacv.pdf"
-  (org-export-to-file 'altacv "altacv.tex")
-  (org-latex-compile "altacv.tex")
-#+end_src
-
-#+RESULTS:
-[[file:altacv.pdf]]
