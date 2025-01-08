@@ -215,92 +215,70 @@ CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22
 ** 学生 :crypt:
 -----BEGIN PGP MESSAGE-----
 
-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
-52eR0WTRQhBt2xCqhzS0onOSMEefqZA=
-=aw+M
+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
+=bDI4
 -----END PGP MESSAGE-----
 ** DONE 智慧平台
 SCHEDULED: <2024-08-20 Tue>
@@ -317,3 +295,79 @@ https://basic.smartedu.cn/training/2024sqpx
 - [ ] 雾霾天跑操 12.17
 - [ ] 副校长一直出去开会 数学进度落后
       上课无规律性 无法安排学生正常学习节奏
+** Script
+*** Name Sticker Latex Table
+:PROPERTIES:
+:EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
+:EXPORT_LATEX_HEADER: \usepackage{xltabular}
+:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr\textheight/11\relax} \newcolumntype{Y}{>{\rule{0pt}{\myrowheight}\centering\arraybackslash}X}
+:END:
+\noindent
+\large
+#+BEGIN_SRC emacs-lisp :var table=data-2024 :results value latex :exports results
+  (let ((latex-table '())
+        (col-count 0))
+    (dolist (row table)
+      (unless (equal 'hline row)
+        (let ((name (nth 1 row))
+              (id (nth 0 row)))
+          (setq col-count (1+ col-count))
+          (push (format "\\begin{tabular}{l} 学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s \\end{tabular}" name id) latex-table)
+          (if (< col-count 3)
+              (push " &\n" latex-table)
+            (progn
+              (push " \\\\\n" latex-table)
+              (setq col-count 0))))))
+    (concat "\\begin{xltabular}{\\textwidth}{YYY}\n"
+            (mapconcat 'identity (reverse latex-table))
+            "\n\\end{xltabular}"))
+
+#+END_SRC
+
+#+RESULTS:
+#+begin_export latex
+\begin{xltabular}{\textwidth}{YYY}
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：张乐欣 \\ 学号：1 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王若筠 \\ 学号：2 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：陈欢 \\ 学号：3 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：俞欣泽 \\ 学号：4 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：靖星漪 \\ 学号：5 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：徐嘉怡 \\ 学号：6 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：张嘉言 \\ 学号：7 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：孙乐欣 \\ 学号：8 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：张瑞妍 \\ 学号：9 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王珞妍 \\ 学号：10 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：贾沂昕 \\ 学号：11 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：贾沂怡 \\ 学号：12 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：唐婉 \\ 学号：13 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：鞠凡希 \\ 学号：14 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：谢梦羽 \\ 学号：15 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：程颂恩 \\ 学号：16 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：陈茗舒 \\ 学号：17 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：郭文真 \\ 学号：18 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：鲁一笑 \\ 学号：19 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：龚容若 \\ 学号：20 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：栗梓壹 \\ 学号：21 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王越 \\ 学号：22 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：杨樾宁 \\ 学号：23 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：吴可非 \\ 学号：24 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：俞昊泽 \\ 学号：25 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：张博宸 \\ 学号：26 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：唐奕淏 \\ 学号：27 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：钟昕辰 \\ 学号：28 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：汲瑞麟 \\ 学号：29 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：郑尚轩 \\ 学号：30 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：常文赫 \\ 学号：31 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：陈沐青 \\ 学号：32 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：吴恒屹 \\ 学号：33 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：吴宸宇 \\ 学号：34 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：钱锦弘 \\ 学号：35 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：钱宸瑜 \\ 学号：36 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：何宇成 \\ 学号：37 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：向东生 \\ 学号：38 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：顾允珵 \\ 学号：39 \end{tabular} \\
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：徐怀仁 \\ 学号：40 \end{tabular} &
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：程砚书 \\ 学号：41 \end{tabular} &
+
+\end{xltabular}
+#+end_export
