@@ -51,7 +51,7 @@
 #+end_src
 
 #+RESULTS:
-: /Users/misaka/org/cv/moderncv.pdf
+: /Users/xuchu1/Developer/Personal/org/cv/moderncv.pdf
 
 #+begin_src elisp
   (org-export-to-file 'awesomecv "awesomecv.tex")
