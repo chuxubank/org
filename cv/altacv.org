@@ -1,0 +1,4 @@
+#+CVSTYLE: banking
+#+CVCOLOR: green
+
+#+include: cv.org
