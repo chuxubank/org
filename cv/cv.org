@@ -28,7 +28,7 @@
 - 维护 Java 实现的双开门 RFID 图书自助借还柜，在保持功能不变的情况下精简并美化代码，修复多处 BUG。增加了通过智能中央控 制系统 (ICMS) 远程修改设备配置以及软硬件重启的功能。
 - 使用 C++开发公司的授权控制库，使用 CMake 进行构建。
 - 使用 Kotlin 实现人脸注册机，借助 Google 的 MLKit 和 CameraX 实现识别到人脸且角度合适时抓拍照片并裁切人脸部分区域进行注册，与通过 HID 设备识别出的卡号进行绑定，实现闸机上人脸和刷卡均可通行。
-- 充分利用 AndroidJetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2,Moshi,Coil‐kt,Coroutines,Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
+- 充分利用 Android Jetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2,Moshi,Coil‐kt,Coroutines,Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
 - 使用 JetpackComposeUI 框架开发图书自助借还机，通过扫描微信读者证二维码读者即可自助完成图书借还。对 Android 的串口通信库使用 Kotlin 协程进行了二次封装，同时支持 USB 串口和 RS‐232/485 串口的通信。
 
 ** Android 开发（实习）
