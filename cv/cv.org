@@ -7,7 +7,6 @@
 #+AUTHOR: 褚旭
 #+email: chuxubank@gmail.com
 
-#+ADDRESS: 上海市松江区新农河路398 弄 27 号
 #+MOBILE: (+86) 18516704081
 #+HOMEPAGE: chuxubank.github.io
 #+GITHUB: chuxubank
