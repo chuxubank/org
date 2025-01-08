@@ -45,7 +45,7 @@
 - 使用 PersistentCookieJar 读取并存储 Cookie 信息,保持用户登录。
   + 在使用该库时发现其 Cookie 数据验证与公司提供的不符合,并通过 Java 重写机制修复了此问题。
 
-#+begin_src elisp
+#+begin_src elisp :results file
   (org-export-to-file 'moderncv "moderncv.tex")
   (org-latex-compile "moderncv.tex")
 #+end_src
