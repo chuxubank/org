@@ -1,6 +1,8 @@
 #+CVSTYLE: banking
 #+CVCOLOR: green
 
+#+LATEX_HEADER: \geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+
 #+include: cv.org
 
 #+begin_src elisp :results file link :file "altacv.pdf"
