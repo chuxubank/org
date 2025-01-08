@@ -50,6 +50,9 @@
   (org-latex-compile "moderncv.tex")
 #+end_src
 
+#+RESULTS:
+[[file:moderncv.pdf]]
+
 #+begin_src elisp :results file link :file "awesomecv.pdf"
   (org-export-to-file 'awesomecv "awesomecv.tex")
   (org-latex-compile "awesomecv.tex")
@@ -59,3 +62,6 @@
   (org-export-to-file 'altacv "altacv.tex")
   (org-latex-compile "altacv.tex")
 #+end_src
+
+#+RESULTS:
+[[file:altacv.pdf]]
