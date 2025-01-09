@@ -39,7 +39,6 @@ SCHEDULED: <2025-01-01 Wed>
 :PROPERTIES:
 :BLOCKER:  previous-sibling
 :END:
-* TODO 书法 NFT
 * TODO Bitcoin Whitepaper
 * TODO 刷算法题
 * TODO 学习日语
