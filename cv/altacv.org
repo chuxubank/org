@@ -24,7 +24,7 @@
 
 #+latex: }
 
-#+include: cv.org
+#+include: cv.org :minlevel 1
 
 * Export :noexport:
 #+begin_src elisp :results file link :file "altacv.pdf"
