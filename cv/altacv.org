@@ -2,6 +2,28 @@
 
 #+include: cv.org
 
+#+latex: \marginpar{
+* Main Interests
+- Free/Libre and Open Source Software (FLOSS)
+- Free food
+- Free beer
+
+* Programming
+- Python
+- C/C++
+- EmacsLisp
+- Bash
+- JavaScript
+- PHP
+
+* Languages
+
+- *English*  Fluent
+- *German*   Fluent
+- *Spanish*  Native
+- *French*   Intermediate
+#+latex: }
+
 * Export :noexport:
 #+begin_src elisp :results file link :file "altacv.pdf"
   (org-export-to-file 'altacv "altacv.tex")
