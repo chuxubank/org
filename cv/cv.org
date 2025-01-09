@@ -8,7 +8,7 @@
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* 工作经历
+* Employement
 :PROPERTIES:
 :CV_ENV:   cventries
 :END:
