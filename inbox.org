@@ -22,9 +22,6 @@ SCHEDULED: <2025-03-01 Sat 10:00>
 - https://www.conventionalcommits.org/
 * TODO 开奢侈品的发票
 SCHEDULED: <2024-11-13 Wed>
-* IDEA 自动打印邮箱中的发票
-SCHEDULED: <2024-12-03 Tue>
-* IDEA 自动分类下载的文件
 * TODO Setup OpenWrt
 SCHEDULED: <2024-10-16 Wed>
 * TODO 皮肤科复诊
