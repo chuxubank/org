@@ -1,0 +1,11 @@
+
+#+include: cv.org
+
+* Export :noexport:
+#+begin_src elisp :results file link :file "moderncv.pdf"
+  (org-export-to-file 'moderncv "moderncv.tex")
+  (org-latex-compile "moderncv.tex")
+#+end_src
+
+#+RESULTS:
+[[file:moderncv.pdf]]

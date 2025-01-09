@@ -2,15 +2,6 @@ playground.org
 
 auto/
 
+*.html
 *.tex
 *.pdf
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.out
-*.xdv
-
-*.html
-
-*.jpg
