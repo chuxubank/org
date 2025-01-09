@@ -9,7 +9,7 @@ SCHEDULED: <2025-01-15 Wed>
 SCHEDULED: <2024-10-25 Fri>
 *** TODO 求婚
 SCHEDULED: <2025-01-01 Wed>
-**** TODO 买钻戒
+**** TODO 买 DR 钻戒
 
 *** TODO 西装
 - 领带
