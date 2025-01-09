@@ -8,7 +8,10 @@
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* Employement  :cventries:
+* Employement
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
 
 ** Android 开发
 :PROPERTIES:
