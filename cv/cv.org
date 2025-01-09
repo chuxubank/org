@@ -8,7 +8,9 @@
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* Android 开发
+* Employement  :cventries:
+
+** Android 开发
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-12-01 Mon>
@@ -24,7 +26,7 @@
 - 充分利用 Android Jetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2, Moshi, Coil‐kt, Coroutines, Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
 - 使用 Jetpack Compose 框架开发图书自助借还机，通过扫描微信读者证二维码读者即可自助完成图书借还。对 Android 的串口通信库使用 Kotlin 协程进行了二次封装，同时支持 USB 串口和 RS‐232/485 串口的通信。
 
-* Android 开发（实习）
+** Android 开发（实习）
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-04-01 Mon>
