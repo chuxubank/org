@@ -23,8 +23,6 @@ insert-sliced-image
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Extend pinyin-isearch with rime double-pinyin
-** TODO 使用 Kotlin Multiplatform 实现 Org Agenda
-SCHEDULED: <2024-10-26 Sat>
 ** TODO Org handle Open Graph protocol
 SCHEDULED: <2025-01-04 Sat>
 ** TODO Use Gnus as Mail client
