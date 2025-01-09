@@ -3,6 +3,7 @@
 #+include: cv.org
 
 #+latex: \marginpar{
+
 * Main Interests
 - Free/Libre and Open Source Software (FLOSS)
 - Free food
@@ -22,6 +23,7 @@
 - *German*   Fluent
 - *Spanish*  Native
 - *French*   Intermediate
+
 #+latex: }
 
 * Export :noexport:
