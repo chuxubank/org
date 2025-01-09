@@ -3,7 +3,7 @@
 #+email: chuxubank@gmail.com
 
 #+MOBILE: (+86) 18516704081
-#+HOMEPAGE: https://blog.chuxubank.top
+#+HOMEPAGE: blog.chuxubank.top
 #+GITHUB: chuxubank
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
