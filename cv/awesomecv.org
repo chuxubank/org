@@ -3,7 +3,8 @@
 # 'awesome-concrete' and 'awesome-darknight', plus any standard color names.
 #+CVCOLOR: awesome-red
 # Specify the position and style of the photo
-#+PHOTOSTYLE: right,noedge
+# circle/rectangle,edge/noedge,left/right.
+#+PHOTOSTYLE: circle,right,noedge
 
 #+include: cv.org
 
