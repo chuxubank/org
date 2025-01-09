@@ -5,12 +5,10 @@
 #+MOBILE: (+86) 18516704081
 #+HOMEPAGE: chuxubank.github.io
 #+GITHUB: chuxubank
-#+GITLAB: chuxubank
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* Employment
-** Android 开发
+* Android 开发
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-12-01 Mon>
@@ -26,7 +24,7 @@
 - 充分利用 Android Jetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2, Moshi, Coil‐kt, Coroutines, Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
 - 使用 Jetpack Compose 框架开发图书自助借还机，通过扫描微信读者证二维码读者即可自助完成图书借还。对 Android 的串口通信库使用 Kotlin 协程进行了二次封装，同时支持 USB 串口和 RS‐232/485 串口的通信。
 
-** Android 开发（实习）
+* Android 开发（实习）
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-04-01 Mon>
@@ -38,17 +36,4 @@
 - 负责移动端 NFC 读写工具的开发，使用 Retrofit 和 Realm 进行网络请求和数据持久化，并与手机 NFC 组件交互，进行 NFC 标签的读写。
 - 使用 PersistentCookieJar 读取并存储 Cookie 信息,保持用户登录。
   + 在使用该库时发现其 Cookie 数据验证与公司提供的不符合,并通过 Java 重写机制修复了此问题。
-
-#+begin_src elisp :results file link :file "moderncv.pdf"
-  (org-export-to-file 'moderncv "moderncv.tex")
-  (org-latex-compile "moderncv.tex")
-#+end_src
-
-#+RESULTS:
-[[file:moderncv.pdf]]
-
-#+begin_src elisp :results file link :file "awesomecv.pdf"
-  (org-export-to-file 'awesomecv "awesomecv.tex")
-  (org-latex-compile "awesomecv.tex")
-#+end_src
 
