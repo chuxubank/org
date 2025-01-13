@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Cut nails
-SCHEDULED: <2025-01-12 Sun .+6d/9d>
+SCHEDULED: <2025-01-18 Sat .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-01-06 Mon 10:41]
+:LAST_REPEAT: [2025-01-12 Sun 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-01-12 Sun 23:59]
 - State "DONE"       from "TODO"       [2025-01-06 Mon 10:41]
 - State "DONE"       from "TODO"       [2024-12-26 Thu 17:17]
 - State "DONE"       from "TODO"       [2024-12-16 Mon 09:08]
@@ -171,11 +172,12 @@ SCHEDULED: <2025-01-12 Sun .+6d/9d>
 - State "DONE"       from "TODO"       [2020-07-16 Thu 23:59]
 - State "DONE"       from "TODO"       [2020-07-03 Fri 08:31]
 * TODO Haircut
-SCHEDULED: <2025-01-10 Fri .+2m>
+SCHEDULED: <2025-03-12 Wed .+2m>
 :PROPERTIES:
-:LAST_REPEAT: [2024-11-10 Sun 15:00]
+:LAST_REPEAT: [2025-01-12 Sun 23:59]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2025-01-12 Sun 23:59]
 - State "DONE"       from "TODO"       [2024-11-10 Sun 15:00]
 - State "DONE"       from "TODO"       [2024-09-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2024-08-20 Tue 10:52]
@@ -496,11 +498,12 @@ SCHEDULED: <2025-01-09 Thu .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2025-01-12 Sun 07:15 .+3d/5d>
+SCHEDULED: <2025-01-15 Wed 07:15 .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-01-09 Thu 16:05]
+:LAST_REPEAT: [2025-01-12 Sun 14:56]
 :END:
+- State "DONE"       from "TODO"       [2025-01-12 Sun 14:56]
 - State "DONE"       from "TODO"       [2025-01-09 Thu 16:05]
 - State "DONE"       from "TODO"       [2025-01-05 Sun 08:47]
 - State "DONE"       from "TODO"       [2025-01-01 Wed 17:02]
@@ -725,11 +728,12 @@ SCHEDULED: <2025-01-12 Sun 07:15 .+3d/5d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2025-01-13 Mon .+5d/7d>
+SCHEDULED: <2025-01-18 Sat .+5d/7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-01-08 Wed 09:39]
+:LAST_REPEAT: [2025-01-13 Mon 14:56]
 :END:
+- State "DONE"       from "TODO"       [2025-01-13 Mon 14:56]
 - State "DONE"       from "TODO"       [2025-01-08 Wed 09:39]
 - State "DONE"       from "TODO"       [2025-01-03 Fri 09:21]
 - State "DONE"       from "TODO"       [2024-12-30 Mon 15:27]
