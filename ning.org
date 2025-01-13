@@ -155,34 +155,6 @@ CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22
 - Bilibili :: itdikdt
 ** 公众号
 - 秀米
-** 学籍卡
-#+begin_src vbscript
-  Attribute VB_Name = "Module1"
-  Sub SetRowsToSelectedRowValue()
-     Attribute SetRowsToSelectedRowValue.VB_ProcData.VB_Invoke_Func = "z\n14"
-     Dim selectedRange As Range
-     Dim selectedRow As Range
-     Dim rowCount As Long
-     Dim i As Long
-     Set selectedRange = Selection ' Get the selected range
-     If Not selectedRange Is Nothing Then
-        rowCount = Cells(Rows.Count, selectedRange.Column).End(xlUp).Row ' Find the last row in the selected column
-        For Each selectedRow In selectedRange.Rows
-           With ActiveSheet
-              For i = 1 To rowCount
-                 If .Cells(i, 1).Value = .Cells(selectedRow.Row, 1).Value And _
-                    .Cells(i, 33).Value = .Cells(selectedRow.Row, 33).Value Then
-                    .Range(.Cells(i, selectedRange.Column), .Cells(i, selectedRange.Column + selectedRange.Columns.Count - 1)).Value = _
-                          .Range(.Cells(selectedRow.Row, selectedRange.Column), .Cells(selectedRow.Row, selectedRange.Column + selectedRange.Columns.Count - 1)).Value ' Set the value to the matching rows
-                 End If
-              Next i
-           End With
-        Next selectedRow
-     Else
-        MsgBox "Please select a range before running this macro.", vbExclamation
-     End If
-  End Sub
-#+end_src
 ** 副班主任费用组成
 10/7 年级组长会议
 一、各年级组长总结交流
@@ -306,7 +278,7 @@ https://basic.smartedu.cn/training/2024sqpx
 - [X] 组织研学活动 花费巨大 5k 一人
 - [ ] 雾霾天跑操 12.17
 - [ ] 副校长一直出去开会 数学进度落后
-      上课无规律性 无法安排学生正常学习节奏
+    上课无规律性 无法安排学生正常学习节奏
 ** Script
 *** Name Sticker Latex Table
 :PROPERTIES:
@@ -383,3 +355,31 @@ https://basic.smartedu.cn/training/2024sqpx
 
 \end{xltabular}
 #+end_export
+*** 学籍卡
+#+begin_src vbscript
+  Attribute VB_Name = "Module1"
+  Sub SetRowsToSelectedRowValue()
+     Attribute SetRowsToSelectedRowValue.VB_ProcData.VB_Invoke_Func = "z\n14"
+     Dim selectedRange As Range
+     Dim selectedRow As Range
+     Dim rowCount As Long
+     Dim i As Long
+     Set selectedRange = Selection ' Get the selected range
+     If Not selectedRange Is Nothing Then
+        rowCount = Cells(Rows.Count, selectedRange.Column).End(xlUp).Row ' Find the last row in the selected column
+        For Each selectedRow In selectedRange.Rows
+           With ActiveSheet
+              For i = 1 To rowCount
+                 If .Cells(i, 1).Value = .Cells(selectedRow.Row, 1).Value And _
+                    .Cells(i, 33).Value = .Cells(selectedRow.Row, 33).Value Then
+                    .Range(.Cells(i, selectedRange.Column), .Cells(i, selectedRange.Column + selectedRange.Columns.Count - 1)).Value = _
+                          .Range(.Cells(selectedRow.Row, selectedRange.Column), .Cells(selectedRow.Row, selectedRange.Column + selectedRange.Columns.Count - 1)).Value ' Set the value to the matching rows
+                 End If
+              Next i
+           End With
+        Next selectedRow
+     Else
+        MsgBox "Please select a range before running this macro.", vbExclamation
+     End If
+  End Sub
+#+end_src
