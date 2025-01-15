@@ -510,6 +510,9 @@ https://basic.smartedu.cn/training/2024sqpx
               for line in content_lines:
                   cell.text += line  # Append text to the cell
 
+              sign_cell = existing_table.cell(2, 1)
+              sign_cell.text = "班主任（签名）　朱宁婕　　　　　　2025 年　1 月"
+
               # Save the updated document
               matched_doc.save(os.path.join(output_directory, matched_filename))
               print(f"Updated: {matched_filename}")  # Confirmation message
