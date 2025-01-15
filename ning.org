@@ -1,7 +1,7 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 * Inbox
-** TODO 婚礼筹备 [1/4]
+** TODO 婚礼筹备 [1/7]
 DEADLINE: <2025-05-01 Thu>
 *** DONE 购买手链
 SCHEDULED: <2025-01-15 Wed>
