@@ -196,74 +196,156 @@ SCHEDULED: <2025-01-16 Thu .+10w>
 - State "DONE"       from "TODO"       [2024-11-08 Fri 08:30]
 * Work
 ** 日程
-** 学生 :crypt:
+** 学生
+*** 家访 :crypt:
 -----BEGIN PGP MESSAGE-----
 
-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
-=bDI4
+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
+=mx45
 -----END PGP MESSAGE-----
+*** 名字
+**** 2019 届
+#+NAME: data-2019
+| 学号 | 姓名     |
+|------+----------|
+|    1 | 周诚彤   |
+|    2 | 周玥辰   |
+|    3 | 余周畅婉 |
+|    4 | 雷雅轩   |
+|    5 | 王怡晴   |
+|    6 | 杨腾跃   |
+|    7 | 尹心然   |
+|    8 | 沈欣怡   |
+|    9 | 于涵     |
+|   11 | 谈洛嘉   |
+|   12 | 朱诗贤   |
+|   13 | 陈诗敏   |
+|   14 | 李婉绮   |
+|   15 | 计筱雨   |
+|   16 | 戴昕艺   |
+|   17 | 余念之   |
+|   18 | 龚小菲   |
+|   19 | 耿翌宸   |
+|   20 | 谢馥蔓   |
+|   21 | 周诚好   |
+|   22 | 陈俊逸   |
+|   23 | 任毅     |
+|   24 | 孙广志   |
+|   25 | 谢觉隆   |
+|   26 | 陈杍佑   |
+|   27 | 赵隽骁   |
+|   28 | 叶怿坦   |
+|   29 | 陈义信   |
+|   30 | 赵栩栋   |
+|   31 | 陈昱成   |
+|   32 | 张睦易   |
+|   33 | 胡杨易   |
+|   34 | 李冬琦   |
+|   35 | 罗奕军   |
+|   36 | 杨昕骐   |
+|   37 | 石秦岳   |
+|   38 | 周诺林   |
+|   39 | 王格钛   |
+|   40 | 林宇桐   |
+|   41 | 邸昂     |
+|   42 | 张天羽   |
+|   43 | 宋昱彤   |
+**** 2024 届
+#+NAME: data-2024
+| 学号 | 姓名   |
+|------+--------|
+|    1 | 张乐欣 |
+|    2 | 王若筠 |
+|    3 | 陈欢   |
+|    4 | 俞欣泽 |
+|    5 | 靖星漪 |
+|    6 | 徐嘉怡 |
+|    7 | 张嘉言 |
+|    8 | 孙乐欣 |
+|    9 | 张瑞妍 |
+|   10 | 王珞妍 |
+|   11 | 贾沂昕 |
+|   12 | 贾沂怡 |
+|   13 | 唐婉   |
+|   14 | 鞠凡希 |
+|   15 | 谢梦羽 |
+|   16 | 程颂恩 |
+|   17 | 陈茗舒 |
+|   18 | 郭文真 |
+|   19 | 鲁一笑 |
+|   20 | 龚容若 |
+|   21 | 栗梓壹 |
+|   22 | 王越   |
+|   24 | 吴可非 |
+|   25 | 俞昊泽 |
+|   26 | 张博宸 |
+|   27 | 唐奕淏 |
+|   28 | 钟昕辰 |
+|   29 | 汲瑞麟 |
+|   30 | 郑尚轩 |
+|   31 | 常文赫 |
+|   32 | 陈沐青 |
+|   33 | 吴恒屹 |
+|   34 | 吴宸宇 |
+|   35 | 钱锦弘 |
+|   36 | 钱宸瑜 |
+|   37 | 何宇成 |
+|   38 | 向东生 |
+|   39 | 顾允珵 |
+|   40 | 徐怀仁 |
+|   41 | 程砚书 |
 ** DONE 智慧平台
 SCHEDULED: <2024-08-20 Tue>
 https://basic.smartedu.cn/training/2024sqpx
@@ -384,4 +466,56 @@ https://basic.smartedu.cn/training/2024sqpx
   End Sub
 #+end_src
 *** 评语
+#+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Documents/Ning/
+  from docx import Document
+  import os
 
+  # Function to read text from a docx file and insert comments into the correct existing document
+  def extract_text_to_docs(source_file, input_directory, output_directory, tab):
+      # Read content from input.md
+      with open(source_file, "r") as md_file:
+          md_content = md_file.read()  # Read the entire content
+
+      student_data = []
+
+      # Split the content by form feed character
+      student_entries = md_content.split("\f")
+
+      # Extract student names and their content
+      for entry in student_entries:
+          lines = entry.strip().split("\n")  # Split entry into lines
+          if lines:
+              student_data.append(lines[1:-3])
+
+      # List all files in the destination directory
+      existing_files = os.listdir(input_directory)
+
+      # Create a new document for each student
+      for i, content_lines in enumerate(student_data):
+          student_name = tab[i][1]
+          matched_filename = None
+
+          # Find the correct file with the student name in the dest directory
+          for filename in existing_files:
+              if student_name in filename:
+                  matched_filename = filename
+                  break
+
+          if matched_filename:
+              # Open the matched document
+              matched_doc = Document(os.path.join(input_directory, matched_filename))
+              existing_table = matched_doc.tables[1]  # Access the first existing table
+              cell = existing_table.cell(1, 1)  # Specify the cell to insert content
+
+              # Append content lines from the student data to the cell
+              for line in content_lines:
+                  cell.text += line  # Append text to the cell
+
+              # Save the updated document
+              matched_doc.save(os.path.join(output_directory, matched_filename))
+              print(f"Updated: {matched_filename}")  # Confirmation message
+          else:
+              print(f"No matching file found for: {student_name}")  # Confirmation message
+
+  extract_text_to_docs("input.md", "input", "output", tab)
+#+end_src
