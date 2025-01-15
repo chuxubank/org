@@ -22,3 +22,8 @@ SCHEDULED: <2025-03-01 Sat>
 * TODO 咖啡机
 * TODO 冷热净水机
 * TODO 戴森吸尘器
+* TODO 分体键盘
+** Keychron Q11
+:PROPERTIES:
+:PRICE:    1088
+:END:
