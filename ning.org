@@ -362,7 +362,7 @@ https://basic.smartedu.cn/training/2024sqpx
 - [ ] 副校长一直出去开会 数学进度落后
     上课无规律性 无法安排学生正常学习节奏
 ** Script
-*** Name Sticker Latex Table
+*** 名字贴
 :PROPERTIES:
 :EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
 :EXPORT_LATEX_HEADER: \usepackage{xltabular}
