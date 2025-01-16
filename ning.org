@@ -508,7 +508,7 @@ https://basic.smartedu.cn/training/2024sqpx
                   first_table.cell(11, 3 + index).text = "优秀"
 
               for index in range(8):
-                  first_table.cell(11, 11 + index).text = "合格"
+                  first_table.cell(11, 12 + index).text = "合格"
 
               existing_table = matched_doc.tables[1]  # Access the first existing table
               cell = existing_table.cell(1, 1)  # Specify the cell to insert content
