@@ -1,6 +1,6 @@
 #+title: Inbox
 * TODO 香港
-** TODO 领取通行证
+** DONE 领取通行证
 SCHEDULED: <2025-01-16 Thu 12:30>
 ** TODO 办银行卡
 * TODO 使用 Ansible 优化 HomeLab
