@@ -60,7 +60,9 @@ SCHEDULED: <2018-04-06 Fri>
 ** DONE 葬送的芙莉莲
 ** DONE 怪兽 8 号
 * 电影 [1/6]
-** TODO 寻枪
+** DONE 寻枪
+CLOSED: [2025-01-18 Sat 10:27]
+- State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
 ** TODO 猫鼠游戏
 ** TODO Don't Look Up
 ** TODO 低俗小说
