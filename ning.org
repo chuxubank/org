@@ -9,8 +9,9 @@ SCHEDULED: <2025-01-15 Wed>
 SCHEDULED: <2024-10-25 Fri>
 *** TODO 求婚
 SCHEDULED: <2025-01-01 Wed>
-**** TODO 买钻戒
-DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
+**** DONE 买钻戒
+CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
+- State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
 *** TODO 西装
 - 领带
 - 皮鞋
