@@ -922,11 +922,12 @@ SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-07-18 Fri .+1y>
 ** TODO 车辆续保
 SCHEDULED: <2025-05-27 Mon .+1y>
 ** TODO Wash Car
-SCHEDULED: <2025-01-24 Fri .+2m>
+SCHEDULED: <2025-03-25 Tue .+2m>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-11-24 Sun 19:54]
+:LAST_REPEAT: [2025-01-25 Sat 18:36]
 :END:
+- State "DONE"       from "TODO"       [2025-01-25 Sat 18:36]
 - State "DONE"       from "TODO"       [2024-11-24 Sun 19:54]
 - State "DONE"       from "TODO"       [2024-09-01 Sun 12:25]
 - State "DONE"       from "TODO"       [2024-01-02 Tue 10:11]
