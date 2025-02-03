@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 开市客发票
+SCHEDULED: <2025-02-03 Mon>
 * TODO 使用 Ansible 优化 HomeLab
 SCHEDULED: <2024-12-24 Tue>
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
