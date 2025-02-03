@@ -1,8 +1,4 @@
 #+title: Inbox
-* TODO 香港
-** DONE 领取通行证
-SCHEDULED: <2025-01-16 Thu 12:30>
-** TODO 办银行卡
 * TODO 使用 Ansible 优化 HomeLab
 SCHEDULED: <2024-12-24 Tue>
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
