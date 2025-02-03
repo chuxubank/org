@@ -23,7 +23,7 @@ SCHEDULED: <2025-02-12 Wed>
 *** TODO 买车
 *** TODO 四大金刚
 *** TODO 领证
-SCHEDULED: <2025-02-03 Mon>
+SCHEDULED: <2025-02-12 Wed>
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 * Notes
