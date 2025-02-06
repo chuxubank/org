@@ -34,8 +34,6 @@ SCHEDULED: <2025-03-01 Sat 10:00>
 - https://keepachangelog.com/
 - https://semver.org/
 - https://www.conventionalcommits.org/
-* TODO 开奢侈品的发票
-SCHEDULED: <2024-11-13 Wed>
 * TODO 皮肤科复诊
 * TODO IPTV
 SCHEDULED: <2025-01-01 Wed>
