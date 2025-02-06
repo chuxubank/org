@@ -24,7 +24,6 @@ https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Extend pinyin-isearch with rime double-pinyin
 ** TODO Org handle Open Graph protocol
 ** TODO Use Gnus as Mail client
-SCHEDULED: <2025-01-11 Sat>
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** TODO flycheck-xray
 ** TODO quick-sdcv
