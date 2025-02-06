@@ -3,18 +3,31 @@
 SCHEDULED: <2025-02-09 Sun>
 * TODO 开市客发票
 SCHEDULED: <2025-02-03 Mon>
-* TODO 使用 Ansible 优化 HomeLab
-SCHEDULED: <2024-12-24 Tue>
-https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
-https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
-https://openwrt.org/docs/guide-user/additional-software/opkg
+* TODO 重构 Ansible
+SCHEDULED: <2025-02-13 Thu>
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
 https://github.com/IronicBadger/ansible-role-docker-compose-generator
 * TODO Setup new VPS
-SCHEDULED: <2024-12-19 Thu>
+:PROPERTIES:
+:TRIGGER: next-sibling scheduled!("++0d")
+:END:
 :LOGBOOK:
 CLOCK: [2024-12-26 Thu 17:45]--[2024-12-26 Thu 19:45] =>  2:00
 :END:
 https://bandwagonhost.com/services
+* TODO Setup OpenWrt
+:PROPERTIES:
+:TRIGGER: next-sibling scheduled!("++0d")
+:END:
+* TODO 使用 Ansible 优化 HomeLab
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
+https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
+https://openwrt.org/docs/guide-user/additional-software/opkg
 * TODO iapm 兑换
 SCHEDULED: <2025-03-01 Sat 10:00>
 * TODO Conventions
@@ -23,10 +36,7 @@ SCHEDULED: <2025-03-01 Sat 10:00>
 - https://www.conventionalcommits.org/
 * TODO 开奢侈品的发票
 SCHEDULED: <2024-11-13 Wed>
-* TODO Setup OpenWrt
-SCHEDULED: <2024-10-16 Wed>
 * TODO 皮肤科复诊
-SCHEDULED: <2025-01-01 Wed>
 * TODO IPTV
 SCHEDULED: <2025-01-01 Wed>
 - Note taken on [2024-04-05 Fri 06:52] \\
@@ -34,7 +44,6 @@ SCHEDULED: <2025-01-01 Wed>
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
-:BLOCKER:  previous-sibling
 :END:
 * TODO 整理 Download 文件夹
 :PROPERTIES:
