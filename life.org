@@ -956,7 +956,7 @@ SCHEDULED: <2025-03-25 Tue .+2m>
 - State "DONE"       from "TODO"       [2022-02-06 Sun 10:14]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 ** TODO Add windshield washer fluid
-SCHEDULED: <2025-02-05 Wed .+1y>
+SCHEDULED: <2025-09-05 Fri .+9m>
 :PROPERTIES:
 :STYLE:    habit
 :LAST_REPEAT: [2024-11-05 Tue 10:41]
