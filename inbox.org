@@ -1,4 +1,6 @@
 #+title: Inbox
+* TODO 预订自习室(化妆)
+SCHEDULED: <2025-02-09 Sun>
 * TODO 开市客发票
 SCHEDULED: <2025-02-03 Mon>
 * TODO 使用 Ansible 优化 HomeLab
@@ -6,6 +8,7 @@ SCHEDULED: <2024-12-24 Tue>
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
 https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
 https://openwrt.org/docs/guide-user/additional-software/opkg
+https://github.com/IronicBadger/ansible-role-docker-compose-generator
 * TODO Setup new VPS
 SCHEDULED: <2024-12-19 Thu>
 :LOGBOOK:
