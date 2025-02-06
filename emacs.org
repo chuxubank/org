@@ -29,7 +29,6 @@ SCHEDULED: <2025-01-11 Sat>
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 ** TODO flycheck-xray
 ** TODO quick-sdcv
-SCHEDULED: <2024-11-26 Tue>
 https://github.com/jamescherti/quick-sdcv.el
 ** STRT Display notification from D-Bus on other system like macOS or Windows
 SCHEDULED: <2024-10-26 Sat>
