@@ -12,18 +12,34 @@ SCHEDULED: <2025-02-08 Sat>
 **** DONE 买钻戒
 CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
 - State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
-*** TODO 领证
+**** TODO 插画
+*** TODO 领证 [0/2]
 SCHEDULED: <2025-02-12 Wed>
 **** TODO 跟拍
-*** TODO 西装
-- 领带
-- 皮鞋
-- 衬衫
-*** TODO 女士礼服
+**** TODO 物品 [0/7]
+- [ ] 头纱
+- [ ] 泡泡机
+- [ ] 透明雨伞
+- [ ] 手捧花
+- [ ] 结婚横幅
+- [ ] 大喜字
+- [ ] 红色大气球
+*** TODO 男士服装 [0/5]
+- [ ] 西装
+- [ ] 领带
+- [ ] 皮鞋
+- [ ] 衬衫
+- [ ] 大衣
+*** TODO 女士服装 [0/2]
+- [ ] 绣合
+- [ ] 婚纱
 *** TODO 买车
+DEADLINE: <2025-04-15 Tue>
 *** TODO 四大金刚
-*** TODO 领证
-SCHEDULED: <2025-02-12 Wed>
+- [ ] 摄影
+- [ ] 摄像
+- [ ] 主持(自己)
+- [ ] 跟妆
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 * Notes
