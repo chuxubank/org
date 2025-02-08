@@ -12,7 +12,6 @@ SCHEDULED: <2025-02-08 Sat>
 **** DONE 买钻戒
 CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
 - State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
-**** TODO 插画
 *** TODO 领证 [0/2]
 SCHEDULED: <2025-02-12 Wed>
 **** TODO 跟拍
