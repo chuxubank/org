@@ -413,7 +413,7 @@ https://basic.smartedu.cn/training/2024sqpx
         (setq current-page '() row-count 0 col-count 0)))
     (dolist (row table)
       (unless (equal 'hline row)
-        (push (format "\\begin{tabular}{l} 学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s \\end{tabular}"
+        (push (format "\\begin{tabular}{l} \\rule{0pt}{\\myrowheight} 学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s \\end{tabular}"
                       (nth 1 row) (nth 0 row))
               current-page)
         (push (if (< (setq col-count (1+ col-count)) col-num) " &\n" " \\\\\n") current-page)
@@ -446,6 +446,9 @@ https://basic.smartedu.cn/training/2024sqpx
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：郭文真 \\ 学号：18 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：鲁一笑 \\ 学号：19 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：龚容若 \\ 学号：20 \end{tabular} \\
+\end{xltabular}
+\newpage
+\begin{xltabular}{\textwidth}{YYYY}
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：栗梓壹 \\ 学号：21 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王越 \\ 学号：22 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：吴可非 \\ 学号：24 \end{tabular} &
