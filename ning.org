@@ -407,7 +407,7 @@ https://basic.smartedu.cn/training/2024sqpx
               (id (nth 0 row)))
           (setq col-count (1+ col-count))
           (push (format "\\begin{tabular}{l} 学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s \\end{tabular}" name id) latex-table)
-          (if (< col-count 3)
+          (if (< col-count 4)
               (push " &\n" latex-table)
             (progn
               (push " \\\\\n" latex-table)
