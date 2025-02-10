@@ -1,18 +1,18 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 * Inbox
-** TODO 婚礼筹备 [1/9]
+** TODO 婚礼筹备 [2/7]
 DEADLINE: <2025-05-01 Thu>
 *** DONE 购买手链
 SCHEDULED: <2025-01-15 Wed>
 **** DONE 预订 VCA
 SCHEDULED: <2024-10-25 Fri>
-*** TODO 求婚
+*** DONE 求婚
 SCHEDULED: <2025-02-08 Sat>
 **** DONE 买钻戒
 CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
 - State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
-**** TODO 求婚词
+**** 求婚词
 亲爱的朱老师, 1350 天前, 我鼓起勇气向你表白，我们的故事也迎来了新的篇章。
 你是温柔而坚定的语文老师，而我是理性的程序员，但你的包容和命运的安排让我们走到了一起。
 我们度过了五年的友情时光，携手走过四年的恋爱旅程，去过济州岛看海风吹拂，在香港漫步于街头巷尾，每一段旅程都是和你最珍贵的回忆。
@@ -22,20 +22,20 @@ CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09
 *** TODO 领证 [0/2]
 SCHEDULED: <2025-02-12 Wed>
 **** TODO 跟拍
-**** TODO 物品 [0/7]
-- [ ] 头纱
-- [ ] 泡泡机
+**** TODO 物品 [6/7]
+- [X] 头纱
+- [X] 泡泡机
 - [ ] 透明雨伞
-- [ ] 手捧花
-- [ ] 结婚横幅
-- [ ] 大喜字
-- [ ] 红色大气球
-*** TODO 男士服装 [0/5]
+- [X] 手捧花
+- [X] 结婚横幅
+- [X] 大喜字
+- [X] 红色大气球
+*** TODO 男士服装 [1/5]
 - [ ] 西装
 - [ ] 领带
 - [ ] 皮鞋
 - [ ] 衬衫
-- [ ] 大衣
+- [X] 大衣
 *** TODO 女士服装 [0/2]
 - [ ] 绣合
 - [ ] 婚纱
@@ -48,6 +48,8 @@ DEADLINE: <2025-04-15 Tue>
 - [ ] 跟妆
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
+** TODO 名字贴
+DEADLINE: <2025-02-12 Wed> SCHEDULED: <2025-02-10 Mon>
 * Notes
 ** Favorite
 *** 颜色
