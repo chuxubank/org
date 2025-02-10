@@ -1,5 +1,5 @@
 #+title: Inbox
-* TODO 预订自习室(化妆)
+* DONE 预订自习室(化妆)
 SCHEDULED: <2025-02-09 Sun>
 * TODO 开市客发票
 SCHEDULED: <2025-02-03 Mon>
