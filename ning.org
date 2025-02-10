@@ -460,8 +460,7 @@ https://basic.smartedu.cn/training/2024sqpx
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：向东生 \\ 学号：38 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：顾允珵 \\ 学号：39 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：徐怀仁 \\ 学号：40 \end{tabular} &
-\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：程砚书 \\ 学号：41 \end{tabular}
-
+\begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：程砚书 \\ 学号：41 \end{tabular} \\
 \end{xltabular}
 #+end_export
 *** 学籍卡
