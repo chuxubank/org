@@ -416,8 +416,8 @@ https://basic.smartedu.cn/training/2024sqpx
     (format "\\begin{xltabular}{\\textwidth}{%s}\n%s\\end{xltabular}"
             col-format
             (mapconcat 'identity (reverse latex-table) "")))
-
 #+END_SRC
+
 #+RESULTS:
 #+begin_export latex
 \begin{xltabular}{\textwidth}{YYYY}
