@@ -412,7 +412,7 @@ https://basic.smartedu.cn/training/2024sqpx
             (progn
               (push " \\\\\n" latex-table)
               (setq col-count 0))))))
-    (concat "\\begin{xltabular}{\\textwidth}{YYY}\n"
+    (concat "\\begin{xltabular}{\\textwidth}{YYYY}\n"
             (mapconcat 'identity (reverse latex-table))
             "\n\\end{xltabular}"))
 
