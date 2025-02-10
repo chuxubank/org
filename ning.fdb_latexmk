@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1739155063.9878 "ning.xdv" "ning.pdf" "ning" 1739155064.20532 0
-  "ning.xdv" 1739155063.92144 21996 3a5bea5638d3ce165bd64ae3f16a3173 "xelatex"
+["xdvipdfmx"] 1739155156.12822 "ning.xdv" "ning.pdf" "ning" 1739155156.35073 0
+  "ning.xdv" 1739155156.06229 22000 f5807f8a8306f684eabfea75636f95d7 "xelatex"
   (generated)
   "ning.pdf"
   (rewritten before read)
-["xelatex"] 1739155063.10514 "ning.tex" "ning.xdv" "ning" 1739155064.20364 2
+["xelatex"] 1739155155.12782 "ning.tex" "ning.xdv" "ning" 1739155156.34925 2
   "/System/Library/Fonts/Menlo.ttc" 1733559115 2156036 ec05dfca6821d85440da0899493002c3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -209,9 +209,9 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1721146102 10850159 d4c1d4c9207c9f5c429822d40994c719 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "ning.aux" 1739155063.92091 288 0f686b065f2c44897a217ec211461946 "xelatex"
-  "ning.out" 1739155063.88565 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "ning.tex" 1739155062.98099 5708 aa42835c68de25c5ade1b840b5d6df74 ""
+  "ning.aux" 1739155156.06178 288 0f686b065f2c44897a217ec211461946 "xelatex"
+  "ning.out" 1739155156.02579 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "ning.tex" 1739155155.01944 5705 5bee883762fb1915ddaee394b7a332a5 ""
   (generated)
   "ning.aux"
   "ning.log"
