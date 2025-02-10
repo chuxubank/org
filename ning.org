@@ -420,7 +420,7 @@ https://basic.smartedu.cn/training/2024sqpx
 
 #+RESULTS:
 #+begin_export latex
-\begin{xltabular}{\textwidth}{YYY}
+\begin{xltabular}{\textwidth}{YYYY}
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：张乐欣 \\ 学号：1 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王若筠 \\ 学号：2 \end{tabular} &
 \begin{tabular}{l} 学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：陈欢 \\ 学号：3 \end{tabular} &
