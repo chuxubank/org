@@ -398,26 +398,26 @@ https://basic.smartedu.cn/training/2024sqpx
 :END:
 \noindent
 \large
-#+BEGIN_SRC emacs-lisp :var table=data-2024 :results value latex :exports results
+#+BEGIN_SRC emacs-lisp :var table=data-2024 col-num=4 :results value latex :exports results
   (let ((latex-table '())
-        (col-count 0))
+        (col-count 0)
+        (col-format (make-string col-num ?Y)))
     (dolist (row table)
       (unless (equal 'hline row)
         (let ((name (nth 1 row))
               (id (nth 0 row)))
           (setq col-count (1+ col-count))
           (push (format "\\begin{tabular}{l} 学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s \\end{tabular}" name id) latex-table)
-          (if (< col-count 4)
+          (if (< col-count col-num)
               (push " &\n" latex-table)
             (progn
               (push " \\\\\n" latex-table)
               (setq col-count 0))))))
-    (concat "\\begin{xltabular}{\\textwidth}{YYYY}\n"
-            (mapconcat 'identity (reverse latex-table))
-            "\n\\end{xltabular}"))
+    (format "\\begin{xltabular}{\\textwidth}{%s}\n%s\\end{xltabular}"
+            col-format
+            (mapconcat 'identity (reverse latex-table) "")))
 
 #+END_SRC
-
 #+RESULTS:
 #+begin_export latex
 \begin{xltabular}{\textwidth}{YYYY}
