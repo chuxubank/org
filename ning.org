@@ -394,11 +394,12 @@ https://basic.smartedu.cn/training/2024sqpx
 :PROPERTIES:
 :EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
 :EXPORT_LATEX_HEADER: \usepackage{tabularray}
-:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr(\textheight - 23pt)/5\relax}
+:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr(\textheight - 3pt)/5\relax}
 :END:
 \noindent
 \large
 \DefTblrTemplate{head,foot}{default}{}
+\SetTblrInner{rowsep=0pt,colsep=0pt}
 #+BEGIN_SRC emacs-lisp :var table=data-2024 col-num=4 row-num=5 :results value latex :exports results
   (let ((latex-table '())
         (col-count 0))
