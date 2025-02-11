@@ -394,7 +394,7 @@ https://basic.smartedu.cn/training/2024sqpx
 :PROPERTIES:
 :EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
 :EXPORT_LATEX_HEADER: \usepackage{tabularray}
-:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr(\textheight - 3pt)/5\relax}
+:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr(\textheight-1pt)/5\relax}
 :END:
 \noindent
 \large
@@ -414,7 +414,7 @@ https://basic.smartedu.cn/training/2024sqpx
             (progn
               (push " \\\\\n" latex-table)
               (setq col-count 0))))))
-    (format "\\begin{tblr}[long]{hlines, vlines, rows={\\myrowheight}, colspec={*{%s}{X}}}\n%s\\end{tblr}"
+    (format "\\begin{tblr}[long]{rows={\\myrowheight}, colspec={*{%s}{X}}}\n%s\\end{tblr}"
             col-num
             (mapconcat 'identity (reverse latex-table) "")))
 #+END_SRC
