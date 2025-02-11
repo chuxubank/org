@@ -1193,10 +1193,10 @@ Package rerunfilecheck Info: File `ning.out' has not changed.
 Here is how much of TeX's memory you used:
  38283 strings out of 474773
  968523 string characters out of 5757724
- 1966839 words of memory out of 5000000
+ 1965839 words of memory out of 5000000
  59876 multiletter control sequences out of 15000+600000
  561732 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,6n,124p,721b,1259s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ning.xdv (3 pages, 24832 bytes).
+Output written on ning.xdv (3 pages, 24524 bytes).
