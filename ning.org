@@ -399,27 +399,22 @@ https://basic.smartedu.cn/training/2024sqpx
 \noindent
 \large
 #+BEGIN_SRC emacs-lisp :var table=data-2024 col-num=4 row-num=5 :results value latex :exports results
-  (let* ((pages '())
-         (current-page '())
-         (col-count 0)
-         (row-count 0))
-    (defun add-page ()
-      (when current-page
-        (push (concat (format "\\begin{tblr}{|*{%s}{X|}}\n" col-num)
-                      (apply #'concat (reverse current-page))
-                      "\\end{tblr}")
-              pages)
-        (setq current-page '() row-count 0 col-count 0)))
+  (let ((latex-table '())
+        (col-count 0))
     (dolist (row table)
       (unless (equal 'hline row)
-        (push (format "{学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s}"
-                      (nth 1 row) (nth 0 row))
-              current-page)
-        (push (if (< (setq col-count (1+ col-count)) col-num) " &\n" " \\\\\n\\hline\n") current-page)
-        (when (= col-count col-num) (setq col-count 0 row-count (1+ row-count)))
-        (when (= row-count row-num) (add-page))))
-    (add-page)
-    (mapconcat 'identity (reverse pages) "\n\\newpage\n"))
+        (let ((name (nth 1 row))
+              (id (nth 0 row)))
+          (setq col-count (1+ col-count))
+          (push (format "{学校：昌邑小学 \\\\ 班级：一（4）班 \\\\ 姓名：%s \\\\ 学号：%s}" name id) latex-table)
+          (if (< col-count col-num)
+              (push " &\n" latex-table)
+            (progn
+              (push " \\\\\n\\hline\n" latex-table)
+              (setq col-count 0))))))
+    (format "\\begin{tblr}[long]{|*{%s}{X|}}\n%s\\end{tblr}"
+            col-num
+            (mapconcat 'identity (reverse latex-table) "")))
 #+END_SRC
 
 #+RESULTS:
@@ -450,9 +445,6 @@ https://basic.smartedu.cn/training/2024sqpx
 {学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：鲁一笑 \\ 学号：19} &
 {学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：龚容若 \\ 学号：20} \\
 \hline
-\end{tblr}
-\newpage
-\begin{tblr}{|*{4}{X|}}
 {学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：栗梓壹 \\ 学号：21} &
 {学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：王越 \\ 学号：22} &
 {学校：昌邑小学 \\ 班级：一（4）班 \\ 姓名：吴可非 \\ 学号：24} &
