@@ -405,7 +405,7 @@ https://basic.smartedu.cn/training/2024sqpx
          (row-count 0))
     (defun add-page ()
       (when current-page
-        (push (concat (format "\\begin{xltabular}{\\textwidth}{|*{%s}{Y|}}\n" col-num)
+        (push (concat (format "\\begin{xltabular}{\\textwidth}{|*{%s}{X|}}\n" col-num)
                       (apply #'concat (reverse current-page))
                       "\\end{xltabular}")
               pages)
