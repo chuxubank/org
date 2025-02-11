@@ -394,7 +394,7 @@ https://basic.smartedu.cn/training/2024sqpx
 :PROPERTIES:
 :EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
 :EXPORT_LATEX_HEADER: \usepackage{xltabular}
-:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr\textheight/5\relax} \newcolumntype{Y}{>{\centering\arraybackslash}X}
+:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr\textheight/5\relax} \newcolumntype{Y}{>{\rule{0pt}{\myrowheight}\centering\arraybackslash}X}
 :END:
 \noindent
 \large
@@ -405,7 +405,7 @@ https://basic.smartedu.cn/training/2024sqpx
          (row-count 0))
     (defun add-page ()
       (when current-page
-        (push (concat (format "\\begin{xltabular}{\\textwidth}{|*{%s}{X|}}\n" col-num)
+        (push (concat (format "\\begin{xltabular}{\\textwidth}{|*{%s}{Y|}}\n" col-num)
                       (apply #'concat (reverse current-page))
                       "\\end{xltabular}")
               pages)
