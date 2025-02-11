@@ -394,8 +394,10 @@ https://basic.smartedu.cn/training/2024sqpx
 :PROPERTIES:
 :EXPORT_OPTIONS: toc:nil author:nil date:nil title:nil
 :EXPORT_LATEX_HEADER: \usepackage{tabularray}
-:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt} \newlength{\myrowheight} \setlength{\myrowheight}{\dimexpr(\textheight-1pt)/5\relax}
+:EXPORT_LATEX_HEADER_EXTRA: \geometry{margin=0pt}
 :END:
+\newlength{\myrowheight}
+\setlength{\myrowheight}{\dimexpr(\textheight-1pt)/5\relax}
 \noindent
 \large
 \DefTblrTemplate{head,foot}{default}{}
