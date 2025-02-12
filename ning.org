@@ -19,13 +19,13 @@ CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09
 和你在一起的日子里，我也逐渐变得开朗起来，你就像冬日里的暖阳，让
 在接下来的日子里，我愿意用余生去爱你，去守护你，去和你一起迎接每一个清晨，分享每一顿饭，一起面对生活的酸甜苦辣和喜怒哀乐。
 我爱你，宁宁，你愿意嫁给我吗？
-*** TODO 领证 [0/2]
+*** TODO 领证 [1/2]
 SCHEDULED: <2025-02-12 Wed>
 **** TODO 跟拍
-**** TODO 物品 [6/7]
+**** TODO 物品 [7/7]
 - [X] 头纱
 - [X] 泡泡机
-- [ ] 透明雨伞
+- [X] 透明雨伞
 - [X] 手捧花
 - [X] 结婚横幅
 - [X] 大喜字
@@ -48,8 +48,9 @@ DEADLINE: <2025-04-15 Tue>
 - [ ] 跟妆
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
-** TODO 名字贴
-DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
+** DONE 名字贴
+CLOSED: [2025-02-12 Wed 09:01] DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
+- State "DONE"       from "TODO"       [2025-02-12 Wed 09:01]
 * Notes
 ** Favorite
 *** 颜色
