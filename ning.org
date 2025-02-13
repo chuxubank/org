@@ -1,7 +1,7 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
-* Inbox [1/3]
-** TODO 婚礼筹备 [2/7]
+* Inbox [2/3]
+** TODO 婚礼筹备 [3/7]
 DEADLINE: <2025-05-01 Thu>
 *** DONE 购买手链
 SCHEDULED: <2025-01-15 Wed>
@@ -19,10 +19,10 @@ CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09
 和你在一起的日子里，我也逐渐变得开朗起来，你就像冬日里的暖阳，让
 在接下来的日子里，我愿意用余生去爱你，去守护你，去和你一起迎接每一个清晨，分享每一顿饭，一起面对生活的酸甜苦辣和喜怒哀乐。
 我爱你，宁宁，你愿意嫁给我吗？
-*** TODO 领证 [1/2]
+*** DONE 领证 [2/2]
 SCHEDULED: <2025-02-12 Wed>
-**** TODO 跟拍
-**** TODO 物品 [7/7]
+**** DONE 跟拍
+**** DONE 物品 [7/7]
 - [X] 头纱
 - [X] 泡泡机
 - [X] 透明雨伞
@@ -49,8 +49,7 @@ DEADLINE: <2025-04-15 Tue>
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 ** DONE 名字贴
-CLOSED: [2025-02-12 Wed 09:01] DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
-- State "DONE"       from "TODO"       [2025-02-12 Wed 09:01]
+DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
 * Notes
 ** Favorite
 *** 颜色
