@@ -4,7 +4,7 @@
 SCHEDULED: <2025-02-16 Sun>
 * DONE 预订自习室(化妆)
 SCHEDULED: <2025-02-09 Sun>
-* TODO 开市客发票
+* DONE 开市客发票
 SCHEDULED: <2025-02-03 Mon>
 * TODO 重构 Ansible
 SCHEDULED: <2025-02-13 Thu>
