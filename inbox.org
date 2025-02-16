@@ -1,4 +1,7 @@
 #+title: Inbox
+
+* TODO 洗胶片
+SCHEDULED: <2025-02-16 Sun>
 * DONE 预订自习室(化妆)
 SCHEDULED: <2025-02-09 Sun>
 * TODO 开市客发票
