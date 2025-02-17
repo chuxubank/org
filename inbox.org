@@ -1,11 +1,11 @@
 #+title: Inbox
 
 * TODO 洗胶片
-SCHEDULED: <2025-02-16 Sun>
-* DONE 预订自习室(化妆)
-SCHEDULED: <2025-02-09 Sun>
-* DONE 开市客发票
-SCHEDULED: <2025-02-03 Mon>
+SCHEDULED: <2025-02-23 Sun>
+
+** TODO 带一次性相机
+SCHEDULED: <2025-02-22 Sat>
+
 * TODO 重构 Ansible
 SCHEDULED: <2025-02-13 Thu>
 :PROPERTIES:
@@ -55,4 +55,5 @@ SCHEDULED: <2025-01-01 Wed>
 * TODO 学习日语
 * TODO 国际驾照
 * TODO 博客
+SCHEDULED: <2025-02-17 Mon>
 ** TODO GPG 相关密钥导出为 QR
