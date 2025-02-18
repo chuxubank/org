@@ -58,3 +58,7 @@ SCHEDULED: <2025-01-01 Wed>
 * TODO 博客
 SCHEDULED: <2025-02-17 Mon>
 ** TODO GPG 相关密钥导出为 QR
+** IDEA 打印邮箱中的发票
+可以使用 mu4e 进行筛选（正则）
+然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
+然后 ~C-u mu4e-view-save-attachments~ 保存附件
