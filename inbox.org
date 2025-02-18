@@ -1,5 +1,6 @@
 #+title: Inbox
-
+* TODO 学习 Rust
+SCHEDULED: <2025-02-21 Fri>
 * TODO 洗胶片
 SCHEDULED: <2025-02-23 Sun>
 
