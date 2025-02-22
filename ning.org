@@ -1,13 +1,14 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 * Inbox [2/3]
-** TODO 婚礼筹备 [3/11]
+** TODO 婚礼筹备 [3/12]
 DEADLINE: <2025-05-01 Thu>
 *** TODO 婚纱照
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 绣合
 *** TODO 布置
 *** TODO 流程
+*** TODO 婚车
 *** TODO 男士服装 [1/6]
 - [ ] 西装
 - [ ] 领带
