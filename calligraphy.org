@@ -5,9 +5,9 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [19/20]
+* 展览 [20/20]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
-** TODO 全国第二届书法小品展
+** DONE 全国第二届书法小品展
 SCHEDULED: <2025-02-06 Thu> DEADLINE: <2025-02-22 Sat>
 https://mp.weixin.qq.com/s/bQ7IaCYPsosaulczEQohhQ
 - [ ] 落款注意属地
@@ -760,10 +760,11 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** TODO 练字
-SCHEDULED: <2025-02-22 Sat ++2w>
+SCHEDULED: <2025-03-08 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2025-02-10 Mon 10:27]
+:LAST_REPEAT: [2025-02-22 Sat 17:20]
 :END:
+- State "DONE"       from "TODO"       [2025-02-22 Sat 17:20]
 - State "DONE"       from "TODO"       [2025-02-10 Mon 10:27]
 - State "DONE"       from "TODO"       [2025-02-03 Mon 11:35]
 - State "KILL"       from "TODO"       [2025-01-14 Tue 13:21]
