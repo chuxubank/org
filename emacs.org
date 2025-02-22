@@ -4,6 +4,7 @@
 SCHEDULED: <2025-01-09 Thu>
 *** DONE Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
+** TODO Emacs on Android
 ** TODO Try lsp-copilot
 https://github.com/jadestrong/lsp-copilot
 ** TODO MCP for Emacs
