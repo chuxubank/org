@@ -1,8 +1,28 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 * Inbox [2/3]
-** TODO 婚礼筹备 [3/7]
+** TODO 婚礼筹备 [3/11]
 DEADLINE: <2025-05-01 Thu>
+*** TODO 婚纱照
+SCHEDULED: <2025-02-23 Sun>
+*** TODO 绣合
+*** TODO 布置
+*** TODO 流程
+*** TODO 男士服装 [1/6]
+- [ ] 西装
+- [ ] 领带
+- [ ] 皮鞋
+- [ ] 衬衫
+- [X] 大衣
+*** TODO 女士服装 [1/1]
+- [X] 婚纱
+*** TODO 买车
+DEADLINE: <2025-04-15 Tue>
+*** TODO 四大金刚
+- [ ] 摄影
+- [ ] 摄像
+- [ ] 主持(自己)
+- [X] 跟妆
 *** DONE 购买手链
 SCHEDULED: <2025-01-15 Wed>
 **** DONE 预订 VCA
@@ -30,23 +50,6 @@ SCHEDULED: <2025-02-12 Wed>
 - [X] 结婚横幅
 - [X] 大喜字
 - [X] 红色大气球
-*** TODO 男士服装 [1/6]
-- [ ] 西装
-- [ ] 领带
-- [ ] 皮鞋
-- [ ] 衬衫
-- [ ] 绣合
-- [X] 大衣
-*** TODO 女士服装 [1/2]
-- [ ] 绣合
-- [X] 婚纱
-*** TODO 买车
-DEADLINE: <2025-04-15 Tue>
-*** TODO 四大金刚
-- [ ] 摄影
-- [ ] 摄像
-- [ ] 主持(自己)
-- [X] 跟妆
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 ** DONE 名字贴
