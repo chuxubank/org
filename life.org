@@ -1,6 +1,9 @@
 #+TITLE: Life
 #+startup: overview
 
+* TODO 吃水果
+SCHEDULED: <2025-02-24 Mon +2d>
+
 * TODO 陈香贵积分兑换
 DEADLINE: <2025-12-31 Wed ++1y> SCHEDULED: <2025-12-01 Mon ++1y>
 * TODO Cut nails
