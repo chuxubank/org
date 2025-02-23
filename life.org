@@ -1,7 +1,6 @@
 #+TITLE: Life
 #+startup: overview
-
-* TODO 吃水果
+* TODO Eat fruit
 SCHEDULED: <2025-02-24 Mon +2d>
 
 * TODO 陈香贵积分兑换
