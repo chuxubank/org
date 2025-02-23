@@ -873,11 +873,12 @@ SCHEDULED: <2025-03-06 Thu .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Clean bathroom
-SCHEDULED: <2025-01-01 Wed .+2w>
+SCHEDULED: <2025-03-09 Sun .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2024-12-18 Wed 23:59]
+:LAST_REPEAT: [2025-02-23 Sun 11:19]
 :END:
+- State "DONE"       from "TODO"       [2025-02-23 Sun 11:19]
 - State "DONE"       from "TODO"       [2024-12-18 Wed 23:59]
 - State "DONE"       from "TODO"       [2024-11-27 Wed 19:48]
 - State "DONE"       from "TODO"       [2024-10-30 Wed 16:43]
