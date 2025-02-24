@@ -1,8 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2025-02-24 Mon +2d>
-
+SCHEDULED: <2025-02-26 Wed +2d>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2025-02-24 Mon 09:04]
+:END:
+- State "DONE"       from "TODO"       [2025-02-24 Mon 09:04]
 * TODO 陈香贵积分兑换
 DEADLINE: <2025-12-31 Wed ++1y> SCHEDULED: <2025-12-01 Mon ++1y>
 * TODO Cut nails
@@ -511,11 +515,12 @@ SCHEDULED: <2025-02-18 Tue .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2025-02-24 Mon 07:15 .+4d/6d>
+SCHEDULED: <2025-02-27 Thu 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-02-18 Tue 08:52]
+:LAST_REPEAT: [2025-02-23 Sun 08:59]
 :END:
+- State "DONE"       from "TODO"       [2025-02-23 Sun 08:59]
 - State "DONE"       from "TODO"       [2025-02-18 Tue 08:52]
 - State "DONE"       from "TODO"       [2025-02-12 Wed 09:01]
 - State "DONE"       from "TODO"       [2025-02-08 Sat 10:39]
