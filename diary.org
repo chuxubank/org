@@ -5,5 +5,5 @@
 %%(org-bbdb-anniversaries-future)
 
 * 龙抬头
-%%(diary-chinese-date 2 2)
+<%%(diary-chinese-date 2 2)>
 
