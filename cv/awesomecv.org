@@ -4,7 +4,7 @@
 #+CVCOLOR: awesome-red
 # Specify the position and style of the photo
 # circle/rectangle,edge/noedge,left/right.
-#+PHOTOSTYLE: rectangle,right,noedge
+#+PHOTOSTYLE: circle,right,noedge
 
 #+include: cv.org
 
