@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2025-02-28 Fri +2d>
+SCHEDULED: <2025-03-02 Sun +2d>
 :PROPERTIES:
-:STYLE:    habit
-:LAST_REPEAT: [2025-02-26 Wed 10:39]
+:STYLE: habit
+:LAST_REPEAT: [2025-03-03 Mon 08:25]
 :END:
+- State "DONE"       from "TODO"       [2025-03-03 Mon 08:25]
 - State "DONE"       from "TODO"       [2025-02-26 Wed 10:39]
 - State "DONE"       from "TODO"       [2025-02-24 Mon 09:04]
 * TODO 陈香贵积分兑换
@@ -756,11 +757,12 @@ SCHEDULED: <2025-03-03 Mon 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2025-03-03 Mon .+5d/7d>
+SCHEDULED: <2025-03-10 Mon .+5d/7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-02-26 Wed 10:39]
+:LAST_REPEAT: [2025-03-03 Mon 08:25]
 :END:
+- State "DONE"       from "TODO"       [2025-03-03 Mon 08:25]
 - State "DONE"       from "TODO"       [2025-02-26 Wed 10:39]
 - State "DONE"       from "TODO"       [2025-02-20 Thu 16:03]
 - State "DONE"       from "TODO"       [2025-02-15 Sat 23:59]
