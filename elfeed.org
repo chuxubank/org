@@ -37,6 +37,7 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://yinwang1.substack.com/feed][垠的备忘录]]
 **** [[https://archive.casouri.cc/note/atom.xml][Casouri - Notes]] :emacs:
 **** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
+**** [[https://www.mistys-internet.website/blog/atom.xml][The Future Is Now - Misty De Méo]] :mac:
 **** Apple :apple:
 ***** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
 ***** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
