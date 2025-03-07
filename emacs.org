@@ -6,8 +6,8 @@ SCHEDULED: <2025-01-09 Thu>
 SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
 SCHEDULED: <2025-02-27 Thu>
-** TODO Try lsp-copilot
-https://github.com/jadestrong/lsp-copilot
+** TODO Try lsp-proxy
+https://github.com/jadestrong/lsp-proxy
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
