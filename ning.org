@@ -179,9 +179,9 @@ DEADLINE: <2026-01-01 Thu>
 ** TODO 名侦探柯南：黑铁的鱼影
 ** TODO 如梦之梦（话剧）
 ** DONE 半之半
-* Present [10/14]
+* Present [11/15]
 ** TODO 人体工学椅
-** TODO 戒指
+** TODO Jellycat 椒盐卷饼包包
 ** TODO LOEWE Cubi
 ** TODO 红色围巾
 ** KILL 香奈儿墨镜
@@ -192,6 +192,7 @@ CLOSED: [2023-09-30 Sat 13:17] SCHEDULED: <2023-09-22 Fri>
 - State "KILL"       from "TODO"       [2023-09-30 Sat 13:17]
 ** KILL 周年纪念网站
 SCHEDULED: <2023-05-08 Mon> DEADLINE: <2023-05-30 Tue>
+** DONE 戒指
 ** DONE 北面 冲锋衣（韩版）
 ** DONE 教学用麦克风
 SCHEDULED: <2023-09-19 Tue>
