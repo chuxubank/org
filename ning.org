@@ -30,8 +30,11 @@ SCHEDULED: <2025-03-22 Sat>
 **** TODO 选片
 **** TODO 邮寄
 *** TODO 绣合
+SCHEDULED: <2025-03-09 Sun>
 *** TODO 布置
+SCHEDULED: <2025-03-10 Mon>
 *** TODO 流程
+SCHEDULED: <2025-03-11 Tue>
 *** KILL 婚车
 *** TODO 男士服装 [3/5]
 SCHEDULED: <2025-02-23 Sun>
@@ -40,8 +43,9 @@ SCHEDULED: <2025-02-23 Sun>
 - [ ] 皮鞋
 - [X] 衬衫
 - [X] 大衣
-*** TODO 女士服装 [1/1]
+*** TODO 女士服装 [1/2]
 - [X] 婚纱
+- [ ] Jimmy Choo
 *** TODO 买车
 DEADLINE: <2025-04-15 Tue>
 *** TODO 四大金刚
