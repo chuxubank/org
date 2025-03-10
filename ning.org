@@ -1,7 +1,7 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 * Inbox [2/3]
-** TODO 婚礼筹备 [4/12]
+** TODO 婚礼筹备 [4/13]
 DEADLINE: <2025-05-01 Thu>
 *** TODO 婚纱照 [0/3]
 SCHEDULED: <2025-02-23 Sun>
@@ -29,23 +29,24 @@ SCHEDULED: <2025-03-22 Sat>
 5.关于鞋子:男士 40-44 哦，如果咱们平常穿的是特殊尺码  建议咱们自己准备
 **** TODO 选片
 **** TODO 邮寄
-*** TODO 绣合
-SCHEDULED: <2025-03-09 Sun>
+*** TODO 拿绣合
+SCHEDULED: <2025-05-01 Thu>
 *** TODO 布置
 SCHEDULED: <2025-03-10 Mon>
 *** TODO 流程
 SCHEDULED: <2025-03-11 Tue>
 *** KILL 婚车
-*** TODO 男士服装 [3/5]
+*** TODO 男士服装 [4/5]
 SCHEDULED: <2025-02-23 Sun>
 - [X] 西装
-- [ ] 领带
+- [X] 领带
 - [ ] 皮鞋
 - [X] 衬衫
 - [X] 大衣
 *** TODO 女士服装 [1/2]
-- [X] 婚纱
 - [ ] Jimmy Choo
+**** TODO 拿婚纱
+SCHEDULED: <2025-05-01 Thu>
 *** TODO 买车
 DEADLINE: <2025-04-15 Tue>
 *** TODO 四大金刚
