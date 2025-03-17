@@ -2,31 +2,31 @@
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
 * TODO 婚纱照信息 :crypt:
-先生姓名：褚旭     身份证号：
-女孩姓名：朱宁婕   身份证号：
-1、男生身高: 176cm 体重：82kg   鞋码： 43 码    星座: 白羊
-2、女孩身高: 165cm 体重：68kg   鞋码： 39 码    星座: 双子
-5、女孩是否怀孕（必填）（月数）：否
-6、女孩是否在生理期（必填）：否
-7、男生女孩是否会有晕车症状（必填）：否
-8、男生女孩是否对紫外线过敏（必填）：否
-9、男生女孩是否有皮肤过敏状况（必填）：轻微（女生皮肤有点敏感）
-10、分享恋爱过程中的小故事或是生活有意义的印象深刻的事情（选填）：
-当男生下班的时候她突然闪现到楼下咖啡店。
-男生生日的时候女生亲手做了生日蛋糕。
-男生随口一提的东西变成了礼物。
-11、喜欢大场景构图还是突现人物多一点：
-人物
-12、喜欢静态还是动态：
-动态
-13、平时喜欢听的音乐与歌手：
-五月天
-周杰伦
-14、带着 3-4 名工作人员往返外景出行方式（打车/租车/自驾）（必填）：
-自驾
-15；婚礼日期
-2025-05-02
-需要您提供 1-3 张两人生活照 后续给老师做五官脸型气质参考哈（必填）
+-----BEGIN PGP MESSAGE-----
+
+hF4DeAnNi+D7LJYSAQdARZsUhG7Y1H4r1gCtgdk5OLMqDiBkZR4aCcKbWi7cXksw
+jnXi0NG+9mv9ao55PI4zDc6dhJbnRN6UiiSbHebxbKkPwL1KjJVeAZdJiXLqZK+w
+hF4DHAI7aRBNu2ISAQdAqleVkp36e01ko/bCPayO+ySIMy/P8ItdpeQquI/clT0w
+0OtVU9RzyWI1kXCvEPlz+2PxiRoYAo6O87PbUVKm3UMVARcxJAtUTqrcbboCfexW
+1OkBCQIQLGSJit6jil3fet3EbB7Vmt4X2y2ymnmtDcvgJ+yFWCWyMCjrYJyLdWN+
+LSPxruMLMR6sRZ2mXuZN/slJE0xzdfoD6CXlASrSsKbu3+af/8qLTzk6HX3CdB0M
+bPDZk2MOlypyVTA5xFGncLo3qDzJ1o3oqDrhNdChMxaNj1pNRGCnimXl7Cf5/CpU
+usrsDf1ano4SvtlvIl7WV6Ki6Mi8LB+9eOZhtJ/3FaGcX3QpQXU6uBp18e/mtL4e
+xHb41mwzH0i+zfYQAZrjDibmfpIQxmcdWsQRef/tf7BDOfeKQyGhVZEJgk8uPFz9
+jG7V3ApzBznn2bLZhGPLfpgA9Lnd2/TQoRfcUnLriAGGLpedrewjuOI7KDy3dSkC
++4G7i68bBG+PupQo+hyceJ/BjdLW4cpQl4dAyjWkJ9xESKaZblTre22Jocqz96pB
+yxHi7qC6C/kwt9FqZyyi3IRuqws9PzxQV+JJI1uVSwXa1EXg1hZiH2vlpy0/mBSv
+3QNifo7DlKSUdTrVdIcddUkBBbUoUav5Yi/eEnG088t7DjqlPyyILbtWt5vPQfIf
+mJb/mAL9xyxM+a0wuOrTe8EAgHPPaEjUjbHomV/dXeLeaMuNlu3SCWFHB5S88wh8
+D6UIT/HYeXfsMUsOzV3gvmv7VcI6SSyokbblUZYWGZ8ra8Bei+Rmy04g2G400MAK
+nHvFgUzTUNVpTjj8+HQUwPLdxayUlA3VP/CPJRUhBqlGfAeUshiqJTN+C9WAOl+x
+3Ck6BbQxD4IfRPwOg99IB5FYdVCihbMP745i13QOREMAXE1yhEaLblK9pfeMwnMO
+bvVkLX5PUEj127CV8owg6gO5doEsgMEg0OS806KPEYTFIWINphtJgd61dDy2TCqn
+wBuUu7LyDV0qr5m0XoZmW5yq3e5aG+FMRkStjbNFTBGor9EIbxNxW45b3Pzw0fM/
+O09DPwWjLTIqXAnhn+wg6HVu2+fu8Kg3uas+SWZEFSVrqu2EfOfQTwDcPDbenpPq
+xrBIzvpq//+dP2MfbciIm6YIgpUCbyLysrv2Ddg8cstFMg==
+=tBDR
+-----END PGP MESSAGE-----
 * TODO 特斯拉
 SCHEDULED: <2025-03-09 Sun>
 
