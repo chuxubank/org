@@ -976,7 +976,11 @@ SCHEDULED: <2025-07-18 Fri .+1y> DEADLINE: <2025-08-31 Sun .+1y>
 - State "DONE"       from "TODO"       [2024-07-18 Thu 18:40]
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
 ** TODO 车辆续保
-SCHEDULED: <2025-05-27 Tue .+1y>
+DEADLINE: <2026-03-19 Thu> SCHEDULED: <2026-02-19 Thu .+1y>
+:PROPERTIES:
+:LAST_REPEAT: [2025-03-17 Mon 15:03]
+:END:
+- State "DONE"       from "TODO"       [2025-03-17 Mon 15:03]
 ** TODO Wash Car
 SCHEDULED: <2025-03-25 Tue .+2m>
 :PROPERTIES:
