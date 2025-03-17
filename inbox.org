@@ -1,10 +1,18 @@
 #+title: Inbox
-* TODO 买阿嬷手作
-SCHEDULED: <2025-03-17 Mon>
+* DONE 买阿嬷手作
+CLOSED: [2025-03-17 Mon 18:31] SCHEDULED: <2025-03-17 Mon>
+- State "DONE"       from "TODO"       [2025-03-17 Mon 18:31]
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
-* DONE 特斯拉试驾
+* TODO 特斯拉
 SCHEDULED: <2025-03-09 Sun>
+
+** DONE 试驾
+SCHEDULED: <2025-03-09 Sun>
+- State "TODO"       from "DONE"       [2025-03-17 Mon 18:30]
+
+** TODO 购买充电桩
+SCHEDULED: <2025-03-18 Tue>
 * TODO 洗胶片
 SCHEDULED: <2025-03-02 Sun>
 
