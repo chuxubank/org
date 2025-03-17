@@ -36,6 +36,10 @@ SCHEDULED: <2025-03-09 Sun>
 
 ** TODO 购买充电桩
 SCHEDULED: <2025-03-18 Tue>
+
+** TODO 了解上牌流程
+SCHEDULED: <2025-03-18 Tue>
+
 * TODO 洗胶片
 SCHEDULED: <2025-03-02 Sun>
 
