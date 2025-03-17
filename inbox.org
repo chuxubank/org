@@ -1,7 +1,7 @@
 #+title: Inbox
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
-* TODO :crypt:
+* TODO 婚纱照信息 :crypt:
 先生姓名：褚旭     身份证号：
 女孩姓名：朱宁婕   身份证号：
 1、男生身高: 176cm 体重：82kg   鞋码： 43 码    星座: 白羊
