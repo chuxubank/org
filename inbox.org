@@ -34,6 +34,9 @@ SCHEDULED: <2025-03-09 Sun>
 SCHEDULED: <2025-03-09 Sun>
 - State "TODO"       from "DONE"       [2025-03-17 Mon 18:30]
 
+** TODO 电表安装时间确认
+SCHEDULED: <2025-03-18 Tue>
+
 ** TODO 购买充电桩
 SCHEDULED: <2025-03-18 Tue>
 
