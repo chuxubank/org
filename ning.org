@@ -3,7 +3,7 @@
 * Inbox [2/3]
 ** TODO 婚礼筹备 [4/13]
 DEADLINE: <2025-05-01 Thu>
-*** TODO 婚纱照 [0/4]
+*** TODO 婚纱照 [0/6]
 SCHEDULED: <2025-02-23 Sun>
 **** TODO 拍摄
 SCHEDULED: <2025-03-22 Sat>
@@ -28,6 +28,10 @@ SCHEDULED: <2025-03-22 Sat>
 4.男士中筒的袜子（黑白各一双）
 5.关于鞋子:男士 40-44 哦，如果咱们平常穿的是特殊尺码  建议咱们自己准备
 **** TODO 隐形眼镜
+SCHEDULED: <2025-03-20 Thu>
+**** TODO 眼镜架
+SCHEDULED: <2025-03-20 Thu>
+**** TODO 白色黑色袜子
 SCHEDULED: <2025-03-20 Thu>
 **** TODO 选片
 **** TODO 邮寄
