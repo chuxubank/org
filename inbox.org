@@ -40,7 +40,7 @@ SCHEDULED: <2025-03-18 Tue>
 ** DONE 了解上牌流程
 SCHEDULED: <2025-03-18 Tue>
 
-** TODO 购买充电桩
+** DONE 购买充电桩
 SCHEDULED: <2025-03-20 Thu>
 
 * TODO 洗胶片
