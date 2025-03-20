@@ -28,7 +28,7 @@ SCHEDULED: <2025-03-22 Sat>
 4.男士中筒的袜子（黑白各一双）
 5.关于鞋子:男士 40-44 哦，如果咱们平常穿的是特殊尺码  建议咱们自己准备
 **** TODO 隐形眼镜
-SCHEDULED: <2025-03-11 Tue>
+SCHEDULED: <2025-03-20 Thu>
 **** TODO 选片
 **** TODO 邮寄
 *** TODO 拿绣合
@@ -39,7 +39,7 @@ SCHEDULED: <2025-03-20 Thu>
 SCHEDULED: <2025-03-20 Thu>
 *** KILL 婚车
 *** TODO 男士服装 [4/5]
-SCHEDULED: <2025-02-23 Sun>
+SCHEDULED: <2025-03-23 Sun>
 - [X] 西装
 - [X] 领带
 - [ ] 皮鞋
