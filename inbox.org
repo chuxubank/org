@@ -1,7 +1,7 @@
 #+title: Inbox
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
-* TODO 特斯拉
+* DONE 特斯拉
 SCHEDULED: <2025-03-09 Sun>
 
 ** DONE 试驾
