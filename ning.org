@@ -56,10 +56,16 @@ SCHEDULED: <2025-05-01 Thu>
 *** TODO 买车
 DEADLINE: <2025-04-15 Tue>
 *** TODO 四大金刚
-- [ ] 摄影
-- [ ] 摄像
-- [ ] 主持(自己)
-- [X] 跟妆
+**** TODO 摄影
+SCHEDULED: <2025-03-20 Thu>
+CaiRuiKa
+**** TODO 摄像
+SCHEDULED: <2025-03-23 Sun>
+未竟
+**** TODO 主持(自己)
+SCHEDULED: <2025-04-01 Tue>
+**** DONE 跟妆
+大雪
 *** DONE 购买手链
 SCHEDULED: <2025-01-15 Wed>
 **** DONE 预订 VCA
