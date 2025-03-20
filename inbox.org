@@ -104,7 +104,7 @@ SCHEDULED: <2025-02-17 Mon>
 #+end_src
 * TODO 婚礼筹备 [4/13]
 DEADLINE: <2025-05-01 Thu>
-** TODO 婚纱照 [0/6]
+** TODO 婚纱照 [0/8]
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 拍摄
 SCHEDULED: <2025-03-22 Sat>
@@ -136,6 +136,8 @@ SCHEDULED: <2025-03-20 Thu>
 SCHEDULED: <2025-03-20 Thu>
 *** TODO 选片
 *** TODO 邮寄
+*** TODO 拿西装
+SCHEDULED: <2025-03-21 Fri>
 *** TODO 婚纱照信息 :crypt:
 -----BEGIN PGP MESSAGE-----
 
@@ -166,6 +168,7 @@ xrBIzvpq//+dP2MfbciIm6YIgpUCbyLysrv2Ddg8cstFMg==
 SCHEDULED: <2025-05-01 Thu>
 ** TODO 布置
 SCHEDULED: <2025-03-20 Thu>
+
 ** TODO 流程
 SCHEDULED: <2025-03-20 Thu>
 ** KILL 婚车
