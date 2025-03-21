@@ -59,14 +59,15 @@ SCHEDULED: <2018-04-06 Fri>
 以 [[明日之杖]] 为蓝本的精神续作
 ** DONE 葬送的芙莉莲
 ** DONE 怪兽 8 号
-* 电影 [1/6]
-** DONE 寻枪
-CLOSED: [2025-01-18 Sat 10:27]
-- State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
+* 电影 [2/7]
 ** TODO 猫鼠游戏
 ** TODO Don't Look Up
 ** TODO 低俗小说
 ** TODO 周处除三害
+** TODO 银翼杀手
+** DONE 寻枪
+CLOSED: [2025-01-18 Sat 10:27]
+- State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
 ** DONE 华尔街之狼
 * 电视 [1/4]
 ** TODO 请回答 1988
