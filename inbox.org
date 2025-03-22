@@ -166,6 +166,8 @@ O09DPwWjLTIqXAnhn+wg6HVu2+fu8Kg3uas+SWZEFSVrqu2EfOfQTwDcPDbenpPq
 xrBIzvpq//+dP2MfbciIm6YIgpUCbyLysrv2Ddg8cstFMg==
 =tBDR
 -----END PGP MESSAGE-----
+
+** TODO 誓词
 ** TODO 拿绣合
 SCHEDULED: <2025-05-01 Thu>
 ** TODO 布置
