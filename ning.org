@@ -1,13 +1,13 @@
 #+TITLE: Ning
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
-* Inbox [3/3]
+* Inbox [4/4]
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 ** DONE 名字贴
 DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
 ** DONE 打印资料
 SCHEDULED: <2025-03-20 Thu>
-** TODO 下载音乐
+** DONE 下载音乐
 SCHEDULED: <2025-03-24 Mon>
 * Notes
 ** Favorite
