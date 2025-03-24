@@ -108,7 +108,7 @@ DEADLINE: <2025-05-01 Thu>
 ** TODO 婚纱照 [6/8]
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 选片
-SCHEDULED: <2025-03-23 Sun>
+SCHEDULED: <2025-03-27 Thu>
 *** TODO 邮寄
 *** DONE 婚纱照信息 :crypt:
 -----BEGIN PGP MESSAGE-----
