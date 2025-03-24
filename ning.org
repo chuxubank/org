@@ -7,6 +7,8 @@ DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
 DEADLINE: <2025-02-11 Tue> SCHEDULED: <2025-02-10 Mon>
 ** DONE 打印资料
 SCHEDULED: <2025-03-20 Thu>
+** TODO 下载音乐
+SCHEDULED: <2025-03-24 Mon>
 * Notes
 ** Favorite
 *** 颜色
