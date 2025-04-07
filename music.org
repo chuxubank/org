@@ -33,7 +33,7 @@ SCHEDULED: <2021-09-03 Fri .+0w/2w>
 - State "DONE"       from "TODO"       [2020-04-13 Mon 06:59]
 * Project
 ** HOLD 制作 wowaka 印象曲
-SCHEDULED: <2025-06-01 Sun> DEADLINE: <2025-04-01 Tue>
+DEADLINE: <2026-04-01 Wed>
 ** PROJ VOCALOID all legend song -> guitar
 ** PROJ 一首歌中混杂多位 P 主风格
 ** PROJ 灵笼 MAD
