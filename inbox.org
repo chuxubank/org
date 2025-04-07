@@ -107,7 +107,7 @@ SCHEDULED: <2025-02-17 Mon>
       plutil -create binary1 $TMPFILE
   fi
 #+end_src
-* TODO 婚礼筹备 [4/14]
+* TODO 婚礼筹备 [4/13]
 DEADLINE: <2025-05-01 Thu>
 ** TODO 婚纱照 [6/8]
 SCHEDULED: <2025-02-23 Sun>
@@ -190,8 +190,6 @@ SCHEDULED: <2025-03-23 Sun>
 - [ ] Jimmy Choo
 *** TODO 拿婚纱
 SCHEDULED: <2025-05-01 Thu>
-** TODO 买车
-DEADLINE: <2025-04-15 Tue>
 ** TODO 四大金刚
 *** TODO 摄影
 SCHEDULED: <2025-03-20 Thu>
