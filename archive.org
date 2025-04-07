@@ -1948,6 +1948,66 @@ CLOSED: [2025-03-27 Thu 22:00] SCHEDULED: <2025-03-27 Thu>
 :ARCHIVE_TODO: DONE
 :END:
 - State "DONE"       from "TODO"       [2025-03-27 Thu 22:00]
+
+** KILL 婚车
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-07 Mon 13:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 婚礼筹备
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+
+** DONE 购买手链
+SCHEDULED: <2025-01-15 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-07 Mon 13:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 婚礼筹备
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 预订 VCA
+SCHEDULED: <2024-10-25 Fri>
+
+** DONE 求婚
+SCHEDULED: <2025-02-08 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-07 Mon 13:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 婚礼筹备
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 买钻戒
+CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
+- State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
+*** 求婚词
+亲爱的朱老师, 1350 天前, 我鼓起勇气向你表白，我们的故事也迎来了新的篇章。
+你是温柔而坚定的语文老师，而我是理性的程序员，但你的包容和命运的安排让我们走到了一起。
+我们度过了五年的友情时光，携手走过四年的恋爱旅程，去过济州岛看海风吹拂，在香港漫步于街头巷尾，每一段旅程都是和你最珍贵的回忆。
+和你在一起的日子里，我也逐渐变得开朗起来，你就像冬日里的暖阳，让
+在接下来的日子里，我愿意用余生去爱你，去守护你，去和你一起迎接每一个清晨，分享每一顿饭，一起面对生活的酸甜苦辣和喜怒哀乐。
+我爱你，宁宁，你愿意嫁给我吗？
+
+** DONE 领证 [2/2]
+SCHEDULED: <2025-02-12 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-07 Mon 13:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 婚礼筹备
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 跟拍
+*** DONE 物品 [7/7]
+- [X] 头纱
+- [X] 泡泡机
+- [X] 透明雨伞
+- [X] 手捧花
+- [X] 结婚横幅
+- [X] 大喜字
+- [X] 红色大气球
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
