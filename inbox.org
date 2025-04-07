@@ -32,8 +32,6 @@ https://bandwagonhost.com/services
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
 https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
 https://openwrt.org/docs/guide-user/additional-software/opkg
-* KILL iapm 兑换
-SCHEDULED: <2025-03-01 Sat 10:00>
 * TODO Conventions
 - https://keepachangelog.com/
 - https://semver.org/
