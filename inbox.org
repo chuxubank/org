@@ -109,13 +109,14 @@ SCHEDULED: <2025-03-20 Thu>
 *** DONE 西装
 *** DONE 领带
 *** TODO 皮鞋
-SCHEDULED: <2025-03-23 Sun>
+SCHEDULED: <2025-04-13 Sun>
 *** TODO 拿西服
 SCHEDULED: <2025-05-01 Thu>
 *** DONE 衬衫
 *** DONE 大衣
 ** TODO 女士服装 [1/2]
-- [ ] Jimmy Choo
+*** TODO Jimmy Choo
+SCHEDULED: <2025-04-13 Sun>
 *** TODO 拿婚纱
 SCHEDULED: <2025-05-01 Thu>
 ** TODO 四大金刚
