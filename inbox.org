@@ -92,9 +92,12 @@ SCHEDULED: <2025-02-23 Sun>
 *** TODO 邮寄海报
 ** TODO 誓词
 ** TODO 伴手礼
+SCHEDULED: <2025-04-09 Wed>
 柴米油盐酱醋茶
 ** TODO 套圈礼品
+SCHEDULED: <2025-04-09 Wed>
 ** TODO 上台演出礼品
+SCHEDULED: <2025-04-09 Wed>
 ** TODO 拿绣合
 SCHEDULED: <2025-05-01 Thu>
 ** TODO 布置
