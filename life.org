@@ -18,7 +18,7 @@ SCHEDULED: <2025-03-28 Fri .+2d>
 * TODO 陈香贵积分兑换
 DEADLINE: <2025-12-31 Wed ++1y> SCHEDULED: <2025-12-01 Mon ++1y>
 * TODO Cut nails
-SCHEDULED: <2025-04-01 Tue .+6d/9d>
+SCHEDULED: <2025-04-09 Wed 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2025-03-26 Wed 07:19]
@@ -530,11 +530,12 @@ SCHEDULED: <2025-03-27 Thu .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2025-03-27 Thu 07:15 .+4d/6d>
+SCHEDULED: <2025-04-13 Sun 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-03-23 Sun 00:59]
+:LAST_REPEAT: [2025-04-09 Wed 11:29]
 :END:
+- State "DONE"       from "TODO"       [2025-04-09 Wed 11:29]
 - State "DONE"       from "TODO"       [2025-03-23 Sun 00:59]
 - State "DONE"       from "TODO"       [2025-03-13 Thu 09:04]
 - State "DONE"       from "TODO"       [2025-03-05 Wed 21:06]
