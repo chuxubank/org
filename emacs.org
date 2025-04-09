@@ -11,6 +11,7 @@ https://github.com/jadestrong/lsp-proxy
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
+https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 ** TODO scrcpy for Emacs
 ** TODO Make image scroll smooth
 https://github.com/casouri/iscroll
