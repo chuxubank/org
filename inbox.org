@@ -90,22 +90,28 @@ DEADLINE: <2025-05-01 Thu>
 ** TODO 婚纱照 [0/1]
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 邮寄海报
-** TODO 新郎新娘发言稿誓词
-** TODO 婚礼前准备
-** TODO 婚礼当天活动
-*** TODO 人员安排
-*** TODO 套圈礼品
-SCHEDULED: <2025-04-09 Wed>
 ** TODO 伴手礼
 SCHEDULED: <2025-04-10 Thu>
 柴米油盐酱醋茶
 ** TODO 上台演出礼品
 SCHEDULED: <2025-04-09 Wed>
-** TODO 拿绣合
+** TODO 服装
+*** TODO 拿绣合
 SCHEDULED: <2025-05-01 Thu>
-** TODO 婚礼现场物品
-*** TODO 胸花
-*** TODO 手捧花
+*** TODO 男士服装 [4/6]
+**** DONE 西装
+**** DONE 领带
+**** TODO 皮鞋
+SCHEDULED: <2025-04-13 Sun>
+**** TODO 拿西服
+SCHEDULED: <2025-05-01 Thu>
+**** DONE 衬衫
+**** DONE 大衣
+*** TODO 女士服装 [1/2]
+**** TODO Jimmy Choo
+SCHEDULED: <2025-04-13 Sun>
+**** TODO 拿婚纱
+SCHEDULED: <2025-05-01 Thu>
 ** TODO 家庭布置
 SCHEDULED: <2025-04-27 Sun>
 ** TODO 伴郎安排
@@ -114,20 +120,14 @@ SCHEDULED: <2025-04-01 Tue>
 SCHEDULED: <2025-04-13 Sun>
 ** TODO 流程
 SCHEDULED: <2025-03-20 Thu>
-** TODO 男士服装 [4/6]
-*** DONE 西装
-*** DONE 领带
-*** TODO 皮鞋
-SCHEDULED: <2025-04-13 Sun>
-*** TODO 拿西服
-SCHEDULED: <2025-05-01 Thu>
-*** DONE 衬衫
-*** DONE 大衣
-** TODO 女士服装 [1/2]
-*** TODO Jimmy Choo
-SCHEDULED: <2025-04-13 Sun>
-*** TODO 拿婚纱
-SCHEDULED: <2025-05-01 Thu>
+** TODO 婚礼当天活动
+*** TODO 人员安排
+*** TODO 套圈礼品
+SCHEDULED: <2025-04-09 Wed>
+** TODO 婚礼现场物品
+*** TODO 胸花（5个）
+*** TODO 手捧花
+** TODO 新郎新娘发言稿誓词
 ** TODO 四大金刚
 *** TODO 摄影
 SCHEDULED: <2025-04-11 Fri 20:00>
