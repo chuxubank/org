@@ -96,9 +96,7 @@ SCHEDULED: <2025-04-10 Thu>
 ** TODO 上台演出礼品
 SCHEDULED: <2025-04-09 Wed>
 ** TODO 服装
-*** TODO 拿绣合
-SCHEDULED: <2025-05-01 Thu>
-**** TODO 放一套到朱老师家
+*** TODO 拿绣合（放一套到朱老师家）
 SCHEDULED: <2025-05-01 Thu>
 *** TODO 男士服装 [4/6]
 **** DONE 西装
