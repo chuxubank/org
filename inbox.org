@@ -90,11 +90,20 @@ DEADLINE: <2025-05-01 Thu>
 ** TODO 婚纱照 [0/1]
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 邮寄海报
+DEADLINE: <2025-04-20 Sun>
+** TODO 流程
+SCHEDULED: <2025-03-20 Thu>
+** TODO 伴郎安排
+SCHEDULED: <2025-04-01 Tue>
+*** TODO 西服确认
+SCHEDULED: <2025-04-13 Sun>
+** TODO 上台演出礼品
+SCHEDULED: <2025-04-09 Wed>
 ** TODO 伴手礼
 SCHEDULED: <2025-04-10 Thu>
 柴米油盐酱醋茶
-** TODO 上台演出礼品
-SCHEDULED: <2025-04-09 Wed>
+** TODO 场地布置
+SCHEDULED: <2025-04-11 Fri 20:00>
 ** TODO 服装
 *** TODO 拿绣合（放一套到朱老师家）
 SCHEDULED: <2025-05-01 Thu>
@@ -112,14 +121,6 @@ SCHEDULED: <2025-05-01 Thu>
 SCHEDULED: <2025-04-13 Sun>
 **** TODO 拿婚纱
 SCHEDULED: <2025-05-01 Thu>
-** TODO 家庭布置
-SCHEDULED: <2025-04-27 Sun>
-** TODO 伴郎安排
-SCHEDULED: <2025-04-01 Tue>
-*** TODO 西服确认
-SCHEDULED: <2025-04-13 Sun>
-** TODO 流程
-SCHEDULED: <2025-03-20 Thu>
 ** TODO 婚礼当天活动
 *** TODO 人员安排
 *** TODO 套圈礼品
@@ -140,5 +141,5 @@ SCHEDULED: <2025-03-23 Sun>
 未竟
 *** DONE 跟妆
 大雪
-** TODO 场地布置
-SCHEDULED: <2025-04-11 Fri 20:00>
+** TODO 家庭布置
+SCHEDULED: <2025-04-27 Sun>
