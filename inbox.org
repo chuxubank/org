@@ -92,6 +92,7 @@ DEADLINE: <2025-05-01 Thu>
 SCHEDULED: <2025-02-23 Sun>
 *** TODO 邮寄海报
 DEADLINE: <2025-04-20 Sun>
+北遇映画 盈盈
 ** TODO 流程
 SCHEDULED: <2025-03-20 Thu>
 ** DONE 伴郎安排
