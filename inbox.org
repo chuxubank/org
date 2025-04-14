@@ -98,12 +98,16 @@ SCHEDULED: <2025-03-20 Thu>
 :PROPERTIES:
 :PT_All:   妆造 摄影 摄像 主持 场布 新娘 新郎
 :END:
-*** 化妆师到场
-SCHEDULED: <2025-05-02 Fri 07:00>
+*** 女方化妆
+DEADLINE: <2025-05-02 Fri 10:00> SCHEDULED: <2025-05-02 Fri 07:00>
 :PROPERTIES:
 :PT:       妆造 新娘
 :END:
-*** 
+*** 男方化妆
+DEADLINE: <2025-05-02 Fri 10:00> SCHEDULED: <2025-05-02 Fri 07:00>
+:PROPERTIES:
+:PT:       妆造 新郎
+:END:
 ** DONE 伴郎安排
 SCHEDULED: <2025-04-01 Tue>
 *** DONE 西服确认
