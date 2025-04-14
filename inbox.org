@@ -101,7 +101,7 @@ SCHEDULED: <2025-03-20 Thu>
 *** 化妆师到场
 SCHEDULED: <2025-05-02 Fri 07:00>
 :PROPERTIES:
-:PT:       妆造
+:PT:       妆造 新娘
 :END:
 *** 
 ** DONE 伴郎安排
