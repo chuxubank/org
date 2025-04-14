@@ -108,10 +108,10 @@ SCHEDULED: <2025-04-11 Fri 20:00>
 ** TODO 服装
 *** TODO 拿绣合（放一套到朱老师家）
 SCHEDULED: <2025-05-01 Thu>
-*** TODO 男士服装 [4/6]
+*** TODO 男士服装 [5/6]
 **** DONE 西装
 **** DONE 领带
-**** TODO 皮鞋
+**** DONE 皮鞋
 SCHEDULED: <2025-04-13 Sun>
 **** TODO 拿西服
 SCHEDULED: <2025-05-01 Thu>
