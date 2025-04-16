@@ -11,77 +11,77 @@ SCHEDULED: <2025-05-02 Fri 07:00>
 *** 新娘开始化妆、造型
 SCHEDULED: <2025-05-02 Fri 07:10>
 *** 摄影摄像团队到达新娘家
-    SCHEDULED: <2025-05-02 Fri 07:15>
+SCHEDULED: <2025-05-02 Fri 07:15>
 *** 新娘家布置、接亲小游戏准备
-    SCHEDULED: <2025-05-02 Fri 07:30>
+SCHEDULED: <2025-05-02 Fri 07:30>
 
 ** 新郎出发迎亲（吉时：07:00-09:00 内完成）
 *** 新郎起床、穿礼服
-    SCHEDULED: <2025-05-02 Fri 07:30>
+SCHEDULED: <2025-05-02 Fri 07:30>
 *** 四大金刚到新郎家集合
-    SCHEDULED: <2025-05-02 Fri 07:45>
+SCHEDULED: <2025-05-02 Fri 07:45>
 *** 迎亲车队集合完毕
-    SCHEDULED: <2025-05-02 Fri 08:00>
+SCHEDULED: <2025-05-02 Fri 08:00>
 *** 新郎出发前往新娘家
-    SCHEDULED: <2025-05-02 Fri 08:10>
+SCHEDULED: <2025-05-02 Fri 08:10>
 *** 到达新娘家，开始接亲游戏
-    SCHEDULED: <2025-05-02 Fri 08:30>
+SCHEDULED: <2025-05-02 Fri 08:30>
 *** 找鞋、塞红包等互动
-    SCHEDULED: <2025-05-02 Fri 08:40>
+SCHEDULED: <2025-05-02 Fri 08:40>
 *** 新娘出门仪式、与父母道别
-    SCHEDULED: <2025-05-02 Fri 09:00>
+SCHEDULED: <2025-05-02 Fri 09:00>
 *** 出发返回新郎家
-    SCHEDULED: <2025-05-02 Fri 09:10>
+SCHEDULED: <2025-05-02 Fri 09:10>
 
 ** 回门仪式 & 敬茶
 *** 抵达新郎家
-    SCHEDULED: <2025-05-02 Fri 09:30>
+SCHEDULED: <2025-05-02 Fri 09:30>
 *** 新娘进门仪式（跨火盆、撒米等）
-    SCHEDULED: <2025-05-02 Fri 09:40>
+SCHEDULED: <2025-05-02 Fri 09:40>
 *** 敬茶给新郎父母
-    SCHEDULED: <2025-05-02 Fri 10:00>
+SCHEDULED: <2025-05-02 Fri 10:00>
 *** 合影留念、寒暄
-    SCHEDULED: <2025-05-02 Fri 10:20>
+SCHEDULED: <2025-05-02 Fri 10:20>
 *** 简单用餐 / 休息
-    SCHEDULED: <2025-05-02 Fri 10:40>
+SCHEDULED: <2025-05-02 Fri 10:40>
 
 ** 前往酒店 & 彩排
 *** 新人换装、准备出发
-    SCHEDULED: <2025-05-02 Fri 12:00>
+SCHEDULED: <2025-05-02 Fri 12:00>
 *** 前往酒店草坪婚礼现场
-    SCHEDULED: <2025-05-02 Fri 12:30>
+SCHEDULED: <2025-05-02 Fri 12:30>
 *** 到达酒店，布置确认
-    SCHEDULED: <2025-05-02 Fri 13:00>
+SCHEDULED: <2025-05-02 Fri 13:00>
 *** 草坪婚礼仪式彩排 & 流程对接
-    SCHEDULED: <2025-05-02 Fri 13:30>
+SCHEDULED: <2025-05-02 Fri 13:30>
 *** 新人补妆 & 拍预热视频/合影
-    SCHEDULED: <2025-05-02 Fri 14:30>
+SCHEDULED: <2025-05-02 Fri 14:30>
 *** 宾客入场、签到开始
-    SCHEDULED: <2025-05-02 Fri 15:30>
+SCHEDULED: <2025-05-02 Fri 15:30>
 
 ** 草坪婚礼正式开始（吉时：16:08）
 *** 草坪仪式正式开始
-    SCHEDULED: <2025-05-02 Fri 16:08>
+SCHEDULED: <2025-05-02 Fri 16:08>
 *** 证婚人致辞、交换戒指、誓言
-    SCHEDULED: <2025-05-02 Fri 16:20>
+SCHEDULED: <2025-05-02 Fri 16:20>
 *** 倒香槟塔、切蛋糕
-    SCHEDULED: <2025-05-02 Fri 16:40>
+SCHEDULED: <2025-05-02 Fri 16:40>
 *** 结束仪式，自由拍照 & 宾客互动
-    SCHEDULED: <2025-05-02 Fri 17:00>
+SCHEDULED: <2025-05-02 Fri 17:00>
 
 ** 晚宴 & 结束
 *** 晚宴厅布置完成、宾客移步入席
-    SCHEDULED: <2025-05-02 Fri 17:30>
+SCHEDULED: <2025-05-02 Fri 17:30>
 *** 婚宴正式开始（开场视频/主持开场）
-    SCHEDULED: <2025-05-02 Fri 18:00>
+SCHEDULED: <2025-05-02 Fri 18:00>
 *** 新人敬酒（分桌进行）
-    SCHEDULED: <2025-05-02 Fri 18:30>
+SCHEDULED: <2025-05-02 Fri 18:30>
 *** 婚宴结束、送客
-    SCHEDULED: <2025-05-02 Fri 20:00>
+SCHEDULED: <2025-05-02 Fri 20:00>
 *** 与工作人员结算、物品打包
-    SCHEDULED: <2025-05-02 Fri 20:30>
+SCHEDULED: <2025-05-02 Fri 20:30>
 *** 新人回房，圆满结束
-    SCHEDULED: <2025-05-02 Fri 21:00>
+SCHEDULED: <2025-05-02 Fri 21:00>
 
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
