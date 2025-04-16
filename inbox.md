@@ -14,15 +14,10 @@
 
 ## 摄影摄像团队到达新娘家
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 07:15&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:00&gt;</span></span></p>
 
 
-## 新娘家布置、接亲小游戏准备
-
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 07:30&gt;</span></span></p>
-
-
-# 新郎出发迎亲（吉时：07:00-09:00 内完成）
+# 新郎出发迎亲
 
 
 ## 新郎起床、穿礼服
@@ -30,7 +25,7 @@
 <p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 07:30&gt;</span></span></p>
 
 
-## 四大金刚到新郎家集合
+## 摄影摄像团队到达新郎家
 
 <p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 07:45&gt;</span></span></p>
 
@@ -42,27 +37,27 @@
 
 ## 新郎出发前往新娘家
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 08:10&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 08:28&gt;</span></span></p>
 
 
 ## 到达新娘家，开始接亲游戏
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 08:30&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:30&gt;</span></span></p>
 
 
-## 找鞋、塞红包等互动
+## 敬茶给新娘父母
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 08:40&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:00&gt;</span></span></p>
 
 
 ## 新娘出门仪式、与父母道别
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:00&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:18&gt;</span></span></p>
 
 
 ## 出发返回新郎家
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:10&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:28&gt;</span></span></p>
 
 
 # 回门仪式 & 敬茶
@@ -70,27 +65,27 @@
 
 ## 抵达新郎家
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:30&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 11:30&gt;</span></span></p>
 
 
-## 新娘进门仪式（跨火盆、撒米等）
+## 新娘进门仪式
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 09:40&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 11:40&gt;</span></span></p>
 
 
 ## 敬茶给新郎父母
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:00&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 11:45&gt;</span></span></p>
 
 
-## 合影留念、寒暄
+## 合影留念、宾客寒暄
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:20&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 12:00&gt;</span></span></p>
 
 
 ## 简单用餐 / 休息
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 10:40&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 12:30&gt;</span></span></p>
 
 
 # 前往酒店 & 彩排
@@ -98,22 +93,22 @@
 
 ## 新人换装、准备出发
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 12:00&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 13:30&gt;</span></span></p>
 
 
-## 前往酒店草坪婚礼现场
+## 前往草坪婚礼现场
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 12:30&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 13:45&gt;</span></span></p>
 
 
-## 到达酒店，布置确认
+## 到达婚礼现场，布置确认
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 13:00&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 14:15&gt;</span></span></p>
 
 
 ## 草坪婚礼仪式彩排 & 流程对接
 
-<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 13:30&gt;</span></span></p>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2025-05-02 Fri 14:20&gt;</span></span></p>
 
 
 ## 新人补妆 & 拍预热视频/合影
