@@ -273,12 +273,12 @@ SCHEDULED: <2025-04-17 Thu>
 
 谢谢大家！
 ** TODO 四大金刚
-*** TODO 摄影
+*** DONE 摄影
 SCHEDULED: <2025-04-11 Fri 20:00>
 CaiRuiKa
-*** TODO 主持
+*** DONE 主持
 SCHEDULED: <2025-04-15 Tue>
-HOST 是否需要胸花
+HOST 是否需要胸花（不需要）
 *** DONE 摄像
 SCHEDULED: <2025-03-23 Sun>
 未竟
