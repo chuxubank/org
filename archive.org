@@ -2035,6 +2035,18 @@ SCHEDULED: <2025-03-20 Thu>
 CLOSED: [2025-03-27 Thu 22:00] SCHEDULED: <2025-03-27 Thu>
 - State "DONE"       from "TODO"       [2025-03-27 Thu 22:00]
 
+** DONE 婚纱照 [1/1]
+SCHEDULED: <2025-02-23 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-19 Sat 13:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 婚礼筹备
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 邮寄海报
+DEADLINE: <2025-04-20 Sun>
+北遇映画 盈盈
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
