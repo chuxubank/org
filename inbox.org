@@ -1,86 +1,5 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* Wedding Day Schedule - 2025-05-02 星期五（农历三月十五）
-  :PROPERTIES:
-  :DATE: 2025-05-02
-  :END:
-
-** 准备阶段
-*** 化妆师到达新娘家
-SCHEDULED: <2025-05-02 Fri 07:00>
-*** 新娘开始化妆、造型
-SCHEDULED: <2025-05-02 Fri 07:10>
-*** 摄影摄像团队到达新娘家
-SCHEDULED: <2025-05-02 Fri 09:00>
-
-** 新郎出发迎亲
-*** 新郎起床、穿礼服
-SCHEDULED: <2025-05-02 Fri 07:30>
-*** 摄影摄像团队到达新郎家
-SCHEDULED: <2025-05-02 Fri 07:45>
-*** 迎亲车队集合完毕
-SCHEDULED: <2025-05-02 Fri 08:00>
-*** 新郎出发前往新娘家
-SCHEDULED: <2025-05-02 Fri 08:28>
-*** 到达新娘家，开始接亲游戏
-SCHEDULED: <2025-05-02 Fri 09:30>
-*** 敬茶给新娘父母
-SCHEDULED: <2025-05-02 Fri 10:00>
-*** 新娘出门仪式、与父母道别
-SCHEDULED: <2025-05-02 Fri 10:18>
-*** 出发返回新郎家
-SCHEDULED: <2025-05-02 Fri 10:28>
-
-** 回门仪式 & 敬茶
-*** 抵达新郎家
-SCHEDULED: <2025-05-02 Fri 11:30>
-*** 新娘进门仪式
-SCHEDULED: <2025-05-02 Fri 11:40>
-*** 敬茶给新郎父母
-SCHEDULED: <2025-05-02 Fri 11:45>
-*** 合影留念、宾客寒暄
-SCHEDULED: <2025-05-02 Fri 12:00>
-*** 简单用餐 / 休息
-SCHEDULED: <2025-05-02 Fri 12:30>
-
-** 前往酒店 & 彩排
-*** 新人换装、准备出发
-SCHEDULED: <2025-05-02 Fri 13:30>
-*** 前往草坪婚礼现场
-SCHEDULED: <2025-05-02 Fri 13:45>
-*** 到达婚礼现场，布置确认
-SCHEDULED: <2025-05-02 Fri 14:15>
-*** 草坪婚礼仪式彩排 & 流程对接
-SCHEDULED: <2025-05-02 Fri 14:20>
-*** 新人补妆 & 拍预热视频/合影
-SCHEDULED: <2025-05-02 Fri 14:30>
-*** 宾客入场、签到开始
-SCHEDULED: <2025-05-02 Fri 15:30>
-
-** 草坪婚礼正式开始（吉时：16:08）
-*** 草坪仪式正式开始
-SCHEDULED: <2025-05-02 Fri 16:08>
-*** 证婚人致辞、交换戒指、誓言
-SCHEDULED: <2025-05-02 Fri 16:20>
-*** 倒香槟塔、切蛋糕
-SCHEDULED: <2025-05-02 Fri 16:40>
-*** 结束仪式，自由拍照 & 宾客互动
-SCHEDULED: <2025-05-02 Fri 17:00>
-
-** 晚宴 & 结束
-*** 晚宴厅布置完成、宾客移步入席
-SCHEDULED: <2025-05-02 Fri 17:30>
-*** 婚宴正式开始（开场视频/主持开场）
-SCHEDULED: <2025-05-02 Fri 18:00>
-*** 新人敬酒（分桌进行）
-SCHEDULED: <2025-05-02 Fri 18:30>
-*** 婚宴结束、送客
-SCHEDULED: <2025-05-02 Fri 20:00>
-*** 与工作人员结算、物品打包
-SCHEDULED: <2025-05-02 Fri 20:30>
-*** 新人回房，圆满结束
-SCHEDULED: <2025-05-02 Fri 21:00>
-
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
 * TODO 洗胶片
@@ -168,23 +87,8 @@ SCHEDULED: <2025-02-17 Mon>
       plutil -create binary1 $TMPFILE
   fi
 #+end_src
-* TODO 婚礼筹备 [2/10]
+* TODO 婚礼筹备 [2/9]
 DEADLINE: <2025-05-01 Thu>
-** TODO 流程
-SCHEDULED: <2025-03-20 Thu>
-:PROPERTIES:
-:PT_All:   妆造 摄影 摄像 主持 场布 新娘 新郎
-:END:
-*** 女方化妆
-DEADLINE: <2025-05-02 Fri 10:00> SCHEDULED: <2025-05-02 Fri 07:00>
-:PROPERTIES:
-:PT:       妆造 新娘
-:END:
-*** 男方化妆
-DEADLINE: <2025-05-02 Fri 08:00> SCHEDULED: <2025-05-02 Fri 07:00>
-:PROPERTIES:
-:PT:       妆造 新郎
-:END:
 ** DONE 人员安排
 SCHEDULED: <2025-04-01 Tue>
 *** DONE 伴郎西服确认
