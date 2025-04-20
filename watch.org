@@ -36,14 +36,6 @@ SCHEDULED: <2025-05-03 Sat>
 ** KILL 重启咲良田
 CLOSED: [2022-05-05 Thu 21:24] SCHEDULED: <2022-05-01 Sun>
 ** DONE 国王排名
-SCHEDULED: <2021-11-26 Fri 01:25 +0w>
-:PROPERTIES:
-:LAST_REPEAT: [2021-11-20 Sat 07:59]
-:END:
-- State "DONE"       from "TODO"       [2022-01-13 Thu 18:46]
-- State "DONE"       from "TODO"       [2022-01-03 Mon 08:53]
-- State "DONE"       from "TODO"       [2021-11-20 Sat 07:59]
-- State "DONE"       from "TODO"       [2021-11-06 Sat 07:44]
 [[bili:md28235154]]
 ** DONE 时光代理人
 [[bili:md28230742]]
