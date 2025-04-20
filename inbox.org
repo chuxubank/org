@@ -103,10 +103,10 @@ SCHEDULED: <2025-04-10 Thu>
 *** TODO 套圈礼品
 SCHEDULED: <2025-04-09 Wed>
 *** TODO 书签
-**** TODO 购买
-SCHEDULED: <2025-04-20 Sun>
-**** TODO 书写
+**** TODO 书写书签
 SCHEDULED: <2025-04-22 Tue>
+***** TODO 购买书签
+SCHEDULED: <2025-04-20 Sun>
 ** TODO 物品 [1/3]
 SCHEDULED: <2025-04-19 Sat>
 *** TODO 胸花（5个）
