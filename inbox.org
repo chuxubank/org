@@ -1,5 +1,39 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO Blog
+https://github.com/chuxubank/chuxubank.github.io
+SCHEDULED: <2025-02-17 Mon>
+** TODO GPG 相关密钥导出为 QR
+*** Android
+#+begin_src sh
+  gpg --import --pinentry-mode=loopback ~/storage/downloads/secret-keys.pgp
+#+end_src
+** IDEA 打印邮箱中的发票
+可以使用 mu4e 进行筛选（正则）
+然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
+然后 ~C-u mu4e-view-save-attachments~ 保存附件
+** IDEA Chezmoi manage macOS Preferences
+#+begin_src sh
+  set -e
+  TMPFILE=$(mktemp)
+  trap "cat $TMPFILE; rm $TMPFILE" EXIT
+
+  function pl() {
+      CURRENT=$(plutil -extract $1 raw $TMPFILE 2>/dev/null || :)
+      if [ "$CURRENT" != "$3" ]; then
+          plutil -replace $* "$TMPFILE"
+      fi
+  }
+
+  cat <&0 >$TMPFILE
+
+  if [ ! -s $TMPFILE ]; then
+      plutil -create binary1 $TMPFILE
+  fi
+#+end_src
+** TODO Theme
+SCHEDULED: <2025-04-21 Mon>
+Use hugo module
 * TODO Build online agenda
 SCHEDULED: <2025-04-20 Sun>
 * TODO 学习 Rust
@@ -58,37 +92,6 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
-* TODO 博客
-https://github.com/chuxubank/chuxubank.github.io
-SCHEDULED: <2025-02-17 Mon>
-** TODO GPG 相关密钥导出为 QR
-*** Android
-#+begin_src sh
-  gpg --import --pinentry-mode=loopback ~/storage/downloads/secret-keys.pgp
-#+end_src
-** IDEA 打印邮箱中的发票
-可以使用 mu4e 进行筛选（正则）
-然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
-然后 ~C-u mu4e-view-save-attachments~ 保存附件
-** IDEA Chezmoi manage macOS Preferences
-#+begin_src sh
-  set -e
-  TMPFILE=$(mktemp)
-  trap "cat $TMPFILE; rm $TMPFILE" EXIT
-
-  function pl() {
-      CURRENT=$(plutil -extract $1 raw $TMPFILE 2>/dev/null || :)
-      if [ "$CURRENT" != "$3" ]; then
-          plutil -replace $* "$TMPFILE"
-      fi
-  }
-
-  cat <&0 >$TMPFILE
-
-  if [ ! -s $TMPFILE ]; then
-      plutil -create binary1 $TMPFILE
-  fi
-#+end_src
 * TODO 婚礼筹备 [1/7]
 DEADLINE: <2025-05-01 Thu>
 ** DONE 人员安排
