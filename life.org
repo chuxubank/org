@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2025-04-20 Sun 20:10 .+2d>
+SCHEDULED: <2025-04-23 Wed 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-04-18 Fri 13:25]
+:LAST_REPEAT: [2025-04-21 Mon 16:44]
 :END:
+- State "KILL"       from "TODO"       [2025-04-21 Mon 16:44]
 - State "DONE"       from "TODO"       [2025-04-18 Fri 13:25]
 - State "DONE"       from "TODO"       [2025-04-09 Wed 22:47]
 - State "DONE"       from "TODO"       [2025-03-26 Wed 20:12]
