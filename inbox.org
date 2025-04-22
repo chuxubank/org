@@ -31,8 +31,9 @@ SCHEDULED: <2025-02-17 Mon>
       plutil -create binary1 $TMPFILE
   fi
 #+end_src
-** TODO Theme
-SCHEDULED: <2025-04-21 Mon>
+** DONE Theme
+CLOSED: [2025-04-22 Tue 14:15] SCHEDULED: <2025-04-21 Mon>
+- State "DONE"       from "TODO"       [2025-04-22 Tue 14:15]
 Use hugo module
 * TODO Build online agenda
 SCHEDULED: <2025-04-20 Sun>
