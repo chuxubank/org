@@ -35,6 +35,10 @@ SCHEDULED: <2025-02-17 Mon>
 CLOSED: [2025-04-22 Tue 14:15] SCHEDULED: <2025-04-21 Mon>
 - State "DONE"       from "TODO"       [2025-04-22 Tue 14:15]
 Use hugo module
+
+** PDF 扫描
+- Note taken on [2025-04-22 Tue 16:01] \\
+  https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 * TODO Build online agenda
 SCHEDULED: <2025-04-20 Sun>
 * TODO 学习 Rust
