@@ -40,7 +40,7 @@ Use hugo module
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 * TODO Build online agenda
-SCHEDULED: <2025-04-20 Sun>
+SCHEDULED: <2025-05-03 Sat>
 * TODO 学习 Rust
 SCHEDULED: <2025-03-15 Sat>
 * TODO 洗胶片
@@ -105,12 +105,12 @@ SCHEDULED: <2025-04-01 Tue>
 SCHEDULED: <2025-04-13 Sun>
 *** TODO 游戏人员安排
 ** TODO 礼品
-*** TODO 上台演出礼品
+*** DONE 上台演出礼品
 SCHEDULED: <2025-04-09 Wed>
 *** DONE 伴手礼
 SCHEDULED: <2025-04-10 Thu>
 柴米油盐酱醋茶
-*** TODO 套圈礼品
+*** DONE 套圈礼品
 SCHEDULED: <2025-04-09 Wed>
 *** TODO 书签
 **** TODO 书写书签
@@ -137,7 +137,7 @@ SCHEDULED: <2025-05-01 Thu>
 **** DONE 衬衫
 **** DONE 大衣
 *** TODO 女士服装 [1/2]
-**** TODO Jimmy Choo
+**** DONE Jimmy Choo
 SCHEDULED: <2025-04-13 Sun>
 **** TODO 拿婚纱
 SCHEDULED: <2025-05-01 Thu>
