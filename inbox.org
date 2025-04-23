@@ -42,7 +42,7 @@ Use hugo module
 * TODO Build online agenda
 SCHEDULED: <2025-05-03 Sat>
 * TODO 学习 Rust
-SCHEDULED: <2025-03-15 Sat>
+SCHEDULED: <2025-05-03 Sat>
 * TODO 洗胶片
 SCHEDULED: <2025-03-02 Sun>
 ** DONE 带一次性相机
