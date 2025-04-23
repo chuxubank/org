@@ -120,8 +120,10 @@ SCHEDULED: <2025-04-20 Sun>
 ** TODO 物品 [1/3]
 SCHEDULED: <2025-04-19 Sat>
 *** TODO 胸花（5个）
+SCHEDULED: <2025-04-23 Wed>
 *** TODO 手捧花
-*** DONE 腕花
+SCHEDULED: <2025-04-23 Wed>
+*** DONE 腕花（3个）
 ** TODO 服装
 *** TODO 拿绣合（放一套到朱老师家）
 SCHEDULED: <2025-05-01 Thu>
