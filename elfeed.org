@@ -40,6 +40,7 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://www.mistys-internet.website/blog/atom.xml][The Future Is Now - Misty De Méo]] :mac:
 **** [[https://antfu.me/feed.xml][antfu]] :web:
 **** [[https://onevcat.com/feed.xml][onevcat]] :ios:
+**** [[https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml][Yihong]] :health:
 **** Apple :apple:
 ***** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
 ***** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
