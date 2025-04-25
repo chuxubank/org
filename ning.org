@@ -1,5 +1,7 @@
 #+TITLE: Ning
+#+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 * Inbox [4/4]
 ** DONE 评语粘贴
 DEADLINE: <2025-01-14 Tue> SCHEDULED: <2025-01-06 Mon>
