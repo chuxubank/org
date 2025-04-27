@@ -760,10 +760,11 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** TODO 练字
-SCHEDULED: <2025-04-19 Sat ++2w>
+SCHEDULED: <2025-05-03 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2025-04-07 Mon 12:49]
+:LAST_REPEAT: [2025-04-27 Sun 09:47]
 :END:
+- State "KILL"       from "TODO"       [2025-04-27 Sun 09:47]
 - State "KILL"       from "TODO"       [2025-04-07 Mon 12:49]
 - State "KILL"       from "TODO"       [2025-03-12 Wed 21:28]
 - State "DONE"       from "TODO"       [2025-02-22 Sat 17:20]
