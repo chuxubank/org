@@ -100,20 +100,21 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
-* TODO 婚礼筹备 [1/6]
+* TODO 婚礼筹备 [1/8]
 DEADLINE: <2025-05-01 Thu>
 ** DONE 人员安排
 SCHEDULED: <2025-04-01 Tue>
-*** DONE 伴郎西服确认
-SCHEDULED: <2025-04-13 Sun>
 *** TODO 游戏人员安排
+SCHEDULED: <2025-04-27 Sun>
+** TODO 大屏幕 U 盘
+SCHEDULED: <2025-04-28 Mon>
+- [ ] 歌曲伴奏
+- [ ] 相片
+- [ ] 当日预览视频
+*** TODO 回收 U 盘
+SCHEDULED: <2025-05-02 Fri 20:00>
 ** TODO 礼品
 *** DONE 上台演出礼品
-SCHEDULED: <2025-04-09 Wed>
-*** DONE 伴手礼
-SCHEDULED: <2025-04-10 Thu>
-柴米油盐酱醋茶
-*** DONE 套圈礼品
 SCHEDULED: <2025-04-09 Wed>
 *** TODO 书签
 **** STRT 书写书签
