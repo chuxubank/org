@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 自动打开特斯拉Wi-Fi
+* KILL 自动打开特斯拉 Wi-Fi
 SCHEDULED: <2025-04-27 Sun>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
@@ -100,7 +100,7 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
-* TODO 婚礼筹备 [1/7]
+* TODO 婚礼筹备 [1/6]
 DEADLINE: <2025-05-01 Thu>
 ** DONE 人员安排
 SCHEDULED: <2025-04-01 Tue>
@@ -120,13 +120,6 @@ SCHEDULED: <2025-04-09 Wed>
 SCHEDULED: <2025-04-22 Tue>
 ***** DONE 购买书签
 SCHEDULED: <2025-04-20 Sun>
-** TODO 物品 [3/3]
-SCHEDULED: <2025-04-19 Sat>
-*** DONE 胸花（5个）
-SCHEDULED: <2025-04-23 Wed>
-*** DONE 手捧花
-SCHEDULED: <2025-04-23 Wed>
-*** DONE 腕花（3个）
 ** TODO 服装
 *** TODO 拿绣合（放一套到朱老师家）
 SCHEDULED: <2025-05-01 Thu>
