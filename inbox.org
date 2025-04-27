@@ -106,6 +106,9 @@ DEADLINE: <2025-05-01 Thu>
 SCHEDULED: <2025-04-01 Tue>
 *** TODO 游戏人员安排
 SCHEDULED: <2025-04-27 Sun>
+- [ ] 投沙包
+- [ ] 套圈
+- [ ] 扔大色子
 ** TODO 大屏幕 U 盘
 SCHEDULED: <2025-04-28 Mon>
 - [ ] 歌曲伴奏
