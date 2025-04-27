@@ -43,7 +43,7 @@ Use hugo module
 SCHEDULED: <2025-05-03 Sat>
 * TODO 学习 Rust
 SCHEDULED: <2025-05-03 Sat>
-* STRT 洗胶片
+* DONE 洗胶片
 SCHEDULED: <2025-03-02 Sun>
 ** DONE 带一次性相机
 CLOSED: [2025-02-23 Sun 11:18] SCHEDULED: <2025-02-23 Sun>
