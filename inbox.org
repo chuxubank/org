@@ -100,9 +100,9 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
-* TODO 婚礼筹备 [1/8]
+* TODO 婚礼筹备 [0/7]
 DEADLINE: <2025-05-01 Thu>
-** DONE 人员安排
+** TODO 人员安排
 SCHEDULED: <2025-04-01 Tue>
 *** TODO 游戏人员安排
 SCHEDULED: <2025-04-27 Sun>
