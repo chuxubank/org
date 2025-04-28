@@ -166,7 +166,7 @@ Use hugo module
       response.headers.delete('Content-Security-Policy');
       response.headers.delete('X-Content-Security-Policy');
     }
-    
+
     return appendJavascript(response, SLUG_TO_PAGE);
   }
 
