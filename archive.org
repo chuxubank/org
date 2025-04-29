@@ -2186,6 +2186,15 @@ SCHEDULED: <2025-03-23 Sun>
 未竟
 *** DONE 跟妆
 大雪
+
+** KILL 自动打开特斯拉 Wi-Fi
+SCHEDULED: <2025-04-27 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-29 Tue 11:39
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>

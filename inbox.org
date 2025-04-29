@@ -1,8 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* KILL 自动打开特斯拉 Wi-Fi
-SCHEDULED: <2025-04-27 Sun>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
