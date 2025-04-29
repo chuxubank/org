@@ -45,12 +45,6 @@ Use hugo module
 SCHEDULED: <2025-04-28 Mon>
 * TODO 学习 Rust
 SCHEDULED: <2025-05-03 Sat>
-* DONE 洗胶片
-SCHEDULED: <2025-03-02 Sun>
-** DONE 带一次性相机
-CLOSED: [2025-02-23 Sun 11:18] SCHEDULED: <2025-02-23 Sun>
-- State "DONE"       from "TODO"       [2025-02-23 Sun 11:18]
-
 * TODO 重构 Ansible
 SCHEDULED: <2025-02-13 Thu>
 :PROPERTIES:
