@@ -1,0 +1,21 @@
+name: Org Agenda Batch
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  emacs-batch:
+    runs-on: ubuntu-latest
+    container:
+      image: chuxubank/cat-emacs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Emacs Commands
+        run: |
+          emacs -fg-daemon -eval "(progn (global-org-modern-mode -1) (org-batch-store-agenda-views))" -kill
