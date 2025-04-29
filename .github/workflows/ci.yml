@@ -19,4 +19,4 @@ jobs:
 
       - name: Run Emacs Commands
         run: |
-          emacs -fg-daemon -f org-batch-store-agenda-views -kill
+          emacs -eval '(progn (global-org-modern-mode -1) (org-batch-store-agenda-views))' -kill
