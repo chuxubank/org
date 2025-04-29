@@ -47,7 +47,7 @@ Use hugo module
   /* CONFIGURATION STARTS HERE */
 
   /* Step 1: enter your domain name like fruitionsite.com */
-  const MY_DOMAIN = 'YOUR_DOMAIN';
+  const MY_DOMAIN = 'notion.asahiart.tech';
 
   /*
    ,* Step 2: enter your URL slug to page ID mapping
@@ -55,7 +55,7 @@ Use hugo module
    ,* The value on the right is the Notion page ID
    ,*/
   const SLUG_TO_PAGE = {
-    '': 'YOUR_SLUG_TO_PAGE',
+    'wedding-day': '1da662f60b858040bef9d928beb6d284',
   };
 
   /* Step 3: enter your page title and description for SEO purposes */
@@ -101,8 +101,8 @@ Use hugo module
 
   function handleOptions(request) {
     if (request.headers.get('Origin') !== null &&
-      request.headers.get('Access-Control-Request-Method') !== null &&
-      request.headers.get('Access-Control-Request-Headers') !== null) {
+        request.headers.get('Access-Control-Request-Method') !== null &&
+        request.headers.get('Access-Control-Request-Headers') !== null) {
       // Handle CORS pre-flight request.
       return new Response(null, {
         headers: corsHeaders
@@ -144,7 +144,7 @@ Use hugo module
         body: url.pathname.startsWith('/api/v3/getPublicPageData') ? null : request.body,
         headers: {
           'content-type': 'application/json;charset=UTF-8',
-          'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
+          'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
         },
         method: 'POST'
       });
@@ -165,7 +165,7 @@ Use hugo module
       return Response.redirect('https://' + MY_DOMAIN + '/' + pageId, 301);
     } else if ( pages.indexOf(url.pathname.slice(1)) === -1 &&
                 url.pathname.slice(1).match(/[0-9a-f]{32}/)
-    ) {
+              ) {
       return Response.redirect('https://' + MY_DOMAIN, 301);
     }
     
@@ -189,7 +189,7 @@ Use hugo module
       if (PAGE_TITLE !== '') {
         if (
           element.getAttribute('property') === 'og:title' ||
-          element.getAttribute('name') === 'twitter:title'
+            element.getAttribute('name') === 'twitter:title'
         ) {
           element.setAttribute('content', PAGE_TITLE);
         }
@@ -201,15 +201,15 @@ Use hugo module
       if (PAGE_DESCRIPTION !== '') {
         if (
           element.getAttribute('name') === 'description' ||
-          element.getAttribute('property') === 'og:description' ||
-          element.getAttribute('name') === 'twitter:description'
+            element.getAttribute('property') === 'og:description' ||
+            element.getAttribute('name') === 'twitter:description'
         ) {
           element.setAttribute('content', PAGE_DESCRIPTION);
         }
       }
       if (
         element.getAttribute('property') === 'og:url' ||
-        element.getAttribute('name') === 'twitter:url'
+          element.getAttribute('name') === 'twitter:url'
       ) {
         element.setAttribute('content', MY_DOMAIN);
       }
