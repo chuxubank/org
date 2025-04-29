@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: chuxubank/cat-emacs
+      options: --init
 
     steps:
       - name: Checkout repository
