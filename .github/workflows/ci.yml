@@ -23,4 +23,5 @@ jobs:
         run: |
           emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
-            org-agenda-files (list "${{ github.workspace }}/org/inbox.org"))'
+            org-directory "${{ github.workspace }}/org/"
+            org-agenda-files (list "${{ github.workspace }}/org/"))'
