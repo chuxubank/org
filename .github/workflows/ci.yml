@@ -22,11 +22,11 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: ls -al
+        run: ls -al; pwd
 
       - name: Run Emacs Commands
         run: |
           emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
             org-directory "${{ github.workspace }}/org/"
-            org-agenda-files (list "${{ github.workspace }}/org/"))'
+            org-agenda-files ("inbox.org"))'
