@@ -23,6 +23,10 @@ jobs:
         with:
           path: "org"
 
+      - name: Checking org version
+        run: |
+          emacs -batch -f org-version
+
       - name: Checking directory
         run: echo "$HOME"; ls -al $HOME; ls -al $HOME/Developer/Personal/org-roam
 
