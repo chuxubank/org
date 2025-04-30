@@ -24,7 +24,7 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: echo "$HOME"
+        run: ls -al $HOME
 
       - name: Run Emacs Commands
         run: |
