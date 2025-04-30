@@ -22,7 +22,7 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: ls -al /root/.emacs.d/elpa
+        run: ls -al $HOME; ls -al $HOME/../
 
       - name: Run Emacs Commands
         run: |
