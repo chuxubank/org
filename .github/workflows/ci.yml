@@ -31,7 +31,7 @@ jobs:
           (message "%s" package-user-dir)
           (require 'org-agenda)
           (setq org-agenda-custom-commands
-            (quote (("X" agenda "" nil ("agenda.html")))))
+            (list ("X" agenda "" nil ("agenda.html"))))
           (org-batch-store-agenda-views
             org-agenda-include-diary nil
             org-directory "/root/org"
