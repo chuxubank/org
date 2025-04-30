@@ -21,11 +21,9 @@ jobs:
         with:
           path: "org"
 
-      - name: Checking directory
-        run: ls -al; pwd; ls -al org; cd ..; pwd
-
       - name: Run Emacs Commands
         run: |
           emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
+            org-directory "/root/org"
             org-agenda-files (list "inbox.org"))'
