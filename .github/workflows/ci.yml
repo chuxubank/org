@@ -19,6 +19,6 @@ jobs:
 
       - name: Run Emacs Commands
         run: |
-          emacs -batch -l ~/batch/agenda.el -eval '(org-batch-store-agenda-views
+          emacs -batch -l batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
-            org-agenda-files (quote ("~/inbox.org")))'
+            org-agenda-files (quote ("inbox.org")))'
