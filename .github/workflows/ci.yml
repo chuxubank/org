@@ -26,13 +26,7 @@ jobs:
 
       - name: Run Emacs Commands
         run: |
-          emacs -batch -eval '(progn
-          (package-initialize)
-          (message "%s" package-user-dir)
-          (require (quote org-agenda))
-          (setq org-agenda-custom-commands
-            (list (quote ("X" agenda "" nil ("agenda.html")))))
-          (org-batch-store-agenda-views
+          emacs -batch -L /root/.emacs.d/elpa/htmlize-20240915.1657 -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
             org-directory "/root/org"
-            org-agenda-files (list "inbox.org")))'
+            org-agenda-files (list "inbox.org"))'
