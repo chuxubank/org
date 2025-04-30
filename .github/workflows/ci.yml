@@ -21,6 +21,9 @@ jobs:
         with:
           path: "org"
 
+      - name: Checking directory
+        run: ls -al /root/.emacs.d
+
       - name: Run Emacs Commands
         run: |
           emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
