@@ -22,7 +22,7 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: ls -al; pwd
+        run: ls -al; pwd; ls -al org; ls -al ..
 
       - name: Run Emacs Commands
         run: |
