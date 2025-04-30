@@ -11,22 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: chuxubank/cat-emacs
-      volumes:
-        - ${{ github.workspace }}/org:/root/org
       options: --init
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          path: "org"
 
       - name: Checking directory
         run: echo "$HOME"
 
       - name: Run Emacs Commands
         run: |
-          emacs -batch --user=root -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
+          emacs -batch --user=root -l batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
-            org-directory "/root/org"
+            org-directory "${{ github.workspace }}"
             org-agenda-files (list "inbox.org"))'
