@@ -29,7 +29,7 @@ jobs:
           emacs -batch -eval '(progn
           (package-initialize)
           (message "%s" package-user-dir)
-          (require 'org-agenda)
+          (require "org-agenda")
           (setq org-agenda-custom-commands
             (list (quote ("X" agenda "" nil ("agenda.html")))))
           (org-batch-store-agenda-views
