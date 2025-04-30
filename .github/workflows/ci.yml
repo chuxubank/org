@@ -24,7 +24,7 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: echo "$HOME"; ls -al $HOME; ls -al $HOME/Developer/Personal/
+        run: echo "$HOME"; ls -al $HOME; ls -al $HOME/Developer/Personal/org-roam
 
       - name: Run Emacs Commands
         run: |
