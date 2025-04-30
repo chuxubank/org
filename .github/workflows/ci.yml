@@ -22,7 +22,7 @@ jobs:
           path: "org"
 
       - name: Checking directory
-        run: ls -al $HOME; ls -al $HOME/../; whoami; echo "$USER"; echo ~root; getent passwd root
+        run: ls -al $HOME/../../; ls -al $HOME/../; whoami; echo "$USER"; echo ~root; getent passwd root; pwd
 
       - name: Run Emacs Commands
         run: |
