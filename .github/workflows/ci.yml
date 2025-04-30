@@ -28,7 +28,7 @@ jobs:
         run: |
           emacs -batch -eval '(progn
           (package-initialize)
-          (message "%s" package-directory-list)
+          (message "%s" package-user-dir)
           (require 'org-agenda)
           (setq org-agenda-custom-commands
             (quote (("X" agenda "" nil ("agenda.html")))))
