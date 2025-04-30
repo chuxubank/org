@@ -13,7 +13,7 @@ jobs:
       image: chuxubank/cat-emacs
       volumes:
         - ${{ github.workspace }}/org:/root/org
-      options: --init --user root
+      options: --user root
 
     steps:
       - name: Checkout repository
