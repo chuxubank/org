@@ -9,6 +9,8 @@ on:
 jobs:
   emacs-batch:
     runs-on: ubuntu-latest
+    env:
+      HOME: /root
     container:
       image: chuxubank/cat-emacs
       options: --init
