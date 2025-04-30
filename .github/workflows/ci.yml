@@ -16,9 +16,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        path: "org"
 
       - name: Run Emacs Commands
         run: |
-          emacs -batch -l batch/agenda.el -eval '(org-batch-store-agenda-views
+          emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views
             org-agenda-include-diary nil
-            org-agenda-files (list "${{ github.workspace }}/"))'
+            org-agenda-files (list "${{ github.workspace }}/org/inbox.org"))'
