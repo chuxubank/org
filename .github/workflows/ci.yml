@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: chuxubank/cat-emacs
+      volumes:
+        - ${{ github.workspace }}/org:/root/org
       options: --init
 
     steps:
