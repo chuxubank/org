@@ -105,7 +105,7 @@ SCHEDULED: <2025-04-27 Sun>
 ** TODO 大屏幕 U 盘
 SCHEDULED: <2025-04-28 Mon>
 - [ ] 歌曲伴奏
-- [ ] 相片
+- [X] 相片
 - [ ] 当日预览视频
 *** TODO 回收 U 盘
 SCHEDULED: <2025-05-02 Fri 20:00>
