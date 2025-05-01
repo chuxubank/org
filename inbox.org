@@ -93,7 +93,7 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
-* TODO 婚礼筹备 [0/6]
+* TODO 婚礼筹备 [0/4]
 DEADLINE: <2025-05-01 Thu>
 ** TODO 人员安排
 SCHEDULED: <2025-04-01 Tue>
@@ -127,24 +127,5 @@ SCHEDULED: <2025-04-22 Tue>
 蓝：海阔天空、如鱼得水、乘风破浪、风调雨顺、云开见月、碧海青天、心旷神怡、蓝天白云、蓝图大展、晴空万里
 ***** DONE 购买书签
 SCHEDULED: <2025-04-20 Sun>
-** TODO 服装
-*** TODO 拿绣合（放一套到朱老师家）
-SCHEDULED: <2025-05-01 Thu>
-*** TODO 男士服装 [5/6]
-**** DONE 西装
-**** DONE 领带
-**** DONE 皮鞋
-SCHEDULED: <2025-04-13 Sun>
-**** TODO 拿西服
-SCHEDULED: <2025-05-01 Thu>
-**** DONE 衬衫
-**** DONE 大衣
-*** TODO 女士服装 [1/2]
-**** DONE Jimmy Choo
-SCHEDULED: <2025-04-13 Sun>
-**** TODO 拿婚纱
-SCHEDULED: <2025-05-01 Thu>
 ** TODO 新郎新娘发言稿誓词
 SCHEDULED: <2025-04-30 Wed>
-** TODO 家庭布置
-SCHEDULED: <2025-04-27 Sun>
