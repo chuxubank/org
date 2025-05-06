@@ -21,6 +21,7 @@ jobs:
     env:
       HOME: /root
       ORG_DIR: ${{ github.workspace }}/org
+      TZ: Asia/Shanghai
     container:
       image: chuxubank/cat-emacs
       options: --init
