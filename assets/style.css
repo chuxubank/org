@@ -1,100 +1,103 @@
+/* assets/style.css */
+
 body {
-  color: #282828;
-  background-color: #fbf1c7;
-}
-.custom {
-}
-.org-agenda-current-time {
-  /* org-agenda-current-time */
-  color: #d65d0e;
-}
-.org-agenda-date {
-  /* org-agenda-date */
-  color: #8f3f71;
-}
-.org-agenda-date-today {
-  /* org-agenda-date-today */
-  color: #282828;
-  font-weight: bold;
-  font-style: italic;
-}
-.org-agenda-date-weekend {
-  /* org-agenda-date-weekend */
-  color: #552543;
-}
-.org-agenda-diary {
-  /* org-agenda-diary */
-  color: #282828;
-  background-color: #fbf1c7;
-}
-.org-agenda-structure {
-  /* org-agenda-structure */
-  color: #a89984;
-}
-.org-habit-alert {
-  /* org-habit-alert-face */
-  background-color: #d79921;
-}
-.org-habit-alert-future {
-  /* org-habit-alert-future-face */
-  background-color: #b57614;
-}
-.org-habit-clear {
-  /* org-habit-clear-face */
-  background-color: #458588;
-}
-.org-habit-clear-future {
-  /* org-habit-clear-future-face */
-  background-color: #076678;
-}
-.org-habit-overdue {
-  /* org-habit-overdue-face */
-  background-color: #cc241d;
-}
-.org-habit-overdue-future {
-  /* org-habit-overdue-future-face */
-  background-color: #9d0006;
-}
-.org-habit-ready {
-  /* org-habit-ready-face */
-  background-color: #98971a;
-}
-.org-habit-ready-future {
-  /* org-habit-ready-future-face */
-  background-color: #79740e;
-}
-.org-imminent-deadline {
-  /* org-imminent-deadline */
-  color: #9d0006;
-  font-weight: bold;
-}
-.org-modern-todo {
-  /* org-modern-todo */
-  color: #9d0006;
-}
-.org-scheduled {
-  /* org-scheduled */
-  color: #b57614;
-}
-.org-scheduled-previously {
-  /* org-scheduled-previously */
-  color: #cc241d;
-}
-.org-scheduled-today {
-  /* org-scheduled-today */
-  color: #076678;
-}
-.org-time-grid {
-  /* org-time-grid */
-  color: #d65d0e;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em;
+  line-height: 1.5;
+  background-color: var(--bg);
+  color: var(--fg);
 }
 
-a {
-  color: inherit;
-  background-color: inherit;
-  font: inherit;
-  text-decoration: inherit;
+/* 基础色定义（使用 CSS 变量，根据主题变换） */
+:root {
+  --fg: #3c3836;
+  --bg: #fbf1c7;
+  --red: #cc241d;
+  --green: #98971a;
+  --yellow: #d79921;
+  --blue: #458588;
+  --purple: #b16286;
+  --aqua: #689d6a;
+  --gray: #928374;
+  --orange: #d65d0e;
+  --highlight: #ebdbb2;
 }
-a:hover {
-  text-decoration: underline;
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #ebdbb2;
+    --bg: #282828;
+    --red: #fb4934;
+    --green: #b8bb26;
+    --yellow: #fabd2f;
+    --blue: #83a598;
+    --purple: #d3869b;
+    --aqua: #8ec07c;
+    --gray: #a89984;
+    --orange: #fe8019;
+    --highlight: #3c3836;
+  }
+}
+
+/* Org Agenda 样式 */
+.org-agenda-structure {
+  font-weight: bold;
+  color: var(--yellow);
+}
+
+.org-agenda-date,
+.org-agenda-date-weekend {
+  font-weight: bold;
+  color: var(--blue);
+}
+
+.org-agenda-date-today {
+  font-weight: bold;
+  color: var(--red);
+  background-color: var(--highlight);
+}
+
+.org-agenda-current-time {
+  color: var(--orange);
+}
+
+.org-time-grid {
+  color: var(--gray);
+}
+
+.org-todo {
+  color: var(--red);
+  font-weight: bold;
+}
+
+.org-scheduled-previously {
+  color: var(--gray);
+}
+
+.org-scheduled-today {
+  color: var(--green);
+}
+
+.org-habit-overdue {
+  color: var(--red);
+}
+
+.org-habit-alert {
+  color: var(--orange);
+}
+
+.org-habit-ready {
+  color: var(--yellow);
+}
+
+.org-habit-clear {
+  color: var(--blue);
+}
+
+.org-habit-overdue-future,
+.org-habit-alert-future,
+.org-habit-ready-future,
+.org-habit-clear-future {
+  opacity: 0.5;
 }
