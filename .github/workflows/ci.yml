@@ -43,7 +43,7 @@ jobs:
         run: mkdir publish
 
       - name: Move assets
-        run: mv assets/ publish/
+        run: mv $ORG_DIR/assets/ publish/
 
       - name: Run Emacs Commands
         run: |
