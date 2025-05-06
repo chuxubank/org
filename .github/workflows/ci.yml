@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  emacs-batch:
+  build:
     runs-on: ubuntu-latest
     env:
       HOME: /root
