@@ -1,7 +1,7 @@
 (package-initialize)
 (setq load-path (delete "/root/.emacs.d/elpa/org-mode/lisp" load-path))
-
-(require 'org-agenda)
+(require 'org)
+(add-to-list 'org-modules 'org-habit)
 (require 'htmlize)
 (setq
  org-directory (getenv "ORG_DIR")
