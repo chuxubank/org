@@ -36,6 +36,18 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Set timezone
+        run: |
+          ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+          echo "Asia/Shanghai" > /etc/timezone
+
+      - name: Check timezone
+        run: |
+          echo "TZ env: $TZ"
+          date
+          echo "System timezone file:"
+          readlink -f /etc/localtime
+
       - name: Checking org version
         run: |
           emacs -batch -f org-version
