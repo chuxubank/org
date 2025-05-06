@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HOME: /root
+      ORG_DIR: /root/org
     container:
       image: chuxubank/cat-emacs
       volumes:
