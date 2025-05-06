@@ -23,6 +23,13 @@ jobs:
         with:
           path: "org"
 
+      - name: Checking org version
+        run: |
+          emacs -batch -f org-version
+
+      - name: Checking directory
+        run: echo "$HOME"; ls -al $HOME/.emacs.d/elpa
+
       - name: Run Emacs Commands
         run: |
           emacs -batch -l org/batch/agenda.el -eval '(org-batch-store-agenda-views)'
