@@ -1,3 +1,4 @@
+(setenv "TZ" "Asia/Shanghai")
 (package-initialize)
 (setq load-path (delete "/root/.emacs.d/elpa/org-mode/lisp" load-path))
 (require 'org)
