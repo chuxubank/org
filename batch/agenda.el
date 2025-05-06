@@ -1,6 +1,5 @@
 (package-initialize)
 
-(require 'org)
 (org-version nil t)
 (require 'org-agenda)
 (require 'htmlize)
