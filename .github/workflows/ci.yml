@@ -15,11 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HOME: /root
-      ORG_DIR: /root/org
+      ORG_DIR: ${{ github.workspace }}/org
     container:
       image: chuxubank/cat-emacs
-      volumes:
-        - ${{ github.workspace }}/org:$ORG_DIR
       options: --init
 
     steps:
