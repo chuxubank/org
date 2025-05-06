@@ -7,6 +7,13 @@
  org-directory (getenv "ORG_DIR")
  org-agenda-files (list (getenv "ORG_DIR"))
  org-agenda-include-diary nil
+ org-agenda-skip-scheduled-if-done t
+ org-agenda-skip-deadline-if-done t
+ org-agenda-skip-deadline-prewarning-if-scheduled t
+ org-agenda-prefix-format '((agenda . " %i %-20:c%?-12t% s")
+                            (todo   . " %i %-20:c")
+                            (tags   . " %i %-20:c")
+                            (search . " %i %-20:c"))
  org-agenda-custom-commands
  '(("X" agenda "" nil ("publish/agenda.html"))
    ("Y" alltodo "" nil ("publish/todo.html"))))
