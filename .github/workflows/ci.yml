@@ -36,3 +36,20 @@ jobs:
       - name: Run Emacs Commands
         run: |
           emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: agenda.html
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
