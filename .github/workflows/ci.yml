@@ -19,7 +19,7 @@ jobs:
     container:
       image: chuxubank/cat-emacs
       volumes:
-        - ${{ github.workspace }}/org:/root/org
+        - ${{ github.workspace }}/org:$ORG_DIR
       options: --init
 
     steps:
