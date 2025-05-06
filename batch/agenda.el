@@ -1,6 +1,6 @@
 (package-initialize)
+(setq load-path (delete "/root/.emacs.d/elpa/org-mode/lisp" load-path))
 
-(org-version nil t)
 (require 'org-agenda)
 (require 'htmlize)
 (setq
