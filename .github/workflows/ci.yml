@@ -39,6 +39,12 @@ jobs:
         run: |
           emacs -batch -f org-version
 
+      - name: Make publish dir
+        run: mkdir publish
+
+      - name: Move assets
+        run: mv assets/ publish/
+
       - name: Run Emacs Commands
         run: |
           emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
