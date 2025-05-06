@@ -75,25 +75,30 @@ body {
   color: var(--green);
 }
 
-.org-habit-overdue {
-  color: var(--red);
-}
-
 .org-habit-alert {
-  color: var(--orange);
+  background-color: var(--yellow);
 }
-
-.org-habit-ready {
-  color: var(--yellow);
+.org-habit-alert-future {
+  background-color: var(--orange);
 }
 
 .org-habit-clear {
-  color: var(--blue);
+  background-color: var(--blue);
+}
+.org-habit-clear-future {
+  background-color: var(--aqua);
 }
 
-.org-habit-overdue-future,
-.org-habit-alert-future,
-.org-habit-ready-future,
-.org-habit-clear-future {
-  opacity: 0.5;
+.org-habit-overdue {
+  background-color: var(--red);
+}
+.org-habit-overdue-future {
+  background-color: var(--purple);
+}
+
+.org-habit-ready {
+  background-color: var(--green);
+}
+.org-habit-ready-future {
+  background-color: var(--gray);
 }
