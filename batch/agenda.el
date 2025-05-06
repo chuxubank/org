@@ -1,7 +1,7 @@
 (package-initialize)
 
 (require 'org)
-(org-version)
+(org-version nil t)
 (require 'org-agenda)
 (require 'htmlize)
 (setq
