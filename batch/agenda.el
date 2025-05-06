@@ -15,17 +15,16 @@
                             (tags   . " %i %-20:c")
                             (search . " %i %-20:c"))
  org-todo-keywords '((sequence
-                      "TODO(t)"  ; A task that needs doing & is ready to do
-                      "PROJ(p)"  ; A project, which usually contains other tasks
-                      "LOOP(r)"  ; A recurring task
-                      "STRT(s)"  ; A task that is in progress
-                      "WAIT(w)"  ; Something external is holding up this task
-                      "HOLD(h)"  ; This task is paused/on hold because of me
-                      "IDEA(i)"  ; An unconfirmed and unapproved task or notion
+                      "TODO(t)"
+                      "PROJ(p)"
+                      "LOOP(r)"
+                      "STRT(s)"
+                      "WAIT(w)"
+                      "HOLD(h)"
+                      "IDEA(i)"
                       "|"
-                      "DONE(d)"  ; Task successfully completed
-                      "KILL(k)") ; Task was cancelled, aborted or is no longer applicable
-                     )
+                      "DONE(d)"
+                      "KILL(k)"))
  org-agenda-custom-commands
  '(("X" agenda "" nil ("publish/agenda.html"))
    ("Y" alltodo "" nil ("publish/todo.html"))))
