@@ -370,11 +370,12 @@ SCHEDULED: <2024-09-24 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
 * TODO Do exercise
-SCHEDULED: <2025-03-27 Thu .+2d/3d>
+SCHEDULED: <2025-05-07 Wed .+2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2025-03-25 Tue 10:00]
+:LAST_REPEAT: [2025-05-05 Mon 16:40]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2025-05-05 Mon 16:40]
 - State "DONE"       from "TODO"       [2025-03-25 Tue 10:00]
 - State "DONE"       from "TODO"       [2025-03-20 Thu 23:59]
 - State "DONE"       from "TODO"       [2025-03-11 Tue 23:59]
