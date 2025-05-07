@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HOME: /root
+      HOME: ${{ github.workspace }}
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
     container:
@@ -27,9 +27,6 @@ jobs:
       options: --init
 
     steps:
-      - name: Fix permissions on /root
-        run: sudo mkdir -p /root/.docker && sudo chown -R $(whoami) /root
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -42,8 +39,8 @@ jobs:
       - name: Check timezone
         run: emacs -batch --eval '(message "%s" (current-time-zone))'
 
-      - name: Check home
-        run: echo $HOME
+      - name: Check container id and home
+        run: id && echo $HOME
 
       - name: Checking org version
         run: emacs -batch -f org-version
