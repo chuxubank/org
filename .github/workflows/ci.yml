@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HOME: /root
+      HOME: /home/github
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
     container:
@@ -56,6 +56,8 @@ jobs:
 
       - name: Run Emacs Commands
         run: script -q -c "emacs -nw -eval '(org-batch-store-agenda-views)' -kill"
+        env:
+          TERM: xterm-256color
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
