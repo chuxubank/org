@@ -39,6 +39,9 @@ jobs:
       - name: Check timezone
         run: emacs -batch --eval '(message "%s" (current-time-zone))'
 
+      - name: Check home
+        run: echo $HOME
+
       - name: Checking org version
         run: emacs -batch -f org-version
 
