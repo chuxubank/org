@@ -24,7 +24,7 @@ jobs:
       TZ: Asia/Shanghai
     container:
       image: chuxubank/cat-emacs
-      options: --init
+      options: --init --user github
 
     steps:
       - name: Remove broken Docker config file
