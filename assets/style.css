@@ -58,11 +58,6 @@ body {
   color: var(--fg-2);
 }
 
-.org-todo {
-  color: var(--red);
-  font-weight: bold;
-}
-
 .org-scheduled-previously {
   color: var(--fg);
 }
@@ -97,4 +92,32 @@ body {
 }
 .org-habit-ready-future {
   background-color: var(--blue);
+}
+
+.org-link {
+  color: var(--yellow);
+  text-decoration: underline;
+}
+
+.org-tag {
+  color: var(--orange);
+  font-weight: bold;
+  background-color: var(--bg-2);
+  border-radius: 4px;
+  padding: 0 0.2em;
+}
+
+.org-todo {
+  color: var(--red);
+  font-weight: bold;
+}
+
+a {
+  color: inherit;
+  background-color: inherit;
+  font: inherit;
+  text-decoration: inherit;
+}
+a:hover {
+  text-decoration: underline;
 }
