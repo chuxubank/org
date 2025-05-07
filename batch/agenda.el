@@ -28,6 +28,11 @@
                       "|"
                       "DONE(d)"
                       "KILL(k)"))
+ org-todo-keyword-faces '(("STRT" . +org-todo-active)
+                          ("WAIT" . +org-todo-onhold)
+                          ("HOLD" . +org-todo-onhold)
+                          ("PROJ" . +org-todo-project)
+                          ("KILL" . +org-todo-cancel))
  org-agenda-custom-commands
  '(("X" agenda "" nil ("publish/agenda.html"))
    ("Y" alltodo "" nil ("publish/todo.html"))))
