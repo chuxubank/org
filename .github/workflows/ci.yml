@@ -19,6 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
+      HOME: /root
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
     container:
@@ -26,8 +27,8 @@ jobs:
       options: --init
 
     steps:
-      - name: Preserve $HOME set in the container
-        run: echo HOME=/root >> "$GITHUB_ENV"
+      - name: Fix permissions on /root
+        run: sudo mkdir -p /root/.docker && sudo chown -R $(whoami) /root
 
       - name: Checkout repository
         uses: actions/checkout@v4
