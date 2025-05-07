@@ -1,0 +1,100 @@
+@import url("https://cdn.jsdelivr.net/npm/gruvbox.css/gruvbox-pcs.css");
+
+body {
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em;
+  line-height: 1.5;
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+:root {
+  --fg: var(--gruvbox-mode-fg-0);
+  --fg-1: var(--gruvbox-mode-fg-1);
+  --fg-2: var(--gruvbox-mode-fg-2);
+  --fg-3: var(--gruvbox-mode-fg-3);
+  --fg-4: var(--gruvbox-mode-fg-4);
+  --fg-4-256: var(--gruvbox-mode-fg-4-256);
+  --bg: var(--gruvbox-mode-bg-0);
+  --bg-1: var(--gruvbox-mode-bg-1);
+  --bg-2: var(--gruvbox-mode-bg-2);
+  --bg-3: var(--gruvbox-mode-bg-3);
+  --bg-4: var(--gruvbox-mode-bg-4);
+  --red: var(--gruvbox-mode-red);
+  --green: var(--gruvbox-mode-green);
+  --yellow: var(--gruvbox-mode-yellow);
+  --blue: var(--gruvbox-mode-blue);
+  --purple: var(--gruvbox-mode-purple);
+  --aqua: var(--gruvbox-mode-aqua);
+  --gray: var(--gruvbox-mode-gray);
+  --orange: var(--gruvbox-mode-orange);
+}
+
+.org-agenda-structure {
+  font-weight: bold;
+  color: var(--fg-1);
+}
+
+.org-agenda-date {
+  font-weight: bold;
+  color: var(--aqua);
+}
+
+.org-agenda-date-weekend {
+  color: var(--aqua);
+}
+
+.org-agenda-date-today {
+  font-weight: bold;
+  color: var(--orange);
+}
+
+.org-agenda-current-time {
+  color: var(--yellow);
+}
+
+.org-time-grid {
+  color: var(--fg-2);
+}
+
+.org-todo {
+  color: var(--red);
+  font-weight: bold;
+}
+
+.org-scheduled-previously {
+  color: var(--fg);
+}
+
+.org-scheduled-today {
+  color: var(--blue);
+}
+
+.org-habit-alert {
+  background-color: var(--yellow);
+}
+.org-habit-alert-future {
+  background-color: var(--orange);
+}
+
+.org-habit-clear {
+  background-color: var(--aqua);
+}
+.org-habit-clear-future {
+  background-color: var(--gray);
+}
+
+.org-habit-overdue {
+  background-color: var(--red);
+}
+.org-habit-overdue-future {
+  background-color: var(--purple);
+}
+
+.org-habit-ready {
+  background-color: var(--green);
+}
+.org-habit-ready-future {
+  background-color: var(--blue);
+}

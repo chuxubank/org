@@ -8,7 +8,7 @@
  org-directory (getenv "ORG_DIR")
  org-habit-graph-column 60
  org-agenda-files (list (getenv "ORG_DIR"))
- org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/gruvbox.css\">"
+ org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"
  org-agenda-include-diary nil
  org-agenda-skip-scheduled-if-done t
  org-agenda-skip-deadline-if-done t
