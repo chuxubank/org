@@ -36,6 +36,10 @@ body {
   color: var(--fg-1);
 }
 
+.org-agenda-structure-filter {
+  color: var(--yellow);
+}
+
 .org-agenda-date {
   font-weight: bold;
   color: var(--aqua);
