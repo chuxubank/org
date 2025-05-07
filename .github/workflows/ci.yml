@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HOME: ${{ github.workspace }}
+      HOME: /root
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
     container:
@@ -27,6 +27,9 @@ jobs:
       options: --init
 
     steps:
+      - name: Remove broken Docker config file
+        run: rm -f /root/.docker/config.json
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -46,7 +49,7 @@ jobs:
         run: emacs -batch -f org-version
 
       - name: Make publish dir
-        run: mkdir publish
+        run: mkdir -p publish
 
       - name: Move assets
         run: mv $ORG_DIR/assets/ publish/
