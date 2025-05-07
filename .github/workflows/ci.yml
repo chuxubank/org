@@ -23,9 +23,12 @@ jobs:
       TZ: Asia/Shanghai
     container:
       image: chuxubank/cat-emacs
-      options: --init --user root
+      options: --init
 
     steps:
+      - name: Preserve $HOME set in the container
+        run: echo HOME=/root >> "$GITHUB_ENV"
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
