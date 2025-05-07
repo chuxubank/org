@@ -49,7 +49,7 @@ jobs:
         run: mv $ORG_DIR/assets/ publish/
 
       - name: Run Emacs Commands
-        run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
+        run: emacs -nw -eval '(org-batch-store-agenda-views)' -kill
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
