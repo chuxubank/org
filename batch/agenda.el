@@ -4,6 +4,11 @@
 (require 'org)
 (add-to-list 'org-modules 'org-habit)
 (require 'htmlize)
+(custom-set-faces
+ '(+org-todo-active   ((t (:inherit (bold font-lock-constant-face org-todo)))))
+ '(+org-todo-project  ((t (:inherit (bold font-lock-doc-face org-todo)))))
+ '(+org-todo-onhold   ((t (:inherit (bold warning org-todo)))))
+ '(+org-todo-cancel   ((t (:inherit (bold org-done)) :strike-through t))))
 (setq
  org-directory (getenv "ORG_DIR")
  org-habit-graph-column 60
