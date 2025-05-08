@@ -19,12 +19,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HOME: ${{ github.workspace }}
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
-    container:
-      image: chuxubank/cat-emacs
-      options: --init
 
     steps:
       - name: Checkout repository
@@ -36,14 +32,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Setup emacs
+        uses: purcell/setup-emacs@master
+
       - name: Check timezone
         run: emacs -batch --eval '(message "%s" (current-time-zone))'
-
-      - name: Check container id and home
-        run: id && echo $HOME
-
-      - name: Copy emacs config
-        run: cp -r /root/.emacs.d $HOME
 
       - name: Make publish dir
         run: mkdir -p publish
@@ -51,10 +44,8 @@ jobs:
       - name: Move assets
         run: mv $ORG_DIR/assets/ publish/
 
-      - name: Run Emacs Commands
-        run: emacs -batch -l $ORG_DIR/batch/agenda.el
-        env:
-          TERM: xterm-256color
+      - name: Run emacs commands
+        run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
