@@ -30,7 +30,8 @@
   (+org-todo-onhold  ((t (:inherit (bold warning org-todo)))))
   (+org-todo-cancel  ((t (:inherit (bold org-done) :strike-through t))))
   :config
-  (add-to-list 'org-modules 'org-habit))
+  (add-to-list 'org-modules 'org-habit)
+  (org-version))
 
 (use-package htmlize
   :ensure t)
@@ -55,4 +56,6 @@
   (org-agenda-custom-commands
    '(("X" agenda "" nil ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
-  (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
+  (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">")
+  :config
+  (org-batch-store-agenda-views))
