@@ -1,9 +1,15 @@
 (setenv "TZ" "Asia/Shanghai")
 
+(add-to-list 'load-path (expand-file-name "elisp" user-emacs-directory))
+
 (package-initialize)
+(require 'ignore-builtin)
 
 (use-package org
+  :ignore-builtin
   :ensure t
+  :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
+                :lisp-dir "lisp/")
   :custom
   (org-directory (getenv "ORG_DIR"))
   (org-agenda-files (list (getenv "ORG_DIR")))
