@@ -114,8 +114,8 @@ body {
 [class^="Xorg-todo"],
 .org-todo {
   color: white;
-  padding: 0.2em 0.5em;
   display: inline-block;
+  border: 1px solid var(--bg);
 }
 
 .org-todo {
