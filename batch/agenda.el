@@ -1,7 +1,6 @@
 (package-initialize)
 
 (use-package org
-  :ensure t
   :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-directory (getenv "ORG_DIR"))
@@ -37,13 +36,11 @@
   :ensure t)
 
 (use-package org-habit
-  :ensure t
   :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-habit-graph-column 60))
 
 (use-package org-agenda
-  :ensure t
   :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-agenda-include-diary t)
