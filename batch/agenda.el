@@ -38,11 +38,13 @@
 
 (use-package org-habit
   :ensure t
+  :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-habit-graph-column 60))
 
 (use-package org-agenda
   :ensure t
+  :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-agenda-include-diary t)
   (org-agenda-skip-scheduled-if-done t)
@@ -52,7 +54,7 @@
                               (todo   . " %i %-20:c")
                               (tags   . " %i %-20:c")
                               (search . " %i %-20:c")))
-  (org-agenda-diary-file (expand-file-name "diary.org" cat-org-directory))
+  (org-agenda-diary-file (expand-file-name "diary.org" (getenv "ORG_DIR")))
   (org-agenda-custom-commands
    '(("X" agenda "" nil ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
