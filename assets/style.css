@@ -68,8 +68,9 @@ body {
   color: var(--blue);
 }
 
-[class^="org-habit"] {
+span[class^="org-habit"] {
   display: inline-block;
+  line-height: inherit;
   box-sizing: border-box;
 }
 
