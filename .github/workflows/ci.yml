@@ -42,6 +42,9 @@ jobs:
       - name: Check container id and home
         run: id && echo $HOME
 
+      - name: Copy emacs config
+        run: cp -r /root/.emacs.d $HOME
+
       - name: Checking org version
         run: emacs -batch -f org-version
 
@@ -52,7 +55,7 @@ jobs:
         run: mv $ORG_DIR/assets/ publish/
 
       - name: Run Emacs Commands
-        run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
+        run: script -q -c "emacs -q -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)' -kill"
         env:
           TERM: xterm-256color
 
