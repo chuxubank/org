@@ -116,6 +116,28 @@ body {
   font-weight: bold;
 }
 
+.Xorg-todo-active {
+  color: var(--purple);
+  font-weight: bold;
+}
+
+.Xorg-todo-onhold {
+  color: var(--orange);
+  font-weight: bold;
+}
+
+.Xorg-todo-project {
+  color: var(--green);
+  font-weight: bold;
+  font-style: italic;
+}
+
+.Xorg-todo-cancel {
+  color: var(--aqua);
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
 a {
   color: inherit;
   background-color: inherit;
