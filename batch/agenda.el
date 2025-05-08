@@ -1,9 +1,9 @@
 (setenv "TZ" "Asia/Shanghai")
 
+(package-initialize)
+
 (use-package org
   :ensure t
-  :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
-                :lisp-dir "lisp/")
   :custom
   (org-directory (getenv "ORG_DIR"))
   (org-agenda-files (list (getenv "ORG_DIR")))
@@ -33,8 +33,6 @@
   (+org-todo-cancel  ((t (:inherit (bold org-done) :strike-through t))))
   :config
   (add-to-list 'org-modules 'org-habit))
-
-(package-initialize)
 
 (use-package htmlize
   :ensure t)
