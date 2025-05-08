@@ -34,6 +34,8 @@
   :config
   (add-to-list 'org-modules 'org-habit))
 
+(package-initialize)
+
 (use-package htmlize
   :ensure t)
 
