@@ -111,30 +111,34 @@ body {
   padding: 0 0.2em;
 }
 
+[class^="Xorg-todo"],
 .org-todo {
-  color: var(--red);
-  font-weight: bold;
+  color: white;
+  padding: 0.2em 0.5em;
+  border-radius: 0.25rem;
+  display: inline-block;
+  margin: 0.2em;
+}
+
+.org-todo {
+  background-color: var(--red);
 }
 
 .Xorg-todo-active {
-  color: var(--purple);
-  font-weight: bold;
+  background-color: var(--purple);
 }
 
 .Xorg-todo-onhold {
-  color: var(--orange);
-  font-weight: bold;
+  background-color: var(--orange);
 }
 
 .Xorg-todo-project {
-  color: var(--green);
-  font-weight: bold;
+  background-color: var(--green);
   font-style: italic;
 }
 
 .Xorg-todo-cancel {
-  color: var(--aqua);
-  font-weight: bold;
+  background-color: var(--aqua);
   text-decoration: line-through;
 }
 
