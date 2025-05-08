@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 **** [[https://yinwang1.substack.com/feed][垠的备忘录]]
 **** [[https://archive.casouri.cc/note/atom.xml][Casouri - Notes]] :emacs:
 **** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
-**** [[http://hadi.timachi.com/rss.rss][Hadi Timachi]] :physicist:emacs:
+**** [[https://hadi.timachi.com/rss.rss][Hadi Timachi]] :physicist:emacs:
 **** [[https://www.mistys-internet.website/blog/atom.xml][The Future Is Now - Misty De Méo]] :mac:
 **** [[https://antfu.me/feed.xml][antfu]] :web:
 **** [[https://onevcat.com/feed.xml][onevcat]] :ios:
