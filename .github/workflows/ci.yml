@@ -19,17 +19,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HOME: /home/github
+      HOME: ${{ github.workspace }}
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
     container:
       image: chuxubank/cat-emacs
-      options: --init --user github
+      options: --init
 
     steps:
-      - name: Remove broken Docker config file
-        run: rm -f /root/.docker/config.json
-
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -50,6 +47,9 @@ jobs:
 
       - name: Make publish dir
         run: mkdir -p publish
+
+      - name: Copy emacs config
+        run: cp -r /root/.emacs.d $HOME
 
       - name: Move assets
         run: mv $ORG_DIR/assets/ publish/
