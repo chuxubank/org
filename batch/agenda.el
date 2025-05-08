@@ -1,15 +1,8 @@
-(setenv "TZ" "Asia/Shanghai")
-
 (package-initialize)
-
-(add-to-list 'load-path (expand-file-name "elisp" user-emacs-directory))
-
-(require 'ignore-builtin)
 
 (dolist (p load-path) (message "%s" p))
 
 (use-package org
-  :ignore-builtin org
   :ensure t
   :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
                 :lisp-dir "lisp/")
