@@ -38,7 +38,7 @@ jobs:
           version: 30.1
 
       - name: Check timezone
-        run: emacs -batch --eval '(message "%s" (current-time-zone))'
+        run: emacs -batch -eval '(message "%s" (current-time-zone))'
 
       - name: Make publish dir
         run: mkdir -p publish
