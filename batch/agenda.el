@@ -33,22 +33,27 @@
   :config
   (add-to-list 'org-modules 'org-habit))
 
-(org-version)
-
 (use-package htmlize
   :ensure t)
 
-(setq
- org-habit-graph-column 60
- org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"
- org-agenda-include-diary t
- org-agenda-skip-scheduled-if-done t
- org-agenda-skip-deadline-if-done t
- org-agenda-skip-deadline-prewarning-if-scheduled t
- org-agenda-prefix-format '((agenda . " %i %-20:c%?-12t% s")
-                            (todo   . " %i %-20:c")
-                            (tags   . " %i %-20:c")
-                            (search . " %i %-20:c"))
- org-agenda-custom-commands
- '(("X" agenda "" nil ("publish/agenda.html"))
-   ("Y" alltodo "" nil ("publish/todo.html"))))
+(use-package org-habit
+  :ensure t
+  :custom
+  (org-habit-graph-column 60))
+
+(use-package org-agenda
+  :ensure t
+  :custom
+  (org-agenda-include-diary t)
+  (org-agenda-skip-scheduled-if-done t)
+  (org-agenda-skip-deadline-if-done t)
+  (org-agenda-skip-deadline-prewarning-if-scheduled t)
+  (org-agenda-prefix-format '((agenda . " %i %-20:c%?-12t% s")
+                              (todo   . " %i %-20:c")
+                              (tags   . " %i %-20:c")
+                              (search . " %i %-20:c")))
+  (org-agenda-diary-file (expand-file-name "diary.org" cat-org-directory))
+  (org-agenda-custom-commands
+   '(("X" agenda "" nil ("publish/agenda.html"))
+     ("Y" alltodo "" nil ("publish/todo.html"))))
+  (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
