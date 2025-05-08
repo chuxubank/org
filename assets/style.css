@@ -70,8 +70,6 @@ body {
 
 [class^="org-habit"] {
   display: inline-block;
-  height: 1.2em;
-  line-height: 1.2em;
   box-sizing: border-box;
 }
 
