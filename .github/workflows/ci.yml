@@ -52,7 +52,7 @@ jobs:
         run: mv $ORG_DIR/assets/ publish/
 
       - name: Run Emacs Commands
-        run: script -q -c "emacs -q -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)' -kill"
+        run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
         env:
           TERM: xterm-256color
 
