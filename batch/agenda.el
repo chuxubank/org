@@ -1,5 +1,6 @@
 (setenv "TZ" "Asia/Shanghai")
 (package-initialize)
+(setq load-path (delete "/root/.emacs.d/elpa/org-mode/lisp" load-path))
 (require 'org)
 (add-to-list 'org-modules 'org-habit)
 (require 'htmlize)
