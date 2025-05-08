@@ -45,9 +45,6 @@ jobs:
       - name: Copy emacs config
         run: cp -r /root/.emacs.d $HOME
 
-      - name: Checking org version
-        run: emacs -batch -f org-version
-
       - name: Make publish dir
         run: mkdir -p publish
 
@@ -55,7 +52,7 @@ jobs:
         run: mv $ORG_DIR/assets/ publish/
 
       - name: Run Emacs Commands
-        run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
+        run: emacs -batch -l $ORG_DIR/batch/agenda.el
         env:
           TERM: xterm-256color
 
