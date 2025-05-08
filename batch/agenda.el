@@ -1,12 +1,8 @@
-(require 'package)
 (package-initialize)
-
-(dolist (p load-path) (message "%s" p))
 
 (use-package org
   :ensure t
-  :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
-                :lisp-dir "lisp/")
+  :load-path "~/.emacs.d/elpa/org-mode/lisp"
   :custom
   (org-directory (getenv "ORG_DIR"))
   (org-agenda-files (list (getenv "ORG_DIR")))
