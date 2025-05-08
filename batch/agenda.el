@@ -1,3 +1,4 @@
+(require 'package)
 (package-initialize)
 
 (dolist (p load-path) (message "%s" p))
