@@ -1,6 +1,6 @@
 (setenv "TZ" "Asia/Shanghai")
-(package-initialize)
 (use-package org
+  :ensure t
   :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
                 :lisp-dir "lisp/"))
 (add-to-list 'org-modules 'org-habit)
