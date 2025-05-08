@@ -1,7 +1,8 @@
 (setenv "TZ" "Asia/Shanghai")
 (package-initialize)
-(setq load-path (delete "/root/.emacs.d/elpa/org-mode/lisp" load-path))
-(require 'org)
+(use-package org
+  :vc (org-mode :url "https://code.tecosaur.net/tec/org-mode"
+                :lisp-dir "lisp/"))
 (add-to-list 'org-modules 'org-habit)
 (require 'htmlize)
 (custom-set-faces
