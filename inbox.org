@@ -41,7 +41,7 @@ Use hugo module
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 * TODO 加速 Notion
-* TODO Build online agenda
+* DONE Build online agenda
 SCHEDULED: <2025-04-28 Mon>
 * TODO 学习 Rust
 SCHEDULED: <2025-05-03 Sat>
