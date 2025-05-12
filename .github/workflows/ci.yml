@@ -28,6 +28,12 @@ jobs:
         with:
           path: "org"
 
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
