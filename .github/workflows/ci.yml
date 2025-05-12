@@ -33,6 +33,7 @@ jobs:
         with:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
+          fingerprint: "7809CD8BE0FB2C96"
 
       - name: Setup Pages
         id: pages
