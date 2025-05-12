@@ -1,5 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO Read Kotlin RPC
+SCHEDULED: <2025-05-13 Tue>
+https://ktor.io/docs/tutorial-first-steps-with-kotlin-rpc.html
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
