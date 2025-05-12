@@ -1,6 +1,3 @@
-API_KEY: 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
-Organization: org-o6i82ZhH8Ax0ZF4m2LgcUyGH
-
 * 2022
 
 ** 2022-12 December
