@@ -1,6 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-
+* TODO 名字贴 6 份
+SCHEDULED: <2025-05-12 Mon>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
