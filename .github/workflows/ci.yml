@@ -30,7 +30,9 @@ jobs:
           nix_conf: |
             keep-env-derivations = true
             keep-outputs = true
-      - uses: szenius/set-timezone@v2.0
+
+      - name: Setup timezone
+        uses: szenius/set-timezone@v2.0
         with:
           timezoneLinux: ${{ env.TZ }}
           timezoneMacos: ${{ env.TZ }}
