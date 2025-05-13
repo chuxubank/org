@@ -67,7 +67,7 @@ SCHEDULED: <2018-04-06 Fri>
 CLOSED: [2025-01-18 Sat 10:27]
 - State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
 ** DONE 华尔街之狼
-* 电视 [1/4]
+* 电视 [1/6]
 ** TODO 请回答 1988
 ** TODO 基地
 ** TODO 雪滴花
