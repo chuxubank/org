@@ -21,6 +21,7 @@ jobs:
     env:
       ORG_DIR: ${{ github.workspace }}/org
       TZ: Asia/Shanghai
+      EMACS_VERSION: 30.1
 
     steps:
       - name: Setup Nix
@@ -33,6 +34,7 @@ jobs:
       - name: Restore and save Nix store
         uses: nix-community/cache-nix-action@v6
         with:
+          primary-key: nix-${{ runner.os }}-${{ env.EMACS_VERSION }}
 
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -53,7 +55,7 @@ jobs:
       - name: Setup emacs
         uses: purcell/setup-emacs@master
         with:
-          version: 30.1
+          version: ${{ env.EMACS_VERSION }}
 
       - name: Check timezone
         run: emacs -batch -eval '(message "%s" (current-time-zone))'
