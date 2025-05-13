@@ -40,7 +40,9 @@ DEADLINE: <2025-07-23 Wed> SCHEDULED: <2025-05-13 Tue +1d>
 
 ** TODO Bubblegum Crisis
 
-** TODO
+** TODO 银翼杀手
+
+** TODO 神经漫游者
 ** STRT 奇诺之旅
 [[bili:md2013]]
 ** STRT 间谍过家家
