@@ -1,5 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO 检查 Tesla 设置（盲点摄像头）
+SCHEDULED: <2025-05-16 Fri>
 * TODO Read Kotlin RPC
 SCHEDULED: <2025-05-13 Tue>
 https://ktor.io/docs/tutorial-first-steps-with-kotlin-rpc.html
