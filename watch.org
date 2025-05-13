@@ -1,5 +1,7 @@
 #+TITLE: Watch
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
+#+link: imdb    https://www.imdb.com/title/%s
+
 * 番剧 [7/32]
 ** TODO 四叶游戏
 ** TODO 奇巧计程车
@@ -10,7 +12,13 @@
 ** TODO 心理测量者
 ** TODO 好想告诉你
 ** STRT Monster
-SCHEDULED: <2025-05-11 Sun>
+[[imdb:tt0434706]]
+DEADLINE: <2025-07-23 Wed> SCHEDULED: <2025-05-13 Tue +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2025-05-13 Tue 15:10]
+:END:
+- State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
+- State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "STRT"       from "TODO"       [2025-05-12 Mon 08:03]
 ** TODO Hybrid Child
 ** TODO 异种族风俗娘
