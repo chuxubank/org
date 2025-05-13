@@ -58,7 +58,7 @@ jobs:
           version: ${{ env.EMACS_VERSION }}
 
       - name: Check timezone
-        run: emacs -batch -eval '(message "%s" (current-time-zone))'
+        run: date; emacs -batch -eval '(progn (princ (getenv "TZ")) (terpri) (princ (current-time-zone)) (terpri))'
 
       - name: Make publish dir
         run: mkdir -p publish
