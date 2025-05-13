@@ -48,6 +48,9 @@ jobs:
           passphrase: ${{ secrets.PASSPHRASE }}
           fingerprint: "4A3496EF07412374837EE08E7809CD8BE0FB2C96"
 
+      - name: Install packages
+        run: nix-env -iA nixpkgs.tzdata; ls /usr/share/zoneinfo/
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
