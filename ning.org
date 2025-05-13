@@ -6,7 +6,7 @@
 ** TODO iapm 兑换
 SCHEDULED: <2026-03-01 Sun 10:00>
 ** TODO 名字贴 6 份
-SCHEDULED: <2025-05-12 Mon>
+SCHEDULED: <2025-05-18 Sun>
 * Notes
 ** Favorite
 *** 颜色
