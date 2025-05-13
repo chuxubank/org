@@ -20,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ORG_DIR: ${{ github.workspace }}/org
+      TZ: Asia/Shanghai
       EMACS_VERSION: 30.1
 
     steps:
@@ -57,7 +58,7 @@ jobs:
           version: ${{ env.EMACS_VERSION }}
 
       - name: Check timezone
-        run: date; emacs -batch -eval '(progn (princ (getenv "TZ")) (terpri) (set-time-zone-rule "Asia/Shanghai") (princ (current-time-zone)) (terpri))'
+        run: date; emacs -batch -eval '(progn (princ (getenv "TZ")) (terpri) (set-time-zone-rule nil) (princ (current-time-zone)) (terpri))'
 
       - name: Make publish dir
         run: mkdir -p publish
