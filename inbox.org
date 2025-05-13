@@ -7,9 +7,6 @@ SCHEDULED: <2025-05-18 Sun>
 - [ ] 耳机
 * TODO 检查 Tesla 设置（盲点摄像头）
 SCHEDULED: <2025-05-16 Fri>
-* TODO Read Kotlin RPC
-SCHEDULED: <2025-05-13 Tue>
-https://ktor.io/docs/tutorial-first-steps-with-kotlin-rpc.html
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
