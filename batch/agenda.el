@@ -62,3 +62,7 @@
   (bbdb-file (expand-file-name "bbdb.gpg" (getenv "ORG_DIR")))
   :config
   (bbdb-initialize))
+
+(use-package diary
+  :custom
+  (diary-file (expand-file-name "diary" (getenv "ORG_DIR"))))
