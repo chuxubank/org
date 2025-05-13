@@ -52,7 +52,6 @@
                               (todo   . " %i %-20:c")
                               (tags   . " %i %-20:c")
                               (search . " %i %-20:c")))
-  (org-agenda-diary-file (expand-file-name "diary.org" (getenv "ORG_DIR")))
   (org-agenda-custom-commands
    '(("X" agenda "" nil ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
