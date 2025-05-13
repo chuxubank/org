@@ -57,3 +57,9 @@
    '(("X" agenda "" nil ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
   (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
+
+(use-package bbdb
+  :custom
+  (bbdb-file (expand-file-name "bbdb.gpg" (getenv "ORG_DIR")))
+  :config
+  (bbdb-initialize))
