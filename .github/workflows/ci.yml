@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ORG_DIR: ${{ github.workspace }}/org
-      TZ: Asia/Shanghai
       EMACS_VERSION: 30.1
 
     steps:
@@ -47,9 +46,6 @@ jobs:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
           fingerprint: "4A3496EF07412374837EE08E7809CD8BE0FB2C96"
-
-      - name: Install packages
-        run: ls /usr/share/zoneinfo/Asia
 
       - name: Setup Pages
         id: pages
