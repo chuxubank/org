@@ -1,3 +1,5 @@
+;; -*- lexical-binding: t; -*-
+
 (set-time-zone-rule nil)
 (package-initialize)
 
