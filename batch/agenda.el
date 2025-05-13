@@ -1,3 +1,4 @@
+(set-time-zone-rule nil)
 (package-initialize)
 
 (use-package org
