@@ -44,7 +44,7 @@
   :custom
   (org-agenda-file-regexp "\\`[^.].*\\.org\\(\\.gpg\\)?\\'")
   (org-agenda-include-diary t)
-  (org-agenda-show-current-time-in-grid nil)
+  (org-agenda-show-current-time-in-grid t)
   (org-agenda-skip-scheduled-if-done t)
   (org-agenda-skip-deadline-if-done t)
   (org-agenda-skip-deadline-prewarning-if-scheduled t)
