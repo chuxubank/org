@@ -1,3 +1,5 @@
+#+TITLE: Play
+
 * CS:GO
 
 ** Dust 2
@@ -9,4 +11,6 @@
 
 *** [[bili:BV1Nb4y1o7rS]]
 **** [[video:https://www.bilibili.com/video/BV1Nb4y1o7rS#0:00:07][0:00:07]] 红箱烟
+
+* 模拟太空飞行
 
