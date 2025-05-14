@@ -15,7 +15,7 @@
 - Diplomat
 - Confident Individualism
 | Extraverted | *Introverted* | 64% |
-| *Intuitive*   | Observant   | 52% |
+| *Intuitive* | Observant     | 52% |
 | Thinking    | *Feeling*     | 56% |
-| *Judging*     | Prospecting | 64% |
-| *Assertive*   | Turbulent   | 53% |
+| *Judging*   | Prospecting   | 64% |
+| *Assertive* | Turbulent     | 53% |
