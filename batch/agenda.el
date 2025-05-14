@@ -60,6 +60,7 @@
   (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
 
 (use-package bbdb
+  :ensure t
   :custom
   (bbdb-file (expand-file-name "bbdb.gpg" (getenv "ORG_DIR")))
   :config
