@@ -99,3 +99,7 @@ SCHEDULED: <2025-05-03 Sat>
 https://github.com/yangshun/tech-interview-handbook
 * TODO 学习日语
 * TODO 国际驾照
+* TODO 学习拍照
+[[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
+Fuji Classic Negative
+https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
