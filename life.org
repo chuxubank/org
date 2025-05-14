@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
-* TODO Eat fruit
-SCHEDULED: <2025-05-14 Wed 20:10 .+2d>
+* STRT Eat fruit
+SCHEDULED: <2025-05-16 Fri 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-05-12 Mon 23:05]
+:LAST_REPEAT: [2025-05-14 Wed 22:41]
 :END:
+- State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 23:05]
 - State "DONE"       from "TODO"       [2025-05-10 Sat 10:32]
 - State "DONE"       from "TODO"       [2025-05-06 Tue 21:50]
@@ -372,12 +373,13 @@ SCHEDULED: <2024-09-24 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-12 Thu 08:11]
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
-* TODO Do exercise
-SCHEDULED: <2025-05-14 Wed .+2d/3d>
+* STRT Do exercise
+SCHEDULED: <2025-05-16 Fri .+2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2025-05-12 Mon 17:37]
+:LAST_REPEAT: [2025-05-14 Wed 22:41]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 17:37]
 - State "DONE"       from "TODO"       [2025-05-05 Mon 16:40]
 - State "DONE"       from "TODO"       [2025-03-25 Tue 10:00]
@@ -952,12 +954,13 @@ SCHEDULED: <2025-05-11 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-08-22 Thu 12:18]
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
-* TODO Drink water
-SCHEDULED: <2025-05-14 Wed 14:10 .+1d>
+* STRT Drink water
+SCHEDULED: <2025-05-15 Thu 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-05-13 Tue 15:00]
+:LAST_REPEAT: [2025-05-14 Wed 22:41]
 :END:
+- State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-13 Tue 15:00]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 17:37]
 - State "DONE"       from "TODO"       [2025-05-11 Sun 09:54]
