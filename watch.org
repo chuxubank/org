@@ -45,6 +45,8 @@ DEADLINE: <2025-07-23 Wed> SCHEDULED: <2025-05-13 Tue +1d>
 ** TODO 神经漫游者
 
 ** TODO 攻壳机动队
+
+** 爱 死亡 机器人
 ** STRT 奇诺之旅
 [[bili:md2013]]
 ** STRT 间谍过家家
