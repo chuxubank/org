@@ -319,3 +319,5 @@ n. 商人；批发商；（尤指）进出口批发商；（某活动的）爱�
 na. air quantity; blowing rate | 网络 Air Volume; Air Flow; CFM
 ** insists [ɪnˈsɪst]
 v. 硬要；坚决要求；坚决主张；坚决认为 | 网络 坚持；坚持认为 | Synonym v. maintain,claim,assert,contend,swear | Antonym v. deny
+** alphabetical [ˌælfəˈbetɪk(ə)l]
+adj. 按字母（表）顺序的 | 网络 按字母表顺序的；字母的；按字母顺序 | Synonym adj. alphabetic,in order,listed,sequential,consecutive
