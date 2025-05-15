@@ -2,7 +2,7 @@
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
 #+link: imdb    https://www.imdb.com/title/%s
 
-* 番剧 [7/32]
+* 番剧 [7/37]
 ** TODO 四叶游戏
 ** TODO 奇巧计程车
 ** TODO 化物语
@@ -12,14 +12,16 @@
 ** TODO 心理测量者
 ** TODO 好想告诉你
 ** STRT Monster
-[[imdb:tt0434706]]
-DEADLINE: <2025-07-23 Wed> SCHEDULED: <2025-05-13 Tue +1d>
+SCHEDULED: <2025-05-15 Thu>
 :PROPERTIES:
+:REPEAT:   3
+:TRIGGER:  if self has-property?("REPEAT" "75") then self set-property!("REPEAT" inc) scheduled!("+1d") todo!("STRT") endif
 :LAST_REPEAT: [2025-05-13 Tue 15:10]
 :END:
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "STRT"       from "TODO"       [2025-05-12 Mon 08:03]
+[[imdb:tt0434706]]
 ** TODO Hybrid Child
 ** TODO 异种族风俗娘
 ** TODO 来自新世界 :dark:
