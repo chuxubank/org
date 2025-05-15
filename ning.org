@@ -300,11 +300,12 @@ CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22
 4. 我心里不舒服, 可以和你们抱怨, 但是她心里不舒服, 会无处诉说.
 5. 我和你们在一起需要考虑你们的感受, 和朱老师在一起也要考虑她的感受.
 6. 她是个懂事听话的孩子, 希望得到你们的认可, 所以尽量多站在她的角度考虑一些, 因为她很难对你们说不..
-** TODO 门铃充电
-SCHEDULED: <2025-05-13 Tue 20:00 .+10w>
+** STRT 门铃充电
+SCHEDULED: <2025-07-25 Fri 20:00 .+10w>
 :PROPERTIES:
-:LAST_REPEAT: [2025-02-17 Mon 08:11]
+:LAST_REPEAT: [2025-05-16 Fri 07:08]
 :END:
+- State "DONE"       from "TODO"       [2025-05-16 Fri 07:08]
 - State "DONE"       from "TODO"       [2025-02-17 Mon 08:11]
 - State "DONE"       from "TODO"       [2024-11-08 Fri 08:30]
 * Work
