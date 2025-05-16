@@ -374,12 +374,11 @@ SCHEDULED: <2024-09-24 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
 * STRT Do exercise
-SCHEDULED: <2025-05-17 Sat .+2d/3d>
+SCHEDULED: <2025-05-16 Fri .+2d/3d>
 :PROPERTIES:
-:LAST_REPEAT: [2025-05-15 Thu 23:59]
+:LAST_REPEAT: [2025-05-14 Wed 22:41]
 :STYLE: habit
 :END:
-- State "DONE"       from "STRT"       [2025-05-15 Thu 23:59]
 - State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 17:37]
 - State "DONE"       from "TODO"       [2025-05-05 Mon 16:40]
@@ -798,12 +797,13 @@ SCHEDULED: <2025-05-15 Thu 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-24 Mon 16:58]
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
-* TODO Clean Glasses
-SCHEDULED: <2025-05-15 Thu .+3d/5d>
+* STRT Clean Glasses
+SCHEDULED: <2025-05-19 Mon .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-05-12 Mon 10:39]
+:LAST_REPEAT: [2025-05-16 Fri 15:15]
 :END:
+- State "DONE"       from "TODO"       [2025-05-16 Fri 15:15]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 10:39]
 - State "DONE"       from "TODO"       [2025-05-06 Tue 22:17]
 - State "DONE"       from "TODO"       [2025-04-27 Sun 22:46]
