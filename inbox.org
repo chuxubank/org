@@ -1,5 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO Share Xray config with Paul
+SCHEDULED: <2025-05-16 Fri>
 * TODO 带物品
 SCHEDULED: <2025-05-18 Sun>
 - [ ] 钥匙
