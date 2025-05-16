@@ -55,7 +55,7 @@
                               (tags   . " %i %-20:c")
                               (search . " %i %-20:c")))
   (org-agenda-custom-commands
-   '(("X" agenda "" nil ("publish/agenda.html"))
+   '(("X" agenda* "" nil ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
   (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
 
