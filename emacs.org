@@ -1,7 +1,7 @@
 #+title: Emacs
 * Inbox
 ** TODO Update CV
-SCHEDULED: <2025-05-03 Sat>
+SCHEDULED: <2025-05-19 Mon>
 *** DONE Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
