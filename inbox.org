@@ -1,15 +1,15 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO Share Xray config with Paul
+* DONE Share Xray config with Paul
 SCHEDULED: <2025-05-16 Fri>
 :LOGBOOK:
 CLOCK: [2025-05-17 Sat 13:04]
 :END:
-* TODO 带物品
+* DONE 带物品
 SCHEDULED: <2025-05-18 Sun>
-- [ ] 钥匙
-- [ ] 电纸书
-- [ ] 耳机
+- [X] 钥匙
+- [X] 电纸书
+- [X] 耳机
 * TODO 检查 Tesla 设置（盲点摄像头）
 SCHEDULED: <2025-05-16 Fri>
 * TODO 九院复查
