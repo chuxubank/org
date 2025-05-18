@@ -5,7 +5,7 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [20/20]
+* 展览 [20/21]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** TODO 第二届“中国书法大厦杯”书法大奖赛
 DEADLINE: <2025-06-30 Mon> SCHEDULED: <2025-05-24 Sat>
