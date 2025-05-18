@@ -1,6 +1,7 @@
 #+TITLE: Watch
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
 #+link: imdb    https://www.imdb.com/title/%s
+#+link: tyys    https://www.tyys2.com/
 
 * 番剧 [7/37]
 ** TODO 四叶游戏
