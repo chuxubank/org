@@ -100,3 +100,5 @@ https://github.com/yangshun/tech-interview-handbook
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+* TODO 旅行计划
+SCHEDULED: <2025-05-18 Sun>
