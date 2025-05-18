@@ -79,13 +79,14 @@ SCHEDULED: <2018-04-06 Fri>
 CLOSED: [2025-01-18 Sat 10:27]
 - State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
 ** DONE 华尔街之狼
-* 电视 [1/6]
+* 电视 [1/7]
 ** TODO 请回答 1988
 ** TODO 基地
 ** TODO 雪滴花
 ** TODO 我 准时下班
 [2022-01-27 Thu 12:49]
 ** TODO 经常请吃饭的漂亮姐姐
+** TODO 杀戮人机
 ** DONE 半之半
 SCHEDULED: <2021-04-04 Sun 02:23>
 CLOSED: [2021-04-27 Tue 10:18]
