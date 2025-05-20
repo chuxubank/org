@@ -18,6 +18,7 @@ SCHEDULED: <2025-05-15 Thu .+1d>
 :REPEAT:   3
 :TRIGGER:  if self has-property?("REPEAT" "74") then self set-property!("REPEAT" inc) else self scheduled!(rm) todo!(DONE) endif
 :LAST_REPEAT: [2025-05-13 Tue 15:10]
+:REPEAT_TO_STATE: STRT
 :END:
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
