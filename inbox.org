@@ -102,3 +102,5 @@ Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 * TODO 旅行计划
 SCHEDULED: <2025-05-18 Sun>
+Leave: <2025-07-06 Sun>
+Return: <2025-07-25 Fri>
