@@ -1,11 +1,12 @@
 @import url("https://cdn.jsdelivr.net/npm/gruvbox.css/gruvbox-pcs.css");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: monospace;
+  font-family: "Roboto Mono", monospace;
   white-space: pre;
   background-color: var(--bg);
   color: var(--fg);
