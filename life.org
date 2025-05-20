@@ -1,12 +1,12 @@
 #+TITLE: Life
 #+startup: overview
-* STRT Eat fruit
+* TODO Eat fruit
 SCHEDULED: <2025-05-20 Tue 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2025-05-18 Sun 13:24]
 :END:
-- State "DONE"       from "STRT"       [2025-05-18 Sun 13:24]
+- State "DONE"       from "TODO"       [2025-05-18 Sun 13:24]
 - State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 23:05]
 - State "DONE"       from "TODO"       [2025-05-10 Sat 10:32]
@@ -81,7 +81,7 @@ SCHEDULED: <2025-05-18 Sun 20:00 .+6d/9d>
 - State "DONE"       from "TODO"       [2024-04-16 Tue 20:30]
 - State "DONE"       from "TODO"       [2024-04-09 Tue 10:20]
 - State "DONE"       from "TODO"       [2024-03-31 Sun 14:32]
-- State "DONE"       from "STRT"       [2024-03-19 Tue 11:27]
+- State "DONE"       from "TODO"       [2024-03-19 Tue 11:27]
 - State "DONE"       from "TODO"       [2024-03-03 Sun 09:07]
 - State "DONE"       from "TODO"       [2024-02-06 Tue 15:18]
 - State "DONE"       from "TODO"       [2024-01-31 Wed 09:18]
@@ -374,7 +374,7 @@ SCHEDULED: <2024-09-24 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-12 Thu 08:11]
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
-* STRT Do exercise
+* TODO Do exercise
 SCHEDULED: <2025-05-16 Fri .+2d/3d>
 :PROPERTIES:
 :LAST_REPEAT: [2025-05-14 Wed 22:41]
@@ -549,13 +549,13 @@ SCHEDULED: <2025-05-16 Fri .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-22 Sun 22:34]
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
-* STRT Shave
+* TODO Shave
 SCHEDULED: <2025-05-23 Fri 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2025-05-19 Mon 10:08]
 :END:
-- State "DONE"       from "STRT"       [2025-05-19 Mon 10:08]
+- State "DONE"       from "TODO"       [2025-05-19 Mon 10:08]
 - State "DONE"       from "TODO"       [2025-05-17 Sat 11:04]
 - State "DONE"       from "TODO"       [2025-05-11 Sun 11:16]
 - State "DONE"       from "TODO"       [2025-05-07 Wed 16:40]
@@ -653,7 +653,7 @@ SCHEDULED: <2025-05-23 Fri 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2023-10-24 Tue 13:40]
 - State "DONE"       from "TODO"       [2023-10-19 Thu 09:16]
 - State "DONE"       from "TODO"       [2023-10-11 Wed 09:07]
-- State "DONE"       from "STRT"       [2023-10-09 Mon 14:16]
+- State "DONE"       from "TODO"       [2023-10-09 Mon 14:16]
 - State "DONE"       from "TODO"       [2023-09-28 Thu 09:38]
 - State "DONE"       from "TODO"       [2023-09-22 Fri 16:09]
 - State "DONE"       from "TODO"       [2023-09-10 Sun 14:15]
@@ -800,13 +800,13 @@ SCHEDULED: <2025-05-23 Fri 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-24 Mon 16:58]
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
-* STRT Clean Glasses
+* TODO Clean Glasses
 SCHEDULED: <2025-05-22 Thu .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2025-05-19 Mon 09:49]
 :END:
-- State "DONE"       from "STRT"       [2025-05-19 Mon 09:49]
+- State "DONE"       from "TODO"       [2025-05-19 Mon 09:49]
 - State "DONE"       from "TODO"       [2025-05-16 Fri 15:15]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 10:39]
 - State "DONE"       from "TODO"       [2025-05-06 Tue 22:17]
@@ -965,9 +965,9 @@ SCHEDULED: <2025-05-19 Mon 14:10 .+1d>
 :STYLE: habit
 :LAST_REPEAT: [2025-05-18 Sun 13:23]
 :END:
-- State "DONE"       from "STRT"       [2025-05-18 Sun 13:23]
-- State "DONE"       from "STRT"       [2025-05-16 Fri 23:59]
-- State "DONE"       from "STRT"       [2025-05-16 Fri 16:57]
+- State "DONE"       from "TODO"       [2025-05-18 Sun 13:23]
+- State "DONE"       from "TODO"       [2025-05-16 Fri 23:59]
+- State "DONE"       from "TODO"       [2025-05-16 Fri 16:57]
 - State "DONE"       from "TODO"       [2025-05-14 Wed 22:41]
 - State "DONE"       from "TODO"       [2025-05-13 Tue 15:00]
 - State "DONE"       from "TODO"       [2025-05-12 Mon 17:37]
