@@ -1,15 +1,9 @@
 @import url("https://cdn.jsdelivr.net/npm/gruvbox.css/gruvbox-pcs.css");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&display=swap");
 
 * {
   box-sizing: border-box;
-}
-
-pre {
-  font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
 }
 
 body {
@@ -17,6 +11,13 @@ body {
   white-space: pre;
   background-color: var(--bg);
   color: var(--fg);
+}
+
+pre {
+  font-family: "Roboto Mono", "LXGW WenKai Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 :root {
