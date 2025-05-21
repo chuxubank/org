@@ -5,11 +5,15 @@
   box-sizing: border-box;
 }
 
-body {
+pre {
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+body {
+  font-family: monospace;
   white-space: pre;
   background-color: var(--bg);
   color: var(--fg);
