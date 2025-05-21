@@ -2,11 +2,6 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 * TODO 检查 Tesla 设置（盲点摄像头）
 SCHEDULED: <2025-05-16 Fri>
-* TODO 九院复查
-SCHEDULED: <2025-05-18 Sun>
-** TODO 检验报告
-** TODO 右肩上方脂肪块
-** TODO 之前有过幽门螺杆菌
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
