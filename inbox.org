@@ -1,5 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO 拿快递
+SCHEDULED: <2025-05-22 Thu 19:00>
 * TODO 检查 Tesla 设置（盲点摄像头）
 SCHEDULED: <2025-05-22 Thu 19:00>
 * TODO Blog
