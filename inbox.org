@@ -111,3 +111,5 @@ https://web.blscn.cn/chinese/short_term_visa_tourism.php
 SCHEDULED: <2025-05-26 Mon>
 **** TODO 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
+* TODO 餐巾纸
+SCHEDULED: <2025-05-25 Sun>
