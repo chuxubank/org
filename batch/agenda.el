@@ -59,7 +59,7 @@
    '(("X" agenda "" ((org-agenda-span 14)) ("publish/agenda.html"))
      ("Y" alltodo "" nil ("publish/todo.html"))))
   (org-agenda-current-time-string
-   "← now ───────────────────────────────────────────────")
+   "← now ───────────────────────────────")
   (org-agenda-export-html-style "<link rel=\"stylesheet\" type=\"text/css\" href=\"assets/style.css\">"))
 
 (use-package bbdb
