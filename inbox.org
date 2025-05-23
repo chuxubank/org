@@ -104,7 +104,10 @@ https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100
 SCHEDULED: <2025-05-18 Sun>
 Leave: <2025-07-06 Sun>
 Return: <2025-07-25 Fri>
-** TODO 在职薪资证明
+** TODO 签证
+DEADLINE: <2025-06-21 Sat>
+https://web.blscn.cn/chinese/short_term_visa_tourism.php
+*** TODO 在职薪资证明
 SCHEDULED: <2025-05-26 Mon>
-*** TODO 确认年薪资
+**** TODO 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
