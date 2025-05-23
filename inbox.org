@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO Costco的鞋子
+* TODO Costco 的鞋子
 SCHEDULED: <2025-05-23 Fri>
 * DONE 拿快递
 SCHEDULED: <2025-05-22 Thu 19:00>
@@ -104,3 +104,7 @@ https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100
 SCHEDULED: <2025-05-18 Sun>
 Leave: <2025-07-06 Sun>
 Return: <2025-07-25 Fri>
+** TODO 在职薪资证明
+SCHEDULED: <2025-05-26 Mon>
+*** TODO 确认年薪资
+SCHEDULED: <2025-05-25 Sun>
