@@ -2308,6 +2308,60 @@ SCHEDULED: <2025-04-30 Wed>
 而我，也愿成为你此生最温暖的归处。
 
 我爱你。过去、现在、直到永远。
+
+** DONE 加速 Notion
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-05-14 Wed 22:47
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE Build online agenda
+SCHEDULED: <2025-04-28 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-05-14 Wed 22:47
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 带物品
+SCHEDULED: <2025-05-18 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-05-18 Sun 20:22
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 钥匙
+- [X] 电纸书
+- [X] 耳机
+
+** DONE Share Xray config with Paul
+SCHEDULED: <2025-05-16 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-05-18 Sun 20:22
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2025-05-17 Sat 13:04]
+:END:
+
+** DONE 九院复查
+SCHEDULED: <2025-05-18 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-05-21 Wed 15:58
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE 检验报告
+*** DONE 右肩上方脂肪块
+*** DONE 之前有过幽门螺杆菌
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
