@@ -5127,7 +5127,6 @@ SCHEDULED: <2024-11-27 Wed>
 :ARCHIVE_TODO: DONE
 :END:
 
-
 * From licence.org :ARCHIVE:
 
 ** Licenses
