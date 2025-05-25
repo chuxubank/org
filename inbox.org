@@ -6,8 +6,7 @@ SCHEDULED: <2025-05-25 Sun>
 
 * TODO 买遮阳帽
 SCHEDULED: <2025-05-25 Sun>
-
-* TODO Costco 的鞋子
+* TODO Crocs 的鞋子
 SCHEDULED: <2025-05-23 Fri>
 * DONE 拿快递
 SCHEDULED: <2025-05-22 Thu 19:00>
