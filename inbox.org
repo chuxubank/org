@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 买存储卡
+SCHEDULED: <2025-05-26 Mon>
+
 * TODO 买充电头
 SCHEDULED: <2025-05-25 Sun>
 
