@@ -1,6 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 买充电头
+SCHEDULED: <2025-05-25 Sun>
+
+* TODO 买遮阳帽
+SCHEDULED: <2025-05-25 Sun>
+
 * TODO Costco 的鞋子
 SCHEDULED: <2025-05-23 Fri>
 * DONE 拿快递
@@ -111,5 +117,6 @@ https://web.blscn.cn/chinese/short_term_visa_tourism.php
 SCHEDULED: <2025-05-26 Mon>
 **** TODO 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
-* TODO 餐巾纸
-SCHEDULED: <2025-05-25 Sun>
+* DONE 餐巾纸
+CLOSED: [2025-05-25 Sun 23:48] SCHEDULED: <2025-05-25 Sun>
+- State "DONE"       from "TODO"       [2025-05-25 Sun 23:48]
