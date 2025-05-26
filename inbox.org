@@ -47,13 +47,12 @@ Use hugo module
 * TODO 学习 Rust
 SCHEDULED: <2025-07-27 Sun>
 * TODO 重构 Ansible
-SCHEDULED: <2025-02-13 Thu>
+SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
 :END:
 https://github.com/IronicBadger/ansible-role-docker-compose-generator
 * TODO Setup new VPS
-SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
 :TRIGGER: next-sibling scheduled!("++0d")
 :END:
