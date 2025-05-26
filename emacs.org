@@ -40,6 +40,10 @@ https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** STRT 京东账单导入
 SCHEDULED: <2024-12-26 Thu>
+*** TODO 加密敏感文件
+SCHEDULED: <2025-05-26 Mon>
+https://github.com/elasticdog/transcrypt
+https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
 ** WAIT Org-Agenda 自动 pull repo
 https://github.com/gitwatch/gitwatch
 ** IDEA hass.el
