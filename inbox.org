@@ -45,7 +45,7 @@ Use hugo module
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 * TODO 学习 Rust
-SCHEDULED: <2025-05-20 Tue>
+SCHEDULED: <2025-07-27 Sun>
 * DONE 重构 Ansible
 SCHEDULED: <2025-02-13 Thu>
 :PROPERTIES:
@@ -53,7 +53,7 @@ SCHEDULED: <2025-02-13 Thu>
 :END:
 https://github.com/IronicBadger/ansible-role-docker-compose-generator
 * TODO Setup new VPS
-SCHEDULED: <2025-05-26 Mon>
+SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
 :TRIGGER: next-sibling scheduled!("++0d")
 :END:
@@ -89,7 +89,7 @@ SCHEDULED: <2025-05-03 Sat>
 :PROPERTIES:
 :BLOCKER:  previous-sibling
 :END:
-* TODO Bitcoin Whitepaper
+* DONE Bitcoin Whitepaper
 * TODO 刷算法题
 SCHEDULED: <2025-05-19 Mon>
 https://github.com/yangshun/tech-interview-handbook
