@@ -46,7 +46,7 @@ Use hugo module
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 * TODO 学习 Rust
 SCHEDULED: <2025-07-27 Sun>
-* DONE 重构 Ansible
+* TODO 重构 Ansible
 SCHEDULED: <2025-02-13 Thu>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
