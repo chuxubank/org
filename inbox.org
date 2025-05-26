@@ -77,7 +77,7 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://www.conventionalcommits.org/
 * TODO 皮肤科复诊
 * TODO IPTV
-SCHEDULED: <2025-05-03 Sat>
+SCHEDULED: <2025-06-07 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
