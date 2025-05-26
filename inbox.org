@@ -1,20 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 买存储卡
-SCHEDULED: <2025-05-26 Mon>
-
 * TODO 买充电头
 SCHEDULED: <2025-05-25 Sun>
-
 * TODO 买遮阳帽
-SCHEDULED: <2025-05-25 Sun>
-* TODO Crocs 的鞋子
-SCHEDULED: <2025-05-23 Fri>
-* DONE 拿快递
-SCHEDULED: <2025-05-22 Thu 19:00>
-* DONE 检查 Tesla 设置（盲点摄像头）
-SCHEDULED: <2025-05-22 Thu 19:00>
+SCHEDULED: <2025-05-26 Mon 18:00>
+* TODO 找 Crocs 的鞋子
+SCHEDULED: <2025-05-31 Sat>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
