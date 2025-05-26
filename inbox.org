@@ -1,8 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 买充电头
-SCHEDULED: <2025-05-25 Sun>
 * TODO 买遮阳帽
 SCHEDULED: <2025-05-26 Mon 18:00>
 * TODO 找 Crocs 的鞋子
@@ -109,8 +107,7 @@ DEADLINE: <2025-06-21 Sat>
 https://web.blscn.cn/chinese/short_term_visa_tourism.php
 *** TODO 在职薪资证明
 SCHEDULED: <2025-05-26 Mon>
-**** TODO 确认年薪资
+**** DONE 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
-* DONE 餐巾纸
-CLOSED: [2025-05-25 Sun 23:48] SCHEDULED: <2025-05-25 Sun>
-- State "DONE"       from "TODO"       [2025-05-25 Sun 23:48]
+*** TODO 营业执照
+SCHEDULED: <2025-05-26 Mon>
