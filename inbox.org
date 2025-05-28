@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 买遮阳帽
+* DONE 买遮阳帽
 SCHEDULED: <2025-05-26 Mon 18:00>
 * TODO 找 Crocs 的鞋子
 SCHEDULED: <2025-05-31 Sat>
