@@ -8,6 +8,13 @@ SCHEDULED: <2024-09-01 Sun>
 SCHEDULED: <2025-02-27 Thu>
 ** TODO Try lsp-proxy
 https://github.com/jadestrong/lsp-proxy
+** TODO Add AI power to Emacs
+SCHEDULED: <2025-05-28 Wed>
+https://github.com/ahyatt/llm
+https://github.com/karthink/gptel
+*** Git commit message
+https://github.com/douo/magit-gptcommit
+https://github.com/ragnard/gptel-magit
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
