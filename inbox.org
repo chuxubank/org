@@ -107,9 +107,9 @@ Return: <2025-07-25 Fri>
 ** TODO 签证
 DEADLINE: <2025-06-21 Sat>
 https://web.blscn.cn/chinese/short_term_visa_tourism.php
-*** TODO 在职薪资证明
+*** DONE 在职薪资证明
 SCHEDULED: <2025-05-26 Mon>
 **** DONE 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
-*** TODO 营业执照
+*** DONE 营业执照
 SCHEDULED: <2025-05-26 Mon>
