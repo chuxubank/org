@@ -1,8 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* DONE 买遮阳帽
-SCHEDULED: <2025-05-26 Mon 18:00>
 * TODO 找 Crocs 的鞋子
 SCHEDULED: <2025-05-31 Sat>
 * TODO Blog
@@ -113,3 +111,5 @@ SCHEDULED: <2025-05-26 Mon>
 SCHEDULED: <2025-05-25 Sun>
 *** DONE 营业执照
 SCHEDULED: <2025-05-26 Mon>
+*** TODO 申请退款
+SCHEDULED: <2025-06-02 Mon>
