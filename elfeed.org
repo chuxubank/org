@@ -21,34 +21,33 @@ https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/ra
 ** Tech :tech:
 *** [[https://sspai.com/feed][少数派]] :sspai:
 *** [[https://rsshub.app/chaping/newsflash][差评-快讯]] :chaping:
-*** Blog :blog:
-**** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
-**** [[http://www.aaronsw.com/2002/feeds/pgessays.rss][Paul Graham: Essays]]
+** Blog :blog:
+*** [[https://jvns.ca/atom.xml][Julia Evans]] :computer:
+*** [[http://www.aaronsw.com/2002/feeds/pgessays.rss][Paul Graham: Essays]]
 Paul Graham (/ɡræm/; born 1964) is an English-born American computer scientist, essayist, entrepreneur, venture capitalist, and author. He is best known for his work on the programming language Lisp, his former startup Viaweb (later renamed Yahoo! Store), cofounding the influential startup accelerator and seed capital firm Y Combinator, his essays, and Hacker News. He is the author of several computer programming books, including: On Lisp, ANSI Common Lisp, and Hackers & Painters. Technology journalist Steven Levy has described Graham as a "hacker philosopher".
 https://en.wikipedia.org/wiki/Paul_Graham_(programmer)
-**** [[https://daringfireball.net/feeds/main][Daring Fireball]] :markdown:
+*** [[https://daringfireball.net/feeds/main][Daring Fireball]] :markdown:
 John Gruber (born 1973) is a technology blogger, UI designer, and one of the inventors of the Markdown markup language.
 https://en.wikipedia.org/wiki/John_Gruber
-**** [[https://cate.blog/feed/][Accidentally in Code]]
+*** [[https://cate.blog/feed/][Accidentally in Code]]
 Cate is an Engineering Director at DuckDuckGo and an advisor at Glowforge.
 https://cate.blog/about/
-**** [[https://feeds.kottke.org/main][Jason Kottke]]
+*** [[https://feeds.kottke.org/main][Jason Kottke]]
 Jason Kottke (born September 27, 1973) is an American blogger, graphic designer, and web designer known for his blog Kottke.org. He won a Lifetime Achievement Award as a blogger. As of July 2013, his blog is ranked #66 overall and #20 in Science on the Technorati Top 100.
 https://en.wikipedia.org/wiki/Jason_Kottke
-**** [[https://yinwang1.substack.com/feed][垠的备忘录]]
-**** [[https://archive.casouri.cc/note/atom.xml][Casouri - Notes]] :emacs:
-**** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
-**** [[https://hadi.timachi.com/rss.rss][Hadi Timachi]] :physicist:emacs:
-**** [[https://xenodium.com/rss.xml][Xenodium]] :emacs:
-**** [[https://peregrinator.site/blog/feed.xml][Brihadeesh]] :emacs:
-**** [[https://www.mistys-internet.website/blog/atom.xml][The Future Is Now - Misty De Méo]] :mac:
-**** [[https://antfu.me/feed.xml][antfu]] :web:
-**** [[https://onevcat.com/feed.xml][onevcat]] :ios:
-**** [[https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml][Yihong]] :health:
-**** Apple :apple:
-***** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :swift:
-***** [[https://shapeof.com/rss.xml][The Shape of Everything]] :mac:
-***** [[https://ericasadun.com/feed/][Erica Sadun]] :xcode:
+*** [[https://yinwang1.substack.com/feed][垠的备忘录]]
+*** [[https://archive.casouri.cc/note/atom.xml][Casouri - Notes]] :emacs:
+*** [[https://karthinks.com/index.xml][Karthinks]] :emacs:
+*** [[https://hadi.timachi.com/rss.rss][Hadi Timachi]] :physicist:emacs:
+*** [[https://xenodium.com/rss.xml][Xenodium]] :emacs:
+*** [[https://peregrinator.site/blog/feed.xml][Brihadeesh]] :emacs:
+*** [[https://www.mistys-internet.website/blog/atom.xml][The Future Is Now - Misty De Méo]] :mac:
+*** [[https://antfu.me/feed.xml][antfu]] :web:
+*** [[https://onevcat.com/feed.xml][onevcat]] :ios:
+*** [[https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml][Yihong]] :health:
+*** [[https://beckyhansmeyer.com/feed/][Becky Hansmeyer]] :apple:swift:
+*** [[https://shapeof.com/rss.xml][The Shape of Everything]] :apple:mac:
+*** [[https://ericasadun.com/feed/][Erica Sadun]] :apple:xcode:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
