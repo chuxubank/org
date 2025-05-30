@@ -1,5 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO 存款
+SCHEDULED: <2025-05-30 Fri>
 * DONE 带礼物到公司
 SCHEDULED: <2025-05-30 Fri>
 * TODO 买小水吧
@@ -117,5 +120,6 @@ SCHEDULED: <2025-05-25 Sun>
 SCHEDULED: <2025-05-26 Mon>
 *** TODO 申请退款
 SCHEDULED: <2025-06-02 Mon>
-*** TODO 拿在职证明回家
-SCHEDULED: <2025-05-30 Fri>
+*** DONE 拿在职证明回家
+CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
+- State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
