@@ -5,7 +5,7 @@
 SCHEDULED: <2025-05-30 Fri>
 * DONE 带礼物到公司
 SCHEDULED: <2025-05-30 Fri>
-* TODO 买小水吧
+* TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
 
 * TODO 找 Crocs 的鞋子
