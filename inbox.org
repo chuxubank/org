@@ -129,5 +129,5 @@ SCHEDULED: <2025-06-02 Mon>
 35mm*45mm
 *** TODO 申请表签字
 SCHEDULED: <2025-06-02 Mon>
-*** TODO 西班牙飞意大利机票预订单
+*** TODO 西班牙（Seville）飞意大利（Rome）机票预订单
 SCHEDULED: <2025-06-02 Mon>
