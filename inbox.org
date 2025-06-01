@@ -1,6 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO 存款
+* DONE 存款
 SCHEDULED: <2025-05-30 Fri>
 * DONE 带礼物到公司
 SCHEDULED: <2025-05-30 Fri>
