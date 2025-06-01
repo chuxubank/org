@@ -124,3 +124,6 @@ CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
 - State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
 *** TODO 复印房产证
 SCHEDULED: <2025-06-02 Mon>
+*** TODO 准备照片
+SCHEDULED: <2025-06-02 Mon>
+35mm*45mm
