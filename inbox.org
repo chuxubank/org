@@ -127,3 +127,5 @@ SCHEDULED: <2025-06-02 Mon>
 *** TODO 准备照片
 SCHEDULED: <2025-06-02 Mon>
 35mm*45mm
+*** TODO 申请表签字
+SCHEDULED: <2025-06-02 Mon>
