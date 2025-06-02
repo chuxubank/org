@@ -10,7 +10,7 @@ SCHEDULED: <2025-05-18 Sun>
 ** KILL 询问 iPhone 充电线
 SCHEDULED: <2025-05-24 Sat>
 ** TODO 询问移动硬盘
-SCHEDULED: <2025-05-31 Sat>
+SCHEDULED: <2025-06-07 Sat>
 ** DONE 询问无线充电底座
 SCHEDULED: <2025-05-22 Thu>
 * Notes
