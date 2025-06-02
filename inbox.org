@@ -1,12 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* DONE 存款
-SCHEDULED: <2025-05-30 Fri>
-* DONE 带礼物到公司
-SCHEDULED: <2025-05-30 Fri>
 * TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
-
 * TODO 找 Crocs 的鞋子
 SCHEDULED: <2025-06-06 Fri>
 * TODO Blog
