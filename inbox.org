@@ -85,7 +85,7 @@ SCHEDULED: <2025-06-07 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 修复地下室网关 M1S
-SCHEDULED: <2025-05-30 Fri>
+SCHEDULED: <2025-06-06 Fri>
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
@@ -108,7 +108,7 @@ https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100
 SCHEDULED: <2025-05-18 Sun>
 Leave: <2025-07-06 Sun>
 Return: <2025-07-25 Fri>
-** TODO 签证
+** WAIT 签证
 DEADLINE: <2025-06-21 Sat>
 https://web.blscn.cn/chinese/short_term_visa_tourism.php
 *** DONE 在职薪资证明
