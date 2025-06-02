@@ -8,7 +8,7 @@ SCHEDULED: <2025-05-30 Fri>
 SCHEDULED: <2025-05-30 Fri>
 
 * TODO 找 Crocs 的鞋子
-SCHEDULED: <2025-05-31 Sat>
+SCHEDULED: <2025-06-06 Fri>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
@@ -122,13 +122,13 @@ SCHEDULED: <2025-06-02 Mon>
 *** DONE 拿在职证明回家
 CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
 - State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
-*** TODO 复印房产证
+*** DONE 复印房产证
 SCHEDULED: <2025-06-02 Mon>
-*** TODO 准备照片
+*** DONE 准备照片
 SCHEDULED: <2025-06-02 Mon>
 35mm*45mm
-*** TODO 申请表签字
+*** DONE 申请表签字
 SCHEDULED: <2025-06-02 Mon>
-*** TODO 西班牙（Seville）飞意大利（Rome）机票预订单
+*** KILL 西班牙（Seville）飞意大利（Rome）机票预订单
 SCHEDULED: <2025-06-02 Mon>
 <2025-07-16 Wed>
