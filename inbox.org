@@ -106,13 +106,14 @@ Return: <2025-07-25 Fri>
 ** WAIT 签证
 DEADLINE: <2025-06-21 Sat>
 https://web.blscn.cn/chinese/short_term_visa_tourism.php
+https://spain.blscn.cn/CHN/bls/VisaApplicationStatus
 *** DONE 在职薪资证明
 SCHEDULED: <2025-05-26 Mon>
 **** DONE 确认年薪资
 SCHEDULED: <2025-05-25 Sun>
 *** DONE 营业执照
 SCHEDULED: <2025-05-26 Mon>
-*** TODO 申请退款
+*** WAIT 申请退款
 SCHEDULED: <2025-06-02 Mon>
 *** DONE 拿在职证明回家
 CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
