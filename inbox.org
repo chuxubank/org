@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 * TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
-* TODO 添加系统词典
+* TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
 https://kaihao.io/2018/mdict-to-macos-dictionary/
 https://github.com/jjgod/mac-dictionary-kit
