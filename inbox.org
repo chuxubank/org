@@ -130,5 +130,5 @@ SCHEDULED: <2025-06-02 Mon>
 <2025-07-16 Wed>
 *** TODO 拿签证回执单回家
 SCHEDULED: <2025-06-04 Wed 19:00>
-*** TODO 更新酒店付款信息
+*** DONE 更新酒店付款信息
 SCHEDULED: <2025-06-03 Tue>
