@@ -2,6 +2,9 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 * TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
+* TODO 添加系统词典
+https://www.zhihu.com/question/20428599
+https://kaihao.io/2018/mdict-to-macos-dictionary/
 * TODO 找 Crocs 的鞋子
 SCHEDULED: <2025-06-06 Fri>
 * TODO Blog
