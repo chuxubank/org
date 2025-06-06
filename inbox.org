@@ -1,5 +1,17 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO 修复家庭网络
+SCHEDULED: <2025-06-06 Fri>
+
+* TODO 办理MasterCard信用卡
+SCHEDULED: <2025-06-07 Sat>
+
+* TODO 带口罩到车上
+SCHEDULED: <2025-06-08 Sun>
+
+* TODO 带双肩包
+SCHEDULED: <2025-06-08 Sun>
 * TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
 * TODO 添加 macOS 系统词典
