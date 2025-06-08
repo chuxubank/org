@@ -5,7 +5,7 @@ SCHEDULED: <2025-07-26 Sat>
 *** DONE Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
-SCHEDULED: <2025-02-27 Thu>
+SCHEDULED: <2025-06-17 Tue>
 ** TODO Try lsp-proxy
 https://github.com/jadestrong/lsp-proxy
 ** DONE Add AI power to Emacs
@@ -13,7 +13,7 @@ SCHEDULED: <2025-05-28 Wed>
 https://github.com/ahyatt/llm
 https://github.com/karthink/gptel
 ** TODO Git commit message
-SCHEDULED: <2025-05-29 Thu>
+SCHEDULED: <2025-06-09 Mon>
 https://github.com/douo/magit-gptcommit
 https://github.com/ragnard/gptel-magit
 ** TODO MCP for Emacs
@@ -48,7 +48,7 @@ https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
 *** STRT 京东账单导入
 SCHEDULED: <2024-12-26 Thu>
-*** TODO 加密敏感文件
+*** KILL 加密敏感文件
 SCHEDULED: <2025-05-26 Mon>
 https://github.com/elasticdog/transcrypt
 https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
