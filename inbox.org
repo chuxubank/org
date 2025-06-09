@@ -7,6 +7,12 @@ SCHEDULED: <2025-06-13 Fri>
 * TODO 办理 MasterCard 信用卡
 SCHEDULED: <2025-06-07 Sat>
 
+* TODO Wise Card
+SCHEDULED: <2025-06-09 Mon>
+
+(626) 369-8185
+2401 West Pico Boulevard, Los Angeles, CA 90006
+
 * DONE 带口罩到车上
 SCHEDULED: <2025-06-08 Sun>
 
