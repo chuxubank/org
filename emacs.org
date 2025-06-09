@@ -12,7 +12,7 @@ https://github.com/jadestrong/lsp-proxy
 SCHEDULED: <2025-05-28 Wed>
 https://github.com/ahyatt/llm
 https://github.com/karthink/gptel
-** TODO Git commit message
+** DONE Git commit message
 SCHEDULED: <2025-06-09 Mon>
 https://github.com/douo/magit-gptcommit
 https://github.com/ragnard/gptel-magit
