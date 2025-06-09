@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
 * TODO 修复家庭网络
-SCHEDULED: <2025-06-06 Fri>
+SCHEDULED: <2025-06-13 Fri>
 
 * TODO 办理 MasterCard 信用卡
 SCHEDULED: <2025-06-07 Sat>
