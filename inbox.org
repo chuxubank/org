@@ -24,7 +24,7 @@ CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
 
 (626) 369-8185
 2401 West Pico Boulevard, Los Angeles, CA 90006
-* TODO SafePal Card
+* DONE SafePal Card
 SCHEDULED: <2025-06-10 Tue 20:00>
 * DONE 带口罩到车上
 SCHEDULED: <2025-06-08 Sun>
@@ -152,7 +152,7 @@ SCHEDULED: <2025-05-25 Sun>
 *** DONE 营业执照
 SCHEDULED: <2025-05-26 Mon>
 *** WAIT 申请退款
-DEADLINE: <2025-06-18 Wed> SCHEDULED: <2025-06-02 Mon>
+DEADLINE: <2025-06-18 Wed>
 *** DONE 拿在职证明回家
 CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
 - State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
