@@ -4,10 +4,10 @@
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-13 Fri>
 
-* TODO 注册 IBKR
+* TODO 注册 盈透（IBKR）
 https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 
-** TODO HKBC 入金
+** TODO 汇丰 HKBC 入金
 
 *** WAIT 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-12 Thu>
