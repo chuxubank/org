@@ -4,8 +4,15 @@
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-13 Fri>
 
-* TODO 办理 MasterCard 信用卡
-SCHEDULED: <2025-06-07 Sat>
+* TODO 办理 中国银行 MasterCard 欧元信用卡
+SCHEDULED: <2025-06-11 Wed>
+
+** TODO 带身份证
+SCHEDULED: <2025-06-11 Wed 07:00>
+
+* WAIT 激活 兴业银行 寰宇人生借记卡
+SCHEDULED: <2025-06-12 Thu>
+
 * KILL Wise Card
 CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
 - State "KILL"       from "TODO"       [2025-06-10 Tue 08:33]
