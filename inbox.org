@@ -6,9 +6,9 @@ SCHEDULED: <2025-06-13 Fri>
 
 * TODO 办理 MasterCard 信用卡
 SCHEDULED: <2025-06-07 Sat>
-
-* TODO Wise Card
-SCHEDULED: <2025-06-09 Mon>
+* KILL Wise Card
+CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
+- State "KILL"       from "TODO"       [2025-06-10 Tue 08:33]
 
 (626) 369-8185
 2401 West Pico Boulevard, Los Angeles, CA 90006
