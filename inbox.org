@@ -34,7 +34,7 @@ https://kaihao.io/2018/mdict-to-macos-dictionary/
 https://github.com/jjgod/mac-dictionary-kit
 https://sspai.com/post/43155
 * TODO 找 Crocs 的鞋子
-SCHEDULED: <2025-06-06 Fri>
+SCHEDULED: <2025-06-13 Fri>
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
@@ -107,11 +107,11 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://www.conventionalcommits.org/
 * TODO 皮肤科复诊
 * TODO IPTV
-SCHEDULED: <2025-06-07 Sat>
+SCHEDULED: <2025-06-13 Fri>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 * TODO 修复地下室网关 M1S
-SCHEDULED: <2025-06-06 Fri>
+SCHEDULED: <2025-06-13 Fri>
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
