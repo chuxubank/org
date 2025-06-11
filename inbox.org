@@ -1,6 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 请婚假
+SCHEDULED: <2025-06-12 Thu>
+
+** 扫描结婚证
+SCHEDULED: <2025-06-11 Wed>
+
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-13 Fri>
 
