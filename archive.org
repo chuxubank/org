@@ -2434,6 +2434,57 @@ SCHEDULED: <2025-05-30 Fri>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+** DONE 带身份证
+CLOSED: [2025-06-11 Wed 10:04] SCHEDULED: <2025-06-11 Wed 07:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-11 Wed 10:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: 激活 中国银行 MasterCard 欧元信用卡
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2025-06-11 Wed 10:04]
+
+** KILL Wise Card
+CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-11 Wed 10:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+- State "KILL"       from "TODO"       [2025-06-10 Tue 08:33]
+
+(626) 369-8185
+2401 West Pico Boulevard, Los Angeles, CA 90006
+
+** DONE SafePal Card
+SCHEDULED: <2025-06-10 Tue 20:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-11 Wed 10:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 带口罩到车上
+SCHEDULED: <2025-06-08 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-11 Wed 10:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 带双肩包
+SCHEDULED: <2025-06-08 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-11 Wed 10:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
