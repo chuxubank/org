@@ -11,12 +11,13 @@ https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 
 *** WAIT 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-12 Thu>
+* WAIT 激活 中国银行 MasterCard 欧元信用卡
+DEADLINE: <2025-06-27 Fri> SCHEDULED: <2025-06-20 Fri>
+- State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
 
-* TODO 办理 中国银行 MasterCard 欧元信用卡
-SCHEDULED: <2025-06-11 Wed>
-
-** TODO 带身份证
-SCHEDULED: <2025-06-11 Wed 07:00>
+** DONE 带身份证
+CLOSED: [2025-06-11 Wed 10:04] SCHEDULED: <2025-06-11 Wed 07:00>
+- State "DONE"       from "TODO"       [2025-06-11 Wed 10:04]
 
 * KILL Wise Card
 CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
