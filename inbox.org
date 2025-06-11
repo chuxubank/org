@@ -4,7 +4,7 @@
 * TODO 请婚假
 SCHEDULED: <2025-06-12 Thu>
 
-** 扫描结婚证
+** DONE 扫描结婚证
 SCHEDULED: <2025-06-11 Wed>
 
 * TODO 修复家庭网络
