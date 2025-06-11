@@ -4,43 +4,30 @@
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-13 Fri>
 
-* TODO 注册 盈透(IBKR)
+* DONE 注册 盈透(IBKR)
 https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 
-** TODO 汇丰(HKBC) 入金
+* TODO 汇丰(HKBC) 入金
 
-*** WAIT 激活 兴业银行 寰宇人生借记卡
+* WAIT 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-12 Thu>
+
 * WAIT 激活 中国银行 MasterCard 欧元信用卡
 DEADLINE: <2025-06-27 Fri> SCHEDULED: <2025-06-20 Fri>
 - State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
 
-** DONE 带身份证
-CLOSED: [2025-06-11 Wed 10:04] SCHEDULED: <2025-06-11 Wed 07:00>
-- State "DONE"       from "TODO"       [2025-06-11 Wed 10:04]
-
-* KILL Wise Card
-CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
-- State "KILL"       from "TODO"       [2025-06-10 Tue 08:33]
-
-(626) 369-8185
-2401 West Pico Boulevard, Los Angeles, CA 90006
-* DONE SafePal Card
-SCHEDULED: <2025-06-10 Tue 20:00>
-* DONE 带口罩到车上
-SCHEDULED: <2025-06-08 Sun>
-
-* DONE 带双肩包
-SCHEDULED: <2025-06-08 Sun>
 * TODO 买小水吧桌子
 SCHEDULED: <2025-05-30 Fri>
+
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
 https://kaihao.io/2018/mdict-to-macos-dictionary/
 https://github.com/jjgod/mac-dictionary-kit
 https://sspai.com/post/43155
+
 * TODO 找 Crocs 的鞋子
 SCHEDULED: <2025-06-13 Fri>
+
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
@@ -80,14 +67,17 @@ Use hugo module
 ** PDF 扫描
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
+
 * TODO 学习 Rust
 SCHEDULED: <2025-07-27 Sun>
+
 * TODO 重构 Ansible
 SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
 :END:
 https://github.com/IronicBadger/ansible-role-docker-compose-generator
+
 * TODO Setup new VPS
 :PROPERTIES:
 :TRIGGER: next-sibling scheduled!("++0d")
@@ -96,10 +86,12 @@ https://github.com/IronicBadger/ansible-role-docker-compose-generator
 CLOCK: [2024-12-26 Thu 17:45]--[2024-12-26 Thu 19:45] =>  2:00
 :END:
 https://bandwagonhost.com/services
+
 * TODO Setup OpenWrt
 :PROPERTIES:
 :TRIGGER: next-sibling scheduled!("++0d")
 :END:
+
 * TODO 使用 Ansible 优化 HomeLab
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
@@ -107,35 +99,47 @@ https://bandwagonhost.com/services
 https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_kvm_module.html
 https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
 https://openwrt.org/docs/guide-user/additional-software/opkg
+
 * TODO Conventions
 - https://keepachangelog.com/
 - https://semver.org/
 - https://www.conventionalcommits.org/
+
 * TODO 皮肤科复诊
+
 * TODO IPTV
 SCHEDULED: <2025-06-13 Fri>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
+
 * TODO 修复地下室网关 M1S
 SCHEDULED: <2025-06-13 Fri>
+
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
 :END:
+
 * TODO 整理 Download 文件夹
 :PROPERTIES:
 :BLOCKER:  previous-sibling
 :END:
+
 * DONE Bitcoin Whitepaper
+
 * TODO 刷算法题
 SCHEDULED: <2025-05-19 Mon>
 https://github.com/yangshun/tech-interview-handbook
+
 * TODO 学习日语
+
 * TODO 国际驾照
+
 * TODO 学习拍照
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+
 * TODO 旅行计划
 SCHEDULED: <2025-05-18 Sun>
 Leave: <2025-07-06 Sun>
