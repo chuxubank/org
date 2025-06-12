@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 迁移照片
+SCHEDULED: <2025-06-12 Thu>
+
 * TODO 请婚假
 SCHEDULED: <2025-06-12 Thu>
 
