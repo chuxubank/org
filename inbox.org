@@ -20,7 +20,7 @@ https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 * WAIT 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-12 Thu>
 
-** 拿快递
+** TODO 拿快递
 SCHEDULED: <2025-06-12 Thu 19:00>
 
 * WAIT 激活 中国银行 MasterCard 欧元信用卡
