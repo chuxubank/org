@@ -4,47 +4,65 @@
 SCHEDULED: <2025-07-26 Sat>
 *** DONE Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
+
 ** TODO Emacs on Android
 SCHEDULED: <2025-06-17 Tue>
+
 ** TODO Try lsp-proxy
 https://github.com/jadestrong/lsp-proxy
+
 ** DONE Add AI power to Emacs
 SCHEDULED: <2025-05-28 Wed>
 https://github.com/ahyatt/llm
 https://github.com/karthink/gptel
 https://github.com/xenodium/chatgpt-shell
+
 ** DONE Git commit message
 SCHEDULED: <2025-06-09 Mon>
 https://github.com/douo/magit-gptcommit
 https://github.com/ragnard/gptel-magit
+
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
 https://aider.chat/docs/recordings/tree-sitter-language-pack.html
+
 ** TODO scrcpy for Emacs
+
 ** TODO Make image scroll smooth
 https://github.com/casouri/iscroll
 https://github.com/ginqi7/image-slicing
 https://github.com/jcfk/org-sliced-images
 insert-sliced-image
+
 ** TODO Fix [[file:~/.config/emacs/cats/+windows.el::(use-package golden-ratio][golden-ratio]] with avy-window
+
 ** TODO Fix use-package with package-selected-packages
+
 ** TODO Change personal config to use (provide 'x)
 *** TODO Use featurep instead of package-installed-p
+
 ** TODO Learn org babel and noweb
 https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
+
 ** TODO Extend pinyin-isearch with rime double-pinyin
+
 ** TODO Org handle Open Graph protocol
+
 ** TODO Use Gnus as Mail client
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
+
 ** TODO flycheck-xray
+
 ** TODO Language Translate and Dictionary
 SCHEDULED: <2025-06-16 Mon>
 *** TODO quick-sdcv
 https://github.com/jamescherti/quick-sdcv.el
+
 ** TODO Display notification from D-Bus on other system like macOS or Windows
 https://github.com/dbus2/zbus
 https://github.com/hoodie/notify-rust
+
 ** STRT beancount 学习记账
 SCHEDULED: <2024-12-26 Thu>
 https://github.com/deb-sig/double-entry-generator
@@ -57,12 +75,16 @@ SCHEDULED: <2024-12-26 Thu>
 SCHEDULED: <2025-05-26 Mon>
 https://github.com/elasticdog/transcrypt
 https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
+
 ** WAIT Org-Agenda 自动 pull repo
 https://github.com/gitwatch/gitwatch
+
 ** IDEA hass.el
 homeassistant
+
 ** KILL Build Emacs as a Java/Kotlin IDE
 SCHEDULED: <2024-04-24 Wed>
+
 ** DONE 使用 mu4e 邮件客户端
 SCHEDULED: <2024-08-07 Wed>
 https://mmogilvi.users.sourceforge.net/software/oauthbearer.html
