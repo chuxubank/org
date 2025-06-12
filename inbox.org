@@ -4,12 +4,6 @@
 * TODO 迁移照片
 SCHEDULED: <2025-06-12 Thu>
 
-* TODO 请婚假
-SCHEDULED: <2025-06-12 Thu>
-
-** DONE 扫描结婚证
-SCHEDULED: <2025-06-11 Wed>
-
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-13 Fri>
 
@@ -157,6 +151,9 @@ Leave: <2025-07-06 Sun>
 Return: <2025-07-25 Fri>
 ** WAIT 签证
 DEADLINE: <2025-06-20 Fri>
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0wkdy")
+:END:
 https://web.blscn.cn/chinese/short_term_visa_tourism.php
 https://spain.blscn.cn/CHN/bls/VisaApplicationStatus
 PVG10206250143 Xu
@@ -167,8 +164,6 @@ SCHEDULED: <2025-05-26 Mon>
 SCHEDULED: <2025-05-25 Sun>
 *** DONE 营业执照
 SCHEDULED: <2025-05-26 Mon>
-*** WAIT BLS 退款
-DEADLINE: <2025-06-18 Wed>
 *** DONE 拿在职证明回家
 CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
 - State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
@@ -186,3 +181,10 @@ SCHEDULED: <2025-06-02 Mon>
 SCHEDULED: <2025-06-04 Wed 19:00>
 *** DONE 更新酒店付款信息
 SCHEDULED: <2025-06-03 Tue>
+
+** TODO 请婚假
+*** DONE 扫描结婚证
+SCHEDULED: <2025-06-11 Wed>
+
+** WAIT BLS 退款
+DEADLINE: <2025-06-18 Wed>
