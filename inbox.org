@@ -24,9 +24,6 @@ SCHEDULED: <2025-06-13 Fri 07:00>
 DEADLINE: <2025-06-27 Fri> SCHEDULED: <2025-06-20 Fri>
 - State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
 
-* TODO 买小水吧桌子
-SCHEDULED: <2025-05-30 Fri>
-
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
 https://kaihao.io/2018/mdict-to-macos-dictionary/

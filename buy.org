@@ -26,5 +26,7 @@ https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 :PROPERTIES:
 :PRICE:    1088
 :END:
-* TODO Table
+* TODO 小升降桌
 [[jd:100017531886]]
+* TODO 小水吧桌子
+
