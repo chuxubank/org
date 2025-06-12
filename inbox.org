@@ -17,9 +17,11 @@ SCHEDULED: <2025-06-13 Fri>
 https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 
 * TODO 汇丰(HKBC) 入金
-
 * WAIT 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-12 Thu>
+
+** 拿快递
+SCHEDULED: <2025-06-12 Thu 19:00>
 
 * WAIT 激活 中国银行 MasterCard 欧元信用卡
 DEADLINE: <2025-06-27 Fri> SCHEDULED: <2025-06-20 Fri>
