@@ -6,19 +6,19 @@ https://github.com/zkry/yaml-pro
 SCHEDULED: <2025-06-12 Thu>
 
 * TODO 修复家庭网络
-SCHEDULED: <2025-06-13 Fri>
+SCHEDULED: <2025-06-20 Fri>
 
 * DONE 注册 盈透(IBKR)
 https://ndcdyn.interactivebrokers.com/sso/Login?c=t
 
 * TODO 汇丰(HKBC) 入金
-* WAIT 激活 兴业银行 寰宇人生借记卡
+* DONE 激活 兴业银行 寰宇人生借记卡
 SCHEDULED: <2025-06-13 Fri>
 
 ** DONE 拿快递
 SCHEDULED: <2025-06-12 Thu 19:00>
 
-** TODO 带身份证
+** DONE 带身份证
 SCHEDULED: <2025-06-13 Fri 07:00>
 
 * WAIT 激活 中国银行 MasterCard 欧元信用卡
@@ -32,7 +32,7 @@ https://github.com/jjgod/mac-dictionary-kit
 https://sspai.com/post/43155
 
 * TODO 找 Crocs 的鞋子
-SCHEDULED: <2025-06-13 Fri>
+SCHEDULED: <2025-06-20 Fri>
 
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
@@ -114,12 +114,12 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 * TODO 皮肤科复诊
 
 * TODO IPTV
-SCHEDULED: <2025-06-13 Fri>
+SCHEDULED: <2025-07-26 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 
 * TODO 修复地下室网关 M1S
-SCHEDULED: <2025-06-13 Fri>
+SCHEDULED: <2025-06-20 Fri>
 
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
