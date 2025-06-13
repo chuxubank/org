@@ -8,14 +8,11 @@ SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
 SCHEDULED: <2025-06-17 Tue>
 
+** TODO Speed up function startup (background load)
+SCHEDULED: <2025-06-13 Fri>
+
 ** TODO Try lsp-proxy
 https://github.com/jadestrong/lsp-proxy
-
-** DONE Add AI power to Emacs
-SCHEDULED: <2025-05-28 Wed>
-https://github.com/ahyatt/llm
-https://github.com/karthink/gptel
-https://github.com/xenodium/chatgpt-shell
 
 ** DONE Git commit message
 SCHEDULED: <2025-06-09 Mon>
