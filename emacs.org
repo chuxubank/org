@@ -10,6 +10,12 @@ SCHEDULED: <2025-06-17 Tue>
 
 ** TODO Speed up function startup (background load)
 SCHEDULED: <2025-06-13 Fri>
+:PROPERTIES:
+:Effort:   20
+:END:
+:LOGBOOK:
+CLOCK: [2025-06-13 Fri 13:05]
+:END:
 
 ** TODO Try lsp-proxy
 https://github.com/jadestrong/lsp-proxy
