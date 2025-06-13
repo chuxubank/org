@@ -14,7 +14,7 @@ SCHEDULED: <2025-06-13 Fri>
 :Effort:   20
 :END:
 :LOGBOOK:
-CLOCK: [2025-06-13 Fri 13:05]
+CLOCK: [2025-06-13 Fri 13:05]--[2025-06-13 Fri 13:31] =>  0:26
 :END:
 
 ** TODO Try lsp-proxy
