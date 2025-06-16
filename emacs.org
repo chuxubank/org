@@ -8,7 +8,7 @@ SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
 SCHEDULED: <2025-06-17 Tue>
 
-** TODO Speed up function startup (background load)
+** DONE Speed up function startup (background load)
 SCHEDULED: <2025-06-13 Fri>
 :PROPERTIES:
 :Effort:   20
