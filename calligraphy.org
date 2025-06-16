@@ -8,7 +8,7 @@
 * 展览 [20/21]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** TODO 第二届“中国书法大厦杯”书法大奖赛
-SCHEDULED: <2025-06-14 Sat> DEADLINE: <2025-06-30 Mon>
+SCHEDULED: <2025-06-21 Sat> DEADLINE: <2025-06-30 Mon>
 https://mp.weixin.qq.com/s/TRPA-mRM_9vWyIPXNHnNIQ
 ** DONE 全国第二届书法小品展
 SCHEDULED: <2025-02-06 Thu> DEADLINE: <2025-02-22 Sat>
@@ -763,7 +763,7 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** STRT 练字
-SCHEDULED: <2025-06-14 Sat ++2w>
+SCHEDULED: <2025-06-21 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2025-05-18 Sun 13:23]
 :END:
