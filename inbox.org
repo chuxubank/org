@@ -1,6 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO 写委托信并签名
+* DONE 写委托信并签名
 SCHEDULED: <2025-06-16 Mon 19:00>
 * TODO Use yaml-pro
 https://github.com/zkry/yaml-pro
