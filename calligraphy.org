@@ -11,6 +11,9 @@ https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 SCHEDULED: <2025-06-21 Sat> DEADLINE: <2025-06-30 Mon>
 https://mp.weixin.qq.com/s/TRPA-mRM_9vWyIPXNHnNIQ
 *** 苏轼诗词选
+:PROPERTIES:
+:EXPORT_TITLE: \vspace{-3em}释文（苏轼词选）\vspace{-3em}
+:END:
 **** 江城子·东武雪中送客
 相从不觉又初寒。对樽前，惜流年。
 风紧离亭，冰结泪珠圆。雪意留君君不住，从此去，少清欢。转头山上转头看。
