@@ -1,6 +1,6 @@
 #+TITLE: Calligraphy & Seal Carving
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_CLASS_OPTIONS: [11pt]
 # #+LATEX_HEADER: \usepackage{titling}
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
