@@ -1,6 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO 携带转换插座
+* DONE 携带转换插座
 SCHEDULED: <2025-06-17 Tue>
 * DONE 写委托信并签名
 SCHEDULED: <2025-06-16 Mon 19:00>

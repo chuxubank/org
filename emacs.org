@@ -6,7 +6,7 @@ SCHEDULED: <2025-07-26 Sat>
 SCHEDULED: <2024-09-01 Sun>
 
 ** TODO Emacs on Android
-SCHEDULED: <2025-06-17 Tue>
+SCHEDULED: <2025-08-01 Fri>
 
 ** TODO Yaml-Pro
 https://github.com/zkry/yaml-pro
