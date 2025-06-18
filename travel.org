@@ -1,10 +1,10 @@
 * 西班牙
 ** 巴塞罗那
-*** 安普拉特
+*** 安普拉特 El Prat
 SCHEDULED: <2025-07-06 Sun 08:00>
-*** 圣家堂
+*** 圣家堂 Sagrada Familia
 SCHEDULED: <2025-07-08 Tue 10:15>
-*** 巴特罗之家
+*** 巴特罗之家 Casa Batlló
 SCHEDULED: <2025-07-08 Tue 14:45>
 * 法国
 * 意大利
