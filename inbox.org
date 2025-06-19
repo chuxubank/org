@@ -25,7 +25,7 @@ SCHEDULED: <2025-06-12 Thu 19:00>
 ** DONE 带身份证
 SCHEDULED: <2025-06-13 Fri 07:00>
 
-* WAIT 激活 中国银行 MasterCard 欧元信用卡
+* DONE 激活 中国银行 MasterCard 欧元信用卡
 SCHEDULED: <2025-06-19 Thu> DEADLINE: <2025-06-27 Fri>
 - State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
 
