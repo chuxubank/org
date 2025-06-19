@@ -3463,6 +3463,52 @@ SCHEDULED: <2025-06-09 Mon>
 https://github.com/douo/magit-gptcommit
 https://github.com/ragnard/gptel-magit
 
+** DONE Yaml-Pro
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-19 Thu 23:08
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/zkry/yaml-pro
+
+** DONE Speed up function startup (background load)
+SCHEDULED: <2025-06-13 Fri>
+:PROPERTIES:
+:Effort:   20
+:ARCHIVE_TIME: 2025-06-19 Thu 23:08
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2025-06-13 Fri 13:05]--[2025-06-13 Fri 13:31] =>  0:26
+:END:
+
+** DONE Try lsp-proxy
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-19 Thu 23:08
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/jadestrong/lsp-proxy
+
+** DONE Git commit message
+SCHEDULED: <2025-06-09 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-19 Thu 23:08
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/douo/magit-gptcommit
+https://github.com/ragnard/gptel-magit
+
 * From work.org.gpg :crypt:
 -----BEGIN PGP MESSAGE-----
 

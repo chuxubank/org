@@ -8,26 +8,6 @@ SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
 SCHEDULED: <2025-08-01 Fri>
 
-** TODO Yaml-Pro
-https://github.com/zkry/yaml-pro
-
-** DONE Speed up function startup (background load)
-SCHEDULED: <2025-06-13 Fri>
-:PROPERTIES:
-:Effort:   20
-:END:
-:LOGBOOK:
-CLOCK: [2025-06-13 Fri 13:05]--[2025-06-13 Fri 13:31] =>  0:26
-:END:
-
-** TODO Try lsp-proxy
-https://github.com/jadestrong/lsp-proxy
-
-** DONE Git commit message
-SCHEDULED: <2025-06-09 Mon>
-https://github.com/douo/magit-gptcommit
-https://github.com/ragnard/gptel-magit
-
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
