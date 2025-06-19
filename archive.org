@@ -2543,1768 +2543,452 @@ SCHEDULED: <2022-01-14 Fri>
 *** KILL 职位报名
 DEADLINE: <2022-02-25 Fri 18:00> SCHEDULED: <2022-02-21 Mon 09:00>
 *** TODO 整理时代楷模事例
-* From work.org.gpg :ARCHIVE:
-** 上海致研智能 :ARCHIVE:
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-01-11 Tue 10:45
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_CATEGORY: work
-:VISIBILITY: folded
-:END:
-*** 要求
-- 主观能动性
-- 做深 做专
-- 持续学习
-*** WIFI 密码
-- Zhiyan_SH5 :: Zhiyan_SH54321
-- Zhiyan_SH24 :: Zhiyan_SH24321
-- Zhiyan_SH_GUEST :: Zhiyan_SH
-*** 地址
-上海致研智能科技有限公司
-上海市松江区泗泾镇高技路 655 号 2 号楼 106 室
-*** SMB 网络盘
-- SD :: j5aLYQKh
-*** 项目
-**** 机器人
-**** 流通系统
-- server :: sip.i-zhiyan.com:9000
-- user :: sip2dev
-- password :: zhiyan666
-**** 人脸注册机
-***** 青海大学医学院
-服务器端口号：7090
+* From work.org.gpg :crypt:ARCHIVE:
+-----BEGIN PGP MESSAGE-----
 
-配置
-以小端模式读取卡号：开
-使用内建相机：关
-
-登录
-用户名：admin
-密码：awsd4321
-**** 电子书
-***** 借阅机（大屏）
-+ 导入压缩包
-  - 复制文件到系统本地目录（加密）
-  - 将 Excel 文件内容导入到数据库中
-+ 重复书籍
-  - 神秘岛
-  - 兔子坡
-  - 骆驼祥子
-  - 新月集
-  - 城南旧事
-****** 系统参数
-***** 手机端阅读
-***** 少儿阅读测评
-***** 瀑布流
-***** DONE 横向瀑布流
-***** DONE 可以调节的参数（方向、借阅机/瀑布流）
-**** 移动盘点
-- web :: http://192.168.2.12:5001/Home
-- admin :: zhiyan666
-- key :: =ZY-PDC-Y100-20190605=
-- clientid :: =B850-AD4C-FC50-63C5-C6FC-1C64-255A-C2F2=
-- ZY21A3 :: E0040150C22B981E
-- LYG01B23 :: E0040150CD063CD7
-- gy :: 123456
-***** 常州河海实验小学
-- ZY-PDC-Y100-20210514 :: B17F-C768-9478-15E9-AB07-F93A-0226-6206
-***** 十四中
-http://h14zinvapi.i-zhiyan.com
-**** 绿色柜子
-***** 天线
-配置参数-硬件开关-上传天线接口编号
-***** 门控
-调试门控主板
-打开串口调试工具
-测试左侧门控指令，需要现场将读者卡放在读卡器上，选择串口，波特率 38400，发送如下命令：
-#+begin_example
-A7 07 02 02 01 06 表示输出到 2 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 03 01 C2 表示输出到 3 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 04 01 AC 表示输出到 4 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 05 01 68 表示输出到 5 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 06 01 3D 表示输出到 6 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 07 01 F9 表示输出到 7 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-A7 07 02 08 01 E1 表示输出到 8 号口，查看收到的返回的消息，第四个字节对应的门控状态是否改变
-#+end_example
-重复上述步骤检测右侧门对应的输出位和输入状态位
-根据读到的数据确定门控对应的信息
-**** 微型图书馆
-**** ICBC
-[[https://open.icbc.com.cn/icbc/apip/api_list.html?productId=P0039][二维码扫码支付]]
-**** ICMS
-- 天津阅读空间 :: TJYDKJ
-- 上海致研 :: ZHIYAN01
-*** 项目汇总
-| 项目              | 代码位置                                                 | 分支 | 备注      |
-|-------------------+----------------------------------------------------------+------+-----------|
-| 盘点服务器代码    | http://code.zhiyan.com/Jerry.Chu/ZY.Library.Inventory    |      |           |
-| 盘点服务器部署    | http://code.zhiyan.com/Jerry.Chu/inventory-server-docker |      |           |
-|-------------------+----------------------------------------------------------+------+-----------|
-| 移动盘点车        | http://code.zhiyan.com/Android/Inventory_HF              | dev  | HFSMC     |
-| 单开门自动借还    | http://code.zhiyan.com/Jerry.Chu/SelfCheck               |      | SelfCheck |
-| 大屏阅读 + 瀑布流 | http://code.zhiyan.com/Android/ebookapps                 | main | ZY-AD-EBK |
-| 儿童学习机        | http://code.zhiyan.com/Android/xLauncher                 |      | ZY-AD-XLA |
-| 双开门漂流柜      | http://code.zhiyan.com/Android/minicab_d_hf              |      | SPLG-D-HF |
-| 人脸注册机        | http://code.zhiyan.com/Android/FaceRegister              |      | ZY-AD-FRG |
-|-------------------+----------------------------------------------------------+------+-----------|
-| 二维码验证        | http://code.zhiyan.com/Jerry.Chu/zyqr                    |      |           |
-
-| 子模块   | 代码位置                                        |
-| 设备管理 | http://code.zhiyan.com/Jerry.Chu/module-device  |
-| 升级     | http://code.zhiyan.com/Jerry.Chu/module-upgrade |
-| 授权     | http://code.zhiyan.com/Jerry.Chu/module-license |
-
-P.S: 有子模块的项目需要用 ~--recursive~ 选项进行 ~clone~
-
-以上项目文件全部在 =Work.zip/Code= 目录下，Build 生成的 APK 文件全部在 =Work.zip/Apk= 目录下。
-
-部分项目使用了签名，所有签名文件都在 =Work.zip/KeyStore= 目录下，需要自行在 =~/.gradle/gradle.properties= 中声明文件路径。
-例如：
-#+begin_example
-keyStorePath=/home/misaka/Work/Android/KeyStore
-#+end_example
-*** 其他
-共享盘下的 =软件开发部/Jerry Chu/= 的部分文档
-#+begin_example
-├── Android
-│   ├── KeyStore
-│   │   ├── splg-d-hf.jks
-│   │   ├── ZY-AD-EBK.jks
-│   │   ├── ZY-AD-FRG.jks
-│   │   ├── ZY-AD-XLA.jks
-│   │   └── zy_key.jks
-│   ├── Tools
-│   │   └── Android-SerialPort-Tool.apk
-│   └── 刷机
-│       ├── DriverAssitant_v4.5.zip
-│       ├── EB1003_zxV1.0.0_20201017.img
-│       ├── EB1003整机升级.docx
-│       └── FactoryTool_v1.66.zip
-├── Config
-│   ├── 1
-│   │   └── device.xml
-│   ├── 2
-│   │   └── device.xml
-│   ├── 3
-│   │   └── device.xml
-│   ├── 4
-│   │   └── device.xml
-│   ├── atanta
-│   │   └── default.xml
-│   ├── device.xml
-│   └── zhiyan
-│       └── 162D
-│           └── device.xml
-├── Git-2.33.1-64-bit.exe
-├── 交接
-│   ├── work.pdf
-│   ├── Work.zip
-│   ├── 工作交接表-褚旭.xlsx
-│   └── 盘点安装视频
-│       ├── Inventory-1.mp4
-│       ├── Inventory-2.mp4
-│       ├── Inventory-3.mp4
-│       └── 盘点录屏.mp4
-├── 共享
-│   ├── Screenshot from 2021-06-07 10-52-31.png
-│   └── Windows 修改 Host 步骤.md
-├── 文档
-│   ├── 串口
-│   │   ├── USB SerialPort.jpg
-│   │   ├── 二维码读取器
-│   │   │   ├── 7130N_集成手册中英文对照版_V1.0 .pdf
-│   │   │   ├── 7160N规格书.pdf
-│   │   │   ├── 7160集成手册.pdf
-│   │   │   ├── C系列+ak.pdf
-│   │   │   ├── 串口指令说明_V0.9.pdf
-│   │   │   └── 二维条码扫描仪用户指南V 1.2.4.pdf
-│   │   └── 门控板
-│   │       └── 单开门-广东-老版本-锁控板协议规格书（新版）20210118.pdf
-│   ├── 主板
-│   │   ├── Face X2-人脸识别一体机-产品规格书.pdf
-│   │   ├── 亮钻
-│   │   │   ├── K4_mech.dxf
-│   │   │   ├── K4_ RK3399-亮钻科技.pdf
-│   │   │   └── K4主板产品规格书V6(20200709).pdf
-│   │   └── 天奕达
-│   │       └── TYD专业工控板EM50-G规格书.pdf
-│   ├── 接口
-│   │   └── docs_致研读者卡动态二维码接口.docx
-│   ├── 流通
-│   │   └── SIP2 Protocol Definition.pdf
-│   ├── 盘点
-│   │   └── 致研移动盘点车用户手册v1.0.docx
-│   └── 索书号的排列规则.doc
-├── 电子书
-│   ├── books_with_id.xlsx
-│   ├── ZY-AD-EBK.1.0.2.20210930104416.apk
-│   ├── 图书信息.xlsx
-│   └── 精选89.zip
-├── 盘点
-│   ├── 20201207河海小学层架表导入.xlsx
-│   ├── 20201221河海小学层架表增补导入.xlsx
-│   └── 20210716莲湖小学层架表导入.xlsx
-└── 软著
-    ├── MeaQ源代码.docx
-    ├── MeaQ用户手册(1).docx
-    └── MeaQ用户手册.docx
-#+end_example
-** DONE 办理停车
-SCHEDULED: <2022-02-15 Tue 12:00>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-02-15 Tue 09:58
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE [[https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1685913895/New+Engineer+--+Xu+Chu][New Engineer -- Xu Chu]] [0/0]
-DEADLINE: <2022-01-19 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-02-18 Fri 16:12
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Pages
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE [[https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/1685914572/2022-01-05+Onboarding+-+Xu+Chu+Android+Engineer][2022-01-05 Onboarding - Xu Chu (Android Engineer)]] [2/2]
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-02-18 Fri 16:13
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Pages
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-*** DONE Get building access card of 1st floor from front desk and assign to employee
-CLOSED: [2022-02-10 Thu 08:18] SCHEDULED: <2022-01-21 Fri>
-*** DONE Complete the training courses before the due dates
-SCHEDULED: <2022-02-14 Mon> DEADLINE: <2022-04-05 Tue>
-[[https://assaabloya.plateau.com/learning/user/learning/viewCurriculumStatus.do?backto=%2Fuser%2Fpersonal%2FviewPersonalHome.do][Cources]]
-** Video Player
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-03-19 Sat 14:51
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Develop/android-design
-:ARCHIVE_CATEGORY: work
-:END:
-*** ExoPlayer vs IJKPlayer
-** DONE Confirm "Set up lock" title string
-SCHEDULED: <2022-03-23 Wed 10:00>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-03-23 Wed 13:12
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android/Setup Lock V2
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-** DONE 确认播放按钮位置（播放、暂停 UI）
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-03-23 Wed 13:12
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android/Setup Lock V2
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-** DONE AppFeature
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-03-23 Wed 13:12
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Develop/ecosystem-android
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-#+begin_src js
-  {
-    "activityFeedV4": true,
-    "qrsetup": false,
-    "qrsetup-yalechina": true,
-    "qrsetup-panpan": true,
-    "qrsetup-gatemanchina": true,
-    "debugmode": true,
-    "messagingProtocol": "aliMqtt"
-  }
-#+end_src
-** DONE 体检报销
-SCHEDULED: <2022-03-25 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-08-03 Wed 08:13
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Routine
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-杂费
-** DONE Migrate Luna code to China Project [1/1]
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-08-03 Wed 15:46
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-- [X] [[https://bitbucket.org/august_team/luna/src/develop/app/src/main/java/com/august/luna/ble2/ManagedLockConnection.kt][ManagedLockConnection.kt]]
-** DONE 请假
-CLOSED: [2022-08-04 Thu 07:55] SCHEDULED: <2022-08-03 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-08-13 Sat 11:08
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 带零食
-SCHEDULED: <2022-08-10 Wed 07:00>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-08-13 Sat 11:08
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 撤诉申请
-CLOSED: [2022-08-30 Tue 18:36]
-:PROPERTIES:
-:EXPORT_OPTIONS: toc:nil
-:EXPORT_AUTHOR: 褚旭
-:ARCHIVE_TIME: 2022-10-19 Wed 07:50
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ZhiYan/准备社保材料
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-SCHEDULED: <2022-08-17 Wed>
-- State "DONE"       from "TODO"       [2022-08-30 Tue 18:36]
-本人于 <2022-02-25 Fri> 投诉 上海致研职能有限公司 未缴纳 2020 年 2 月 到 3 月的社保费用，但因与单位存在工资收入争议（实际未发放 2020 年 2 月 到 3 月的工资），申请撤诉。
-# 身份证正反面 撤诉专用
-** 撤诉专用
-:PROPERTIES:
-:EXPORT_OPTIONS: toc:nil
-:EXPORT_AUTHOR: 褚旭
-:ARCHIVE_TIME: 2022-10-19 Wed 07:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ZhiYan/准备社保材料
-:ARCHIVE_CATEGORY: work
-:END:
-#+ATTR_LATEX: :width .5\textwidth
-[[file:~/Downloads/IMG_1033.JPG]]
-#+ATTR_LATEX: :width .5\textwidth
-[[file:~/Downloads/IMG_1034.JPG]]
-** ADP
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-01-31 Tue 08:33
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_CATEGORY: work
-:END:
-Hi all, 最近群里消息比较多，在这里帮大家做一下整理:
-
-1. 为了保护其他决赛圈的同事,请大家遵循以下要求：
-（1） 阳性人员须经 7 天居家隔离医学观察，于第 8 天持有核酸单管阴性证明或抗原阴性证明返回公司；
-（2）密接人员须经 5 天居家隔离医学观察，于第 6 天持核酸单管阴性证明或抗原阴性证明返回公司。
-
-2. 申请休假的同事请参考以下文档：https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/263357117/How+to+request+leave+by+ADP
-	•	在微信群“APAC Product Innovation Team”中发送消息时，可参考以下模版：
-FYI: ChuXu will take annual leave on because [reason]. I have submitted a leave request in ADP, which is approved by [Manager]. [Name] will be my backup. Ping me on WeChat or Teams if any emergency. Sorry for the inconvenience. @Angie Xu Please help to record it.”
-
-3. 申请 WFH 的同事在微信群“AA-APAC-Engineers”发送信息，无需在大群发送，可参考 Hui 发送的邮件内容，具体如下（标绿部分为需要替代的内容）：
-	•	Message example #1 for close contact
-[Name] would like to request work from home from 2022/12/01 to 2022/12/05, because my [who] has been tested positive for COVID-19 on 2022/12/01. According to HR’s emails, I need quarantine myself for 5 days starting from 2022/12/01, and could go back to office on 2022/12/06.
-	•	Message example #2 for people tested positive
-[Name] would like to request work from home from 2022/12/01 to 2022/12/07, because I have been tested positive for COVID-19 on 2022/12/01. According to HR’s emails and related policy, I need be quarantined for 7 days starting from 2022/12/01, and could go back to office on 2022/12/08 if I am tested negative.
-
-4. Angie Xu 现在每天都需要统计大家的健康情况反馈给 HR 和 Paul，所以请大家在发送 WFH 申请邮件的时候也抄送给 Angie。
-
-5. Angie Xu 每天都会在本群统计在公司办公人数，大家看到请及时点赞，便于汇总数据。
-
-6. 请自测阳性的同事将自己的身体状态、抗原检测结果及时告知 Angie Xu，Angie 也会根据记录及时提醒各位同事何时可以返回公司上班。
-
-以上内容请大家理解与配合，谢谢～ [🌹]
-** DONE 诸葛
-SCHEDULED: <2023-03-01 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-03-01 Wed 10:37
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: TODO
-:END:
-- [ ] 页面加载速度太慢
-- [ ] 设备信息是否更新
-- 用户详情页面
-  + [ ] 没有刷新功能
-  + [ ] 用户事件顺序
-  + [ ] 根据设备筛选
-  + [ ] IP 解析不对
-  + [ ] 事件更新速度太慢
-  + [ ] 设备型号直接对应的设备名称
-    - 如 22041211AC 对应 Redmi K50
-- [ ] 错误事件名称无法删除 (脏数据)
-- [ ] 长列表没有分页
-- [ ] 匿名用户 Userid: 登出状态下的事件
-  - iOS 新装/覆盖安装/注销/登出：注册流程都是记录在上一个用户名上
-  - Android 新装：匿名用户覆盖安装/注销/登出：上一个用户名上
-** DONE RNA-6511 给 QA 列出测试范围
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-| File Name                                          | Change Type                               | Affect Pages                     | Notes                       |
-| app/build.gradle                                   | Remove Package & Plugin                   | N/A                              | Do Not Need Test            |
-| .../util/lockselector/LockSelectorFragment.kt      | kotlin-android-extensions -> findViewById | OrihsAccessRequestDetailFragment | Not Used In Eco-system Apps |
-| .../util/recycler/BaseRecyclerFragment.kt          | Reformat                                  | N/A                              | Do Not Need Test            |
-| .../OrihsLockDescriptionActivity.kt                | kotlin-android-extensions -> viewBinding  | OrihsLockDescriptionActivity     | Not Used In Eco-system Apps |
-| .../OrihsLockDescriptionFragment.kt                | kotlin-android-extensions -> viewBinding  | OrihsLockDescriptionFragment     | Not Used In Eco-system Apps |
-| .../v1/lockselector/OrihsLockSelectorActivity.kt   | kotlin-android-extensions -> viewBinding  | OrihsLockSelectorActivity        | Not Used In Eco-system Apps |
-| .../v1/request/OrihsAccessRequestDetailActivity.kt | kotlin-android-extensions -> viewBinding  | OrihsAccessRequestDetailActivity | Not Used In Eco-system Apps |
-| .../v1/request/OrihsAccessRequestDetailFragment.kt | kotlin-android-extensions -> viewBinding  | OrihsAccessRequestDetailFragment | Not Used In Eco-system Apps |
-| .../house/activityFeed/ActivityFeedV3Fragment.kt   | kotlin-android-extensions -> findViewById | ActivityFeedV3Fragment           | Need Test                   |
-| .../thirdparty/ThirdPartyResultActivity.kt         | kotlin-android-extensions -> viewBinding  | ThirdPartyResultActivity         | Need Test                   |
-| .../ui/setup/lock/ModuleNotConnectLockFragment.kt  | kotlin-android-extensions -> viewBinding  | ModuleNotConnectLockFragment     | Old Code in LockSetupV1     |
-| .../luna/ui/setup/policy/PolicyDialogFragment.kt   | kotlin-android-extensions -> viewBinding  | PolicyDialogFragment             | Need Test                   |
-| .../luna/ui/setup/policy/PolicyWebviewActivity.kt  | kotlin-android-extensions -> viewBinding  | PolicyWebviewActivity            | Need Test                   |
-| .../main/res/layout/activity_policy_webview.xml    | add id                                    | PolicyWebviewActivity            | Need Test                   |
-| .../fragment_orihs_delivery_instructions.xml       | add id                                    | OrihsLockDescriptionFragment     | Not Used In Eco-system Apps |
-** DONE 给 UI 关于 WebView Error 的图
-SCHEDULED: <2022-09-21 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 告知 Android WebView 无滚动效果
-SCHEDULED: <2022-09-21 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 更新 Story
-SCHEDULED: <2022-09-21 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 选择 Story
-SCHEDULED: <2022-09-14 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-https://assaabloyapac.atlassian.net/jira/dashboards/10767
-** DONE 报销
-DEADLINE: <2022-12-16 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 完成机器人开发
-CLOSED: [2023-04-07 Fri 23:50] DEADLINE: <2023-03-15 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:52
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-04-07 Fri 23:50]
-** DONE BottomSheet
-CLOSED: [2023-03-21 Tue 14:44] SCHEDULED: <2023-03-20 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:53
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-03-21 Tue 14:44]
-[[https://medium.com/@traviswkim/show-an-activity-with-bottomsheet-behavior-1ca2f77285b8][Show an activity with BottomSheet Behavior]]
-** DONE 拍摄机器人视频
-CLOSED: [2023-04-12 Wed 22:00] SCHEDULED: <2023-04-09 Sun>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:53
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-04-12 Wed 22:00]
-** DONE Delete 2022 Duplicated Goal
-CLOSED: [2023-04-27 Thu 00:31] SCHEDULED: <2023-04-24 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:53
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-04-27 Thu 00:31]
-** DONE 完善 BI UT
-SCHEDULED: <2022-09-11 Sun>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:56
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 完成机器人项目
-CLOSED: [2022-10-10 Mon 23:29] DEADLINE: <2022-09-30 Fri> SCHEDULED: <2022-09-25 Sun>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:56
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-10-10 Mon 23:29]
-** DONE 盘点系统
-CLOSED: [2022-11-01 Tue 20:32] DEADLINE: <2022-10-26 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:56
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-11-01 Tue 20:32]
-** DONE 更新第三方库 Technical Requirement
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:57
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE GPS Courses
-CLOSED: [2022-10-20 Thu 18:59] SCHEDULED: <2022-10-14 Fri> DEADLINE: <2022-09-30 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:57
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-10-20 Thu 18:59]
-- State "TODO"       from "DONE"       [2022-09-02 Fri 02:30]
-- State "DONE"       from "TODO"       [2022-09-02 Fri 02:29]
-https://performancemanager.successfactors.eu/sf/home?bplte_company=assaabloya
-** DONE Retrospect report
-SCHEDULED: <2022-09-14 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 15:57
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/1662583440/Retrospective+Reports
-https://assaabloyapac.atlassian.net/browse/RNA-6665
-** DONE 2.19.0 Questions
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:04
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-1. 蓝牙权限的弹框在锁有 Bridge 连接时的逻辑
-   https://assaabloyapac.atlassian.net/browse/RNA-6263
-2. EntryCode/DistressCode 输入母码时的弹框内容
-** DONE 技术分享
-CLOSED: [2022-12-06 Tue 21:42]
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:04
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-12-06 Tue 21:42]
-** DONE 2022 Good Ticket
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:04
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- https://assaabloyapac.atlassian.net/browse/RNA-6282
-- https://assaabloyapac.atlassian.net/browse/RNA-6228
-- https://assaabloyapac.atlassian.net/browse/RNA-6371
-- https://assaabloyapac.atlassian.net/browse/RNA-6511
-- https://assaabloyapac.atlassian.net/browse/RNA-7035
-** DONE 将 PR 的状态和 Ticket 的状态关联
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:05
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** TODO Add build app id to let debug and product together
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:05
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: TODO
-:END:
-** TODO Refact with Flow and data source
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-05-10 Wed 16:05
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: TODO
-:END:
-** DONE GPS Goal
-DEADLINE: <2023-08-25 Fri> SCHEDULED: <2023-08-21 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-06 Wed 23:00
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** KILL 流程改进
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:20
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: KILL
-:END:
-Test Case 修改之后，应该发送邮件告知 Dev ，再次 Review， 等到没有问题之后发送 Frozen 的邮件，这样可以减少后期 Bug 的出现
-- RNA-6292 ：AC 和后面会议都没有涉及
-- 面向测试编程
-** KILL 自动化 Release Build Test
-SCHEDULED: <2023-04-24 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:20
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: KILL
-:END:
-** KILL Code Delete
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:20
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: KILL
-:END:
-- OrihsEnrollmentFragment
-** KILL 申请中国 Bridge
-CLOSED: [2022-07-08 Fri 18:15] SCHEDULED: <2022-07-05 Tue>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:21
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: KILL
-:END:
-** DONE EF Private Class
-SCHEDULED: <2022-09-28 Wed +0w> DEADLINE: <2022-09-26 Mon>
-:PROPERTIES:
-:LAST_REPEAT: [2022-09-24 Sat 16:34]
-:ARCHIVE_TIME: 2023-09-11 Mon 11:21
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-09-24 Sat 16:34]
-- State "DONE"       from "TODO"       [2022-09-24 Sat 16:33]
-- State "DONE"       from "TODO"       [2022-08-29 Mon 12:14]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 10:44]
-- State "DONE"       from "TODO"       [2022-07-16 Sat 09:00]
-** DONE [#A] EF 3 Classes
-CLOSED: [2022-09-25 Sun 08:24] DEADLINE: <2022-09-26 Mon> SCHEDULED: <2022-09-24 Sat>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:21
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-09-25 Sun 08:24]
-** TODO 在 Smoke 阶段 进行小米市场的隐私政策检测测试
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-11 Mon 11:22
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: TODO
-:END:
-** DONE Complete EF English
-CLOSED: [2023-09-30 Sat 13:17] DEADLINE: <2023-09-22 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-22 Fri 22:39
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:LAST_REPEAT: [2023-09-28 Thu 09:38]
-:END:
-:PROPERTIES:
-:LAST_REPEAT: [2023-09-22 Fri 22:38]
-- State "DONE"       from "TODO"       [2023-09-22 Fri 22:30]
-- State "DONE"       from "TODO"       [2023-09-15 Fri 15:06]
-- State "DONE"       from "TODO"       [2023-09-06 Wed 23:59]
-- State "DONE"       from "TODO"       [2023-09-06 Wed 23:00]
-- State "DONE"       from ""           [2023-09-28 Thu 09:38]
-- State "DONE"       from "TODO"       [2023-09-30 Sat 13:17]
-** DONE 一键切换网络
-SCHEDULED: <2023-09-19 Tue>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-09-22 Fri 22:39
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-#+begin_src sh
-  brew services stop xray
-  networksetup -switchtolocation "Work"
-  brew services start xray --file=/usr/local/etc/xray/work/homebrew.mxcl.xray.plist
-#+end_src
-
-#+RESULTS:
-| Stopping | `xray`...    | (might  | take         | a       | while)              |         |                     |
-| ==>      | Successfully | stopped | `xray`       | (label: | homebrew.mxcl.xray) |         |                     |
-| found    | it!          | ==>     | Successfully | started | `xray`              | (label: | homebrew.mxcl.xray) |
-
-#+begin_src sh
-  brew services stop xray
-  networksetup -switchtolocation "Automatic"
-  brew services start xray --file=/usr/local/etc/xray/basic/homebrew.mxcl.xray.plist
-#+end_src
-
-#+RESULTS:
-| Stopping | `xray`...    | (might  | take         | a       | while)              |         |                     |
-| ==>      | Successfully | stopped | `xray`       | (label: | homebrew.mxcl.xray) |         |                     |
-| found    | it!          | ==>     | Successfully | started | `xray`              | (label: | homebrew.mxcl.xray) |
-
-[[file:~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Raycast/network-work.sh::@raycast.title Network Work]]
-** Documents
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:35
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-*** Global
-- [[https://augusthome.atlassian.net/l/c/3Wf1Xrw5][BLE commands during lock setup flow]]
-** Jira
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:35
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-*** Global
-- Story Points only: 1/2/3/5 (Fibonacci number)
-*** China
-- Type
-  + Bug
-  + Task
-  + Story
-    - Can Assign to QA
-  + Epic
-  + Sub-task
-  + Story-bug
-** PR Tickets
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:35
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-1. 定性（什么样的 Bug）
-2. 分析（如何复现）
-3. 解决方案（能否处理等）
-*** Template
-**** Title
-#+begin_example
-JIRA_ID [Platform][ChangeType][Lock][Feature][FixVersion] Short description
-#+end_example
-- JIRA_ID :: the Jira ticket ID link
-- Platform :: Android or iOS. This is optional, no need to add it for IOS-xxx or AND-xxx ticket
-- ChangeType :: Story or Bug or Refactor or UT, etc
-- Lock :: lock model or AllLocks
-- Feature :: the feature of the change. This is optional
-- [HOLD] ::
-  - Put it in the beginning of commit message, to indicate that PR is not ready for review by August.
-  - When it's ready for August to review, remove [HOLD] and put it in https://augusthome.atlassian.net/wiki/spaces/SOF/pages/963085833/APAC+Pull+Requests
-**** Content
-***** Purpose
-I made this PR because...
-***** Notable Changes
-***** Documentation
-***** Dependencies
-***** Testing
-** Setup Lock V1 Research
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:35
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-- iOS
-  https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1695023421/Setup+Lock+Flow+-+2022+01+29
-- Android
-  https://assaabloyapac.atlassian.net/wiki/spaces/~585273973/pages/1694564599/Setup+process+Set-up+lock+process+research
-** Setup Lock V2 Demo
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:35
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-Hello everyone, my name is Chu Xu, an Android Engineer from the Shanghai Innovation team.
-Another presenter is Sophie, Hi Sophie Can you hear me.
-...(Sophie)
-We will introduce a new lock setup flow from four parts, the first two parts are Business and Technical Drivers, this explain the reason why we developed the new setup lock flow. The third part is a comparison of the old and new process. Finally, we will conclude with a sample demonstration.
-Let's start with Sophie to introduce us the business drivers.
-...(Sophie)
-When comes to technical drivers, there are many things we want to improve in this new flow.
-For iOS, we want to upgrade the programming language from OC to Swift, we can also remove a lot of OC dead codes.
-For Android, we also upgrade the programming language from Java to Kotlin, update the technology stack to Coroutine and Jetpack Compose, and apply the new MVVM architecture.
-In General, we want to make the UI and logic consistent between iOS and Android, and add more technical documents for setup flow process.
-We have two more things for Android, one is the SetupLockSteps, we can assemble the steps into a tree-like data structure, so it's easy to add, remove, or navigate back and forward between different setup steps. The other one is Jetpack Compose and the Component Library, we extend the android-design library to add some China Android Component UIs and colors for three brand which are Yale China, Panpan and Gateman China, this makes the UI components simple and easy to maintain and means less code, compared to the Android View system.
-Here are some noticeable comparison about the lock setup version one and version two.
-First, we display video instead of pictures on the registration introduction page, the video and tip content is associated with the brand and type of lock, which helps users setup their locks more accurately.
-Next, we reduce the main steps for new users from nine to four, and unified the UI on iOS and Android, so users can setup their lock mor easily and quickly with a consistent experience on both iOS and Android, and all the complexity is now behind the scenes.
-Next, we make the error page more clear and use well defined dialogs with retry button based on different error type, users ...
-Finally, we handle the cases when user exits the setup lock process midway, we soft reset the lock on server so that the lock can be re-setup next time even users exit with errors.
-*** House Names
-Fairview
-Bellini
-Red Lotus
-Southern Comfort
-Brighton
-Corona
-Black Adder
-Lakeside
-Oaklands
-Rose Cottage
-Heaven's Haven
-Black Gate
-Grasshopper Hill
-Dawn Star
-Cricket Grove
-Western Hill
-Blue Lagoon
-Red Hook
-Northern Light
-Avocado Grove
-Mayfair Dominion
-Land's End
-Moon Palace
-Antler's Burrow
-Foxwood
-Crisper's Edge
-Dewberry
-Nautilus
-Lily of the Valley
-The Little Blue House
-Woodside
-Trail Hollow
-Meadow View
-Gold Odyssey Farm
-Clover Club
-Eve's Perfection
-Copacabana
-House of Secrets
-House of Mystery
-The Blue Spruce
-Noah's Mill
-Orchard House of Dakota
-** Technical requirement template
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:36
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY
-:ARCHIVE_CATEGORY: work
-:END:
-https://augusthome.atlassian.net/wiki/spaces/SPM/pages/2620882945/China+Tech+requirements+process
-https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1763966997/Android+Team+Tasks+Tracking
-https://assaabloyapac.atlassian.net/browse/RNA-3344
-https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1709114591/Template-+tech+requirements+registratino
-https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1846149140/Y2023-+Tech+requirements+registration
-*** Camera
-https://developer.android.com/guide/topics/media/camera#camera-preview
-https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1763770466/Upgrade+Camera+library+to+CameraX
-https://developers.google.com/ml-kit/vision/barcode-scanning/android#performance-tips
-https://github.com/googlesamples/mlkit/tree/master/android
-** DONE Setup Lock V2 [2/2]
-:PROPERTIES:
-:Version:  2.16.0 2.17.0
-:ARCHIVE_TIME: 2023-10-19 Thu 09:44
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-- AC
-  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1698431346/PRD-Set+up+process+optimize
-  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1706065921/Requirement-Set+up+pop-up+optimize
-- WBS
-  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1699252365/WBS+for+lock+set+up+process+optimization
-- POC
-  https://assaabloyapac.atlassian.net/wiki/spaces/~585273973/pages/1701118335/POC+Improve+Setting+Up+Lock
-*** KILL Android 完成、失败界面的图片使用的是 iPhone 背景图
-*** DONE Step 1
-- API
-  https://assaabloyapac.atlassian.net/wiki/spaces/ST/pages/1709047938/Get+display+contents
-- Video
-  https://www.tsinghua.edu.cn/__local/8/FD/D7/5A62E727ECA239CC360EB7D997D_DA48A008_1840E22.mp4
-  https://s3.cn-northwest-1.amazonaws.com.cn/com.aaecosys.ui-devices/dev/lock/videos/YaleAccessOperationVideo.mp4
-** DONE BI buried point ZhuGe
-:PROPERTIES:
-:Version:  2.18.0
-:ARCHIVE_TIME: 2023-10-19 Thu 09:44
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:ARCHIVE_ITAGS: china
-:END:
-https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717928080/Y2022-+v2.18.0+Yale+China+Project+Overview
-- BI Documents
-  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1391657290/ZhugeIO+BI+Integration+References
-  https://assaabloyapac.atlassian.net/browse/RNA-3899
-  https://assaabloyapac.atlassian.net/wiki/spaces/MT/pages/1657963290/Android+BI+-+ZhuGe
-  https://statics-analysis.aaecosys.com/
-  https://assaabloyapac.atlassian.net/wiki/spaces/~415578750/pages/1735197346/Requirement+confirmation+record
-- PRD
-  https://docs.google.com/spreadsheets/d/15G6CehgJhVj7E8Q3Ml2KpOHOJDb0YVLJJnGf7X2ddgU/edit#gid=678700217
-- WBS
-  https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717895214/Work+estimate+for+China+v2.18.0+BI+Add+Multi+Pindcode+FP
-*** Questions
-- [X] BindDevice_enable_modulepage 这个 enable 前面多了一个空格
-- [X] Zhuge Chinese Display
-*** 加密 :crypt:
-house_ID
-83d976c9-79b2-46c5-8ae2-a559a5867fa1
-ddab0ce169b25a37c6e447811a793dba9804c99995fe761a2a49264c2ef6138621daf81eeeff90db
-lock_ID
-1C2A1E50FDB29347AB6EA5B9AB5B2BA5
-729c78e6676882699c6503749598f2b6b27c46f8147a908435a1e24370eca743ad4448a0c72fc6ae
-提供了两组数据，短的的是原始数据，长的是加密后的数据
-des-cbc
-"desKey": "rqd43xm6",
-"desIV": "yxgieiql",
-#+begin_src js
-  function encryptContext(context, obj) {
-    const cipher = crypto.createCipheriv("des-cbc", obj.desKey, obj.desIV);
-    cipher.setAutoPadding(true);
-    let encryptedText = cipher.update(context, "utf-8", "hex");
-    encryptedText += cipher.final("hex");
-    return encryptedText;
-  }
-#+end_src
-** 2.19
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:44
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Projects/ecosystem-android
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_ITAGS: china
-:END:
-Overview
-https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1725300737/Y2022-+v2.19.0+Yale+China+PANPAN+GA+Project+Overview
-PRD
-https://assaabloyapac.atlassian.net/wiki/spaces/BL/pages/1717076071/Requirement-+Add+Multi+Pindcode+FP
-Confirmation
-https://assaabloyapac.atlassian.net/wiki/spaces/~415578750/pages/1738604728/R2.19.0+Requirement+Confirmation+Record
-*** State
-- Not Saved （未保存）loading
-- Added （已添加）loaded
-- Not Deleted （待删除）deleting
-- Not Added （未添加）
-** Research String
-:PROPERTIES:
-:header-args: :dir ~/Developer/AA/ecosystem-android :file-ext csv :output-dir ~/Downloads
-:ARCHIVE_TIME: 2023-10-19 Thu 09:46
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Projects
-:ARCHIVE_CATEGORY: work
-:END:
-
-#+name: rg-count
-#+begin_src shell :var query="Yale"
-  rg -ci --sort path $query .
-#+end_src
-
-#+name: rg-unique
-#+begin_src shell :var query="Yale" glob="*.{java,kt}"
-  rg -oiI "\b?\w*$query\w*\b?" -g $glob . | sort | uniq -c | sort -hr | sed 's/^ *//;s/ /:/'
-#+end_src
-
-#+name: format-unique
-#+begin_src awk :cmd-line "-F:"
-  {printf "%s,%d\n", $2, $1; total+=$1; line++}
-  END {printf "Line %d,%d", line, total}
-#+end_src
-
-#+name: format-count
-#+begin_src awk :cmd-line "-F:"
-  {printf "%s,%d\n", $1, $2; total+=$2; line++}
-  END {printf "Line %d,%d", line, total}
-#+end_src
-*** Yale Access
-#+name: yale-count
-#+call: format-count() :stdin rg-count("Yale Access") :colnames '("Name" "Count")
-
-#+RESULTS: yale-count
-| Name                                                        | Count |
-|-------------------------------------------------------------+-------|
-| ./app/src/gateman/play/listings/en-US/short-description.txt |     1 |
-| ./app/src/gateman/play/listings/en-US/title.txt             |     1 |
-| ./app/src/main/res/values/strings.xml                       |     4 |
-| ./app/src/main/res/values-da/strings.xml                    |     4 |
-| ./app/src/main/res/values-de/strings.xml                    |    21 |
-| ./app/src/main/res/values-en/strings.xml                    |     1 |
-| ./app/src/main/res/values-es/strings.xml                    |     4 |
-| ./app/src/main/res/values-fi/strings.xml                    |    24 |
-| ./app/src/main/res/values-nl/strings.xml                    |     3 |
-| ./app/src/main/res/values-no/strings.xml                    |    40 |
-| ./app/src/main/res/values-zh/strings.xml                    |     7 |
-| ./app/src/yale/play/listings/en-US/short-description.txt    |     1 |
-| ./app/src/yale/play/listings/en-US/title.txt                |     1 |
-| ./app/src/yale/res/values/strings.xml                       |     2 |
-| ./app/src/yaleChina/res/values/strings.xml                  |     1 |
-| Line 15                                                     |   115 |
-
-#+name: yale-unique
-#+call: format-unique() :stdin rg-unique("Yale Access", glob="*.xml") :colnames '("Name" "Count")
-
-#+RESULTS: yale-unique
-| Name                                              | Count |
-|---------------------------------------------------+-------|
-| Yale	Access                                    |   104 |
-| YALE	ACCESS                                    |     3 |
-| 让我们把你的智能锁连接到你的Yale	Access账户         |     2 |
-| 我们把你的摄像门铃和你Yale	Access的账户连接起来         |     1 |
-| 感谢您选择使用YALE	ACCESS以及对我们一直以来的信任 |     1 |
-| 首先请确认在YALE	ACCESS里已完成门锁的绑定              |     1 |
-| 连接你的Yale	Access账户和Airbnb账户              |     1 |
-| 欢迎使用YALE	ACCESS                            |     1 |
-| nYale	Access                                    |     1 |
-| Line 9                                            |   115 |
-*** August
-#+name: august-count
-#+call: format-count() :stdin rg-count("August") :colnames '("Name" "Count")
-
-#+RESULTS: august-count
-[[file:../Downloads/format-count.csv]]
-
-#+name: august-unique
-#+call: format-unique() :stdin rg-unique("August") :colnames '("Name" "Count")
-
-#+RESULTS: august-unique
-| Name                                                                    | Count |
-|-------------------------------------------------------------------------+-------|
-| august                                                                  | 11711 |
-| AugustUtils                                                             |   945 |
-| AugustAPIClient                                                         |   687 |
-| AugustBluetoothManager                                                  |   494 |
-| AugustLockCommConstants                                                 |   449 |
-| August                                                                  |   315 |
-| AugustAPIClientWrapper                                                  |   193 |
-| AugustLockProtocol                                                      |   188 |
-| AugustBluetoothConnection                                               |   126 |
-| AugustBluetoothAgent                                                    |   121 |
-| augustsdk                                                               |   110 |
-| AugustAccessPartner                                                     |   107 |
-| augustBluetoothManager                                                  |    88 |
-| augustAPIClientWrapper                                                  |    74 |
-| AugustAPI                                                               |    66 |
-| augustDateFormat                                                        |    65 |
-| AugustEncryption                                                        |    64 |
-| AugustAPIRestAdapter                                                    |    61 |
-| augustDateFormatUnderTest                                               |    53 |
-| AugustScanResult                                                        |    51 |
-| getAugustBleScanner                                                     |    48 |
-| AugustDateFormat                                                        |    47 |
-| isFirstAugustLock                                                       |    40 |
-| augustAPI                                                               |    33 |
-| augusthome                                                              |    30 |
-| augustBluetoothManagerInterface                                         |    30 |
-| augustaccess                                                            |    27 |
-| augustService                                                           |    26 |
-| AugustSetupOnboardingActivity                                           |    22 |
-| augustServiceUuids                                                      |    21 |
-| AugustWiFiDevice                                                        |    20 |
-| mMockAugustAPI                                                          |    17 |
-| augustScanResult                                                        |    16 |
-| augustWorksWith                                                         |    15 |
-| augustBleScanner                                                        |    15 |
-| AugustSetUpBoardingRepository                                           |    15 |
-| AugustPremiumActivity                                                   |    15 |
-| AugustLiveDataUtility                                                   |    15 |
-| mAugustAPIClient                                                        |    14 |
-| getAugustAccessPartners                                                 |    14 |
-| AugustSetUpBoardingViewModel                                            |    14 |
-| getAugustAccessPartnerTags                                              |    13 |
-| augustConnection                                                        |    12 |
-| AugustBridgeAPI                                                         |    12 |
-| AUGUST                                                                  |    11 |
-| augustSetUpBoardingRepository                                           |    10 |
-| AugustBleScannerLegacy                                                  |    10 |
-| AugustAccessActivity                                                    |    10 |
-| AugustLockComm                                                          |     9 |
-| AugustBleScanner                                                        |     9 |
-| augustAccessPartner                                                     |     8 |
-| supportsAugustChime                                                     |     7 |
-| getAugustHouse                                                          |     7 |
-| august_app                                                              |     7 |
-| augustAgent                                                             |     7 |
-| augustRedColor                                                          |     6 |
-| augustLightColors                                                       |     6 |
-| qrSetupAugust                                                           |     5 |
-| isAugust                                                                |     5 |
-| getAugustAPI                                                            |     5 |
-| augustPhoneNumber                                                       |     5 |
-| CheckIsAugustSetupOnBoardingActivity                                    |     5 |
-| AugustSetupBoardingViewModelFactory                                     |     5 |
-| AugustColors                                                            |     5 |
-| onAugustScanFound                                                       |     4 |
-| onAugustScanFailed                                                      |     4 |
-| formatPhoneNumberToAugust                                               |     4 |
-| copyAugustAgent                                                         |     4 |
-| checkIsAugustSetupOnBoardingActivity                                    |     4 |
-| august_team                                                             |     4 |
-| august_smart_lock                                                       |     4 |
-| augustTealColor                                                         |     4 |
-| augustContacts                                                          |     4 |
-| JumpToAugustSetupOnBoardingActivityAndClearCurrentUser                  |     4 |
-| AugustStoreWebViewActivity                                              |     4 |
-| AugustHeaderInterceptor                                                 |     4 |
-| AugustContactsAdapter                                                   |     4 |
-| AugustBleScannerV2                                                      |     4 |
-| AUGUST_WIFI                                                             |     4 |
-| prepareAugustAPIClientGetBridgeInfoToReturnSuccess                      |     3 |
-| prepareAugustAPIClientGetBridgeInfoForInvalidArguments                  |     3 |
-| prepareAugustAPIClientAreOfflineNotificationsEnabledToReturnSuccess     |     3 |
-| prepareAugustAPIClientAreOfflineNotificationsEnabledForInvalidArguments |     3 |
-| postAugustStory                                                         |     3 |
-| manufacturerData_August                                                 |     3 |
-| mAugustAPIClientWrapper                                                 |     3 |
-| listAugustDevice                                                        |     3 |
-| getAugustAccessMyPartners                                               |     3 |
-| augustServiceV3                                                         |     3 |
-| augustServiceV2                                                         |     3 |
-| augustServiceV1                                                         |     3 |
-| augustMessage                                                           |     3 |
-| augustHouseName                                                         |     3 |
-| augustAccess                                                            |     3 |
-| HEADER_AUGUST_ACCESS_TOKEN                                              |     3 |
-| CellAugustAccessBinding                                                 |     3 |
-| AugustLoggingInterceptor                                                |     3 |
-| AugustBle2                                                              |     3 |
-| AugustAccessPartnerActivity                                             |     3 |
-| ActivityAuguststoreBinding                                              |     3 |
-| ActivityAugustaccessBinding                                             |     3 |
-| qrsetup_august                                                          |     2 |
-| prepareAugustAPIClientGetBridgeInfoToReturnFailure                      |     2 |
-| prepareAugustAPIClientAreOfflineNotificationsEnabledToReturnFailure     |     2 |
-| onScanFoundAugustDevice                                                 |     2 |
-| onAugustScanTimeout                                                     |     2 |
-| menu_item_august_access                                                 |     2 |
-| isAugustEmployee                                                        |     2 |
-| initializeAugustConnection                                              |     2 |
-| getStepsForAugust                                                       |     2 |
-| getAugustAccessPartnersSuspended                                        |     2 |
-| getAugustAccessPartnerTagsSuspended                                     |     2 |
-| comAugustCredentialExtrasTypeKey                                        |     2 |
-| augustappversionok                                                      |     2 |
-| august_app_android                                                      |     2 |
-| augustTitle                                                             |     2 |
-| augustHouseTitle                                                        |     2 |
-| augustHeaderInterceptor                                                 |     2 |
-| augustContactsHeader                                                    |     2 |
-| augustContactsDivider                                                   |     2 |
-| augustApiClient                                                         |     2 |
-| augustAccessPartners                                                    |     2 |
-| ShowAugustStore                                                         |     2 |
-| MANUFACTURER_ID_AUGUST                                                  |     2 |
-| HEADER_AUGUST_API_KEY                                                   |     2 |
-| FixShowAugustStore                                                      |     2 |
-| AugustRESTClient                                                        |     2 |
-| AugustAccess                                                            |     2 |
-| AUGUST_KEYPAD                                                           |     2 |
-| AUGUST_BRIDGE                                                           |     2 |
-| workswith_integration_connect_august_title                              |     1 |
-| workswith_integration_connect_august_message                            |     1 |
-| whenInitWith_StagingAugustEnUs_verify                                   |     1 |
-| unable_to_unpair_august_device_with_nest                                |     1 |
-| unable_to_pair_august_lock_nest_cam_try_again                           |     1 |
-| unable_to_pair_august_device_with_nest                                  |     1 |
-| softResetAugustLockReceivedAckResponse                                  |     1 |
-| softResetAugustLockNoBleConnection                                      |     1 |
-| softResetAugustLockFailedAckResponse                                    |     1 |
-| shop_august_connect                                                     |     1 |
-| share_august_video_with                                                 |     1 |
-| select_august_house_for_nest_name                                       |     1 |
-| select_august_connect                                                   |     1 |
-| rate_august_app                                                         |     1 |
-| providesAugustSetUpBoardingRepository                                   |     1 |
-| providesAugustAPIClientWrapper                                          |     1 |
-| no_august_doorbellcam_found                                             |     1 |
-| no_august_connect_found                                                 |     1 |
-| nest_settings_august_house_title                                        |     1 |
-| nest_settings_august_house_field                                        |     1 |
-| nest_settings_august_house_container                                    |     1 |
-| nest_required_august_smart_lock                                         |     1 |
-| nAugust                                                                 |     1 |
-| lets_setup_august_connect                                               |     1 |
-| is_august_module_inserted                                               |     1 |
-| hardResetAugustLockReceivedAckResponse                                  |     1 |
-| hardResetAugustLockNoBleConnection                                      |     1 |
-| hardResetAugustLockFailedAckResponse                                    |     1 |
-| disconnect_august_connect_content                                       |     1 |
-| disconnect_august_connect                                               |     1 |
-| augustble2                                                              |     1 |
-| augustandroid                                                           |     1 |
-| august_video_recording                                                  |     1 |
-| august_video_                                                           |     1 |
-| august_access_works_with_title                                          |     1 |
-| augustStoreWebView                                                      |     1 |
-| augustStore                                                             |     1 |
-| augustHouseClicked                                                      |     1 |
-| augustHQ                                                                |     1 |
-| augustBle2                                                              |     1 |
-| augustAPIWrapper                                                        |     1 |
-| AugustWiFiDeviceTest                                                    |     1 |
-| AugustUtilsTest                                                         |     1 |
-| AugustUtilsStaticTest                                                   |     1 |
-| AugustSetUpBoardingViewModelTest                                        |     1 |
-| AugustSetUpBoardingRepositoryTest                                       |     1 |
-| AugustScanResults                                                       |     1 |
-| AugustRXWifiTest                                                        |     1 |
-| AugustManager                                                           |     1 |
-| AugustLockCommProtocol                                                  |     1 |
-| AugustHQ                                                                |     1 |
-| AugustDateFormatTest                                                    |     1 |
-| AugustBluetoothMessenger                                                |     1 |
-| AugustBluetoothManger                                                   |     1 |
-| AugustBluetoothManagerTest                                              |     1 |
-| AugustBluetoothManagerRobolectricTest                                   |     1 |
-| AugustBluetoothManagerLegacyPowerMockTest                               |     1 |
-| AugustBluetoothConnectio                                                |     1 |
-| AugustBluetoothAgentTest                                                |     1 |
-| AugustBluetootManager                                                   |     1 |
-| AugustBleScannerV2PowerMockTest                                         |     1 |
-| AugustBleScannerLegacyPowerMockTest                                     |     1 |
-| AugustAPIRestAdapterTest                                                |     1 |
-| AugustAPIClientWrapperTest                                              |     1 |
-| AugustAPIClientTest                                                     |     1 |
-| AUGUST_FLAVOR                                                           |     1 |
-| Line 196                                                                | 16891 |
-
-#+name: august-string
-#+call: format-unique() :stdin rg-unique("August", glob="*.xml") :colnames '("Name" "Count")
-
-#+RESULTS: august-string
-| Name                                           | Count |
-|------------------------------------------------+-------|
-| August                                         |   667 |
-| august                                         |   565 |
-| AugustButton                                   |   208 |
-| onboarding_from_an_august_owner                |    30 |
-| doorbell_event_detail_need_august_subscription |    28 |
-| keychain_welcome_to_august                     |    27 |
-| onboarding_august_wifi_smart_lock              |    25 |
-| onboarding_august_smart_lock                   |    25 |
-| august_smart_lock                              |    25 |
-| august_doorbell_cam                            |    24 |
-| workswith_integration_connect_august_title     |    23 |
-| title_activity_august_access                   |    23 |
-| onboarding_create_your_august_account          |    23 |
-| august_access_disclaimer_text                  |    23 |
-| nav_drawer_august                              |    22 |
-| is_august_module_inserted                      |    22 |
-| airbnb_august_message                          |    22 |
-| stories_review_paired_with_august_house        |    21 |
-| share_august_video_with                        |    21 |
-| onboarding_august_smart_lock_pro               |    21 |
-| devicesetup_requires_an_august_smart_lock      |    21 |
-| conflicting_august_app                         |    21 |
-| august_contacts_header                         |    21 |
-| accesspartner_how_will_it_work_with_august     |    21 |
-| unable_to_unpair_august_device_with_nest       |    20 |
-| unable_to_pair_august_lock_nest_cam_try_again  |    20 |
-| unable_to_pair_august_device_with_nest         |    20 |
-| shop_august_connect                            |    20 |
-| select_august_house_for_nest_name              |    20 |
-| select_august_connect                          |    20 |
-| rate_august_app                                |    20 |
-| no_august_connect_found                        |    20 |
-| nest_required_august_smart_lock                |    20 |
-| lets_setup_august_connect                      |    20 |
-| disconnect_august_connect_content              |    20 |
-| disconnect_august_connect                      |    20 |
-| august_video_recording                         |    20 |
-| august_doorbell_cam_pro                        |    20 |
-| no_august_doorbellcam_found                    |    19 |
-| AugustSetting                                  |    11 |
-| Augustkonto                                    |     9 |
-| august_app                                     |     7 |
-| Augustmodul                                    |     7 |
-| menu_item_august_access                        |     5 |
-| ic_menu_august_active_monitoring               |     5 |
-| color_august_ambiguous_position                |     5 |
-| august_access_works_with_title                 |     5 |
-| augusthome                                     |     4 |
-| august_margin_top_default                      |     4 |
-| augustWorksWith                                |     4 |
-| nest_settings_august_house_title               |     3 |
-| Augustmodulen                                  |     3 |
-| AugustAlternativeLink                          |     3 |
-| workswith_integration_connect_august_message   |     2 |
-| nAugust                                        |     2 |
-| august_doorbell_hydra                          |     2 |
-| augustAccess                                   |     2 |
-| Augustem                                       |     2 |
-| Augusta                                        |     2 |
-| AugustSetupOnboardingActivity                  |     2 |
-| 你的爱彼迎账户目前已经关联到不同的August账户           |     1 |
-| 你确定想要断开你的August                           |     1 |
-| 你没有任何匹配August录像的设备                      |     1 |
-| 同步到你的August账户                              |     1 |
-| 确保您的August模块已安装到您的锁中                   |     1 |
-| 检测到与August冲突的应用程序                        |     1 |
-| 分享我的August                                   |     1 |
-| 您的August模块无法与您的锁建立通讯                   |     1 |
-| 你的August和爱彼迎账户已连接                        |     1 |
-| فيAugust                                        |     1 |
-| 将XFINITY同步到您的August账户                      |     1 |
-| 将Harmony同步到您的August账户                      |     1 |
-| لAugust                                         |     1 |
-| s已经同步到你的August账户                          |     1 |
-| n如果该门铃注册了August的录像订阅                    |     1 |
-| n我们希望您用August                               |     1 |
-| nest_settings_august_house_field               |     1 |
-| nest_settings_august_house_container           |     1 |
-| cell_august_access                             |     1 |
-| august_store_web_view                          |     1 |
-| August模块无法与您的锁建立通讯                      |     1 |
-| August入口                                      |     1 |
-| Augustvideo                                    |     1 |
-| Augusti                                        |     1 |
-| Augustägare                                    |     1 |
-| AugustStoreWebViewActivity                     |     1 |
-| AugustPremiumActivity                          |     1 |
-| AugustActionButton                             |     1 |
-| AugustAccessPartnerActivity                    |     1 |
-| AugustAccessActivity                           |     1 |
-| Airbnb已经同步到你的August账户                     |     1 |
-| AUGUST                                         |     1 |
-| Line 92                                        |  2349 |
-** 报销
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-10-19 Thu 09:46
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: ASSA ABLOY/Notes
-:ARCHIVE_CATEGORY: work
-:END:
-https://assaabloyapac.atlassian.net/wiki/spaces/EC/pages/21922084/How+to+claim+routine+expense
-Daisy Sun
-*** T&E 审批流
-**** 出差、业务
-**** 费用报销
-地点：shanghai
-支出用途：？
-下次和 team 其他人一起的餐费报销选择“CHC25286_2 团队建设”，然后写一下名单
-*** 电话费
-发票抬头需要开个人姓名
-付款方式：PAYMENT
-收据编号：发票编号
-*** 体检费
-类别：杂费
-*** 增值税发票
-不含税和税额分开填写（填写两次）
-- VAT CHC93702
-  发票号码在附加信息中再写一遍
-*** 环保、安全
-Michael Deng
-**** Safety first
-** DONE [#A] RobotOS 图书查询
-CLOSED: [2022-09-19 Mon 07:03] DEADLINE: <2022-08-31 Wed> SCHEDULED: <2022-07-11 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:01
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: XingZhi
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2022-09-19 Mon 07:03]
-*** KILL [#C] 接口
-*** KILL 4000 问法
-*** DONE [#A] TTS
-*** DONE [#A] NLP 唤醒
-**** 机器人 NLP 配置
-1. 导入自定义领域 (xingzhi_library)
-2. 场景管理中添加 App
-   名称：图书查询（Query Book)
-   appid: e1b238fb76d49bb03e49a895968fed78
-3. 在 NLP Launcher 下新建
-   1. query_book 绑定 query_book 资源
-   2. open_query_book 绑定 open_query_book 资源
-4. 最重要：图书查询场景的 Main 下关联 Launcher 场景
-   query_book 和 open_query_book
-*** DONE 倒计时退出
-*** DONE [#C] 本地图片
-*** DONE 查询
-| domain  | intent     | intent 说明 | slot         | slot 说明         | query 举例         |
-| library | query_book | 查询书籍     | book_name    | 书名“西游记”       | 查询西游记这本书      |
-|         |            |            | author       | 作者“吴承恩”       | 查询吴承恩的书       |
-|         |            |            | publish_date | 出版时期 “2022 年” | 查询 2022 年出版的书 |
-*** 竞品
-[[https://mp.weixin.qq.com/s/8qvzxYg-A9YJANK2gkjvyw][能“跑腿”借书还书，导览机器人又上“新才艺”啦！ - 海恒智能]]
-[[https://mp.weixin.qq.com/s/f3tjcitJ1_hH28v9v6wkrw][智能服务机器人“小杜”来啦！图书馆、文化馆等公共场所的新晋“网红”！ - 云图]]
-** DONE 党校 Plus 发货
-DEADLINE: <2023-09-22 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:01
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: XingZhi
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 带茶叶去公司
-CLOSED: [2023-09-28 Thu 09:38] SCHEDULED: <2023-09-27 Wed 09:00>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:24
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-09-28 Thu 09:38]
-** DONE GPS Learning
-CLOSED: [2023-07-20 Thu 10:31] DEADLINE: <2023-07-20 Thu> SCHEDULED: <2023-07-11 Tue>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:24
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-- State "DONE"       from "TODO"       [2023-07-20 Thu 10:31]
-** KILL 携带转接头
-CLOSED: [2023-05-21 Sun 09:01] SCHEDULED: <2023-05-21 Sun>
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:24
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: KILL
-:END:
-- State "KILL"       from "TODO"       [2023-05-21 Sun 09:01]
-** TODO Gradle 8 Failed Unit Test
-:PROPERTIES:
-:ARCHIVE_TIME: 2023-11-02 Thu 13:24
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: TODO
-:END:
-| CredentialRepositoryTest           | getAllEntryCodesToSyncRx                                                                         |
-| LockRepositoryTest                 | parseUserDataOfRuleTest                                                                          |
-| LockRepositoryTest                 | updateRuleDataToDBTest                                                                           |
-| LockSelectorViewModelTest          | addFlags                                                                                         |
-| LockSelectorViewModelTest          | removeFlags                                                                                      |
-| LockSelectorViewModelTest          | testCompleteSelection                                                                            |
-| LockSelectorViewModelTest          | testGetIsProcessingObservable                                                                    |
-| LockSelectorViewModelTest          | testGetRecyclerDataObservable                                                                    |
-| LockSelectorViewModelTest          | testGetSelectedLocksObservable                                                                   |
-| LockSelectorViewModelTest          | testIsBridgeRequiredFalse                                                                        |
-| LockSelectorViewModelTest          | testIsBridgeRequiredTrue                                                                         |
-| LockSelectorViewModelTest          | testIsExcludeBridgeOfflineFalse                                                                  |
-| LockSelectorViewModelTest          | testIsExcludeBridgeOfflineTrue                                                                   |
-| LockSelectorViewModelTest          | testIsExcludeBridgeOnlineFalse                                                                   |
-| LockSelectorViewModelTest          | testIsExcludeBridgeOnlineTrue                                                                    |
-| LockSelectorViewModelTest          | testIsInteractive                                                                                |
-| LockSelectorViewModelTest          | testIsMultilockSelection                                                                         |
-| LockSelectorViewModelTest          | testIsNotInteractive                                                                             |
-| LockSelectorViewModelTest          | testIsNotMultilockSelection                                                                      |
-| LockSelectorViewModelTest          | testIsNotSingleDeselectMode                                                                      |
-| LockSelectorViewModelTest          | testIsSingleDeselectMode                                                                         |
-| LockSelectorViewModelTest          | testLoadLocks                                                                                    |
-| LockSelectorViewModelTest          | testLoadLocksNotInitialized                                                                      |
-| LockSelectorViewModelTest          | testOnUserActionBridgeRequiredExcludingThoseThatAreOnlineAndBridgeInfoIsOnline                   |
-| LockSelectorViewModelTest          | testOnUserActionIsAlreadyProcessing                                                              |
-| LockSelectorViewModelTest          | testOnUserActionIsNotInteractive                                                                 |
-| LockSelectorViewModelTest          | testOnUserClickAction                                                                            |
-| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredAndBridgeInfoIsNull                                           |
-| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOfflineAndBridgeInfoIsOffline            |
-| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOfflineAndBridgeInfoIsOnline             |
-| LockSelectorViewModelTest          | testOnUserClickActionBridgeRequiredExcludingThoseThatAreOnlineAndBridgeInfoIsOffline             |
-| LockSelectorViewModelTest          | testOnUserModificationAction                                                                     |
-| LockSelectorViewModelTest          | testSetFlags                                                                                     |
-| LockSelectorViewModelTest          | testSetInitialSelectedLocks                                                                      |
-| LockSelectorViewModelTest          | testSetInitialSelectedLocksWhenAlreadyInitialized                                                |
-| OrchestraDashboardViewModelTest    | setSignUpActivityResult                                                                          |
-| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusAlreadyInProgress                                              |
-| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusIdleProgressSignupResultCanceled                               |
-| OrchestraDashboardViewModelTest    | testCheckOrchestraEnrollmentStatusIdleProgressThrowsException                                    |
-| OrchestraDashboardViewModelTest    | testGetAccessListEmptyListMessageStateObservable                                                 |
-| OrchestraDashboardViewModelTest    | testGetAccessListLoadingState                                                                    |
-| OrchestraDashboardViewModelTest    | testGetAccessListRequestsObservable                                                              |
-| OrchestraDashboardViewModelTest    | testGetResumeProgressStateObservable                                                             |
-| OrchestraDashboardViewModelTest    | testLoadAccessRequestsAlreadyInProgress                                                          |
-| OrchestraDashboardViewModelTest    | testLoadAccessRequestsReadyFailure                                                               |
-| OrchestraDashboardViewModelTest    | testLoadAccessRequestsReadySuccess                                                               |
-| OrchestraDashboardViewModelTest    | testSortAccessRequestsEmptyListShouldReturnAnEmptyList                                           |
-| OrchestraDashboardViewModelTest    | testSortAccessRequestsNonPendingShouldSortByCreationDateWithTheLastCreatedAheadOfTheFirstCreated |
-| OrchestraDashboardViewModelTest    | testSortAccessRequestsPendingShouldBeFirst                                                       |
-| OrchestraDashboardViewModelTest    | testSortAccessRequestsRandomizedExhaustive                                                       |
-| OrchestraDashboardViewModelTest    | testSortAccessRequestsThePendingRequestThatIsGoingToExpireTheEarliestShouldBeFirst               |
-| OrchestraV1RepositoryTest          | initializationError                                                                              |
-| UserPromptManagerTest              | initializationError                                                                              |
-| EntryCodeSequenceDriverBuilderTest | initializationError                                                                              |
-| VulcanControllerTest               | testCallSequence                                                                                 |
-| VulcanControllerTest               | testSessionReset                                                                                 |
-| VulcanControllerTest               | testTidIncrementOnSignal                                                                         |
-| AccessControlViewModelTest         | initializationError                                                                              |
-| ScanOrInputViewModelTest           | backPressed                                                                                      |
-| ScanOrInputViewModelTest           | nextStepByDevicePickerLock                                                                       |
-| ScanOrInputViewModelTest           | nextStepByDevicePickerOtherDevice                                                                |
-| ScanOrInputViewModelTest           | nextStepByLock                                                                                   |
-| ScanOrInputViewModelTest           | nextStepByOtherDevice                                                                            |
-| UserRecyclerAdapterTest            | testGuests                                                                                       |
-| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAll                                                           |
-| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicateInvited                                     |
-| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicateOwners                                      |
-| UserRecyclerAdapterTest            | testLockAndDoorbellApplyChangesShowAllRemoveDuplicatedUsersInPinAndInvited                       |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAll                                                                  |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyGuests                                                       |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyInvited                                                      |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyOwners                                                       |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllEmptyVisitors                                                     |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllExceptAnyUser                                                     |
-| UserRecyclerAdapterTest            | testLockOnlyApplyChangesShowAllExceptInvited                                                     |
-| AugustUtilsStaticTest              | testChangeUserDoorbellPermissions                                                                |
-| AugustUtilsStaticTest              | testEqualsEntryCode                                                                              |
-| AugustUtilsStaticTest              | testGetPrefixCodeForCountryCode                                                                  |
-| AugustUtilsStaticTest              | testGetScanResultSecurity                                                                        |
-| AugustUtilsStaticTest              | testHandlePotentialInternationalNumberFromContacts                                               |
-| AugustUtilsStaticTest              | testRemoveUserFromAllDevices                                                                     |
-| AugustUtilsTest                    | isAppInstalled                                                                                   |
-| LockPolicyViewModelTest            | initializationError                                                                              |
-** ZhiYan
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-01-09 Tue 13:39
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_CATEGORY: work
-:END:
-*** 上海致研智能科技有限公司
-- 地址 :: 上海市松江区泗泾镇高技路 655 号 2 幢 102 室
-- 法人 :: 窦海峰
-- 联系电话 :: 18918963669
-- 统一社会信用代码 :: 913101123987007868
-
-#+name: 工资表
-|    月份 | 实发税后 | 应发 |    奖金 |
-|  2020.2 |        0 | 6500 |         |
-|  2020.3 |        0 | 6500 |         |
-|  2020.4 |  2191.25 |      |         |
-|  2020.5 |  4382.50 |      |         |
-|  2020.6 |  5014.80 |      |         |
-|  2020.7 |  5682.50 |      |         |
-|  2020.8 |  5732.50 |      |         |
-|  2020.9 |  6244.84 |      |         |
-| 2020.10 |  6232.50 |      |         |
-| 2020.11 |  6232.50 |      |         |
-| 2020.12 |  6248.89 |      |         |
-|  2021.1 |  6232.50 |      | 7569.49 |
-|  2021.2 |  6195.52 |      |         |
-|  2021.3 |  6195.53 |      |         |
-|  2021.4 |  6195.53 |      |         |
-|  2021.5 |  6195.53 |      |         |
-|  2021.6 |  9136.04 |      |         |
-|  2021.7 |  7650.53 |      |         |
-|  2021.8 |  7529.37 |      |         |
-|  2021.9 |  7529.37 |      |         |
-| 2021.11 |  7529.38 |      |         |
-| 2021.12 |  7529.37 |      |         |
-*** KILL 劳动仲裁
-DEADLINE: <2022-10-01 Sat>
-https://zwdt.sh.gov.cn/govPortals/bsfw/item/89faa0eb-5b22-4480-843b-45c71f74000f
-文化路 150 号
-电话： 57614659
-*** DONE [#A] 准备社保材料
-DEADLINE: <2022-08-15 Mon>
-** XingZhi
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-01-09 Tue 13:40
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_CATEGORY: work
-:END:
-*** DONE [#A] 超高频盘点
-DEADLINE: <2023-12-20 Wed> SCHEDULED: <2023-10-30 Mon>
-*** DONE 盘点交付
-DEADLINE: <2023-12-27 Wed> SCHEDULED: <2023-12-25 Mon>
-
-** DONE 同步 Server 关于 FCM
-SCHEDULED: <2024-05-14 Tue>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-05-28 Tue 07:48
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-
-** DONE 使用 plantuml 画组件图
-SCHEDULED: <2024-05-27 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-07-05 Fri 08:12
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-#+begin_src plantuml
-  @startuml
-  package "Application" {
-      [app]
-      [ble2testapp2]
-      [videoplayer-sample]
-  }
-
-  package "Feature" {
-      [:feature:videostreaming] as f_vs
-      [app] --> f_vs
-  }
-
-  package "Core" {
-      [:core:model] as c_mod #Yellow
-      [:core:analysis] as c_ana
-      [:core:android-design] as c_and_des #Green
-      [:core:aaecosystem-commons] as c_aae_com #Green
-      [app] --> c_ana
-      [app] --> c_aae_com
-      f_vs --> c_mod
-      c_ana -> c_mod
-  }
-
-  @enduml
-#+end_src
-
-** DONE GPS Goal
-DEADLINE: <2024-07-11 Thu> SCHEDULED: <2024-06-28 Fri>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-07-31 Wed 09:42
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-*** Develop Goal
-**** Google IO
-
-** DONE 使用 plantuml 画组件图
-SCHEDULED: <2024-05-27 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-07-31 Wed 09:42
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-#+begin_src plantuml
-  @startuml
-  package "Application" {
-      [app]
-      [ble2testapp2]
-      [videoplayer-sample]
-  }
-
-  package "Feature" {
-      [:feature:videostreaming] as f_vs
-      [app] --> f_vs
-  }
-
-  package "Core" {
-      [:core:model] as c_mod #Yellow
-      [:core:analysis] as c_ana
-      [:core:android-design] as c_and_des #Green
-      [:core:aaecosystem-commons] as c_aae_com #Green
-      [app] --> c_ana
-      [app] --> c_aae_com
-      f_vs --> c_mod
-      c_ana -> c_mod
-  }
-
-  @enduml
-#+end_src
-
-** DONE 请假
-SCHEDULED: <2024-08-13 Tue>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-08-13 Tue 12:57
-:ARCHIVE_FILE: ~/org/work.org
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work
-:ARCHIVE_TODO: DONE
-:END:
-
-** KILL PO 自己相互 Review
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 16:30
-:ARCHIVE_FILE: ~/org/work.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work.org
-:ARCHIVE_TODO: KILL
-:END:
-
-** DONE 带一个空 U 盘
-SCHEDULED: <2024-08-21 Wed 19:30>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 16:37
-:ARCHIVE_FILE: ~/org/work.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work.org
-:ARCHIVE_TODO: DONE
-:END:
-
-** DONE 带牛奶
-SCHEDULED: <2024-11-28 Thu 16:50>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-06 Fri 14:40
-:ARCHIVE_FILE: ~/org/work.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: work.org
-:ARCHIVE_TODO: DONE
-:END:
+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
+Ow==
+=yVV4
+-----END PGP MESSAGE-----
 
 * From calligraphy.org :ARCHIVE:
 ** DONE 热可擦笔
@@ -5226,118 +3910,27 @@ SCHEDULED: <2025-06-09 Mon>
 https://github.com/douo/magit-gptcommit
 https://github.com/ragnard/gptel-magit
 
-* From sideline.org.gpg :ARCHIVE:
+* From sideline.org.gpg :crypt:ARCHIVE:
 
-** DONE Build Shadow CI
-SCHEDULED: <2024-08-05 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-08-05 Mon 13:14
-:ARCHIVE_FILE: ~/org/sideline.org
-:ARCHIVE_OLPATH: Inbox/借还机器人开发/添加 NLP 语音
-:ARCHIVE_CATEGORY: sideline
-:ARCHIVE_TODO: DONE
-:END:
-** DONE 时长授权
-SCHEDULED: <2023-11-04 Sat>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:19
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: DONE
-:END:
+-----BEGIN PGP MESSAGE-----
 
-** DONE Release Build
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:19
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox/上架应用市场
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: DONE
-:END:
-*** DONE OpenAPI Package
-SCHEDULED: <2023-09-07 Thu>
-
-** KILL 上架应用市场
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:19
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: KILL
-:END:
-
-** DONE NLP
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:21
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: DONE
-:END:
-- 漫画书在哪
-- 带我去漫画书的地方
-
-** DONE 机器人 Apk 插件式
-DEADLINE: <2023-08-26 Sat> SCHEDULED: <2023-08-21 Mon>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:21
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: DONE
-:END:
-#+begin_src sh
-  zerotier-cli join 632ea290856ab845
-  zerotier-cli orbit 09715383d9 09715383d9
-#+end_src
-*** Message Flow
-1. Init message
-2. Listen to message
-3. Run command
-
-** KILL Reuse GitHub Action
-SCHEDULED: <2025-05-01 Thu>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-11-28 Thu 12:21
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: Inbox
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: KILL
-:END:
-
-** DONE 升级 Kotlin
-SCHEDULED: <2024-11-27 Wed>
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-12-04 Wed 12:17
-:ARCHIVE_FILE: ~/org/sideline.org.gpg
-:ARCHIVE_OLPATH: XingZhi/Robot
-:ARCHIVE_CATEGORY: sideline.org
-:ARCHIVE_TODO: DONE
-:END:
-
-* From licence.org :ARCHIVE:
-
-** Licenses
-:PROPERTIES:
-:ARCHIVE_TIME: 2024-10-24 Thu 10:46
-:ARCHIVE_FILE: ~/org/licence.org
-:ARCHIVE_CATEGORY: licence
-:END:
-*** [2022-09-18 Sun] 初次使用
-#+begin_src json
-  {
-    "appId": "com.xingzhi.robot",
-    "issuedTime": ,
-    "notBefore": 1538671712,
-    "notAfter": 1640966400,
-    "customerInfo": "亚马逊公司"
-  }
-#+end_src
-
-#+begin_src elisp
-  (md5 "@eNw+W{5~c@5<q.}")
-#+end_src
-
-#+RESULTS:
-: 83997f21fa98c01da3cc79339403b025
+hF4DeAnNi+D7LJYSAQdAsCMeWzCzfb16TpVfTuNUuWv8KY9LnQgBb3gVgE/7Gg8w
+marI0h4KQv6+9InxRrvrUH4lqx4MGijSp3Vf9iYBHDIQvNlQwLXhn8xVvL1tWsay
+1OkBCQIQltY/NrmzBmb6UiyhP141j1z+lLSwqD24M3IUdMpTMjRRJaVuZnDQnKJs
+Yk2PMXpRScrNuS2NzH5MGsFMP7R+huM8+tjO9PnJGoV2pTbn0bHwM36tw8UcIF/E
+dfWVkzscqzSKi8sOrQkA5UhlhV9OWtnsnNvA9jJNBJq29MSSI2BI9NTzHP+x9X81
+ED9LkVzUUy5J0X/h144oAEPn4tF3AcVUG0klf3gjo3eaw0rE+yeseYfBb5I7w0J/
+HnwYwcWB+HBJPtruWqlDsAJ8uISkfW3bFn/2uVMIODP8u/mmnVidMs799McmlFmj
+CP0P+IhzHW0BFcPP2rdXD1xmVzd/hFieMfWabXBscula6JSmUzXaerMeNG+mFvch
+pijlbGEAYWgAartFWeLH0P1LA4n4ICdG8IWqdC7A5IPqIfzeTunJnQ1Po2sOZ0bS
+yT2/LJXIHbnvYR4qvcl7glFouKxZxDrAt3g1RPKPdEo6xmSBkEgWFD2tEdpz7ncU
+B17BrszcImQ5ho24Ewf4fNKQ1Nd1n2Nh4h1o4iXE2eKwyS4p7fX4EKMa9HETVple
+XBGEvAzPb+1evFHAwxW5DFzGsU1KuiIlrXwJwUXfhpGGhQRpMDYSM3f8jjnGSEpR
+K+E9v3fWYxt7g4g2P19NlNsZP2AAeA01Ff3tBMf9iq4UDsAbxNqzpx+9TmgKlnGf
+mCPTJzjE2+KldDntNQxTlMHP31gQlntDZBF+YDY/7Eq6w3taM7Ved5NAz/sm6qfz
+H2MDaCesFmGxYAc9bV7LRgQJ7GjVbzgSqVbt1URk+jaDMY6QW0e3xnq6M7UwFXT4
+a2F5xVFi3K6xFdAVwi+zAlbVKsQVNp0SE5C7/aqQO9V2wjjCwf6He1e4iih5Xhi/
+PFVBcN27q1hc7OjoKwI+7JXtnOOyK2abhDp+SjzDojwSdvdmU9dkvRSd29iugF1o
+juzFE/CvHZp+dQC2X+wM
+=bW5f
+-----END PGP MESSAGE-----
