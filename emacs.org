@@ -13,6 +13,9 @@ https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
 https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 
+** TODO AI Agent for Emacs
+https://github.com/MatthewZMD/emigo
+
 ** TODO scrcpy for Emacs
 
 ** TODO Make image scroll smooth
