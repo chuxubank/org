@@ -5,9 +5,13 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [20/21]
+* 展览 [21/22]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
-** TODO 第二届“中国书法大厦杯”书法大奖赛
+** TODO 第九届上海市书法篆刻大赛征稿启事
+DEADLINE: <2025-07-06 Sun>
+https://mp.weixin.qq.com/s/6Q1iwyI3L56ePC1OeuH1zQ
+
+** DONE 第二届“中国书法大厦杯”书法大奖赛
 SCHEDULED: <2025-06-21 Sat> DEADLINE: <2025-06-30 Mon>
 https://mp.weixin.qq.com/s/TRPA-mRM_9vWyIPXNHnNIQ
 *** 苏轼诗词选
