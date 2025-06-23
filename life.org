@@ -38,11 +38,12 @@ SCHEDULED: <2025-06-22 Sun 20:10 .+2d>
 * TODO 陈香贵积分兑换
 DEADLINE: <2025-12-31 Wed ++1y> SCHEDULED: <2025-12-01 Mon ++1y>
 * TODO Cut nails
-SCHEDULED: <2025-06-21 Sat 20:00 .+6d/9d>
+SCHEDULED: <2025-06-28 Sat 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-06-15 Sun 07:43]
+:LAST_REPEAT: [2025-06-22 Sun 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-06-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2025-06-15 Sun 07:43]
 - State "DONE"       from "TODO"       [2025-06-07 Sat 20:21]
 - State "DONE"       from "TODO"       [2025-05-28 Wed 20:46]
@@ -566,11 +567,12 @@ SCHEDULED: <2025-06-19 Thu .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2025-06-22 Sun 07:15 .+4d/6d>
+SCHEDULED: <2025-06-26 Thu 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-06-18 Wed 23:59]
+:LAST_REPEAT: [2025-06-22 Sun 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-06-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2025-06-18 Wed 23:59]
 - State "DONE"       from "TODO"       [2025-06-15 Sun 08:07]
 - State "DONE"       from "TODO"       [2025-06-11 Wed 07:24]
@@ -992,11 +994,12 @@ SCHEDULED: <2025-05-11 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2025-06-21 Sat 14:10 .+1d>
+SCHEDULED: <2025-06-24 Tue 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-06-20 Fri 20:37]
+:LAST_REPEAT: [2025-06-23 Mon 16:54]
 :END:
+- State "DONE"       from "TODO"       [2025-06-23 Mon 16:54]
 - State "DONE"       from "TODO"       [2025-06-20 Fri 20:37]
 - State "DONE"       from "TODO"       [2025-06-18 Wed 16:22]
 - State "DONE"       from "TODO"       [2025-06-12 Thu 20:53]
