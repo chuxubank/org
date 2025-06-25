@@ -48,6 +48,9 @@ SCHEDULED: <2025-06-16 Mon>
 *** TODO quick-sdcv
 https://github.com/jamescherti/quick-sdcv.el
 
+*** TODO Gramma check
+https://writewithharper.com/docs/integrations/emacs
+
 ** TODO Display notification from D-Bus on other system like macOS or Windows
 https://github.com/dbus2/zbus
 https://github.com/hoodie/notify-rust
