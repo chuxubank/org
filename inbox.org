@@ -5,6 +5,18 @@
 * TODO 迁移照片
 SCHEDULED: <2025-06-12 Thu>
 
+* TODO AI Agent
+
+** TODO MCP
+
+*** TODO Figma
+
+** TODO Claude Code
+
+** TODO Gemini CLI
+
+** TODO Codex
+
 * TODO 修复家庭网络
 SCHEDULED: <2025-06-20 Fri>
 
