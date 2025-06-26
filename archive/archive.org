@@ -2485,6 +2485,33 @@ SCHEDULED: <2025-06-08 Sun>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+** DONE 携带转换插座
+SCHEDULED: <2025-06-17 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-26 Thu 12:34
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 写委托信并签名
+SCHEDULED: <2025-06-16 Mon 19:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-26 Thu 12:34
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE Use yaml-pro
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-26 Thu 12:34
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/zkry/yaml-pro
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>

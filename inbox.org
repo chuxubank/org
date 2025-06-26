@@ -1,11 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* DONE 携带转换插座
-SCHEDULED: <2025-06-17 Tue>
-* DONE 写委托信并签名
-SCHEDULED: <2025-06-16 Mon 19:00>
-* TODO Use yaml-pro
-https://github.com/zkry/yaml-pro
+* TODO Use Apple Container
+
 * TODO 迁移照片
 SCHEDULED: <2025-06-12 Thu>
 
