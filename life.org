@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2025-06-22 Sun 20:10 .+2d>
+SCHEDULED: <2025-06-29 Sun 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-06-20 Fri 20:37]
+:LAST_REPEAT: [2025-06-27 Fri 17:21]
 :END:
+- State "KILL"       from "TODO"       [2025-06-27 Fri 17:21]
 - State "DONE"       from "TODO"       [2025-06-20 Fri 20:37]
 - State "DONE"       from "TODO"       [2025-06-17 Tue 23:59]
 - State "DONE"       from "TODO"       [2025-06-12 Thu 20:53]
@@ -829,11 +830,12 @@ SCHEDULED: <2025-06-29 Sun 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2025-06-23 Mon .+3d/5d>
+SCHEDULED: <2025-06-30 Mon .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-06-20 Fri 20:37]
+:LAST_REPEAT: [2025-06-27 Fri 14:28]
 :END:
+- State "DONE"       from "TODO"       [2025-06-27 Fri 14:28]
 - State "DONE"       from "TODO"       [2025-06-20 Fri 20:37]
 - State "DONE"       from "TODO"       [2025-06-17 Tue 23:59]
 - State "DONE"       from "TODO"       [2025-06-15 Sun 07:43]
