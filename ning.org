@@ -591,7 +591,7 @@ https://basic.smartedu.cn/training/2024sqpx
   End Sub
 #+end_src
 *** 评语
-#+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Documents/Ning/
+#+begin_src python :var tab=data-2024 :var line=12 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Documents/Ning/
   from docx import Document
   import os
 
@@ -631,10 +631,10 @@ https://basic.smartedu.cn/training/2024sqpx
               matched_doc = Document(os.path.join(input_directory, matched_filename))
               first_table = matched_doc.tables[0]
               for index in range(8):
-                  first_table.cell(11, 3 + index).text = "优秀"
+                  first_table.cell(line, 3 + index).text = "优秀"
 
               for index in range(8):
-                  first_table.cell(11, 12 + index).text = "合格"
+                  first_table.cell(line, 12 + index).text = "合格"
 
               existing_table = matched_doc.tables[1]  # Access the first existing table
               cell = existing_table.cell(1, 1)  # Specify the cell to insert content
