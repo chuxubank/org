@@ -2520,6 +2520,16 @@ SCHEDULED: <2025-06-16 Mon 19:00>
 :ARCHIVE_TODO: DONE
 :END:
 https://github.com/zkry/yaml-pro
+
+** DONE Move brew python packages to uv
+SCHEDULED: <2025-06-27 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-06-30 Mon 15:44
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
