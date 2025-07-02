@@ -1,5 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
 * TODO Add cache for chezmoi github action
 SCHEDULED: <2025-06-27 Fri>
 https://www.chezmoi.io/reference/configuration-file/variables/
@@ -220,3 +221,6 @@ SCHEDULED: <2025-06-26 Thu>
 
 ** WAIT BLS 退款
 DEADLINE: <2025-06-25 Wed>
+** TODO 手机卡
+SCHEDULED: <2025-07-02 Wed>
+
