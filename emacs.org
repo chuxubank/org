@@ -8,6 +8,9 @@ SCHEDULED: <2024-09-01 Sun>
 ** TODO Emacs on Android
 SCHEDULED: <2025-08-01 Fri>
 
+** TODO Compose Preview on Emacs
+https://docs.gradle.org/current/userguide/init_scripts.html
+
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
 https://modelcontextprotocol.io/introduction
