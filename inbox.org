@@ -224,3 +224,5 @@ DEADLINE: <2025-06-25 Wed>
 ** TODO 手机卡
 SCHEDULED: <2025-07-02 Wed>
 
+** TODO 带 U 型枕
+
