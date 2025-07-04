@@ -1,10 +1,5 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO Add cache for chezmoi github action
-SCHEDULED: <2025-06-27 Fri>
-https://www.chezmoi.io/reference/configuration-file/variables/
-$XDG_CACHE_HOME/chezmoi
-
 * TODO Use Apple Container
 
 * TODO 迁移照片
