@@ -71,9 +71,6 @@ SCHEDULED: <2025-05-26 Mon>
 https://github.com/elasticdog/transcrypt
 https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
 
-** WAIT Org-Agenda 自动 pull repo
-https://github.com/gitwatch/gitwatch
-
 ** IDEA hass.el
 homeassistant
 
