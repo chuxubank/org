@@ -218,12 +218,14 @@ SCHEDULED: <2025-06-26 Thu>
 ** DONE 换钱
 SCHEDULED: <2025-06-26 Thu>
 
-** WAIT BLS 退款
-DEADLINE: <2025-06-25 Wed>
+** DONE BLS 退款
+CLOSED: [2025-07-04 Fri 17:38] DEADLINE: <2025-06-25 Wed>
+- State "DONE"       from "WAIT"       [2025-07-04 Fri 17:38]
 
-** TODO 手机卡
-SCHEDULED: <2025-07-02 Wed>
+** DONE 手机卡
+CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-02 Wed>
+- State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
 
-** TODO 带 U 型枕
-SCHEDULED: <2025-07-04 Fri>
-
+** DONE 带 U 型枕
+CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-04 Fri>
+- State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
