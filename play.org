@@ -15,7 +15,8 @@
 ** Notes
 
 *** Linux
-https://steamcommunity.com/sharedfiles/filedetails/?id=3113667547
+[[https://steamcommunity.com/sharedfiles/filedetails/?id=3113667547][How to fix Fullscreen on Linux]]
+[[https://steamcommunity.com/sharedfiles/filedetails/?id=3049257442][[Performance Boost] Enabling Vulkan on Windows and Precompiling Shaders]]
 
 * TODO 模拟太空飞行
 
