@@ -15,7 +15,6 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 * 意大利
 ** 米兰
 *** 马尔彭萨
-SCHEDULED: <2025-07-25 Fri>
 ** 那不勒斯
 *** 那不勒斯
 **** L'Antica Pizzeria Da Michele
