@@ -42,11 +42,12 @@ SCHEDULED: <2025-07-22 Tue 20:10 .+2d>
 * TODO 陈香贵积分兑换
 DEADLINE: <2025-12-31 Wed ++1y> SCHEDULED: <2025-12-01 Mon ++1y>
 * TODO Cut nails
-SCHEDULED: <2025-07-24 Thu 20:00 .+6d/9d>
+SCHEDULED: <2025-08-02 Sat 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-07-18 Fri 01:50]
+:LAST_REPEAT: [2025-07-27 Sun 16:56]
 :END:
+- State "DONE"       from "TODO"       [2025-07-27 Sun 16:56]
 - State "DONE"       from "TODO"       [2025-07-18 Fri 01:50]
 - State "DONE"       from "TODO"       [2025-07-08 Tue 01:27]
 - State "DONE"       from "TODO"       [2025-07-01 Tue 23:59]
@@ -575,11 +576,12 @@ SCHEDULED: <2025-06-19 Thu .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2025-07-24 Thu 07:15 .+4d/6d>
+SCHEDULED: <2025-08-01 Fri 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-07-20 Sun 01:49]
+:LAST_REPEAT: [2025-07-28 Mon 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-07-28 Mon 23:59]
 - State "DONE"       from "TODO"       [2025-07-20 Sun 01:49]
 - State "DONE"       from "TODO"       [2025-07-09 Wed 01:28]
 - State "DONE"       from "TODO"       [2025-07-01 Tue 23:59]
@@ -839,11 +841,12 @@ SCHEDULED: <2025-07-24 Thu 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2025-07-14 Mon .+3d/5d>
+SCHEDULED: <2025-08-01 Fri .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-07-11 Fri 01:28]
+:LAST_REPEAT: [2025-07-29 Tue 16:57]
 :END:
+- State "DONE"       from "TODO"       [2025-07-29 Tue 16:57]
 - State "DONE"       from "TODO"       [2025-07-11 Fri 01:28]
 - State "DONE"       from "TODO"       [2025-07-02 Wed 08:55]
 - State "DONE"       from "TODO"       [2025-06-27 Fri 14:28]
@@ -992,11 +995,12 @@ SCHEDULED: <2025-08-08 Fri .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Clean bathroom
-SCHEDULED: <2025-07-25 Fri .+2w>
+SCHEDULED: <2025-08-12 Tue .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-07-11 Fri 01:28]
+:LAST_REPEAT: [2025-07-29 Tue 16:57]
 :END:
+- State "DONE"       from "TODO"       [2025-07-29 Tue 16:57]
 - State "KILL"       from "TODO"       [2025-07-11 Fri 01:28]
 - State "DONE"       from "TODO"       [2025-04-27 Sun 22:46]
 - State "DONE"       from "TODO"       [2025-02-23 Sun 11:19]
@@ -1010,11 +1014,12 @@ SCHEDULED: <2025-07-25 Fri .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2025-07-21 Mon 14:10 .+1d>
+SCHEDULED: <2025-07-30 Wed 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-07-20 Sun 01:49]
+:LAST_REPEAT: [2025-07-29 Tue 16:56]
 :END:
+- State "DONE"       from "TODO"       [2025-07-29 Tue 16:56]
 - State "DONE"       from "TODO"       [2025-07-20 Sun 01:49]
 - State "DONE"       from "TODO"       [2025-07-11 Fri 01:28]
 - State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
