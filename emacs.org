@@ -10,6 +10,8 @@ SCHEDULED: <2025-08-01 Fri>
 
 ** TODO Compose Preview on Emacs
 https://docs.gradle.org/current/userguide/init_scripts.html
+https://cashapp.github.io/paparazzi/
+https://www.jetbrains.com/help/kotlin-multiplatform-dev/amper.html
 
 ** TODO MCP for Emacs
 https://www.anthropic.com/news/model-context-protocol
