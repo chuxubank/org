@@ -62,10 +62,19 @@ https://github.com/hoodie/notify-rust
 
 ** STRT beancount 学习记账
 SCHEDULED: <2024-12-26 Thu>
+https://github.com/polarmutex/beancount-language-server
+
 https://github.com/deb-sig/double-entry-generator
+https://github.com/deb-sig/bill-parser
 https://fermi.ink/posts/2023/05/31/01/
 https://consumeprod.alipay.com/record/index.htm
 https://github.com/beancount/beangulp
+https://github.com/beancount/smart_importer
+
+https://github.com/dhr2333/Beancount-Trans
+https://github.com/zsxsoft/my-beancount-scripts
+https://github.com/heyeshuang/beancount-homemade-importers
+https://blog.einverne.info/post/2021/02/beancount-import-bill.html
 *** DONE 京东账单导入
 SCHEDULED: <2024-12-26 Thu>
 *** KILL 加密敏感文件
