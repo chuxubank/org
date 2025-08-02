@@ -63,6 +63,7 @@ https://github.com/hoodie/notify-rust
 ** STRT beancount 学习记账
 SCHEDULED: <2024-12-26 Thu>
 https://github.com/polarmutex/beancount-language-server
+https://blog.triplez.cn/posts/bills-export-methods
 
 https://github.com/deb-sig/double-entry-generator
 https://github.com/deb-sig/bill-parser
@@ -75,6 +76,10 @@ https://github.com/dhr2333/Beancount-Trans
 https://github.com/zsxsoft/my-beancount-scripts
 https://github.com/heyeshuang/beancount-homemade-importers
 https://blog.einverne.info/post/2021/02/beancount-import-bill.html
+
+https://bankstatementconverter.com/
+https://www.yourbankstatement.com/
+https://bill-parser.vercel.app/
 *** DONE 京东账单导入
 SCHEDULED: <2024-12-26 Thu>
 *** KILL 加密敏感文件
