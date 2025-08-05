@@ -5,6 +5,8 @@ SCHEDULED: <2025-07-26 Sat>
 *** DONE Use org-cv make resume
 SCHEDULED: <2024-09-01 Sun>
 
+*** TODO Add Fastlane CI/CD tech
+
 ** TODO Emacs on Android
 SCHEDULED: <2025-08-01 Fri>
 
