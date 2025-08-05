@@ -51,9 +51,6 @@ https://kaihao.io/2018/mdict-to-macos-dictionary/
 https://github.com/jjgod/mac-dictionary-kit
 https://sspai.com/post/43155
 
-* DONE 找 Crocs 的鞋子
-SCHEDULED: <2025-06-20 Fri>
-
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
