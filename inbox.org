@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 完善 Karabiner 注释
+SCHEDULED: <2025-08-06 Wed>
+
 * DONE 带 U 型枕回家洗
 SCHEDULED: <2025-08-05 Tue 17:30>
 
