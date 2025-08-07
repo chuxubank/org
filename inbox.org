@@ -1,6 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 使用 Matrix 代理 WeChat
+SCHEDULED: <2025-08-07 Thu>
+https://matrix.org/ecosystem/bridges/
+
 * TODO 欧洲旅行路书
 SCHEDULED: <2025-08-07 Thu>
 
