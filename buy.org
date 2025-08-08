@@ -9,6 +9,10 @@
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 * TODO Reality NFT
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
+
+* TODO 浴室门后挂钩
+SCHEDULED: <2025-08-09 Sat>
+
 * TODO 显卡
 * TODO 4K 菊花链显示器
 * TODO 篆书字帖
@@ -17,10 +21,6 @@ https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 明清
 王福庵
 * TODO USB Typc-C Hub
-* TODO Ray-Ban Meta AI
-* TODO 咖啡机
-* TODO 冷热净水机
-* TODO 戴森吸尘器
 * TODO 分体键盘
 ** Keychron Q11
 :PROPERTIES:
@@ -28,5 +28,8 @@ https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 :END:
 * TODO 小升降桌
 [[jd:100017531886]]
-* TODO 小水吧桌子
-
+* KILL 小水吧桌子
+* DONE Ray-Ban Meta AI
+* DONE 咖啡机
+* DONE 冷热净水机
+* DONE 戴森吸尘器
