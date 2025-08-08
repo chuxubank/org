@@ -20,6 +20,10 @@ SCHEDULED: <2025-06-12 Thu>
 
 *** TODO Figma
 
+*** TODO Android Studio
+
+*** TODO Jira
+
 ** DONE Claude Code
 
 ** DONE Gemini CLI
