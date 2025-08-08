@@ -20,14 +20,22 @@ SCHEDULED: <2025-06-12 Thu>
 
 *** TODO Figma
 
-** TODO Claude Code
+** DONE Claude Code
 
-** TODO Gemini CLI
+** DONE Gemini CLI
 
-** TODO Codex
+** DONE Codex
 
-* TODO 修复家庭网络
+* TODO 家庭网络透明代理
 SCHEDULED: <2025-06-20 Fri>
+
+** TODO Meta 眼镜
+
+*** TODO 自动同步
+
+*** TODO AI
+
+** TODO FydeOS on Intel Atom
 
 * DONE 注册 盈透(IBKR)
 https://ndcdyn.interactivebrokers.com/sso/Login?c=t
