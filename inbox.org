@@ -6,6 +6,9 @@ SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
 https://github.com/duo/matrix-wechat
 
+* TODO OrbStack on own macOS
+SCHEDULED: <2025-08-09 Sat>
+
 * TODO 欧洲旅行路书
 SCHEDULED: <2025-08-07 Thu>
 
