@@ -11,7 +11,7 @@
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 
 * TODO 浴室门后挂钩
-SCHEDULED: <2025-08-09 Sat>
+SCHEDULED: <2025-08-11 Mon 14:00>
 
 * TODO 显卡
 * TODO 4K 菊花链显示器
