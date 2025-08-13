@@ -49,6 +49,7 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 *** [[https://shapeof.com/rss.xml][The Shape of Everything]] :apple:mac:
 *** [[https://ericasadun.com/feed/][Erica Sadun]] :apple:xcode:
 *** [[https://blog.triplez.cn/][TripleZ]] :beancount:
+*** [[https://www.appelsiini.net/index.xml][Mika Tuupola]] :apple:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
