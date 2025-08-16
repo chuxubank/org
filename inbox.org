@@ -7,9 +7,6 @@ SCHEDULED: <2025-08-18 Mon>
 * TODO 洋房火锅
 SCHEDULED: <2025-08-23 Sat>
 
-* TODO 使用 gptel
-SCHEDULED: <2025-08-09 Sat>
-
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
