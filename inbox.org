@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 购买五月天棒球服
+* STRT 购买五月天棒球服
 SCHEDULED: <2025-08-18 Mon>
 
 * TODO 洋房火锅
