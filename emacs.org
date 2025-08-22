@@ -133,6 +133,6 @@ https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outloo
 https://www.fitzsim.org/blog/?p=596
 
 https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
-** TODO 使用 gptel
+** TODO 使用 gptel prompt
 SCHEDULED: <2025-08-09 Sat>
 
