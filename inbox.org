@@ -5,16 +5,10 @@
 SCHEDULED: <2025-08-18 Mon>
 https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528
 
-* TODO 洋房火锅
-SCHEDULED: <2025-08-23 Sat>
-
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
 https://github.com/duo/matrix-wechat
-
-* DONE OrbStack on own macOS
-SCHEDULED: <2025-08-09 Sat>
 
 * TODO 欧洲旅行路书
 SCHEDULED: <2025-08-07 Thu>
