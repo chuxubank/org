@@ -7,8 +7,8 @@
 SCHEDULED: <2026-03-01 Sun 10:00>
 ** DONE 学籍卡
 SCHEDULED: <2025-06-27 Fri>
-** TODO 名字贴 8 份
-SCHEDULED: <2025-08-22 Fri>
+** TODO 名字贴 5 份
+SCHEDULED: <2025-08-25 Mon>
 * Notes
 ** Favorite
 *** 颜色
