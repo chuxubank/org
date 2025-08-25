@@ -1,10 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* STRT 购买五月天棒球服
-SCHEDULED: <2025-08-18 Mon>
-https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528
-
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
@@ -45,27 +41,7 @@ SCHEDULED: <2025-06-20 Fri>
 
 ** TODO FydeOS on Intel Atom
 
-* DONE 注册 盈透(IBKR)
-https://ndcdyn.interactivebrokers.com/sso/Login?c=t
-
 * TODO 汇丰(HKBC) 入金
-* DONE 激活 兴业银行 寰宇人生借记卡
-SCHEDULED: <2025-06-13 Fri>
-
-** DONE 拿快递
-SCHEDULED: <2025-06-12 Thu 19:00>
-
-** DONE 带身份证
-SCHEDULED: <2025-06-13 Fri 07:00>
-
-* DONE 激活 中国银行 MasterCard 欧元信用卡
-SCHEDULED: <2025-06-19 Thu> DEADLINE: <2025-06-27 Fri>
-- State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
-
-** DONE 带身份证和银行卡
-CLOSED: [2025-06-19 Thu 08:31] SCHEDULED: <2025-06-19 Thu 07:30>
-- State "DONE"       from "WAIT"       [2025-06-19 Thu 08:31]
-
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
 https://kaihao.io/2018/mdict-to-macos-dictionary/
@@ -169,8 +145,6 @@ SCHEDULED: <2025-06-20 Fri>
 :BLOCKER:  previous-sibling
 :END:
 
-* DONE Bitcoin Whitepaper
-
 * TODO Coin Bot
 https://github.com/freqtrade/freqtrade
 
@@ -186,6 +160,32 @@ https://github.com/yangshun/tech-interview-handbook
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+
+* STRT 购买五月天棒球服
+SCHEDULED: <2025-08-18 Mon>
+https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528
+
+* DONE 注册 盈透(IBKR)
+https://ndcdyn.interactivebrokers.com/sso/Login?c=t
+
+* DONE 激活 兴业银行 寰宇人生借记卡
+SCHEDULED: <2025-06-13 Fri>
+
+** DONE 拿快递
+SCHEDULED: <2025-06-12 Thu 19:00>
+
+** DONE 带身份证
+SCHEDULED: <2025-06-13 Fri 07:00>
+
+* DONE 激活 中国银行 MasterCard 欧元信用卡
+SCHEDULED: <2025-06-19 Thu> DEADLINE: <2025-06-27 Fri>
+- State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
+
+** DONE 带身份证和银行卡
+CLOSED: [2025-06-19 Thu 08:31] SCHEDULED: <2025-06-19 Thu 07:30>
+- State "DONE"       from "WAIT"       [2025-06-19 Thu 08:31]
+
+* DONE Bitcoin Whitepaper
 
 * DONE 旅行计划
 SCHEDULED: <2025-05-18 Sun>
