@@ -9,6 +9,8 @@ SCHEDULED: <2026-03-01 Sun 10:00>
 SCHEDULED: <2025-06-27 Fri>
 ** DONE 名字贴 5 份
 SCHEDULED: <2025-08-25 Mon>
+
+** TODO 买人体工学椅子
 * Notes
 ** Favorite
 *** 颜色
