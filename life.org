@@ -1037,11 +1037,12 @@ SCHEDULED: <2025-09-13 Sat .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2025-08-31 Sun 14:10 .+1d>
+SCHEDULED: <2025-09-01 Mon 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-08-30 Sat 11:38]
+:LAST_REPEAT: [2025-08-31 Sun 20:53]
 :END:
+- State "DONE"       from "TODO"       [2025-08-31 Sun 20:53]
 - State "DONE"       from "TODO"       [2025-08-30 Sat 11:38]
 - State "DONE"       from "TODO"       [2025-08-25 Mon 23:59]
 - State "KILL"       from "TODO"       [2025-08-22 Fri 21:20]
@@ -1177,11 +1178,12 @@ DEADLINE: <2026-03-19 Thu> SCHEDULED: <2026-02-19 Thu .+1y>
 :END:
 - State "DONE"       from "TODO"       [2025-03-17 Mon 15:03]
 ** TODO Wash Car
-SCHEDULED: <2025-07-11 Fri .+2m>
+SCHEDULED: <2025-10-30 Thu .+2m>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-05-11 Sun 11:16]
+:LAST_REPEAT: [2025-08-30 Sat 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-08-30 Sat 23:59]
 - State "DONE"       from "TODO"       [2025-05-11 Sun 11:16]
 - State "DONE"       from "TODO"       [2025-04-12 Sat 10:44]
 - State "DONE"       from "TODO"       [2025-01-25 Sat 18:36]
