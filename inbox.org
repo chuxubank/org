@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 更新 HomeAssistant
+SCHEDULED: <2025-09-01 Mon>
+
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
@@ -30,16 +33,14 @@ SCHEDULED: <2025-06-12 Thu>
 
 ** DONE Codex
 
-* TODO 家庭网络透明代理
+* TODO Meta 眼镜
+
+** TODO 自动同步
+
+** TODO AI
+
+*** TODO 家庭网络透明代理
 SCHEDULED: <2025-06-20 Fri>
-
-** TODO Meta 眼镜
-
-*** TODO 自动同步
-
-*** TODO AI
-
-** TODO FydeOS on Intel Atom
 
 * TODO 汇丰(HKBC) 入金
 * TODO 添加 macOS 系统词典
