@@ -91,6 +91,7 @@ Use hugo module
 
 * TODO 学习 Rust
 SCHEDULED: <2025-07-27 Sun>
+https://github.com/google/comprehensive-rust
 
 * TODO 重构 Ansible
 SCHEDULED: <2025-06-03 Tue>
