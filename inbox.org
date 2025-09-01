@@ -35,6 +35,9 @@ SCHEDULED: <2025-06-12 Thu>
 
 *** TODO Jira
 
+*** TODO Context7
+https://github.com/upstash/context7
+
 ** DONE Claude Code
 
 ** DONE Gemini CLI
