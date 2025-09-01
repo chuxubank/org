@@ -7,6 +7,8 @@ SCHEDULED: <2025-09-05 Fri>
 ** TODO Find Frigate alternative
 SCHEDULED: <2025-09-01 Mon>
 
+* TODO Android jks file from Pass
+
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
