@@ -2,6 +2,9 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
 * TODO 更新 HomeAssistant
+SCHEDULED: <2025-09-05 Fri>
+
+** TODO Find Frigate alternative
 SCHEDULED: <2025-09-01 Mon>
 
 * TODO 使用 Matrix 代理 WeChat
