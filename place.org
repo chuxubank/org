@@ -9,7 +9,6 @@
 ** Diego Vitagliano Pizzeria
 ** I Masanielli
 
-
 ** TOGO OaKs 19
  omakase
 ** TOGO Today Cake
@@ -29,7 +28,7 @@
 PROPERTIES:
 Type:     餐饮
 END:
-[map:奥灶面][中国江苏省苏州市姑苏区三香路 120 号胥城大厦 2 层]]
+[[map:奥灶面][中国江苏省苏州市姑苏区三香路 120 号胥城大厦 2 层]]
 +begin_quote
 着外交部走了 50 多个国家的潘大厨在 2004 年回到胥城时，将奥灶面引入。
 灶面要说“五热一体，小料冲汤”。
@@ -41,34 +40,34 @@ PROPERTIES:
 State:    可堂食
 Type:     餐饮
 END:
-[map:Grinder 绞肉机汉堡(愚园路店)][中国上海市长宁区愚园路 1088 弄 48 号 101 室]]
+[[map:Grinder 绞肉机汉堡(愚园路店)][中国上海市长宁区愚园路 1088 弄 48 号 101 室]]
 ** TOGO PANGCARON 胖卡龙(井亭天地生活广场店)
 PROPERTIES:
 Type:     餐饮
 END:
-[map:PANGCARON 胖卡龙(井亭天地生活广场店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场西区 F3]]
+[[map:PANGCARON 胖卡龙(井亭天地生活广场店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场西区 F3]]
 ** TOGO 楼梯房咖啡
 PROPERTIES:
 Type:     餐饮
 END:
-[map:楼梯房咖啡][中国上海市闵行区虹泉路 1000 号(井亭大厦 W 超市内)]]
+[[map:楼梯房咖啡][中国上海市闵行区虹泉路 1000 号(井亭大厦 W 超市内)]]
 ** TOGO SPACE AGE
 PROPERTIES:
 Type:     餐饮
 END:
-[map:SPACE AGE][中国上海市徐汇区衡山路 283 号 1 层(衡山路地铁站 1 号口步行 100 米)]]
+[[map:SPACE AGE][中国上海市徐汇区衡山路 283 号 1 层(衡山路地铁站 1 号口步行 100 米)]]
 ** TOGO CO.CHEESE(淮海路店)
-[map:CO.CHEESE(淮海路店)][中国上海市徐汇区南昌路 509 号(地铁陕西南路站 6 号口出口马路对面-發记甜品隔壁)]]
+[[map:CO.CHEESE(淮海路店)][中国上海市徐汇区南昌路 509 号(地铁陕西南路站 6 号口出口马路对面-發记甜品隔壁)]]
 ** TOGO Luneurs(环贸店)
-[map:Luneurs(环贸店)][中国上海市徐汇区淮海中路 999 号上海环贸 IAPM 商场 L5-520 商铺]]
+[[map:Luneurs(环贸店)][中国上海市徐汇区淮海中路 999 号上海环贸 IAPM 商场 L5-520 商铺]]
 ** TOGO Brown sixty(银亭路店)
-[map:Brown sixty(银亭路店)][中国上海市闵行区银亭路 68 号天乐广场 1 楼]]
+[[map:Brown sixty(银亭路店)][中国上海市闵行区银亭路 68 号天乐广场 1 楼]]
 ** TOGO 苏州博物馆
 PROPERTIES:
 Type:     展馆
 END:
  State "TOGO"       from "CANCELED"   [2022-08-10 Wed 08:31]
-[map:苏州博物馆][中国江苏省苏州市姑苏区东北街 204 号]]
+[[map:苏州博物馆][中国江苏省苏州市姑苏区东北街 204 号]]
 ** TOGO 洋房火锅
 :PROPERTIES:
 :Type:     餐饮
@@ -78,7 +77,7 @@ LOSED: [2022-08-08 Mon 20:29] SCHEDULED: <2022-08-08 Mon 10:00>
 PROPERTIES:
 Type:     餐饮
 END:
-[map:同得兴(嘉馀坊店)][中国江苏省苏州市姑苏区人民路嘉馀坊 6 号(乐桥地铁站 8 号口步行 180 米)]]
+[[map:同得兴(嘉馀坊店)][中国江苏省苏州市姑苏区人民路嘉馀坊 6 号(乐桥地铁站 8 号口步行 180 米)]]
  枫镇大肉面
 ** BEEN 奕欧来苏州购物村
 PROPERTIES:
@@ -86,14 +85,14 @@ Type:     休闲
 END:
  State "BEEN"       from "TOGO"       [2022-08-10 Wed 08:30] \\
  耐克很实惠！
-[map:奕欧来苏州购物村][中国江苏省苏州市吴中区阳澄湖半岛旅游度假区阳澄环路 969 号]]
+[[map:奕欧来苏州购物村][中国江苏省苏州市吴中区阳澄湖半岛旅游度假区阳澄环路 969 号]]
 ** BEEN 古茗(唯亭店)
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-08-10 Wed 08:30] \\
  在老街里 珍珠不错
-[map:古茗(唯亭店)][中国江苏省苏州市吴中区唯亭街道镇中北街 38 号]]
+[[map:古茗(唯亭店)][中国江苏省苏州市吴中区唯亭街道镇中北街 38 号]]
 ** BEEN 东吴苏锦记绿豆汤(平江路店)
 LOSED: [2022-08-08 Mon 20:29] SCHEDULED: <2022-08-08 Mon 13:00>
 PROPERTIES:
@@ -101,7 +100,7 @@ Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-08-10 Wed 08:30] \\
  还不错
-[map:东吴苏锦记绿豆汤(平江路店)][中国江苏省苏州市姑苏区平江路 285 号]]
+[[map:东吴苏锦记绿豆汤(平江路店)][中国江苏省苏州市姑苏区平江路 285 号]]
 ** BEEN 拙政园
 LOSED: [2022-08-08 Mon 20:29] SCHEDULED: <2022-08-08 Mon 11:00>
 PROPERTIES:
@@ -109,7 +108,7 @@ Type:     休闲
 END:
  State "BEEN"       from "CANCELED"   [2022-08-10 Wed 08:29] \\
  大中午去的（好热
-[map:拙政园][中国江苏省苏州市姑苏区东北街 178 号]]
+[[map:拙政园][中国江苏省苏州市姑苏区东北街 178 号]]
 ** BEEN Mercado 505
 PROPERTIES:
 Type:     餐饮
@@ -118,35 +117,35 @@ END:
  果木碳烤章鱼腿可太好吃了
  红魔虾海鲜饭一般般
  巴斯克和榴梿冰淇淋也不错
-[map:Mercado 505][中国上海市静安区乌鲁木齐北路 505 号 9 幢二层]]
+[[map:Mercado 505][中国上海市静安区乌鲁木齐北路 505 号 9 幢二层]]
 ** BEEN 沐白茶事(静安区店)
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-07-23 Sat] \\
  点的两个花茶还挺好喝的
-[map:沐白茶事(静安区店)][中国上海市静安区华山路 301 号 1 楼 A2 室(静安寺地铁站 11 号口步行 260 米)]]
+[[map:沐白茶事(静安区店)][中国上海市静安区华山路 301 号 1 楼 A2 室(静安寺地铁站 11 号口步行 260 米)]]
 ** BEEN abcplayer coffee
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-07-02 Sat] \\
  咖啡一般般
-[map:abcplayer coffee][中国上海市静安区愚园路 315 号(静安寺地铁站 1 号口步行 320 米)]]
+[[map:abcplayer coffee][中国上海市静安区愚园路 315 号(静安寺地铁站 1 号口步行 320 米)]]
 ** BEEN Akimbo Cafe
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-07-01 Fri] \\
  朱老师很推荐！门口偶然看到一辆疑似哈雷的摩托车！
-[map:Akimbo Cafe][中国上海市长宁区愚园路 1018 号(江苏路地铁站 6 号口步行 190 米)]]
+[[map:Akimbo Cafe][中国上海市长宁区愚园路 1018 号(江苏路地铁站 6 号口步行 190 米)]]
 ** BEEN 三角关夕 Modern Oden
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-07-01 Fri] \\
  意面很好吃 关东煮很清淡
-[map:三角关夕 Modern Oden][中国上海市长宁区愚园路 1088 弄 48 号 107-1 室]]
+[[map:三角关夕 Modern Oden][中国上海市长宁区愚园路 1088 弄 48 号 107-1 室]]
 ** BEEN The Island 美术馆式服装集合店(愚园路店)
 CHEDULED: <2022-07-01 Fri>
 PROPERTIES:
@@ -154,41 +153,41 @@ Type:     休闲
 END:
  State "BEEN"       from "TOGO"       [2022-07-02 Sat] \\
  不是朱老师的 style
-[map:The Island 美术馆式服装集合店(愚园路店)][中国上海市长宁区愚园路 1366 号(中山公园地铁站 5 号口步行 240 米)]]
+[[map:The Island 美术馆式服装集合店(愚园路店)][中国上海市长宁区愚园路 1366 号(中山公园地铁站 5 号口步行 240 米)]]
 ** BEEN 亲父的右腕(蒙自路店)
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2022-03-01 Tue] \\
  朱老师评价：没有想像的好吃
-[map:亲父的右腕(蒙自路店)][中国上海市黄浦区蒙自路 207 号宏慧盟智园 11 号楼 009 商铺]]
+[[map:亲父的右腕(蒙自路店)][中国上海市黄浦区蒙自路 207 号宏慧盟智园 11 号楼 009 商铺]]
 ** BEEN 欢饮光临
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2021-11-14 Sun] \\
  碎了好几个碗 Orz 店员小哥哥颜值都挺高的！
-[map:欢饮光临][中国上海市徐汇区淮海中路 1720-5 号(上海图书馆地铁站 3 号口步行 320 米)]]
+[[map:欢饮光临][中国上海市徐汇区淮海中路 1720-5 号(上海图书馆地铁站 3 号口步行 320 米)]]
 ** BEEN 清进洞
 PROPERTIES:
 Type:     餐饮
 END:
  State "BEEN"       from "TOGO"       [2021-10-06 Wed] \\
  韩料，好吃！
-[map:清进洞][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F2]]
+[[map:清进洞][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F2]]
 ** BEEN Gmart(G 超市韩国超市)
  State "BEEN"       from "TOGO"       [2021-10-06 Wed]
-[map:Gmart(G 超市韩国超市)][中国上海市闵行区虹泉路 1101 弄 57-58 号]]
+[[map:Gmart(G 超市韩国超市)][中国上海市闵行区虹泉路 1101 弄 57-58 号]]
 ** BEEN Kmart(井亭天地店)
  State "BEEN"       from "TOGO"       [2021-10-06 Wed]
-[map:Kmart(井亭天地店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F1]]
+[[map:Kmart(井亭天地店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F1]]
 * 西班牙
 ** 巴塞罗那 Barcelona
-*** DONE 安普拉特 El Prat
+*** BEEN DONE 安普拉特 El Prat
 SCHEDULED: <2025-07-06 Sun 08:00>
-*** DONE 圣家堂 Sagrada Familia
+*** BEEN DONE 圣家堂 Sagrada Familia
 SCHEDULED: <2025-07-08 Tue 10:15>
-*** DONE 巴特罗之家 Casa Batlló
+*** BEEN DONE 巴特罗之家 Casa Batlló
 SCHEDULED: <2025-07-08 Tue 14:45>
 * 法国
 
