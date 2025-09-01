@@ -42,6 +42,9 @@ SCHEDULED: <2025-06-12 Thu>
 *** TODO 家庭网络透明代理
 SCHEDULED: <2025-06-20 Fri>
 
+**** TODO sing-box research
+SCHEDULED: <2025-09-01 Mon>
+
 * TODO 汇丰(HKBC) 入金
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
@@ -89,7 +92,7 @@ Use hugo module
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 
-* TODO 学习 Rust
+* STRT 学习 Rust
 SCHEDULED: <2025-07-27 Sun>
 https://github.com/google/comprehensive-rust
 
