@@ -33,7 +33,7 @@ SCHEDULED: <2025-06-12 Thu>
 
 * TODO AI Agent
 
-** TODO MCP
+** TODO MCP Server
 
 *** TODO Figma
 
@@ -44,11 +44,17 @@ SCHEDULED: <2025-06-12 Thu>
 *** TODO Context7
 https://github.com/upstash/context7
 
-** DONE Claude Code
+** TODO MCP Client
 
-** DONE Gemini CLI
+*** TODO Raycast
 
-** DONE Codex
+*** DONE Claude Code
+
+*** DONE Gemini CLI
+
+*** DONE Codex
+
+*** TODO Goose
 
 * TODO Meta 眼镜
 
