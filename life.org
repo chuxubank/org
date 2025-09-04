@@ -1016,6 +1016,11 @@ SCHEDULED: <2025-10-26 Sun .+2m>
 - State "DONE"       from "TODO"       [2022-03-26 Sat 15:56]
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
+* TODO Care hair
+SCHEDULED: <2025-09-04 Thu 12:55 .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:END:
 * TODO Clean bathroom
 SCHEDULED: <2025-09-13 Sat .+2w>
 :PROPERTIES:
