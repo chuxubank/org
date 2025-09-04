@@ -50,6 +50,7 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 *** [[https://ericasadun.com/feed/][Erica Sadun]] :apple:xcode:
 *** [[https://blog.triplez.cn/][TripleZ]] :beancount:
 *** [[https://www.appelsiini.net/index.xml][Mika Tuupola]] :apple:
+*** [[https://www.jasonpearson.dev/rss/][Jason Pearson]] :gradle:android:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
