@@ -3,7 +3,7 @@
 * TODO 老米记 炒米 龙须酥
 SCHEDULED: <2025-09-04 Thu 17:25>
 
-* TODO ouo 泰式奶茶
+* DONE ouo 泰式奶茶
 SCHEDULED: <2025-09-04 Thu 18:00>
 我饮料上的冰淇淋要 125 浓度
 
