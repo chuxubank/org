@@ -43,6 +43,7 @@ SCHEDULED: <2025-06-12 Thu>
 
 *** TODO Context7
 https://github.com/upstash/context7
+https://context7.com/dashboard
 
 ** TODO MCP Client
 
