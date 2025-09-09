@@ -7,7 +7,7 @@
 #+link: xhs     https://www.xiaohongshu.com/explore/%s
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
-* TODO MUJI 削皮刀
+* KILL MUJI 削皮刀
 SCHEDULED: <2025-09-04 Thu 16:30>
 * TODO Reality NFT
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
