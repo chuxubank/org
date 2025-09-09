@@ -190,7 +190,7 @@ https://github.com/yangshun/tech-interview-handbook
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
-* WAIT 购买五月天棒球服
+* DONE 购买五月天棒球服
 SCHEDULED: <2025-08-18 Mon>
 - State "WAIT"       from "STRT"       [2025-09-03 Wed 18:06]
 https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528

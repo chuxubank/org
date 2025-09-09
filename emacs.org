@@ -142,6 +142,6 @@ https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_
 ** TODO 使用 gptel prompt
 SCHEDULED: <2025-08-09 Sat>
 
-** TODO Shell command output color
+** DONE Shell command output color
 SCHEDULED: <2025-09-08 Mon>
 
