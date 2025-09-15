@@ -56,6 +56,11 @@ https://15445.courses.cs.cmu.edu/fall2021/
 https://math.mit.edu/~gs/
 https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/
 https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+
+** LeetCode [0/2]
+*** TODO 42
+*** TODO 53
+
 * TODO 耶鲁大学公开课：聆听音乐
 https://oyc.yale.edu/music/musi-112/lecture-1
 * DONE [#A] 软考
