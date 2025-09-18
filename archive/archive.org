@@ -2577,6 +2577,16 @@ SCHEDULED: <2025-08-09 Sat>
 :ARCHIVE_TODO: DONE
 :END:
 
+** DONE ouo 泰式奶茶
+SCHEDULED: <2025-09-04 Thu 18:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-18 Thu 15:59
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+我饮料上的冰淇淋要 125 浓度
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
