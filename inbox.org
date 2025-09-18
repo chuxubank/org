@@ -50,13 +50,16 @@ https://context7.com/dashboard
 
 *** TODO Raycast
 
-*** DONE Claude Code
+*** TODO Claude Code
 
-*** DONE Gemini CLI
+*** TODO Gemini CLI
 
-*** DONE Codex
+*** TODO Codex
 
 *** TODO Goose
+
+*** TODO Emacs
+https://github.com/lizqwerscott/mcp.el
 
 * TODO Meta 眼镜
 
