@@ -4,10 +4,6 @@
 * TODO 老米记 炒米 龙须酥
 SCHEDULED: <2025-09-04 Thu 17:25>
 
-* DONE ouo 泰式奶茶
-SCHEDULED: <2025-09-04 Thu 18:00>
-我饮料上的冰淇淋要 125 浓度
-
 * TODO 带 Lightning to Type-C 线到公司
 SCHEDULED: <2025-09-07 Sun>
 
