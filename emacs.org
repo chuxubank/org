@@ -110,17 +110,25 @@ SCHEDULED: <2024-04-24 Wed>
 
 ** DONE 使用 mu4e 邮件客户端
 SCHEDULED: <2024-08-07 Wed>
-https://mmogilvi.users.sourceforge.net/software/oauthbearer.html
-https://github.com/cloudentity/oauth2c
-https://github.com/harishkrupo/oauth2ms/blob/main/steps.org
-https://www.reddit.com/r/emacs/comments/jreehr/imap_and_smtp_oauth2_configuration_for_office_365/
-https://bbs.archlinux.org/viewtopic.php?id=262954
----
-[[https://learn.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols][OAuth 2.0 and OpenID Connect (OIDC) in the Microsoft identity platform]]
+
+** TODO Gmail
+https://frostyx.cz/posts/synchronize-your-2fa-gmail-with-mbsync#a-less-hostile-provider-than-gmail
+
+** TODO OAuth for Email
+[[https://mmogilvi.users.sourceforge.net/software/oauthbearer.html][Setting Up OAUTH2 Support for Fetchmail and Postfix]]
+[[https://github.com/cloudentity/oauth2c][OAuth2c: user-friendly OAuth CLI]]
+[[https://github.com/harishkrupo/oauth2ms/blob/main/steps.org][Setup instructions for O356 token for IMAP]]
+[[https://www.fitzsim.org/blog/?p=596][Excorporate and OAuth 2.0]]
+[[https://bbs.archlinux.org/viewtopic.php?id=262954][OAuth 2 for Office365 with isync/msmtp]]
+[[https://www.reddit.com/r/emacs/comments/jreehr/imap_and_smtp_oauth2_configuration_for_office_365/][IMAP and SMTP OAuth2 configuration for Office 365]]
 
 Simple Authentication and Security Layer (SASL)
 
+*** TODO Exchange
+[[https://learn.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols][OAuth 2.0 and OpenID Connect (OIDC) in the Microsoft identity platform]]
+[[https://learn.microsoft.com/en-gb/exchange/client-developer/exchange-web-services/authentication-and-ews-in-exchange][Authentication and EWS in Exchange]]
 [[https://learn.microsoft.com/en-gb/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth][Authenticate an IMAP, POP or SMTP connection using OAuth]]
+[[https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040][POP, IMAP, and SMTP settings for Outlook.com]]
 1. Register your application
 2. Get an access token
 3. Authenticate connection requests
@@ -130,19 +138,17 @@ Simple Authentication and Security Layer (SASL)
      Import-module ExchangeOnlineManagement
      Connect-ExchangeOnline -Organization f0bdc1c9-5148-4f86-ac40-edd976e1814c
    #+end_src
-   https://aka.ms/exov3-module
+   [[https://aka.ms/exov3-module][About the Exchange Online PowerShell module]]
 
    #+begin_src powershell
      New-ServicePrincipal -AppId 8fba8259-4f94-4cb7-acb7-07594a9b39ab -ServiceId <OBJECT_ID> [-Organization <ORGANIZATION_ID>]
      Add-MailboxPermission -Identity "xu.chu@assaabloy.com" -User <SERVICE_PRINCIPAL_ID> -AccessRights FullAccess
    #+end_src
-https://learn.microsoft.com/en-gb/exchange/client-developer/exchange-web-services/authentication-and-ews-in-exchange
 
-https://support.microsoft.com/en-us/office/pop-imap-and-smtp-settings-for-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040
 
-https://www.fitzsim.org/blog/?p=596
+** TODO Calendar support for Email
+[[https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/][Accept MS Teams calendar invites in notmuch]]
 
-https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/
 ** TODO 使用 gptel prompt
 SCHEDULED: <2025-08-09 Sat>
 
