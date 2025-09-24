@@ -31,6 +31,7 @@ https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 
 ** TODO AI Agent for Emacs
 https://github.com/MatthewZMD/emigo
+https://github.com/s-kostyaev/elisa
 
 ** TODO Task.el migrate to jiralib3
 https://www.reddit.com/r/emacs/comments/1ngr47l/integrate_emacs_and_jira_with_ejira3/
