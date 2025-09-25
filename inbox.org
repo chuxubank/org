@@ -1,5 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO Relocate Zotero translators
+SCHEDULED: <2025-09-25 Thu>
+https://github.com/zepinglee/zotero-translators-zh
+
 * TODO 老米记 玉米酥
 SCHEDULED: <2025-10-13 Mon 17:25>
 
