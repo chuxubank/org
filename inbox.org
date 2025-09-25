@@ -14,7 +14,7 @@ SCHEDULED: <2025-09-01 Mon>
 
 * TODO Android jks file from Pass
 
-* TODO Update concourse json schema
+* DONE Update concourse json schema
 SCHEDULED: <2025-09-19 Fri>
 https://github.com/chuxubank/concourse-jsonschema-generator
 
