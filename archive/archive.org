@@ -3650,3 +3650,33 @@ https://github.com/ragnard/gptel-magit
 :END:
 https://github.com/gitwatch/gitwatch
 
+** DONE Gmail
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-03 Fri 11:01
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+https://frostyx.cz/posts/synchronize-your-2fa-gmail-with-mbsync#a-less-hostile-provider-than-gmail
+
+** DONE 使用 mu4e 邮件客户端
+SCHEDULED: <2024-08-07 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-03 Fri 11:01
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE Shell command output color
+SCHEDULED: <2025-09-08 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-03 Fri 11:02
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+
