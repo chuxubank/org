@@ -4,9 +4,6 @@
 SCHEDULED: <2025-09-25 Thu>
 https://github.com/zepinglee/zotero-translators-zh
 
-* TODO 老米记 玉米酥
-SCHEDULED: <2025-10-13 Mon 17:25>
-
 * TODO 带 Lightning to Type-C 线到公司
 SCHEDULED: <2025-09-07 Sun>
 
@@ -17,10 +14,6 @@ SCHEDULED: <2025-09-05 Fri>
 SCHEDULED: <2025-09-01 Mon>
 
 * TODO Android jks file from Pass
-
-* DONE Update concourse json schema
-SCHEDULED: <2025-09-19 Fri>
-https://github.com/chuxubank/concourse-jsonschema-generator
 
 * TODO 使用 Matrix 代理 WeChat
 SCHEDULED: <2025-08-07 Thu>
@@ -162,6 +155,7 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://www.conventionalcommits.org/
 
 * TODO 皮肤科复诊
+SCHEDULED: <2025-10-17 Fri>
 
 * TODO IPTV
 SCHEDULED: <2025-07-26 Sat>
@@ -196,89 +190,3 @@ https://github.com/yangshun/tech-interview-handbook
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
-* DONE 购买五月天棒球服
-SCHEDULED: <2025-08-18 Mon>
-- State "WAIT"       from "STRT"       [2025-09-03 Wed 18:06]
-https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528
-
-* DONE 注册 盈透(IBKR)
-https://ndcdyn.interactivebrokers.com/sso/Login?c=t
-
-* DONE 激活 兴业银行 寰宇人生借记卡
-SCHEDULED: <2025-06-13 Fri>
-
-** DONE 拿快递
-SCHEDULED: <2025-06-12 Thu 19:00>
-
-** DONE 带身份证
-SCHEDULED: <2025-06-13 Fri 07:00>
-
-* DONE 激活 中国银行 MasterCard 欧元信用卡
-SCHEDULED: <2025-06-19 Thu> DEADLINE: <2025-06-27 Fri>
-- State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
-
-** DONE 带身份证和银行卡
-CLOSED: [2025-06-19 Thu 08:31] SCHEDULED: <2025-06-19 Thu 07:30>
-- State "DONE"       from "WAIT"       [2025-06-19 Thu 08:31]
-
-* DONE Bitcoin Whitepaper
-
-* DONE 旅行计划
-SCHEDULED: <2025-05-18 Sun>
-Leave: <2025-07-06 Sun>
-Return: <2025-07-25 Fri>
-** DONE 签证
-DEADLINE: <2025-06-20 Fri>
-:PROPERTIES:
-:TRIGGER:  next-sibling scheduled!("++0wkdy")
-:END:
-https://web.blscn.cn/chinese/short_term_visa_tourism.php
-https://spain.blscn.cn/CHN/bls/VisaApplicationStatus
-PVG10206250143 Xu
-PVG10206250146 Ning
-*** DONE 在职薪资证明
-SCHEDULED: <2025-05-26 Mon>
-**** DONE 确认年薪资
-SCHEDULED: <2025-05-25 Sun>
-*** DONE 营业执照
-SCHEDULED: <2025-05-26 Mon>
-*** DONE 拿在职证明回家
-CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
-- State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
-*** DONE 复印房产证
-SCHEDULED: <2025-06-02 Mon>
-*** DONE 准备照片
-SCHEDULED: <2025-06-02 Mon>
-35mm*45mm
-*** DONE 申请表签字
-SCHEDULED: <2025-06-02 Mon>
-*** KILL 西班牙（Seville）飞意大利（Rome）机票预订单
-SCHEDULED: <2025-06-02 Mon>
-<2025-07-16 Wed>
-*** DONE 拿签证回执单回家
-SCHEDULED: <2025-06-04 Wed 19:00>
-*** DONE 更新酒店付款信息
-SCHEDULED: <2025-06-03 Tue>
-
-** DONE 请婚假
-SCHEDULED: <2025-06-17 Tue>
-*** DONE 扫描结婚证
-SCHEDULED: <2025-06-11 Wed>
-
-** DONE 订酒店
-SCHEDULED: <2025-06-26 Thu>
-
-** DONE 换钱
-SCHEDULED: <2025-06-26 Thu>
-
-** DONE BLS 退款
-CLOSED: [2025-07-04 Fri 17:38] DEADLINE: <2025-06-25 Wed>
-- State "DONE"       from "WAIT"       [2025-07-04 Fri 17:38]
-
-** DONE 手机卡
-CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-02 Wed>
-- State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
-
-** DONE 带 U 型枕
-CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-04 Fri>
-- State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
