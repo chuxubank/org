@@ -13,7 +13,7 @@ https://github.com/emacs-exwm/exwm
 ** TODO Code Review on Emacs
 https://scripter.co/view-github-pull-requests-in-magit/
 
-** TODO Map on Emacs
+** DONE Map on Emacs
 https://github.com/minad/osm
 
 ** TODO Emacs on Android
@@ -33,7 +33,7 @@ https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 https://github.com/MatthewZMD/emigo
 https://github.com/s-kostyaev/elisa
 
-** TODO Task.el migrate to jiralib3
+** KILL Task.el migrate to jiralib3
 https://www.reddit.com/r/emacs/comments/1ngr47l/integrate_emacs_and_jira_with_ejira3/
 
 ** TODO scrcpy for Emacs
