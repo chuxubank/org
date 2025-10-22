@@ -8,7 +8,7 @@ SCHEDULED: <2025-10-19 Sun>
 SCHEDULED: <2025-09-25 Thu>
 https://github.com/zepinglee/zotero-translators-zh
 
-* TODO 带 Lightning to Type-C 线到公司
+* KILL 带 Lightning to Type-C 线到公司
 SCHEDULED: <2025-09-07 Sun>
 
 * TODO 更新 HomeAssistant
@@ -92,6 +92,11 @@ SCHEDULED: <2025-02-17 Mon>
 可以使用 mu4e 进行筛选（正则）
 然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
 然后 ~C-u mu4e-view-save-attachments~ 保存附件
+
+*** IDEA mu4e context
+SCHEDULED: <2025-10-22 Wed>
+https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
+
 ** IDEA Chezmoi manage macOS Preferences
 #+begin_src sh
   set -e
@@ -159,7 +164,7 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://www.conventionalcommits.org/
 
 * TODO 皮肤科复诊
-SCHEDULED: <2025-10-17 Fri>
+SCHEDULED: <2025-10-23 Thu>
 
 * TODO IPTV
 SCHEDULED: <2025-07-26 Sat>
