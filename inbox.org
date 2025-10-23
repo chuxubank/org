@@ -58,6 +58,11 @@ https://context7.com/dashboard
 
 *** TODO Goose
 
+**** TODO Recipes
+SCHEDULED: <2025-10-23 Thu>
+https://block.github.io/goose/docs/guides/recipes/recipe-reference/
+https://block.github.io/goose/docs/guides/recipes/session-recipes/#configure-recipe-location
+
 *** TODO Emacs
 https://github.com/lizqwerscott/mcp.el
 
