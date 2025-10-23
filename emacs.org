@@ -31,7 +31,7 @@ https://github.com/s-kostyaev/elisa
 
 ** TODO OpenRouter
 SCHEDULED: <2025-10-13 Mon>
-https://openrouter.ai/docs/use-cases/reasoning-tokens#enable-reasoning-with-default-config
+https://openrouter.ai/docs/use-cases/reasoning-tokens#excluding-reasoning-tokens
 
 ** TODO Make image scroll smooth
 https://github.com/casouri/iscroll
