@@ -12,7 +12,7 @@
 ** TODO 铳墓
 ** TODO 心理测量者
 ** TODO 好想告诉你
-** STRT Monster
+** WAIT Monster
 SCHEDULED: <2025-05-24 Sat .+1d>
 :PROPERTIES:
 :REPEAT:   10
