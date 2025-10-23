@@ -29,9 +29,10 @@ https://github.com/s-kostyaev/elisa
 
 ** TODO scrcpy for Emacs
 
-** TODO OpenRouter
+** DONE OpenRouter
 SCHEDULED: <2025-10-13 Mon>
 https://openrouter.ai/docs/use-cases/reasoning-tokens#excluding-reasoning-tokens
+https://openrouter.ai/docs/api-reference/responses-api/reasoning
 
 ** TODO Make image scroll smooth
 https://github.com/casouri/iscroll
