@@ -187,7 +187,7 @@ SCHEDULED: <2025-06-20 Fri>
 * TODO Coin Bot
 https://github.com/freqtrade/freqtrade
 
-* TODO 刷算法题
+* STRT 刷算法题
 SCHEDULED: <2025-05-19 Mon>
 https://github.com/yangshun/tech-interview-handbook
 
