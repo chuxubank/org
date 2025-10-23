@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 带 TF 卡读卡器
+SCHEDULED: <2025-10-26 Sun>
+
 * DONE 取 Apple AirPods 2
 SCHEDULED: <2025-10-19 Sun>
 
