@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 带加湿器
+SCHEDULED: <2025-10-26 Sun>
+
 * TODO 带 TF 卡读卡器
 SCHEDULED: <2025-10-26 Sun>
 
