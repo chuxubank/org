@@ -106,3 +106,7 @@ https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
 ** IDEA hass.el
 homeassistant
 
+** TODO mu4e context
+SCHEDULED: <2025-10-27 Mon>
+https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
+

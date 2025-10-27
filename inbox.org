@@ -104,10 +104,6 @@ SCHEDULED: <2025-02-17 Mon>
 然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
 然后 ~C-u mu4e-view-save-attachments~ 保存附件
 
-*** IDEA mu4e context
-SCHEDULED: <2025-10-22 Wed>
-https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
-
 ** IDEA Chezmoi manage macOS Preferences
 #+begin_src sh
   set -e
