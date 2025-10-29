@@ -169,9 +169,8 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://keepachangelog.com/
 - https://semver.org/
 - https://www.conventionalcommits.org/
-
 * TODO 皮肤科复诊
-SCHEDULED: <2025-10-28 Tue>
+SCHEDULED: <2025-10-30 Thu>
 
 * TODO IPTV
 SCHEDULED: <2025-07-26 Sat>
