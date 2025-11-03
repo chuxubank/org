@@ -1,3 +1,4 @@
+# -*- org-blank-before-new-entry: nil; -*-
 #+TITLE: Watch
 #+link: bili    https://www.bilibili.com/bangumi/media/%s
 #+link: imdb    https://www.imdb.com/title/%s
@@ -102,7 +103,3 @@ CLOSED: [2021-04-27 Tue 10:18]
 * 漫画 [1/2]
 ** TODO 天国大魔镜
 ** DONE 亲爱的我包含杀意
-
-# Local Variables:
-# org-blank-before-new-entry: nil
-# End:
