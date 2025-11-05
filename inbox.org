@@ -172,7 +172,7 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://keepachangelog.com/
 - https://semver.org/
 - https://www.conventionalcommits.org/
-* TODO 皮肤科复诊
+* DONE 皮肤科复诊
 SCHEDULED: <2025-10-30 Thu>
 
 * TODO IPTV
