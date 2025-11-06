@@ -29,6 +29,10 @@ https://github.com/MatthewZMD/emigo
 https://github.com/s-kostyaev/elisa
 https://github.com/xenodium/agent-shell
 
+*** TODO ACP in Emacs
+SCHEDULED: <2025-11-06 Thu>
+https://agentclientprotocol.com/overview/introduction
+
 ** TODO scrcpy for Emacs
 
 ** DONE OpenRouter
