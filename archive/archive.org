@@ -2728,6 +2728,46 @@ CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-02 Wed>
 *** DONE 带 U 型枕
 CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-04 Fri>
 - State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
+
+** DONE 取 Apple AirPods 2
+SCHEDULED: <2025-10-19 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-06 Thu 14:14
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** KILL 带 Lightning to Type-C 线到公司
+SCHEDULED: <2025-09-07 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-06 Thu 14:14
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+
+** DONE Theme
+CLOSED: [2025-04-22 Tue 14:15] SCHEDULED: <2025-04-21 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-06 Thu 14:14
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: Blog
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2025-04-22 Tue 14:15]
+Use hugo module
+
+** DONE 皮肤科复诊
+SCHEDULED: <2025-10-30 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-06 Thu 14:14
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>

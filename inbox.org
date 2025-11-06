@@ -1,21 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* DONE 带加湿器
-SCHEDULED: <2025-10-26 Sun>
-
-* DONE 带 TF 卡读卡器
-SCHEDULED: <2025-10-26 Sun>
-
-* DONE 取 Apple AirPods 2
-SCHEDULED: <2025-10-19 Sun>
-
 * TODO Relocate Zotero translators
 SCHEDULED: <2025-09-25 Thu>
 https://github.com/zepinglee/zotero-translators-zh
-
-* KILL 带 Lightning to Type-C 线到公司
-SCHEDULED: <2025-09-07 Sun>
 
 * TODO 更新 HomeAssistant
 SCHEDULED: <2025-09-05 Fri>
@@ -126,11 +114,6 @@ SCHEDULED: <2025-02-17 Mon>
       plutil -create binary1 $TMPFILE
   fi
 #+end_src
-** DONE Theme
-CLOSED: [2025-04-22 Tue 14:15] SCHEDULED: <2025-04-21 Mon>
-- State "DONE"       from "TODO"       [2025-04-22 Tue 14:15]
-Use hugo module
-
 ** PDF 扫描
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
@@ -172,8 +155,6 @@ https://openwrt.org/docs/guide-user/additional-software/opkg
 - https://keepachangelog.com/
 - https://semver.org/
 - https://www.conventionalcommits.org/
-* DONE 皮肤科复诊
-SCHEDULED: <2025-10-30 Thu>
 
 * TODO IPTV
 SCHEDULED: <2025-07-26 Sat>
