@@ -4,6 +4,10 @@
 * TODO 分体键盘键位分配
 SCHEDULED: <2025-11-06 Thu>
 
+* TODO Crypto Automation
+SCHEDULED: <2025-11-12 Wed>
+https://www.freqtrade.io/en/stable/
+https://github.com/ccxt/ccxt
 
 * TODO Relocate Zotero translators
 SCHEDULED: <2025-09-25 Thu>
