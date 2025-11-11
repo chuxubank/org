@@ -23,12 +23,18 @@ SCHEDULED: <2025-08-11 Mon 14:00>
 明清
 王福庵
 * TODO USB Typc-C Hub
-* TODO 分体键盘
+* DONE 分体键盘
 ** Keychron Q11
 :PROPERTIES:
 :PRICE:    1088
 :END:
-* TODO 小升降桌
+
+** DONE Silakka54
+:PROPERTIES:
+:PRICE:    350
+:END:
+
+* KILL 小升降桌
 [[jd:100017531886]]
 * KILL 小水吧桌子
 * DONE Ray-Ban Meta AI
