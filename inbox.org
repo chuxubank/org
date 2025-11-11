@@ -3,6 +3,9 @@
 
 * TODO 分体键盘键位分配
 SCHEDULED: <2025-11-06 Thu>
+
+** TODO Add new shield for Silakka54
+SCHEDULED: <2025-11-12 Wed>
 https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
 https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
 
