@@ -21,8 +21,13 @@ https://github.com/zepinglee/zotero-translators-zh
 * TODO 更新 HomeAssistant
 SCHEDULED: <2025-09-05 Fri>
 
-** TODO Find Frigate alternative
+** TODO Update Frigate
 SCHEDULED: <2025-09-01 Mon>
+https://docs.frigate.video/integrations/home-assistant/
+https://github.com/blakeblackshear/frigate-hass-integration
+
+*** TODO Setup HACS
+https://www.hacs.xyz
 
 * TODO Android jks file from Pass
 
