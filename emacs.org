@@ -1,8 +1,12 @@
 #+title: Emacs
 * Inbox
 ** TODO Update CV
-SCHEDULED: <2025-07-26 Sat>
-*** TODO Add Fastlane CI/CD tech
+SCHEDULED: <2025-11-15 Sat>
+*** TODO Add CI/CD tech
+- Fastlane
+- Concourse
+
+*** TODO Add Ansible tech
 
 ** TODO Exwm
 https://github.com/emacs-exwm/exwm
