@@ -7,8 +7,6 @@
 #+link: xhs     https://www.xiaohongshu.com/explore/%s
 #+property: PRICE
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
-* KILL MUJI 削皮刀
-SCHEDULED: <2025-09-04 Thu 16:30>
 * TODO Reality NFT
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 
@@ -23,21 +21,3 @@ SCHEDULED: <2025-08-11 Mon 14:00>
 明清
 王福庵
 * TODO USB Typc-C Hub
-* DONE 分体键盘
-** Keychron Q11
-:PROPERTIES:
-:PRICE:    1088
-:END:
-
-** DONE Silakka54
-:PROPERTIES:
-:PRICE:    350
-:END:
-
-* KILL 小升降桌
-[[jd:100017531886]]
-* KILL 小水吧桌子
-* DONE Ray-Ban Meta AI
-* DONE 咖啡机
-* DONE 冷热净水机
-* DONE 戴森吸尘器
