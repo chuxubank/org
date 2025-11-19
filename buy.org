@@ -9,9 +9,9 @@
 #+columns: %20ITEM %TODO(State) %PRICE(Price){$} %BUDGET(Budget){$}
 * TODO Reality NFT
 https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
-
-* TODO 浴室门后挂钩
-SCHEDULED: <2025-08-11 Mon 14:00>
+* DONE 浴室门后挂钩
+CLOSED: [2025-11-19 Wed 18:07] SCHEDULED: <2025-08-11 Mon 14:00>
+- State "DONE"       from "TODO"       [2025-11-19 Wed 18:07]
 
 * TODO 显卡
 * TODO 4K 菊花链显示器
