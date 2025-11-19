@@ -64,7 +64,7 @@ SCHEDULED: <2025-06-12 Thu>
 
 *** TODO Jira
 
-*** TODO Context7
+*** DONE Context7
 https://github.com/upstash/context7
 https://context7.com/dashboard
 
@@ -72,11 +72,13 @@ https://context7.com/dashboard
 
 *** TODO Raycast
 
+*** TODO Amazon Q
+
 *** TODO Claude Code
 
 *** TODO Gemini CLI
 
-*** TODO Codex
+*** DONE Codex
 
 *** TODO Goose
 
