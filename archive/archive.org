@@ -581,6 +581,81 @@ SCHEDULED: <2025-02-27 Thu 12:00>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: KILL
 :END:
+
+** DONE 分体键盘
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+*** Keychron Q11
+:PROPERTIES:
+:PRICE:    1088
+:END:
+
+*** DONE Silakka54
+:PROPERTIES:
+:PRICE:    350
+:END:
+
+** KILL 小升降桌
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
+[[jd:100017531886]]
+
+** KILL 小水吧桌子
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
+
+** DONE Ray-Ban Meta AI
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 咖啡机
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 冷热净水机
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:27
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 戴森吸尘器
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:28
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+
+** KILL MUJI 削皮刀
+SCHEDULED: <2025-09-04 Thu 16:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-19 Wed 17:28
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: KILL
+:END:
 * From inbox.org :ARCHIVE:
 ** DONE org bibtex roam pdf
 :PROPERTIES:
