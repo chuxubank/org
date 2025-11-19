@@ -4,11 +4,20 @@
 * TODO 分体键盘键位分配
 SCHEDULED: <2025-11-06 Thu>
 https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifiers_really_the_best_options/
+https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
+https://github.com/the-via/qmk_userspace_via/blob/main/keyboards/meetlab/kalice/keymaps/via/keymap.c
 
 ** TODO Add new shield for Silakka54
 SCHEDULED: <2025-11-12 Wed>
 https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
 https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
+
+** Tools
+https://yal-tools.github.io/vial-to-keymap-drawer/
+https://keymap-drawer.streamlit.app/
+https://nickcoutsos.github.io/keymap-layout-tools/
+https://config.qmk.fm/#/chalice/LAYOUT_default
+https://usevia.app/design
 
 * TODO Crypto Automation
 SCHEDULED: <2025-11-12 Wed>
