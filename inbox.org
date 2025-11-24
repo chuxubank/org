@@ -10,12 +10,12 @@ https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifie
 https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
 https://github.com/the-via/qmk_userspace_via/blob/main/keyboards/meetlab/kalice/keymaps/via/keymap.c
 
-** TODO Add new shield for Silakka54
+** DONE Add new shield for Silakka54
 SCHEDULED: <2025-11-12 Wed>
 https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
 https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
 
-** Tools
+** KILL Tools
 https://yal-tools.github.io/vial-to-keymap-drawer/
 https://keymap-drawer.streamlit.app/
 https://nickcoutsos.github.io/keymap-layout-tools/
