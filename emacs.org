@@ -118,3 +118,7 @@ homeassistant
 SCHEDULED: <2025-10-27 Mon>
 https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
 
+** TODO Add key bindings for git-misc
+SCHEDULED: <2025-11-28 Fri>
+[[file:~/.config/emacs/cats/+git-misc.el::(use-package git-timemachine]]
+
