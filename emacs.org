@@ -16,6 +16,7 @@ https://scripter.co/view-github-pull-requests-in-magit/
 
 ** TODO Emacs on Android
 SCHEDULED: <2025-08-01 Fri>
+https://kristofferbalintona.me/posts/202505291438/
 
 ** TODO Compose Preview on Emacs
 https://docs.gradle.org/current/userguide/init_scripts.html
