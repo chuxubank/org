@@ -656,6 +656,17 @@ SCHEDULED: <2025-09-04 Thu 16:30>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: KILL
 :END:
+
+** DONE 浴室门后挂钩
+CLOSED: [2025-11-19 Wed 18:07] SCHEDULED: <2025-08-11 Mon 14:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-01 Mon 22:06
+:ARCHIVE_FILE: ~/Developer/Personal/org/buy.org
+:ARCHIVE_CATEGORY: buy
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2025-11-19 Wed 18:07]
+
 * From inbox.org :ARCHIVE:
 ** DONE org bibtex roam pdf
 :PROPERTIES:
