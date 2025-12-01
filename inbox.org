@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Homelab in 小窝
+SCHEDULED: <2025-12-01 Mon>
+
 * TODO 跨所有客户端的书签同步工具
 SCHEDULED: <2025-11-25 Tue>
 
