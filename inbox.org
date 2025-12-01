@@ -196,7 +196,7 @@ SCHEDULED: <2025-07-26 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 
-* TODO 修复地下室网关 M1S
+* DONE 修复地下室网关 M1S
 SCHEDULED: <2025-06-20 Fri>
 
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
