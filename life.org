@@ -1090,11 +1090,12 @@ SCHEDULED: <2025-12-05 Fri .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2025-12-02 Tue 14:10 .+1d>
+SCHEDULED: <2025-12-03 Wed 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-12-01 Mon 14:55]
+:LAST_REPEAT: [2025-12-02 Tue 21:59]
 :END:
+- State "DONE"       from "TODO"       [2025-12-02 Tue 21:59]
 - State "DONE"       from "TODO"       [2025-12-01 Mon 14:55]
 - State "DONE"       from "TODO"       [2025-11-29 Sat 15:04]
 - State "DONE"       from "TODO"       [2025-11-28 Fri 16:25]

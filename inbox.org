@@ -222,6 +222,9 @@ https://github.com/yangshun/tech-interview-handbook
 
 ** STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
+:LOGBOOK:
+CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
+:END:
 https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&weeks=8
 
 * TODO 学习日语
