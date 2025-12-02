@@ -219,6 +219,7 @@ https://github.com/freqtrade/freqtrade
 * STRT 刷算法题
 SCHEDULED: <2025-05-19 Mon>
 https://github.com/yangshun/tech-interview-handbook
+https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&weeks=8
 
 * TODO 学习日语
 
