@@ -216,9 +216,12 @@ SCHEDULED: <2025-06-20 Fri>
 * TODO Coin Bot
 https://github.com/freqtrade/freqtrade
 
-* STRT 刷算法题
-SCHEDULED: <2025-05-19 Mon>
+* STRT 准备面试
+SCHEDULED: <2025-12-02 Tue>
 https://github.com/yangshun/tech-interview-handbook
+
+** STRT 刷算法题
+SCHEDULED: <2025-12-02 Tue>
 https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&weeks=8
 
 * TODO 学习日语
