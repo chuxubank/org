@@ -20,5 +20,5 @@ https://opensea.io/assets/ethereum/0x5ee362866001613093361eb8569d59c4141b76d1/2
 * TODO USB Typc-C Hub
 * TODO 放菜的小推车
 SCHEDULED: <2025-12-01 Mon>
-* TODO 硅胶手套连袖子
+* KILL 硅胶手套连袖子
 SCHEDULED: <2025-12-02 Tue>
