@@ -181,23 +181,27 @@ END:
 ** BEEN Kmart(井亭天地店)
  State "BEEN"       from "TOGO"       [2021-10-06 Wed]
 [[map:Kmart(井亭天地店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F1]]
-* 西班牙
-** 巴塞罗那 Barcelona
-*** BEEN DONE 安普拉特 El Prat
+
+* Travel
+** 西班牙
+*** 巴塞罗那 Barcelona
+**** BEEN DONE 安普拉特 El Prat
 SCHEDULED: <2025-07-06 Sun 08:00>
-*** BEEN DONE 圣家堂 Sagrada Familia
+**** BEEN DONE 圣家堂 Sagrada Familia
 SCHEDULED: <2025-07-08 Tue 10:15>
-*** BEEN DONE 巴特罗之家 Casa Batlló
+**** BEEN DONE 巴特罗之家 Casa Batlló
 SCHEDULED: <2025-07-08 Tue 14:45>
-* 法国
 
-** 巴黎
+** 法国
 
-** 南法
+*** 巴黎
 
-* 意大利
-** 米兰
-*** 马尔彭萨
-** 那不勒斯
+*** 南法
+
+** 意大利
+*** 米兰
+**** 马尔彭萨
 *** 那不勒斯
-**** L'Antica Pizzeria Da Michele
+**** 那不勒斯
+***** L'Antica Pizzeria Da Michele
+

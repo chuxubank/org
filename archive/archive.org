@@ -2867,6 +2867,15 @@ CLOCK: [2024-12-26 Thu 17:45]--[2024-12-26 Thu 19:45] =>  2:00
 :END:
 https://bandwagonhost.com/services
 
+** DONE 带拍立得
+SCHEDULED: <2025-11-23 Sun 13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-08 Mon 09:21
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
