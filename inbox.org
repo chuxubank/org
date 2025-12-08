@@ -7,8 +7,10 @@ SCHEDULED: <2025-12-08 Mon>
 * TODO Homelab in 小窝
 SCHEDULED: <2025-12-01 Mon>
 
-* TODO 跨所有客户端的书签同步工具
+* DONE 跨所有客户端的书签同步工具
 SCHEDULED: <2025-11-25 Tue>
+- Floccus
+- Raindrop.io
 
 * TODO 分体键盘键位分配
 SCHEDULED: <2025-11-06 Thu>
