@@ -14,6 +14,13 @@
 :END:
 
 ** Android 开发
+:CV_ENV:   cventry
+:FROM:     <2020-01-05 Mon>
+:TO:       Now
+:LOCATION: 中国，上海
+:EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
+
+** Android 开发
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-12-01 Mon>
