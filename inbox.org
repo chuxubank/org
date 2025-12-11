@@ -9,6 +9,9 @@ SCHEDULED: <2025-12-11 Thu>
 
 * TODO 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
+:LOGBOOK:
+CLOCK: [2025-12-11 Thu 08:26]
+:END:
 
 * TODO Homelab in 小窝
 SCHEDULED: <2025-12-01 Mon>
@@ -250,7 +253,10 @@ Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 
 * TODO Update CV
-SCHEDULED: <2025-11-15 Sat>
+SCHEDULED: <2025-12-11 Thu>
+** TODO Update LinkedIn
+SCHEDULED: <2025-12-11 Thu>
+
 ** TODO Add CI/CD tech
 - Fastlane
 - Concourse
