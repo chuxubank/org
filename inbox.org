@@ -67,7 +67,7 @@ SCHEDULED: <2025-08-07 Thu>
 https://matrix.org/ecosystem/bridges/
 https://github.com/duo/matrix-wechat
 
-* TODO 欧洲旅行路书
+* TODO 旅行路书
 SCHEDULED: <2025-08-07 Thu>
 
 * TODO Use Apple Container
