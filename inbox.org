@@ -10,7 +10,7 @@ SCHEDULED: <2025-12-11 Thu>
 * TODO 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
 :LOGBOOK:
-CLOCK: [2025-12-11 Thu 08:26]
+CLOCK: [2025-12-11 Thu 08:26]--[2025-12-11 Thu 08:43] =>  0:17
 :END:
 
 * TODO Homelab in 小窝
