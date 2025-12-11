@@ -40,7 +40,7 @@ https://github.com/xenodium/agent-shell
 
 ** TODO scrcpy for Emacs
 
-** TODO Task.el use =acli= as backend
+** KILL Task.el use =acli= as backend
 SCHEDULED: <2025-12-09 Tue>
 
 ** DONE OpenRouter
