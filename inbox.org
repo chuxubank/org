@@ -4,11 +4,16 @@
 * TODO 澳大利亚 签证
 SCHEDULED: <2025-12-08 Mon>
 
+** TODO 旅行计划
+SCHEDULED: <2025-12-11 Thu>
+
 * TODO 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
 
 * TODO Homelab in 小窝
 SCHEDULED: <2025-12-01 Mon>
+
+* TODO AI 根据 ISO 生成 Kotlin 语言的高频、超高频解码库
 
 * TODO 跨所有客户端的书签同步工具
 SCHEDULED: <2025-11-25 Tue>
@@ -243,3 +248,13 @@ https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard
 [[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+
+* TODO Update CV
+SCHEDULED: <2025-11-15 Sat>
+** TODO Add CI/CD tech
+- Fastlane
+- Concourse
+
+** TODO Add Ansible tech
+
+** TODO Add use MCP/ACP AI agent tools
