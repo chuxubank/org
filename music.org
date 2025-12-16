@@ -44,3 +44,5 @@ DEADLINE: <2026-04-01 Wed>
 * TODO Apple Music 经典摇滚
 [2021-03-24 Wed 21:21]
 https://music.apple.com/cn/curator/apple-music-%E7%BB%8F%E5%85%B8%E6%91%87%E6%BB%9A/976439531
+* TODO neo soul progression
+
