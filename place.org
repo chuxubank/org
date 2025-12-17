@@ -183,8 +183,8 @@ END:
 [[map:Kmart(井亭天地店)][中国上海市闵行区虹泉路 1078 号井亭天地生活广场东区 F1]]
 
 * Travel
-** 西班牙
-*** 巴塞罗那 Barcelona
+** BEEN 西班牙
+*** BEEN 巴塞罗那 Barcelona
 **** BEEN DONE 安普拉特 El Prat
 SCHEDULED: <2025-07-06 Sun 08:00>
 **** BEEN DONE 圣家堂 Sagrada Familia
@@ -192,16 +192,17 @@ SCHEDULED: <2025-07-08 Tue 10:15>
 **** BEEN DONE 巴特罗之家 Casa Batlló
 SCHEDULED: <2025-07-08 Tue 14:45>
 
-** 法国
+** BEEN 法国
 
-*** 巴黎
+*** BEEN 巴黎
 
-*** 南法
+*** BEEN 南法
 
-** 意大利
-*** 米兰
+** BEEN 意大利
+*** BEEN 米兰
 **** 马尔彭萨
 *** 那不勒斯
 **** 那不勒斯
 ***** L'Antica Pizzeria Da Michele
 
+** TOGO 澳大利亚
