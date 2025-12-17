@@ -7,7 +7,7 @@ SCHEDULED: <2025-12-08 Mon>
 ** STRT 旅行计划
 SCHEDULED: <2025-12-11 Thu>
 :LOGBOOK:
-CLOCK: [2025-12-17 Wed 15:50]
+CLOCK: [2025-12-17 Wed 15:50]--[2025-12-17 Wed 16:26] =>  0:36
 :END:
 
 * TODO 修复 kotlin-ts-mode 在 org mode 中的高亮
