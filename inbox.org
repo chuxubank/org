@@ -4,8 +4,11 @@
 * TODO 澳大利亚 签证
 SCHEDULED: <2025-12-08 Mon>
 
-** TODO 旅行计划
+** STRT 旅行计划
 SCHEDULED: <2025-12-11 Thu>
+:LOGBOOK:
+CLOCK: [2025-12-17 Wed 15:50]
+:END:
 
 * TODO 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
