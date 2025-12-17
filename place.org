@@ -4,7 +4,10 @@
 #+PROPERTY: State_ALL 可堂食 不可堂食 休业
 #+PROPERTY: Type_ALL 餐饮 娱乐 休闲 展馆
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+#+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 * Inbox
 ** Diego Vitagliano Pizzeria
@@ -208,7 +211,7 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 
 ** TOGO 澳大利亚
 *** Australia Travel Itinerary
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align XXXXX
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align p{1cm}p{2.5cm}p{3cm}Yp{3cm}
 | Day |       Date | City               | Itinerary Details                                                                               | Accommodation        |
 |-----+------------+--------------------+-------------------------------------------------------------------------------------------------+----------------------|
 |   1 | 2026-02-05 | Shanghai → Sydney  | Depart from Shanghai by international flight. Arrive in Sydney, transfer to hotel and rest.     | Sydney city hotel    |
