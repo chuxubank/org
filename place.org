@@ -206,4 +206,17 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 ***** L'Antica Pizzeria Da Michele
 
 ** TOGO 澳大利亚
-
+*** Australia Travel Itinerary
+| Day |       Date | City               | Itinerary Details                                                                               | Accommodation        |
+|-----+------------+--------------------+-------------------------------------------------------------------------------------------------+----------------------|
+|   1 | 2026-02-05 | Shanghai → Sydney  | Depart from Shanghai by international flight. Arrive in Sydney, transfer to hotel and rest.     | Sydney city hotel    |
+|   2 | 2026-02-06 | Sydney             | Visit Sydney Opera House (outside), Sydney Harbour Bridge, Circular Quay, Royal Botanic Garden. | Sydney city hotel    |
+|   3 | 2026-02-07 | Sydney             | Visit Bondi Beach, coastal walk, Darling Harbour leisure activities.                            | Sydney city hotel    |
+|   4 | 2026-02-08 | Sydney             | Blue Mountains National Park day tour, including Three Sisters and scenic viewpoints.           | Sydney city hotel    |
+|   5 | 2026-02-09 | Sydney → Melbourne | Domestic flight to Melbourne. Free time in the city centre after arrival.                       | Melbourne city hotel |
+|   6 | 2026-02-10 | Melbourne          | Visit Federation Square, Flinders Street Station, Queen Victoria Market, Yarra River.           | Melbourne city hotel |
+|   7 | 2026-02-11 | Melbourne          | Great Ocean Road day tour: Twelve Apostles, Loch Ard Gorge.                                     | Melbourne city hotel |
+|   8 | 2026-02-12 | Melbourne          | Free day for leisure activities or short nearby excursions.                                     | Melbourne city hotel |
+|   9 | 2026-02-13 | Melbourne → Sydney | Return flight to Sydney. Free time after arrival.                                               | Sydney city hotel    |
+|  10 | 2026-02-14 | Sydney             | Free day for shopping and sightseeing.                                                          | Sydney city hotel    |
+|  11 | 2026-02-15 | Sydney → Shanghai  | Depart from Sydney by international flight and return to Shanghai.                              | —                    |
