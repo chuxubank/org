@@ -263,11 +263,12 @@ SCHEDULED: <2025-12-14 Sun 20:00 .+6d/9d>
 - State "DONE"       from "TODO"       [2020-07-16 Thu 23:59]
 - State "DONE"       from "TODO"       [2020-07-03 Fri 08:31]
 * TODO Haircut
-SCHEDULED: <2025-10-26 Sun .+2m>
+SCHEDULED: <2026-02-11 Wed .+2m>
 :PROPERTIES:
-:LAST_REPEAT: [2025-08-26 Tue 23:59]
+:LAST_REPEAT: [2025-12-11 Thu 14:11]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2025-12-11 Thu 14:11]
 - State "DONE"       from "TODO"       [2025-08-26 Tue 23:59]
 - State "DONE"       from "TODO"       [2025-06-26 Thu 23:59]
 - State "DONE"       from "TODO"       [2025-04-21 Mon 08:00]
