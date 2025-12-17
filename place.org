@@ -1,4 +1,5 @@
 #+TITLE: Place
+#+OPTIONS: toc:nil author:nil date:nil
 #+TODO: TOGO(t) | BEEN(b@) CANCELED(c/!)
 #+LINK: map   https://maps.apple.com/?q=
 #+PROPERTY: State_ALL 可堂食 不可堂食 休业
