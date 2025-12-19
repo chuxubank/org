@@ -22,7 +22,8 @@
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
 :END:
 
-- 负责用 Jetpack Compose 重新开发电子锁的设置流程，自定义 ExoPlayer 播放控件并与 Compose 整合。
+- 负责用 Jetpack Compose 重新开发电子锁的设置流程，自定义 ExoPlayer 播放控件并与 Compose 整合，简化电子锁绑定流程。
+  在 All-Hands Meeting 上对全球同事进行展示。
 - 
 
 ** Android 开发
