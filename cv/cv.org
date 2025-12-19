@@ -24,7 +24,10 @@
 
 - 负责用 Jetpack Compose 重新开发电子锁的设置流程，自定义 ExoPlayer 播放控件并与 Compose 整合，简化电子锁绑定流程。
   在 All-Hands Meeting 上对全球同事进行展示。
-- 
+- 重构 BI, 为 Compose 设计通用工具类，利用 SideEffects 自动记录并通过 WorkManager 上报 PV 等数据。
+- 迁移设备扫码界面从 Camera2 到 CameraX, 改进兼容性和对焦速度，整合 Compose, 仅扫描框内二维码，方便用户扫码绑定电子锁。
+- 推进项目从 Dagger 迁移到 Hilt, 使代码更加清晰简洁，从 Junit4 迁移到 Junit5 并使用并发增快 CI Test 速度。
+- 利用 App Startup 框架优化应用启动流程，同时在 Initializer 中使用 Hilt 改进混乱的启动依赖项目，使用 PlantUML 在项目内形成文档。
 
 ** Android 开发
 :PROPERTIES:
