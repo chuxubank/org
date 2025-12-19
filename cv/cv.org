@@ -28,6 +28,7 @@
 - 迁移设备扫码界面从 Camera2 到 CameraX, 改进兼容性和对焦速度，整合 Compose, 仅扫描框内二维码，方便用户扫码绑定电子锁。
 - 推进项目从 Dagger 迁移到 Hilt, 使代码更加清晰简洁，从 Junit4 迁移到 Junit5 并使用并发增快 CI Test 速度。
 - 利用 App Startup 框架优化应用启动流程，同时在 Initializer 中使用 Hilt 改进混乱的启动依赖项目，使用 PlantUML 在项目内形成文档。
+- 负责 Concourse CI 的重构和优化，利用参数化和模板化删除大量冗余代码，同时利用 Task 缓存在机器减少的情况下仍提高了一倍的构建速度。
 
 ** Android 开发
 :PROPERTIES:
