@@ -16,7 +16,7 @@
 - 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup); iOS(Swift, SwiftUI)
 - 编程语言 :: Kotlin, Java, Swift, Python, Bash, C/C++, Rust
 - 架构与工程化 :: MVVM, DI(Hilt), Gradle, CI/CD(Concourse, Jenkins), Docker, Ansible
-- 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim
+- 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(MCP/ACP)
 - 语言 :: 英语 CET-6（可进行技术阅读与工作交流）, 普通话（二级乙等）
 
 * 工作经历
@@ -49,6 +49,9 @@
 - *优化应用启动流程与初始化依赖结构：*
   使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，
   梳理并解决历史遗留的初始化耦合问题；使用 PlantUML 在代码库内沉淀启动流程文档及依赖图。
+- *在工程实践中引入 AI 辅助开发方式*:
+  熟练使用 AI 辅助开发工具（CLI Agent, Cursor），
+  在项目中结合 MCP / ACP 等协议进行工程实践，用于代码生成、重构、调试、测试、审核与效率提升。
 - *负责 Concourse CI 的重构与性能优化：*
   通过参数化、模板化消除大量重复配置，对 Gradle 参数进行调优，并引入 Task 缓存机制，
   在构建资源缩减的情况下仍将整体构建速度提升约一倍。
