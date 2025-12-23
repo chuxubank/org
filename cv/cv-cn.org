@@ -139,3 +139,9 @@
 :LOCATION: 中国，秦皇岛
 :EVENT: CCPC 中国大学生程序设计竞赛秦皇岛站
 :END:
+
+* 兴趣爱好
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+- 
