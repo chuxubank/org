@@ -18,19 +18,8 @@
 * Export Chinese :noexport:
 #+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf"
-  (require 'cl-lib)
-
-  (cl-letf (((symbol-function 'org-cv-utils--format-time-window)
-             (lambda (from-date to-date)
-               (let ((from (org-cv-utils-org-timestamp-to-shortdate from-date))
-                     (to (if to-date
-                             (org-cv-utils-org-timestamp-to-shortdate to-date)
-                           "至今")))
-                 (if (string= from to)
-                     from
-                   (concat from " — " to))))))
-    (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
-    (org-latex-compile "awesomecv-cn.tex"))
+  (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
+  (org-latex-compile "awesomecv-cn.tex")
 #+end_src
 
 #+RESULTS:
