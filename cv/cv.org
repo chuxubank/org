@@ -8,7 +8,7 @@
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* Employement
+* 工作经历
 :PROPERTIES:
 :CV_ENV:   cventries
 :END:
@@ -59,3 +59,19 @@
 - 使用 PersistentCookieJar 读取并存储 Cookie 信息,保持用户登录。
   + 在使用该库时发现其 Cookie 数据验证与公司提供的不符合,并通过 Java 重写机制修复了此问题。
 
+* 教育经历
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** 软件工程
+:PROPERTIES:
+:CV_ENV:   cvschool
+:LOCATION: 上海市第二工业大学
+:SCHOOL:   中国，上海
+:FROM:     <2015-09-01 Tue>
+:TO:       <2019-07-01 Mon>
+:END:
+
+- GPA: 3.56 （专业排名前 3%）
+- 2019 年度上海市优秀毕业生；2015‑2018 连续三年校二等奖学金；2017‑2018 学年科技创新奖学金；2017‑2018 学年优秀学生
