@@ -1,7 +1,7 @@
 # CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 #+CVSTYLE: banking
 # CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-#+CVCOLOR: green
+#+CVCOLOR: orange
 
 #+include: cv.org
 
