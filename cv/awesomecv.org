@@ -1,7 +1,7 @@
 # CV color - options include: 'awesome-red (default), 'awesome-emerald,
 # 'awesome-skyblue', 'awesome-pink', 'awesome-orange', 'awesome-nephritis',
 # 'awesome-concrete' and 'awesome-darknight', plus any standard color names.
-#+CVCOLOR: awesome-red
+#+CVCOLOR: awesome-skyblue
 # Specify the position and style of the photo
 # circle/rectangle,edge/noedge,left/right.
 #+PHOTOSTYLE: circle,right,noedge
@@ -9,6 +9,10 @@
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 
 * Export :noexport:
+:PROPERTIES:
+:EXPORT_TITLE: Android Developer
+:END:
+#+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv.pdf" :exports none
   (org-export-to-file 'awesomecv "awesomecv.tex" nil t)
   (org-latex-compile "awesomecv.tex")
@@ -20,7 +24,6 @@
 * Export Chinese :noexport:
 :PROPERTIES:
 :EXPORT_TITLE: Android 开发
-:EXPORT_CVCOLOR: awesome-skyblue
 :END:
 #+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf" :exports none
