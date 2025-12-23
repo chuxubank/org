@@ -16,6 +16,9 @@
 [[file:awesomecv.pdf]]
 
 * Export Chinese :noexport:
+:PROPERTIES:
+:EXPORT_TITLE: Android 开发
+:END:
 #+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf"
   (let ((org-export-default-language "zh-CN"))
