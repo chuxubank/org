@@ -93,7 +93,7 @@
 :FROM:     <2019-04-01 Mon>
 :TO:       <2019-08-01 Thu>
 :LOCATION: Shanghai, China
-:EMPLOYER: Shanghai Xipai Intelligent Systems Co., Ltd.
+:EMPLOYER: Shanghai SIPAIIS Intelligent System Co., Ltd.
 :END:
 
 - Developed NFC utility applications for mobile devices,
