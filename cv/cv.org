@@ -13,7 +13,7 @@
 :CV_ENV:   cventries
 :END:
 
-** Android 开发
+** Android 工程师
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2020-01-05 Mon>
@@ -21,15 +21,24 @@
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
 :END:
 
-- 负责用 Jetpack Compose 重新开发电子锁的设置流程，自定义 ExoPlayer 播放控件并与 Compose 整合，简化电子锁绑定流程。
-  在 All-Hands Meeting 上对全球同事进行展示。
-- 重构 BI, 为 Compose 设计通用工具类，利用 SideEffects 自动记录并通过 WorkManager 上报 PV 等数据。
-- 迁移设备扫码界面从 Camera2 到 CameraX, 改进兼容性和对焦速度，整合 Compose, 仅扫描框内二维码，方便用户扫码绑定电子锁。
-- 推进项目从 Dagger 迁移到 Hilt, 使代码更加清晰简洁，从 Junit4 迁移到 Junit5 并使用并发增快 CI Test 速度。
-- 利用 App Startup 框架优化应用启动流程，同时在 Initializer 中使用 Hilt 改进混乱的启动依赖项目，使用 PlantUML 在项目内形成文档。
-- 负责 Concourse CI 的重构和优化，利用参数化和模板化去除大量冗余代码，同时利用 Task 缓存机制在机器减少的情况下仍提高了一倍的构建速度。
+- *主导使用 Jetpack Compose 重构电子锁核心设置流程* ，设计可复用的状态驱动 UI 架构；
+  自定义并封装 ExoPlayer 播放组件，与 Compose 深度整合，显著简化设备绑定与配置流程，
+  并在 All-Hands Meeting 上向全球团队进行技术与产品展示。
+- *重构 BI 与埋点体系以适配 Compose 架构* ，为 Compose 设计通用 SideEffect 工具，
+  实现页面 PV 等数据的极简化采集，并通过 WorkManager 异步上报，降低业务代码侵入性。
+- *迁移设备扫码模块从 Camera2 至 CameraX* ，解决旧方案在多机型上的对焦与兼容性问题；
+  结合 Compose 实现仅扫描指定区域二维码，提升扫码成功率与用户体验。
+- *推动依赖注入与测试体系升级：*
+  主导项目从 Dagger 迁移至 Hilt，简化依赖关系；
+  同时将测试框架从 JUnit4 升级至 JUnit5，并引入并发测试执行，显著缩短 CI 测试耗时。
+- *优化应用启动流程与初始化依赖结构：*
+  使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，
+  梳理并解决历史遗留的初始化耦合问题；使用 PlantUML 在代码库内沉淀启动流程文档。
+- *负责 Concourse CI 的重构与性能优化：*
+  通过参数化、模板化消除大量重复配置，对 Gradle 参数进行调优，并引入 Task 缓存机制，
+  在构建资源缩减的情况下仍将整体构建速度提升约一倍。
 
-** Android 开发
+** Android 开发工程师
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-12-01 Mon>
@@ -38,14 +47,27 @@
 :EMPLOYER: 上海致研智能有限公司
 :END:
 
-- 使用 Java 实现 C/S 架构的图书盘点系统的 Android 客户端部分，与 RFID 扫描枪通过蓝牙连接完成图书馆内的图书盘点，并在客户端 实现书籍索书号的排序算法。使用 Docker 改进盘点服务器部署流程，加快公司发货速度。
-- 维护 Java 实现的双开门 RFID 图书自助借还柜，在保持功能不变的情况下精简并美化代码，修复多处 BUG。增加了通过智能中央控制系统远程修改设备配置以及软硬件重启的功能。
-- 使用 Crypto++ 开发公司的授权控制库，使用 CMake 进行构建。
-- 使用 Kotlin 实现人脸注册机，借助 Google 的 MLKit 和 CameraX 实现识别到人脸且角度合适时抓拍照片并裁切人脸部分区域进行注册，与通过 HID 设备识别出的卡号进行绑定，实现闸机上人脸和刷卡均可通行。
-- 充分利用 Android Jetpack 架构组件和 Hilt 依赖注入库，结合 Retrofit2, Moshi, Coil‐kt, Coroutines, Flow 完成网络请求和图片缓存，开发了一款在线和离线均可使用的电子书阅读应用。图书管理员可自由通过 XLSX 文件和 ZIP 文件添加图书信息和图书内容(支持 PDF 和 EPUB 两种格式)。
-- 使用 Jetpack Compose 框架开发图书自助借还机，通过扫描微信读者证二维码读者即可自助完成图书借还。对 Android 的串口通信库使用 Kotlin 协程进行了二次封装，同时支持 USB 串口和 RS‐232/485 串口的通信。
+- *开发基于 Java 的图书盘点系统 Android 客户端* ，采用 C/S 架构，
+  通过蓝牙与 RFID 扫描枪通信，实现馆藏图书快速盘点；
+  在客户端实现索书号排序算法，提升盘点与核查效率。
+  同时使用 Docker 优化盘点服务器部署流程，加快设备交付速度。
+- *维护并重构双开门 RFID 图书自助借还柜系统，*
+  在保持既有功能的前提下优化代码结构与可读性，修复多处稳定性问题；
+  新增通过中央控制系统远程配置修改及软硬件重启能力，提高设备运维效率。
+- *使用 C++（Crypto++）开发公司授权控制库* ，并通过 CMake 进行跨平台构建，
+  支撑多款终端设备的授权与校验需求。
+- *使用 Kotlin 开发人脸注册终端应用* ：
+  基于 Google ML Kit 与 CameraX 实现人脸检测与角度校验，
+  在满足条件时自动抓拍并裁切人脸区域，与通过 HID 设备识别的卡号进行绑定，
+  实现闸机系统支持“刷卡 / 人脸”双通行方式。
+- *基于 Jetpack 架构组件与现代 Android 技术栈开发电子书阅读应用* ，
+  使用 Hilt、Retrofit2、Moshi、Coil、Coroutines、Flow 实现网络请求、缓存与异步处理；
+  支持在线 / 离线使用，管理员可通过 XLSX 与 ZIP 文件批量导入图书信息与内容（支持 PDF / EPUB）。
+- *使用 Jetpack Compose 开发图书自助借还终端应用* ，
+  支持通过扫描微信读者证二维码完成自助借还；
+  对 Android 串口通信库进行 Kotlin 协程封装，同时支持 USB 串口与 RS-232/485 通信方式。
 
-** Android 开发（实习）
+** Android 开发实习生
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2019-04-01 Mon>
@@ -54,9 +76,11 @@
 :EMPLOYER: 上海西派埃智能化系统有限公司
 :END:
 
-- 负责移动端 NFC 读写工具的开发，使用 Retrofit 和 Realm 进行网络请求和数据持久化，并与手机 NFC 组件交互，进行 NFC 标签的读写。
-- 使用 PersistentCookieJar 读取并存储 Cookie 信息,保持用户登录。
-  + 在使用该库时发现其 Cookie 数据验证与公司提供的不符合,并通过 Java 重写机制修复了此问题。
+- 负责 NFC 读写工具类应用的开发，
+  使用 Retrofit 进行网络请求，Realm 进行本地数据持久化，并与 Android NFC 模块交互完成标签读写。
+- 使用 PersistentCookieJar 管理并持久化登录 Cookie；
+  在使用过程中发现其 Cookie 校验逻辑与公司后端实现不一致，
+  通过 Java 重写机制修复该问题，保障登录状态的稳定性。
 
 * 教育经历
 :PROPERTIES:
