@@ -6,6 +6,8 @@
 # circle/rectangle,edge/noedge,left/right.
 #+PHOTOSTYLE: circle,right,noedge
 
+#+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
+
 * Export :noexport:
 #+begin_src elisp :results file link :file "awesomecv.pdf" :exports none
   (org-export-to-file 'awesomecv "awesomecv.tex" nil t)
