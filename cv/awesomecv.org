@@ -12,7 +12,7 @@
 :PROPERTIES:
 :EXPORT_TITLE: Android Developer
 :END:
-#+include: cv-cn.org
+#+include: cv.org
 #+begin_src elisp :results file link :file "awesomecv.pdf" :exports none
   (org-export-to-file 'awesomecv "awesomecv.tex" nil t)
   (org-latex-compile "awesomecv.tex")
