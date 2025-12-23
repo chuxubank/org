@@ -1,6 +1,7 @@
 #+TITLE: Android 开发
 #+AUTHOR: 褚 旭
 #+email: chuxubank@gmail.com
+#+LANGUAGE: zh-CN
 
 #+MOBILE: (+86) 18516704081
 #+HOMEPAGE: blog.chuxubank.top
