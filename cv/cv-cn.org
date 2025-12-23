@@ -13,7 +13,7 @@
 :PROPERTIES:
 :CV_ENV:   cvskills
 :END:
-- 移动端开发 :: Android（Kotlin, Jetpack Compose, CameraX, App Startup）；iOS（Swift，SwiftUI）
+- 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup); iOS(Swift, SwiftUI)
 - 编程语言 :: Kotlin, Java, Swift, Python, Bash, C/C++, Rust
 - 架构与工程化 :: MVVM, DI(Hilt), Gradle, CI/CD(Concourse, Jenkins), Docker, Ansible
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim
