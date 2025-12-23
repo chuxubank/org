@@ -6,11 +6,9 @@
 # circle/rectangle,edge/noedge,left/right.
 #+PHOTOSTYLE: circle,right,noedge
 
-#+include: cv.org
-
 * Export :noexport:
 #+begin_src elisp :results file link :file "awesomecv.pdf"
-  (org-export-to-file 'awesomecv "awesomecv.tex")
+  (org-export-to-file 'awesomecv "awesomecv.tex" nil t)
   (org-latex-compile "awesomecv.tex")
 #+end_src
 
@@ -18,8 +16,9 @@
 [[file:awesomecv.pdf]]
 
 * Export Chinese :noexport:
+#+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf"
-  (org-export-to-file 'awesomecv "awesomecv-cn.tex")
+  (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
   (org-latex-compile "awesomecv-cn.tex")
 #+end_src
 
