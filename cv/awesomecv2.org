@@ -1,0 +1,17 @@
+# CV color - options include: 'awesome-red (default), 'awesome-emerald,
+# 'awesome-skyblue', 'awesome-pink', 'awesome-orange', 'awesome-nephritis',
+# 'awesome-concrete' and 'awesome-darknight', plus any standard color names.
+#+CVCOLOR: awesome-red
+# Specify the position and style of the photo
+# circle/rectangle,edge/noedge,left/right.
+#+PHOTOSTYLE: circle,right,noedge
+
+
+* Export :noexport:
+#+begin_src elisp :results file link :file "awesomecv2.pdf"
+  (org-export-to-file 'awesomecv2 "awesomecv2.tex")
+  (org-latex-compile "awesomecv2.tex")
+#+end_src
+
+#+RESULTS:
+[[file:awesomecv2.pdf]]
