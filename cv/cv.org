@@ -75,3 +75,32 @@
 
 - GPA: 3.56 （专业排名前 3%）
 - 2019 年度上海市优秀毕业生；2015‑2018 连续三年校二等奖学金；2017‑2018 学年科技创新奖学金；2017‑2018 学年优秀学生
+
+* 荣誉奖项
+:PROPERTIES:
+:CV_ENV:   cvhonors
+:END:
+
+** 优胜奖、顽强拼搏奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2018
+:LOCATION: 中国，湘潭
+:EVENT: CCPC 中国大学生程序设计竞赛湘潭邀请赛
+:END:
+
+** 三等奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2018
+:LOCATION: 中国，上海
+:EVENT: “中国高校计算机大赛‑团体程序设计天梯赛”全国总决赛“华山论剑组”
+:END:
+
+** 优胜奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2017
+:LOCATION: 中国，秦皇岛
+:EVENT: CCPC 中国大学生程序设计竞赛秦皇岛站
+:END:
