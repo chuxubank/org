@@ -3,7 +3,7 @@
 # CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 #+CVCOLOR: orange
 
-#+include: cv.org
+#+include: cv-cn.org
 
 * Export :noexport:
 #+begin_src elisp :results file link :file "moderncv.pdf"
