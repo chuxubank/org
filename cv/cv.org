@@ -66,9 +66,9 @@
 
 ** 软件工程
 :PROPERTIES:
-:CV_ENV:   cvschool
-:LOCATION: 上海市第二工业大学
-:SCHOOL:   中国，上海
+:CV_ENV:   cventry
+:LOCATION: 中国，上海
+:SCHOOL:   上海市第二工业大学
 :FROM:     <2015-09-01 Tue>
 :TO:       <2019-07-01 Mon>
 :END:
