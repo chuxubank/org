@@ -19,6 +19,12 @@
 
 * Export Chinese :noexport:
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf"
+  (setq calendar-month-abbrev-array
+      ["1 月" "2 月" "3 月" "4 月" "5 月" "6 月"
+       "7 月" "8 月" "9 月" "10 月" "11 月" "12 月"])
   (org-export-to-file 'awesomecv "awesomecv-cn.tex")
   (org-latex-compile "awesomecv-cn.tex")
 #+end_src
+
+#+RESULTS:
+[[file:awesomecv-cn.pdf]]
