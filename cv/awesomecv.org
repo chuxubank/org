@@ -18,8 +18,9 @@
 * Export Chinese :noexport:
 #+include: cv-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf"
-  (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
-  (org-latex-compile "awesomecv-cn.tex")
+  (let ((org-export-default-language "zh-CN"))
+    (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
+    (org-latex-compile "awesomecv-cn.tex"))
 #+end_src
 
 #+RESULTS:
