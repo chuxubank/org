@@ -27,7 +27,7 @@
 ** Android 工程师
 :PROPERTIES:
 :CV_ENV:   cventry
-:FROM:     <2021-01-05 Tue>
+:FROM:     <2022-01-05 Wed>
 :TO:       至今
 :LOCATION: 中国，上海
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
