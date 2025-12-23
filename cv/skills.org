@@ -2,6 +2,7 @@
 - Free/Libre and Open Source Software (FLOSS)
 - Calligraphy
 - Guitar
+- HomeAssistant
 
 * Programming
 - Kotlin
