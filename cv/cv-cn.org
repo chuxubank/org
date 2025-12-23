@@ -18,6 +18,7 @@
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2020-01-05 Mon>
+:TO:       至今
 :LOCATION: 中国，上海
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
 :END:
