@@ -1,0 +1,18 @@
+* Main Interests
+- Free/Libre and Open Source Software (FLOSS)
+- Calligraphy
+- Guitar
+
+* Programming
+- Kotlin
+- Java
+- Swift
+- Emacs Lisp
+- C/C++
+- Rust
+- Python
+- Bash
+
+* Languages
+- *English*  Fluent
+- *Mandarin* Native
