@@ -1,0 +1,156 @@
+#+TITLE: Android 开发
+#+AUTHOR: 褚 旭
+#+email: chuxubank@gmail.com
+#+LANGUAGE: zh-CN
+
+#+MOBILE: (+86) 18516704081
+#+HOMEPAGE: blog.chuxubank.top
+#+GITHUB: chuxubank
+#+LINKEDIN: chuxubank
+#+PHOTO: photo.jpg
+
+* 职业技能
+:PROPERTIES:
+:CV_ENV:   cvskills
+:END:
+- 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup, KMP); iOS(Swift, SwiftUI)
+- 编程语言 :: Kotlin, Java, Swift; C/C++（Native 集成）, Python / Bash（工具与脚本）
+- 架构与工程化 :: MVVM, DI(Hilt), Gradle, CI/CD(Concourse, Jenkins), Docker, Ansible
+- 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP)
+- 语言 :: 英语 CET-6（可进行技术阅读与工作交流）, 普通话（二级乙等）
+
+* 工作经历
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** Android 工程师
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2022-01-05 Wed>
+:TO:       至今
+:LOCATION: 中国，上海
+:EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
+:END:
+
+- *主导使用 Jetpack Compose 重构电子锁核心设置流程* ，设计可复用的状态驱动 UI 架构；
+  自定义并封装 ExoPlayer 播放组件，与 Compose 深度整合，显著简化设备绑定与配置流程，
+  并在 All-Hands Meeting 上向全球团队进行技术与产品展示。
+- *重构 BI 与埋点体系以适配 Compose 架构* ，为 Compose 设计通用 SideEffect 工具，
+  实现页面 PV 等数据的极简化采集，并通过 WorkManager 异步上报，降低业务代码侵入性。
+- *迁移设备扫码模块从 Camera2 至 CameraX* ，解决旧方案在多机型上的对焦与兼容性问题；
+  结合 Compose 实现仅扫描指定区域二维码，提升扫码成功率与用户体验。
+- *推动依赖注入与测试体系升级：*
+  主导项目从 Dagger 迁移至 Hilt，简化依赖关系；
+  同时将测试框架从 JUnit4 升级至 JUnit5，并引入并发测试执行，显著缩短 CI 测试耗时。
+- *主导多 Flavor 工程架构治理*:
+  通过组件化、模块化与自定义 build-logic，将多个 Flavor 收敛至统一代码库，
+  支持按 Flavor 注入不同依赖与构建配置，显著降低维护复杂度并提升构建一致性。
+- *优化应用启动流程与初始化依赖结构：*
+  使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，
+  梳理并解决历史遗留的初始化耦合问题；使用 PlantUML 在代码库内沉淀启动流程文档及依赖图。
+- *在工程实践中引入 AI 辅助开发方式*:
+  熟练使用 AI 辅助开发工具（CLI Agent, Cursor），
+  在项目中结合 MCP / ACP 等协议进行工程实践，用于代码生成、重构、调试、测试、审核与效率提升。
+- *负责 Concourse CI 的重构与性能优化：*
+  通过参数化、模板化消除大量重复配置，对 Gradle 参数进行调优，并引入 Task 缓存机制，
+  在构建资源缩减的情况下仍将整体构建速度提升约一倍。
+
+** Android 开发工程师
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2019-12-01 Mon>
+:TO:       <2021-10-21 Thu>
+:LOCATION: 中国，上海
+:EMPLOYER: 上海致研智能有限公司
+:END:
+
+- *开发基于 Java 的图书盘点系统 Android 客户端* ，采用 C/S 架构，
+  通过蓝牙与 RFID 扫描枪通信，实现馆藏图书快速盘点；
+  在客户端实现索书号排序算法，提升盘点与核查效率。
+  同时使用 Docker 优化盘点服务器部署流程，加快设备交付速度。
+- *维护并重构双开门 RFID 图书自助借还柜系统，*
+  在保持既有功能的前提下优化代码结构与可读性，修复多处稳定性问题；
+  新增通过中央控制系统远程配置修改及软硬件重启能力，提高设备运维效率。
+- *使用 C++（Crypto++）开发公司授权控制库* ，并通过 CMake 进行跨平台构建，
+  支撑多款终端设备的授权与校验需求。
+- *使用 Kotlin 开发人脸注册终端应用* ：
+  基于 Google ML Kit 与 CameraX 实现人脸检测与角度校验，
+  在满足条件时自动抓拍并裁切人脸区域，与通过 HID 设备识别的卡号进行绑定，
+  实现闸机系统支持“刷卡 / 人脸”双通行方式。
+- *基于 Jetpack 架构组件与现代 Android 技术栈开发电子书阅读应用* ，
+  使用 Hilt、Retrofit2、Moshi、Coil、Coroutines、Flow 实现网络请求、缓存与异步处理；
+  支持在线 / 离线使用，管理员可通过 XLSX 与 ZIP 文件批量导入图书信息与内容（支持 PDF / EPUB）。
+- *使用 Jetpack Compose 开发图书自助借还终端应用* ，
+  支持通过扫描微信读者证二维码完成自助借还；
+  对 Android 串口通信库进行 Kotlin 协程封装，同时支持 USB 串口与 RS-232/485 通信方式。
+
+** Android 开发实习生
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2019-04-01 Mon>
+:TO:       <2019-08-01 Thu>
+:LOCATION: 中国，上海
+:EMPLOYER: 上海西派埃智能化系统有限公司
+:END:
+
+- 负责 NFC 读写工具类应用的开发，
+  使用 Retrofit 进行网络请求，Realm 进行本地数据持久化，并与 Android NFC 模块交互完成标签读写。
+- 使用 PersistentCookieJar 管理并持久化登录 Cookie；
+  在使用过程中发现其 Cookie 校验逻辑与公司后端实现不一致，
+  通过 Java 重写机制修复该问题，保障登录状态的稳定性。
+
+* 教育经历
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** 软件工程
+:PROPERTIES:
+:CV_ENV:   cventry
+:LOCATION: 中国，上海
+:SCHOOL:   上海市第二工业大学
+:FROM:     <2015-09-01 Tue>
+:TO:       <2019-07-01 Mon>
+:END:
+
+- GPA: 3.56 （专业排名前 3%）
+- 2019 年度上海市优秀毕业生；2015‑2018 连续三年校二等奖学金；2017‑2018 学年科技创新奖学金；2017‑2018 学年优秀学生
+
+* 荣誉奖项
+:PROPERTIES:
+:CV_ENV:   cvhonors
+:END:
+
+** 优胜奖、顽强拼搏奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2018
+:LOCATION: 中国，湘潭
+:EVENT: CCPC 中国大学生程序设计竞赛湘潭邀请赛
+:END:
+
+** 三等奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2018
+:LOCATION: 中国，上海
+:EVENT: “中国高校计算机大赛‑团体程序设计天梯赛”全国总决赛“华山论剑组”
+:END:
+
+** 优胜奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2017
+:LOCATION: 中国，秦皇岛
+:EVENT: CCPC 中国大学生程序设计竞赛秦皇岛站
+:END:
+
+* 兴趣爱好
+:PROPERTIES:
+:CV_ENV:   cvskills
+:END:
+- 书法 :: 多次入展并获全国及上海市书法比赛奖项，上海市书法家协会会员
+- 音乐 :: 乐队节奏吉他手，参与排练与演出
+- Hackintosh :: 长期维护黑苹果环境，熟悉 macOS 硬件兼容与系统调试
+- Home Assistant :: 在家庭部署 Homelab，基于 Home Assistant 进行自动化实践，并支持公司搭建 HA 集成测试环境
