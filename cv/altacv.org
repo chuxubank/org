@@ -1,27 +1,7 @@
 #+LATEX_HEADER: \geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
 
 #+latex: \marginpar{
-
-* Main Interests
-- Free/Libre and Open Source Software (FLOSS)
-- Free food
-- Free beer
-
-* Programming
-- Python
-- C/C++
-- EmacsLisp
-- Bash
-- JavaScript
-- PHP
-
-* Languages
-
-- *English*  Fluent
-- *German*   Fluent
-- *Spanish*  Native
-- *French*   Intermediate
-
+#+INCLUDE: skills.org
 #+latex: }
 
 #+include: cv.org :minlevel 1
