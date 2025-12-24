@@ -2,6 +2,7 @@
 #+AUTHOR: 褚 旭
 #+email: chuxubank@gmail.com
 #+LANGUAGE: zh-CN
+#+LATEX_HEADER: \renewcommand{\acvSectionColorHighlightNum}{2}
 
 #+MOBILE: (+86) 18516704081
 #+HOMEPAGE: blog.chuxubank.top
