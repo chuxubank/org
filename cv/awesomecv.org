@@ -7,30 +7,16 @@
 #+PHOTOSTYLE: circle,right,noedge
 
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
+# Build with Makefile: make awesomecv awesomecv-cn
 
-* Export :noexport:
+* CV :noexport:
 :PROPERTIES:
 :EXPORT_TITLE: Android Developer
 :END:
 #+include: cv.org
-#+begin_src elisp :results file link :file "awesomecv.pdf" :exports none
-  (org-export-to-file 'awesomecv "awesomecv.tex" nil t)
-  (org-latex-compile "awesomecv.tex")
-#+end_src
 
-#+RESULTS:
-[[file:awesomecv.pdf]]
-
-* Export Chinese :noexport:
+* CV Chinese :noexport:
 :PROPERTIES:
 :EXPORT_TITLE: Android 开发
 :END:
 #+include: cv-cn.org
-#+begin_src elisp :results file link :file "awesomecv-cn.pdf" :exports none
-  (let ((org-export-default-language "zh-CN"))
-    (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
-    (org-latex-compile "awesomecv-cn.tex"))
-#+end_src
-
-#+RESULTS:
-[[file:awesomecv-cn.pdf]]
