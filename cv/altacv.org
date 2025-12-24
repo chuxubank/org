@@ -1,16 +1,8 @@
 #+LATEX_HEADER: \geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+# Build with Makefile: make altacv
 
 #+latex: \marginpar{
 #+INCLUDE: skills.org
 #+latex: }
 
 #+include: cv-cn.org :minlevel 1
-
-* Export :noexport:
-#+begin_src elisp :results file link :file "altacv.pdf"
-  (org-export-to-file 'altacv "altacv.tex")
-  (org-latex-compile "altacv.tex")
-#+end_src
-
-#+RESULTS:
-[[file:altacv.pdf]]

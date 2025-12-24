@@ -2,14 +2,6 @@
 #+CVSTYLE: banking
 # CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 #+CVCOLOR: orange
+# Build with Makefile: make moderncv
 
 #+include: cv-cn.org
-
-* Export :noexport:
-#+begin_src elisp :results file link :file "moderncv.pdf"
-  (org-export-to-file 'moderncv "moderncv.tex")
-  (org-latex-compile "moderncv.tex")
-#+end_src
-
-#+RESULTS:
-[[file:moderncv.pdf]]
