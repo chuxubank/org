@@ -55,11 +55,12 @@ DEADLINE: <2026-12-31 Thu ++1y> SCHEDULED: <2026-12-01 Tue ++1y>
 :END:
 - State "DONE"       from "TODO"       [2025-12-05 Fri 16:20]
 * TODO Cut nails
-SCHEDULED: <2025-12-14 Sun 20:00 .+6d/9d>
+SCHEDULED: <2025-12-31 Wed 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-12-08 Mon 08:11]
+:LAST_REPEAT: [2025-12-25 Thu 11:22]
 :END:
+- State "DONE"       from "TODO"       [2025-12-25 Thu 11:22]
 - State "DONE"       from "TODO"       [2025-12-08 Mon 08:11]
 - State "DONE"       from "TODO"       [2025-11-30 Sun 23:59]
 - State "DONE"       from "TODO"       [2025-11-20 Thu 23:59]
@@ -894,11 +895,12 @@ SCHEDULED: <2025-12-27 Sat 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2025-12-12 Fri .+3d/5d>
+SCHEDULED: <2025-12-27 Sat .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-12-09 Tue 09:49]
+:LAST_REPEAT: [2025-12-24 Wed 23:59]
 :END:
+- State "DONE"       from "TODO"       [2025-12-24 Wed 23:59]
 - State "DONE"       from "TODO"       [2025-12-09 Tue 09:49]
 - State "DONE"       from "TODO"       [2025-12-05 Fri 16:18]
 - State "DONE"       from "TODO"       [2025-11-30 Sun 23:59]
