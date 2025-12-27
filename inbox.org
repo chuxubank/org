@@ -200,6 +200,9 @@ SCHEDULED: <2025-11-15 Sat>
 https://docs.ansible.com/projects/ansible/latest/collections/community/general/openwrt_init_module.html
 https://docs.ansible.com/projects/ansible/latest/collections/community/general/opkg_module.html
 
+*** TODO Lucky
+[[https://ljmeng.site/posts/16549/#SOHUCS][【教程】Lucky配合Cloudflare更安全的访问局域网服务 | 岂曰无衣的博客]]
+
 * TODO Conventions
 - https://keepachangelog.com/
 - https://semver.org/
