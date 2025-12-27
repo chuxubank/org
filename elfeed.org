@@ -53,6 +53,8 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 *** [[https://www.appelsiini.net/index.xml][Mika Tuupola]] :apple:
 *** [[https://www.jasonpearson.dev/rss/][Jason Pearson]] :gradle:android:
 *** [[https://sinyalee.com/blog/][新的原野]]
+
+*** [[https://diygod.cc/feed][DIYGod]]
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
