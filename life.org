@@ -1087,11 +1087,12 @@ SCHEDULED: <2025-12-24 Wed 12:55 .+1d>
 - State "DONE"       from "TODO"       [2025-09-15 Mon 13:00]
 - State "DONE"       from "TODO"       [2025-09-08 Mon 23:59]
 * TODO Clean bathroom
-SCHEDULED: <2025-12-05 Fri .+2w>
+SCHEDULED: <2026-01-11 Sun .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-11-21 Fri 15:16]
+:LAST_REPEAT: [2025-12-28 Sun 13:21]
 :END:
+- State "DONE"       from "TODO"       [2025-12-28 Sun 13:21]
 - State "DONE"       from "TODO"       [2025-11-21 Fri 15:16]
 - State "DONE"       from "TODO"       [2025-11-04 Tue 23:59]
 - State "DONE"       from "TODO"       [2025-10-21 Tue 23:59]
@@ -1287,11 +1288,12 @@ DEADLINE: <2026-03-19 Thu> SCHEDULED: <2026-02-19 Thu .+1y>
 :END:
 - State "DONE"       from "TODO"       [2025-03-17 Mon 15:03]
 ** TODO Wash Car
-SCHEDULED: <2025-12-13 Sat .+2w>
+SCHEDULED: <2026-01-11 Sun .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-11-29 Sat 14:56]
+:LAST_REPEAT: [2025-12-28 Sun 13:21]
 :END:
+- State "DONE"       from "TODO"       [2025-12-28 Sun 13:21]
 - State "DONE"       from "TODO"       [2025-11-29 Sat 14:56]
 - State "DONE"       from "TODO"       [2025-11-15 Sat 15:16]
 - State "DONE"       from "TODO"       [2025-11-01 Sat 20:56]
@@ -1327,11 +1329,12 @@ SCHEDULED: <2025-12-13 Sat .+2w>
 - State "DONE"       from "TODO"       [2022-02-06 Sun 10:14]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 ** TODO Add windshield washer fluid
-SCHEDULED: <2025-09-05 Fri .+9m>
+SCHEDULED: <2026-09-28 Mon .+9m>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-11-05 Tue 10:41]
+:LAST_REPEAT: [2025-12-28 Sun 13:20]
 :END:
+- State "DONE"       from "TODO"       [2025-12-28 Sun 13:20]
 - State "DONE"       from "TODO"       [2024-11-05 Tue 10:41]
 - State "DONE"       from "TODO"       [2024-01-31 Wed 09:17]
 ** TODO Renew driver's license
