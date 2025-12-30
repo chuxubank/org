@@ -1,6 +1,15 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 预订澳新机票酒店
+SCHEDULED: <2025-12-30 Tue>
+
+** TODO 新西兰租车
+SCHEDULED: <2025-12-30 Tue>
+
+*** TODO 确定新西兰自驾线路
+SCHEDULED: <2025-12-30 Tue>
+
 * KILL 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
 :LOGBOOK:
