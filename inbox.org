@@ -10,6 +10,9 @@ SCHEDULED: <2025-12-30 Tue>
 *** TODO 确定新西兰自驾线路
 SCHEDULED: <2025-12-30 Tue>
 
+* TODO Google AI Pro
+https://one.google.com/ai-nye
+
 * KILL 修复 kotlin-ts-mode 在 org mode 中的高亮
 SCHEDULED: <2025-12-09 Tue>
 :LOGBOOK:
