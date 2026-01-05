@@ -69,6 +69,12 @@ https://x.com/moonatcloud/status/1967318555386679551
 
 *** TODO 70
 
+*** Study Plan
+https://leetcode.cn/studyplan/selected-coding-interview/
+https://leetcode.cn/studyplan/leetcode-75/
+https://www.techinterviewhandbook.org/grind75/?weeks=8&order=difficulty&difficulty=Easy&difficulty=Medium&difficulty=Hard&hours=8
+
+
 * TODO 耶鲁大学公开课：聆听音乐
 https://oyc.yale.edu/music/musi-112/lecture-1
 * DONE [#A] 软考
