@@ -252,6 +252,9 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 :END:
 https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&weeks=8
 
+** STRT 投递简历
+https://job.toutiao.com/referral/mobile/position?token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx
+
 * TODO 学习日语
 
 * TODO 国际驾照
