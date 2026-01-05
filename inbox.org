@@ -188,6 +188,8 @@ SCHEDULED: <2025-02-17 Mon>
 SCHEDULED: <2025-07-27 Sun>
 https://github.com/google/comprehensive-rust
 
+** TODO 制作 Rust 命令行工具并开源
+
 * TODO 重构 Ansible
 SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
