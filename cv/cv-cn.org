@@ -15,8 +15,8 @@
 :CV_ENV:   cvskills
 :END:
 - 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup, KMP); iOS(Swift, SwiftUI)
-- 编程语言 :: Kotlin, Java, Swift; C/C++（Native 集成）, Python / Bash（工具与脚本）
-- 架构与工程化 :: MVVM, DI(Hilt), Gradle, CI/CD(Concourse, Jenkins), Docker, Ansible
+- 编程语言 :: Kotlin, Java, Swift; C/C++（Native 集成）, Python, Bash, Ruby（工具与脚本）
+- 架构与工程化 :: MVVM, DI(Hilt), Gradle, CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP)
 - 语言 :: 英语 CET-6（可进行技术阅读与工作交流）, 普通话（二级乙等）
 
@@ -46,9 +46,9 @@
   同时将测试框架从 JUnit4 升级至 JUnit5，并引入并发测试执行，显著缩短 CI 测试耗时。
 - *主导多 Flavor 工程架构治理*:
   通过组件化、模块化与自定义 build-logic，将多个 Flavor 收敛至统一代码库，
-  支持按 Flavor 注入不同依赖与构建配置，显著降低维护复杂度并提升构建一致性。
+  支持按 Flavor 注入不同依赖与构建配置，显著缩减各个品牌安装包大小，降低代码维护复杂度并提升构建一致性。
 - *优化应用启动流程与初始化依赖结构：*
-  使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，
+  使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，优化应用启动速度，
   梳理并解决历史遗留的初始化耦合问题；使用 PlantUML 在代码库内沉淀启动流程文档及依赖图。
 - *在工程实践中引入 AI 辅助开发方式*:
   熟练使用 AI 辅助开发工具（CLI Agent, Cursor），
