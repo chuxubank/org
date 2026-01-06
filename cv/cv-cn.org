@@ -42,7 +42,7 @@
 - *迁移设备扫码模块从 Camera2 至 CameraX* ，解决旧方案在多机型上的对焦与兼容性问题；
   结合 Compose 实现仅扫描指定区域二维码，提升扫码成功率与用户体验。
 - *推动依赖注入与测试体系升级：*
-  主导项目从 Dagger 迁移至 Hilt，简化依赖关系；
+  主导项目从 Dagger 迁移至 Hilt，简化依赖关系；维护 MVVM 和 Clean Architecture 项目架构。
   同时将测试框架从 JUnit4 升级至 JUnit5，并引入并发测试执行，显著缩短 CI 测试耗时。
 - *主导多 Flavor 工程架构治理*:
   通过组件化、模块化与自定义 build-logic，将多个 Flavor 收敛至统一代码库，
@@ -80,11 +80,11 @@
   基于 Google ML Kit 与 CameraX 实现人脸检测与角度校验，
   在满足条件时自动抓拍并裁切人脸区域，与通过 HID 设备识别的卡号进行绑定，
   实现闸机系统支持“刷卡 / 人脸”双通行方式。
-- *基于 Jetpack 架构组件与现代 Android 技术栈开发电子书阅读应用* ，
-  使用 Hilt、Retrofit2、Moshi、Coil、Coroutines、Flow 实现网络请求、缓存与异步处理；
-  支持在线 / 离线使用，管理员可通过 XLSX 与 ZIP 文件批量导入图书信息与内容（支持 PDF / EPUB）。
-- *使用 Jetpack Compose 开发图书自助借还终端应用* ，
-  支持通过扫描微信读者证二维码完成自助借还；
+- *从 0 到 1 负责基于 Jetpack 架构组件与现代 Android 技术栈开发电子书阅读应用* ，
+  使用 Hilt、Retrofit2、Moshi、Coil、Coroutines、Flow、Room 实现网络请求、缓存与异步处理；
+  支持在线 / 离线使用，瀑布流图书列表，管理员可通过 XLSX 与 ZIP 文件批量导入图书信息与内容（支持 PDF / EPUB）。
+- *从 0 到 1 使用 Jetpack Compose 开发图书自助借还终端应用* ，
+  支持通过扫描微信读者证二维码完成自助借还；利用 Coroutine 封装硬件通讯方法。
   对 Android 串口通信库进行 Kotlin 协程封装，同时支持 USB 串口与 RS-232/485 通信方式。
 
 ** Android 开发实习生
