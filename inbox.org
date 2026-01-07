@@ -6,6 +6,10 @@ SCHEDULED: <2026-01-07 Wed>
 https://developers.google.com/community/experts#how_do_i_apply
 https://developers.google.com/static/community/experts/assets/GDE_Program_Application_Guide.pdf
 
+** Apply
+- https://g.dev/hamber
+  hamberluo@gmail.com
+
 * TODO 预订澳新机票酒店
 SCHEDULED: <2025-12-30 Tue>
 
