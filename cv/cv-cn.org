@@ -33,9 +33,13 @@
 :LOCATION: 中国，上海
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
 :END:
-
-- *主导使用 Jetpack Compose 重构电子锁核心设置流程* ，设计可复用的状态驱动 UI 架构；
-  自定义并封装 ExoPlayer 播放组件，与 Compose 深度整合，显著简化设备绑定与配置流程，
+- *负责维护与演进 Yale Home（全球用户的智能家居核心 App）Android 客户端* ：
+  面向高 MAU、跨区域用户的生产级应用，
+  支持智能门锁等 IoT 设备的绑定、配置、蓝牙控制与远程管理，
+  长期参与核心功能开发、架构演进与稳定性保障。
+- *在 Yale Home 核心用户路径中主导 Jetpack Compose 重构* ：
+  覆盖电子锁绑定、配置与设置等高频使用场景，设计可复用的状态驱动 UI 架构；
+  自定义并封装 ExoPlayer 播放组件，与 Compose 深度整合，在保证线上稳定性的前提下逐步完成 UI 技术栈升级，
   并在 All-Hands Meeting 上向全球团队进行技术与产品展示。
 - *重构 BI 与埋点体系以适配 Compose 架构* ，为 Compose 设计通用 SideEffect 工具，
   实现页面 PV 等数据的极简化采集，并通过 WorkManager 异步上报，降低业务代码侵入性。
