@@ -9,6 +9,8 @@ https://developers.google.com/static/community/experts/assets/GDE_Program_Applic
 ** Apply
 - https://g.dev/hamber
   hamberluo@gmail.com
+- https://g.dev/panthole
+- https://g.dev/shixin
 
 * TODO 预订澳新机票酒店
 SCHEDULED: <2025-12-30 Tue>
