@@ -16,7 +16,7 @@
 :END:
 - 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup, KMP); iOS(Swift, SwiftUI)
 - 编程语言 :: Kotlin, Java, Swift; C/C++（Native 集成）, Python, Bash, Ruby（工具与脚本）
-- 网络库 :: Retrofit2, Ktor(kRPC), OpenAPI Codegen, GraphQL
+- 网络库 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL
 - 架构与工程化 :: MVVM/MVI, Clean Architechure, DI(Hilt/Dagger2)
 - 持续集成 :: Concourse, Jenkins, Fastlane, Docker, Ansible
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP)
