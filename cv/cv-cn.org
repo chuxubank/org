@@ -15,12 +15,11 @@
 :CV_ENV:   cvskills
 :END:
 - 移动端开发 :: Android(Kotlin, Jetpack Compose, CameraX, App Startup, KMP); iOS(Swift, SwiftUI)
-- 编程语言 :: Kotlin, Java, Swift; C/C++（Native 集成）, Python, Bash, Ruby（工具与脚本）
+- 编程语言 :: Kotlin, Java, Swift; C/C++(JNI), Rust; Python, Bash, Ruby
+- 架构与工程化 :: MVVM/MVI, Clean Architecture, DI(Hilt/Dagger2), CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
 - 网络库 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL
-- 架构与工程化 :: MVVM/MVI, Clean Architechure, DI(Hilt/Dagger2)
-- 持续集成 :: Concourse, Jenkins, Fastlane, Docker, Ansible
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP)
-- 语言 :: 英语 CET-6（可进行技术阅读与工作交流）, 普通话（二级乙等）
+- 语言 :: 英语 CET-6(可进行技术阅读与工作交流), 普通话(二级乙等)
 
 * 工作经历
 :PROPERTIES:
@@ -57,7 +56,7 @@
   使用 App Startup 拆分启动任务，并在 Initializer 中引入 Hilt 统一管理启动依赖，优化应用启动速度，
   梳理并解决历史遗留的初始化耦合问题；使用 PlantUML 在代码库内沉淀启动流程文档及依赖图。
 - *在工程实践中引入 AI 辅助开发方式*:
-  熟练使用 AI 辅助开发工具（CLI Agent, Cursor），
+  熟练使用 AI 辅助开发工具(CLI Agent, Cursor)，
   在项目中结合 MCP / ACP 等协议进行工程实践，用于代码生成、重构、调试、测试、审核与效率提升。
 - *负责 Concourse CI 的重构与性能优化：*
   通过参数化、模板化与构建参数调优重构 CI 流水线，基于 Concourse Task 实现子模块的可复用打包与发布能力，
@@ -79,7 +78,7 @@
 - *维护并重构双开门 RFID 图书自助借还柜系统，*
   在保持既有功能的前提下优化代码结构与可读性，修复多处稳定性问题；
   新增通过中央控制系统远程配置修改及软硬件重启能力，提高设备运维效率。
-- *使用 C++（Crypto++）开发公司授权控制库* ，并通过 CMake 进行跨平台构建，
+- *使用 C++(Crypto++)开发公司授权控制库* ，并通过 CMake 进行跨平台构建，
   支撑多款终端设备的授权与校验需求。
 - *独立负责多款终端与业务型 Android 应用的设计与实现* ：
   覆盖人脸注册终端、电子书阅读应用及图书自助借还终端等多个业务场景，
@@ -89,7 +88,7 @@
   满足条件时自动抓拍并裁切人脸区域，并与 HID 设备识别的卡号完成绑定，
   支撑闸机系统“刷卡 / 人脸”双通行模式。
 - *负责电子书阅读应用的核心功能开发与架构落地* ：
-  基于 Jetpack 架构组件与现代 Android 技术栈（Hilt、Coroutines、Flow、Room 等），
+  基于 Jetpack 架构组件与现代 Android 技术栈(Hilt、Coroutines、Flow、Room 等)，
   实现在线 / 离线阅读、缓存管理与异步数据处理；
   支持瀑布流图书列表，并提供管理员侧通过 XLSX / ZIP 批量导入图书内容的能力。
 - *负责图书自助借还终端应用的 Compose 实践与硬件通信封装* ：
