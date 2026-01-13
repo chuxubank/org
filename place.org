@@ -215,39 +215,33 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 :EXPORT_LATEX_HEADER_EXTRA: \renewcommand{\arraystretch}{1.5}
 :END:
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align p{0.5cm}p{2cm}p{3.8cm}Yp{3.5cm}
-| Day |       Date | City               | Itinerary Details                                                                                       | Accommodation        |
-|-----+------------+--------------------+---------------------------------------------------------------------------------------------------------+----------------------|
-|   1 | 2026-02-05 | Shanghai → Sydney  | Depart from Shanghai by international flight. Arrive in Sydney, transfer to hotel and rest.             | Sydney city hotel    |
-|   2 | 2026-02-06 | Sydney             | Visit Sydney Opera House (outside), Sydney Harbour Bridge, Circular Quay, Royal Botanic Garden.         | Sydney city hotel    |
-|   3 | 2026-02-07 | Sydney             | Visit Manly Beach, enjoy coastal scenery and leisure activities around Darling Harbour. | Sydney city hotel    |
-|   4 | 2026-02-08 | Sydney             | Blue Mountains National Park day tour, including Three Sisters and scenic viewpoints.                   | Sydney city hotel    |
-|   5 | 2026-02-09 | Sydney → Melbourne | Domestic flight to Melbourne. Free time in the city centre after arrival.                               | Melbourne city hotel |
-|   6 | 2026-02-10 | Melbourne          | Visit Federation Square, Flinders Street Station, Queen Victoria Market, Yarra River.                   | Melbourne city hotel |
-|   7 | 2026-02-11 | Melbourne          | Great Ocean Road day tour: Twelve Apostles, Loch Ard Gorge.                                             | Melbourne city hotel |
-|   8 | 2026-02-12 | Melbourne          | Free day for leisure activities or short nearby excursions.                                             | Melbourne city hotel |
-|   9 | 2026-02-13 | Melbourne → Sydney | Return flight to Sydney. Free time after arrival.                                                       | Sydney city hotel    |
-|  10 | 2026-02-14 | Sydney             | Free day for shopping and sightseeing.                                                                  | Sydney city hotel    |
-|  11 | 2026-02-15 | Sydney → Shanghai  | Depart from Sydney by international flight and return to Shanghai.                                      | —                    |
+| Day |       Date | City               | Itinerary Details                                                                               | Accommodation        |
+|-----+------------+--------------------+-------------------------------------------------------------------------------------------------+----------------------|
+|   1 | 2026-02-05 | Shanghai → Sydney  | Depart from Shanghai by international flight. Arrive in Sydney, transfer to hotel and rest.     | Sydney city hotel    |
+|   2 | 2026-02-06 | Sydney             | Visit Sydney Opera House (outside), Sydney Harbour Bridge, Circular Quay, Royal Botanic Garden. | Sydney city hotel    |
+|   3 | 2026-02-07 | Sydney             | Visit Manly Beach, enjoy coastal scenery and leisure activities around Darling Harbour.         | Sydney city hotel    |
+|   4 | 2026-02-08 | Sydney             | Blue Mountains National Park day tour, including Three Sisters and scenic viewpoints.           | Sydney city hotel    |
+|   5 | 2026-02-09 | Sydney → Melbourne | Domestic flight to Melbourne. Free time in the city centre after arrival.                       | Melbourne city hotel |
+|   6 | 2026-02-10 | Melbourne          | Visit Federation Square, Flinders Street Station, Queen Victoria Market, Yarra River.           | Melbourne city hotel |
+|   7 | 2026-02-11 | Melbourne          | Great Ocean Road day tour: Twelve Apostles, Loch Ard Gorge.                                     | Melbourne city hotel |
+|   8 | 2026-02-12 | Melbourne          | Free day for leisure activities or short nearby excursions.                                     | Melbourne city hotel |
+|   9 | 2026-02-13 | Melbourne → Sydney | Return flight to Sydney. Free time after arrival.                                               | Sydney city hotel    |
+|  10 | 2026-02-14 | Sydney             | Free day for shopping and sightseeing.                                                          | Sydney city hotel    |
+|  11 | 2026-02-15 | Sydney → Shanghai  | Depart from Sydney by international flight and return to Shanghai.                              | —                    |
 
 ** TOGO 新西兰
+
+*** 驾车
+
+**** 交规
 新西兰自驾交规十记
-01
-新西兰自驾是左行，与中国的右行不同，不过不用担心，道路状况比较好，人口密度小，习惯起来很快！
-02
-始终系好安全带。车辆中的每位乘客都必须系好安全带，儿童需要准备合适的儿童座椅，携程用车可以预约，可在门店租赁。
-03
-开车始终需要保持在速限内，遇到 STOP 停止标志必须停车。
-04
-弯道四周时需要放慢并观察推荐速度，在单车道桥梁时要注意迎面而来的车流，避免车流堵塞。
-05
-只有在确定安全时才能超车。尽可能使用超车线道，靠您侧的中心线是黄色实线时不可超车。
-06
-充分休息保持良好驾驶精神，计划一次只开 1-2 小时的时间，旅途中固定休息以伸展腿。
-07
-依天气条件驾驶。下雨、结冰或下雪、刮风，或者经道路施工区就需减速。如果有疑问，询问您的住宿提供者。
-08
-计划旅程同时请使用驾驶时间和距离计算器或 GPS 估计驾驶时间。由于公路弯曲，在新西兰驾车往往比预期需要更长的时间。
-09
-不要酒后驾车。酒精或药物影响下驾驶在新西兰是犯罪行为，并由警察严格执行取缔，违法者将受严厉处罚。
-10
-在新西兰驾驶时使用手机是非法的。如果您需要拨打电话或者发送短信，请到休息站或安全的地方。
+1. 新西兰自驾是左行，与中国的右行不同，不过不用担心，道路状况比较好，人口密度小，习惯起来很快！
+2. 始终系好安全带。车辆中的每位乘客都必须系好安全带，儿童需要准备合适的儿童座椅，携程用车可以预约，可在门店租赁。
+3. 开车始终需要保持在速限内，遇到 STOP 停止标志必须停车。
+4. 弯道四周时需要放慢并观察推荐速度，在单车道桥梁时要注意迎面而来的车流，避免车流堵塞。
+5. 只有在确定安全时才能超车。尽可能使用超车线道，靠您侧的中心线是黄色实线时不可超车。
+6. 充分休息保持良好驾驶精神，计划一次只开 1-2 小时的时间，旅途中固定休息以伸展腿。
+7. 依天气条件驾驶。下雨、结冰或下雪、刮风，或者经道路施工区就需减速。如果有疑问，询问您的住宿提供者。
+8. 计划旅程同时请使用驾驶时间和距离计算器或 GPS 估计驾驶时间。由于公路弯曲，在新西兰驾车往往比预期需要更长的时间。
+9. 不要酒后驾车。酒精或药物影响下驾驶在新西兰是犯罪行为，并由警察严格执行取缔，违法者将受严厉处罚。
+10. 在新西兰驾驶时使用手机是非法的。如果您需要拨打电话或者发送短信，请到休息站或安全的地方。
