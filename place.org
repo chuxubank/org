@@ -204,10 +204,8 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 
 ** BEEN 意大利
 *** BEEN 米兰
-**** 马尔彭萨
-*** 那不勒斯
-**** 那不勒斯
-***** L'Antica Pizzeria Da Michele
+*** TOGO 那不勒斯
+**** TOGO L'Antica Pizzeria Da Michele
 
 ** TOGO 澳大利亚
 *** Australia Travel Itinerary
@@ -229,6 +227,151 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 |  10 | 2026-02-14 | Sydney             | Free day for shopping and sightseeing.                                                          | Sydney city hotel    |
 |  11 | 2026-02-15 | Sydney → Shanghai  | Depart from Sydney by international flight and return to Shanghai.                              | —                    |
 
+
+*** 02-04 Wed ｜悉尼｜抵达
+:PROPERTIES:
+:COUNTRY: AU
+:CITY:    Sydney
+:STAY:    悉尼
+:END:
+- [ ] 13:35 抵达悉尼机场（SYD）
+- [ ] 入境 + 交通前往酒店
+- [ ] 酒店入住 / 放行李
+- [ ] 环形码头（Circular Quay）散步
+- [ ] 早休息，倒时差
+
+*** 02-05 Thu ｜悉尼｜市区经典
+:PROPERTIES:
+:COUNTRY: AU
+:CITY:    Sydney
+:STAY:    悉尼
+:END:
+- [ ] 悉尼歌剧院（外观 / 内部）
+- [ ] 海港大桥瞭望点
+- [ ] The Rocks 老城区
+- [ ] 港湾日落
+
+*** 02-06 Fri ｜悉尼｜海滩
+:PROPERTIES:
+:COUNTRY: AU
+:CITY:    Sydney
+:STAY:    悉尼
+:END:
+- [ ] Bondi Beach
+- [ ] Bondi → Coogee 海岸步道
+- [ ] 下午返回市区休息
+
+*** 02-07 Sat ｜悉尼｜一日游
+:PROPERTIES:
+:COUNTRY: AU
+:CITY:    Sydney
+:STAY:    悉尼
+:END:
+- [ ] 蓝山国家公园（三姐妹峰）
+- [ ] Scenic World 缆车
+- [ ] 或：塔龙加动物园（看考拉）
+- [ ] 傍晚回酒店
+
+*** 02-08 Sun ｜悉尼｜自由活动
+:PROPERTIES:
+:COUNTRY: AU
+:CITY:    Sydney
+:STAY:    悉尼
+:END:
+- [ ] 购物 / 补给
+- [ ] 整理行李
+- [ ] 提前休息（次日飞行）
+
+*** 02-09 Mon ｜悉尼 → 皇后镇｜转场
+:PROPERTIES:
+:COUNTRY: AU→NZ
+:FROM:    Sydney
+:TO:      Queenstown
+:STAY:    皇后镇
+:END:
+- [ ] 酒店退房
+- [ ] 飞机：悉尼 → 皇后镇
+- [ ] 机场取车（自驾开始）
+- [ ] 入住皇后镇酒店
+- [ ] 湖边散步
+
+*** 02-10 Tue ｜皇后镇｜湖区
+:PROPERTIES:
+:COUNTRY: NZ
+:CITY:    Queenstown
+:STAY:    皇后镇
+:END:
+- [ ] Skyline 缆车
+- [ ] 瓦卡蒂普湖游船（可选）
+- [ ] 市区闲逛
+
+*** 02-11 Wed ｜皇后镇｜周边自驾
+:PROPERTIES:
+:COUNTRY: NZ
+:CITY:    Queenstown
+:STAY:    皇后镇
+:DRIVE:   ~200km
+:END:
+- [ ] Arrowtown 箭镇
+- [ ] Glenorchy 公路 & 小镇
+- [ ] 傍晚返回皇后镇
+
+*** 02-12 Thu ｜皇后镇 → 库克山
+:PROPERTIES:
+:COUNTRY: NZ
+:FROM:    Queenstown
+:TO:      Mount Cook
+:STAY:    库克山
+:DRIVE:   ~300km
+:END:
+- [ ] 普卡基湖（Lake Pukaki）
+- [ ] 胡克谷步道（Hooker Valley Track）
+- [ ] 日落拍照
+
+*** 02-13 Fri ｜库克山 → 特卡波
+:PROPERTIES:
+:COUNTRY: NZ
+:FROM:    Mount Cook
+:TO:      Tekapo
+:STAY:    特卡波
+:DRIVE:   ~100km
+:END:
+- [ ] 牧羊人教堂
+- [ ] 特卡波湖散步
+- [ ] 夜晚观星（天气允许）
+
+*** 02-14 Sat ｜特卡波 → 基督城
+:PROPERTIES:
+:COUNTRY: NZ
+:FROM:    Tekapo
+:TO:      Christchurch
+:STAY:    基督城
+:DRIVE:   ~230km
+:END:
+- [ ] 基督城植物园
+- [ ] 雅芳河撑船（可选）
+- [ ] 市区闲逛
+
+*** 02-15 Sun ｜基督城 → 奥克兰
+:PROPERTIES:
+:COUNTRY: NZ
+:FROM:    Christchurch
+:TO:      Auckland
+:STAY:    奥克兰
+:END:
+- [ ] 还车
+- [ ] 飞机：基督城 → 奥克兰
+- [ ] 入住奥克兰酒店
+- [ ] 夜景 / 天空塔
+
+*** 02-16 Mon ｜奥克兰｜回国
+:PROPERTIES:
+:COUNTRY: NZ
+:CITY:    Auckland
+:END:
+- [ ] 市区散步
+- [ ] 最后购物
+- [ ] 22:00 起飞 → 上海
 ** TOGO 新西兰
 
 *** 驾车
