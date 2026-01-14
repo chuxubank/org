@@ -5,9 +5,6 @@
 #+PROPERTY: Type_ALL 餐饮 娱乐 休闲 展馆
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
-#+LATEX_HEADER: \usepackage{tabularx}
-#+LATEX_HEADER: \usepackage{array}
-#+LATEX_HEADER: \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 * Inbox
 ** Diego Vitagliano Pizzeria
@@ -210,7 +207,9 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 ** TOGO 澳大利亚
 *** Australia Travel Itinerary
 :PROPERTIES:
-:EXPORT_LATEX_HEADER_EXTRA: \renewcommand{\arraystretch}{1.5}
+:EXPORT_LATEX_HEADER_EXTRA: \usepackage{tabularx}
+:EXPORT_LATEX_HEADER_EXTRA+: \renewcommand{\arraystretch}{1.5}
+:EXPORT_LATEX_HEADER_EXTRA+: \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 :END:
 #+ATTR_LATEX: :environment tabularx :width \textwidth :align p{0.5cm}p{2cm}p{3.8cm}Yp{3.5cm}
 | Day |       Date | City               | Itinerary Details                                                                               | Accommodation        |
