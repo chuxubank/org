@@ -20,7 +20,10 @@ SCHEDULED: <2025-12-30 Tue>
 SCHEDULED: <2025-12-30 Tue>
 [[https://www.xiaohongshu.com/explore/6915584e0000000005000d33?xsec_token=ABwRRgJUt6OUe1P-x05DgTgI4mruWpneEZFXg9x8qUiuc=&xsec_source=pc_search&source=unknown][新西兰租车小窍门，省了1000+ - 小红书]]
 https://www.ezicarrental.co.nz
+https://www.avis.com/en/home
 https://www.apexrentals.co.nz/zh-cn/reservations/location
+https://www.hertz.cn/rentacar/reservation/
+https://www.hertz.com/us/en
 
 *** TODO 确定新西兰自驾线路
 SCHEDULED: <2025-12-30 Tue>
