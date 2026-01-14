@@ -54,7 +54,7 @@ SCHEDULED: <2025-11-25 Tue>
 ** TODO 用 AI 创建根据文件修改 Safari 的浏览器插件
 SCHEDULED: <2025-12-09 Tue>
 
-* TODO 分体键盘键位分配
+* TODO 分体键盘键位优化
 SCHEDULED: <2025-11-06 Thu>
 https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifiers_really_the_best_options/
 https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
