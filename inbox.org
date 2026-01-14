@@ -80,6 +80,7 @@ https://usevia.app/design
 SCHEDULED: <2025-11-12 Wed>
 https://www.freqtrade.io/en/stable/
 https://github.com/ccxt/ccxt
+https://axiom.trade
 
 * TODO Relocate Zotero translators
 SCHEDULED: <2025-09-25 Thu>
