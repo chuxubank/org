@@ -207,25 +207,7 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 ** TOGO 澳大利亚
 
 *** 悉尼
-SCHEDULED: <2026-02-04 Wed 13:35>
-DEADLINE:  <2026-02-09 Mon>
-:PROPERTIES:
-:COUNTRY: AU
-:TYPE:    City Stay
-:END:
-- 市区观光 / 海滩 / 一日游
-- 重点：歌剧院、海港、Bondi、蓝山或动物园
-
-*** 悉尼 → 皇后镇
-SCHEDULED: <2026-02-09 Mon>
-:PROPERTIES:
-:TYPE:    Flight
-:FROM:    Sydney
-:TO:      Queenstown
-:END:
-- 退房 → 机场
-- 飞往新西兰
-- 皇后镇机场取车（自驾开始）
+SCHEDULED: <2026-02-04 Wed 13:35> DEADLINE: <2026-02-09 Mon 09:35>
 
 ** TOGO 新西兰
 *** 皇后镇
