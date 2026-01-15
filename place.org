@@ -211,98 +211,30 @@ SCHEDULED: <2026-02-04 Wed 13:35> DEADLINE: <2026-02-09 Mon 09:35>
 
 ** TOGO 新西兰
 *** 皇后镇
-SCHEDULED: <2026-02-09 Mon>
-DEADLINE:  <2026-02-12 Thu>
-:PROPERTIES:
-:COUNTRY: NZ
-:TYPE:    Self-drive Base
-:END:
+SCHEDULED: <2026-02-09 Mon> DEADLINE: <2026-02-12 Thu>
 - 湖区 / 缆车 / 市区
 - Arrowtown
 - Glenorchy 公路
 
-*** 皇后镇 → 库克山
-SCHEDULED: <2026-02-12 Thu>
-:PROPERTIES:
-:TYPE:    Self-drive
-:FROM:    Queenstown
-:TO:      Mount Cook
-:DRIVE:   ~300km
-:END:
-- 途经 Lake Pukaki
-- 抵达库克山国家公园
-
 *** 库克山
-SCHEDULED: <2026-02-12 Thu>
-DEADLINE:  <2026-02-13 Fri>
-:PROPERTIES:
-:COUNTRY: NZ
-:TYPE:    National Park
-:END:
+SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 - Hooker Valley Track
 - 冰川 / 雪山景观
 
-*** 库克山 → 特卡波
-SCHEDULED: <2026-02-13 Fri>
-:PROPERTIES:
-:TYPE:    Self-drive
-:FROM:    Mount Cook
-:TO:      Tekapo
-:DRIVE:   ~100km
-:END:
-- 牧羊人教堂
-- 特卡波湖
-
 *** 特卡波
-SCHEDULED: <2026-02-13 Fri>
-DEADLINE:  <2026-02-14 Sat>
-:PROPERTIES:
-:COUNTRY: NZ
-:TYPE:    Lake / Stargazing
-:END:
+SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat>
 - 湖畔散步
 - 夜晚观星（天气允许）
 
-*** 特卡波 → 基督城
-SCHEDULED: <2026-02-14 Sat>
-:PROPERTIES:
-:TYPE:    Self-drive
-:FROM:    Tekapo
-:TO:      Christchurch
-:DRIVE:   ~230km
-:END:
-- 抵达后市区活动
-
 *** 基督城
-SCHEDULED: <2026-02-14 Sat>
-DEADLINE:  <2026-02-15 Sun>
-:PROPERTIES:
-:COUNTRY: NZ
-:TYPE:    City
-:END:
+SCHEDULED: <2026-02-14 Sat> DEADLINE: <2026-02-14 Sat>
 - 植物园
 - 雅芳河
 - 还车准备
 
-*** 基督城 → 奥克兰
-SCHEDULED: <2026-02-15 Sun>
-:PROPERTIES:
-:TYPE:    Flight
-:FROM:    Christchurch
-:TO:      Auckland
-:END:
-- 还车
-- 飞往奥克兰
-
 *** 奥克兰
-SCHEDULED: <2026-02-15 Sun>
-DEADLINE:  <2026-02-16 Mon 22:00>
-:PROPERTIES:
-:COUNTRY: NZ
-:TYPE:    Return
-:END:
+SCHEDULED: <2026-02-14 Sat> DEADLINE: <2026-02-16 Mon 22:00>
 - 市区散步 / 购物
-- 22:00 起飞 → 上海
 
 *** 驾车
 **** 交规
