@@ -218,7 +218,6 @@ SCHEDULED: <2026-02-09 Mon> DEADLINE: <2026-02-12 Thu>
 - Arrowtown
 - Glenorchy 公路
 
-
 *** 库克山
 SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 [[geo:-43.595002,170.142168;z=14][Mackenzie District]]
@@ -231,13 +230,13 @@ SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat>
 - 夜晚观星（天气允许）
 
 *** 基督城
-SCHEDULED: <2026-02-14 Sat> DEADLINE: <2026-02-14 Sat>
+SCHEDULED: <2026-02-14 Sat> DEADLINE: <2026-02-14 Sat 09:00>
 - 植物园
 - 雅芳河
 - 还车准备
 
 *** 奥克兰
-SCHEDULED: <2026-02-14 Sat> DEADLINE: <2026-02-16 Mon 22:00>
+SCHEDULED: <2026-02-14 Sat 10:20> DEADLINE: <2026-02-16 Mon 22:00>
 - 市区散步 / 购物
 
 *** 驾车
