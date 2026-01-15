@@ -220,7 +220,7 @@ SCHEDULED: <2026-02-09 Mon> DEADLINE: <2026-02-12 Thu>
 
 *** 库克山
 SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
-[[geo:-43.595002,170.142168;z=14][Mackenzie District]]
+[[geo:-43.604873,170.241074;z=11][Mackenzie District, Canterbury, New Zealand, -43.60° 170.24° Z11]]
 - Hooker Valley Track
 - 冰川 / 雪山景观
 
