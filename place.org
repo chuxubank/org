@@ -223,6 +223,7 @@ SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 [[geo:-43.604873,170.241074;z=11][Mackenzie District, Canterbury, New Zealand, -43.60° 170.24° Z11]]
 - Hooker Valley Track
 - 冰川 / 雪山景观
+  [[https://fareharbor.com/embeds/book/inflite-mtcook/items/107890/calendar/2026/02/?full-items=yes&back=https://infliteexperiences.co.nz/tours/the-ultimate-alpine-experience-399/&flow=100123][FareHarbor]]
 
 *** 特卡波
 SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat>
