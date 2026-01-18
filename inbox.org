@@ -291,13 +291,16 @@ https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100
 
 * TODO Update CV
 SCHEDULED: <2025-12-11 Thu>
-** TODO Update LinkedIn
+** DONE Update LinkedIn
 SCHEDULED: <2025-12-11 Thu>
 
-** TODO Add CI/CD tech
+** DONE Add CI/CD tech
 - Fastlane
 - Concourse
 
-** TODO Add Ansible tech
+** DONE Add Ansible tech
 
-** TODO Add use MCP/ACP AI agent tools
+** DONE Add use MCP/ACP AI agent tools
+
+** TODO 把工作经历和项目分开
+职业技能方面通过话术，比如精通 Kotlin 语言，熟练运用 CI/CD 工程化工具
