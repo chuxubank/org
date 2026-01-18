@@ -41,8 +41,7 @@
 ** STRT 间谍过家家
 [[bili:md21086686]]
 35 话
-** WAIT Monster
-SCHEDULED: <2025-05-24 Sat .+1d>
+** TODO Monster
 :PROPERTIES:
 :REPEAT:   10
 :TRIGGER:  if self has-property?("REPEAT" "74") then self set-property!("REPEAT" inc) else self scheduled!(rm) todo!(DONE) endif
