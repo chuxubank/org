@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2025-12-31 Wed 20:10 .+2d>
+SCHEDULED: <2026-01-20 Tue 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-12-29 Mon 10:06]
+:LAST_REPEAT: [2026-01-18 Sun 12:54]
 :END:
+- State "DONE"       from "TODO"       [2026-01-18 Sun 12:54]
 - State "DONE"       from "TODO"       [2025-12-29 Mon 10:06]
 - State "DONE"       from "TODO"       [2025-12-07 Sun 23:59]
 - State "DONE"       from "TODO"       [2025-11-05 Wed 20:39]
@@ -319,11 +320,12 @@ SCHEDULED: <2026-02-11 Wed .+2m>
 - State "DONE"       from "TODO"       [2021-02-11 Thu 10:33]
 [2021-02-10 Wed 10:54]
 * TODO Vitamin
-SCHEDULED: <2025-12-29 Mon .+2d/5d>
+SCHEDULED: <2026-01-20 Tue .+2d/5d>
 :PROPERTIES:
-:LAST_REPEAT: [2025-12-27 Sat 23:59]
+:LAST_REPEAT: [2026-01-18 Sun 12:54]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2026-01-18 Sun 12:54]
 - State "DONE"       from "TODO"       [2025-12-27 Sat 23:59]
 - State "DONE"       from "TODO"       [2024-09-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2024-09-07 Sat 23:23]
@@ -903,11 +905,12 @@ SCHEDULED: <2026-01-12 Mon 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2026-01-17 Sat .+3d/5d>
+SCHEDULED: <2026-01-21 Wed .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-01-14 Wed 22:17]
+:LAST_REPEAT: [2026-01-18 Sun 12:55]
 :END:
+- State "DONE"       from "TODO"       [2026-01-18 Sun 12:55]
 - State "DONE"       from "TODO"       [2026-01-14 Wed 22:17]
 - State "DONE"       from "TODO"       [2026-01-04 Sun 09:26]
 - State "DONE"       from "TODO"       [2025-12-28 Sun 10:53]
@@ -1082,11 +1085,12 @@ SCHEDULED: <2026-02-28 Sat .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Care hair
-SCHEDULED: <2026-01-04 Sun 12:55 .+1d>
+SCHEDULED: <2026-01-19 Mon 12:55 .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2026-01-03 Sat 23:59]
+:LAST_REPEAT: [2026-01-18 Sun 12:54]
 :END:
+- State "DONE"       from "TODO"       [2026-01-18 Sun 12:54]
 - State "DONE"       from "TODO"       [2026-01-03 Sat 23:59]
 - State "DONE"       from "TODO"       [2025-12-28 Sun 13:24]
 - State "DONE"       from "TODO"       [2025-12-23 Tue 23:59]
@@ -1123,11 +1127,12 @@ SCHEDULED: <2026-01-11 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2026-01-15 Thu 14:10 .+1d>
+SCHEDULED: <2026-01-19 Mon 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-01-14 Wed 22:18]
+:LAST_REPEAT: [2026-01-18 Sun 12:54]
 :END:
+- State "DONE"       from "TODO"       [2026-01-18 Sun 12:54]
 - State "DONE"       from "TODO"       [2026-01-14 Wed 22:18]
 - State "DONE"       from "TODO"       [2026-01-08 Thu 10:33]
 - State "DONE"       from "TODO"       [2026-01-05 Mon 15:38]
@@ -1301,11 +1306,12 @@ DEADLINE: <2026-03-19 Thu> SCHEDULED: <2026-02-19 Thu .+1y>
 :END:
 - State "DONE"       from "TODO"       [2025-03-17 Mon 15:03]
 ** TODO Wash Car
-SCHEDULED: <2026-01-11 Sun .+2w>
+SCHEDULED: <2026-01-23 Fri .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2025-12-28 Sun 13:21]
+:LAST_REPEAT: [2026-01-09 Fri 12:55]
 :END:
+- State "DONE"       from "TODO"       [2026-01-09 Fri 12:55]
 - State "DONE"       from "TODO"       [2025-12-28 Sun 13:21]
 - State "DONE"       from "TODO"       [2025-11-29 Sat 14:56]
 - State "DONE"       from "TODO"       [2025-11-15 Sat 15:16]
