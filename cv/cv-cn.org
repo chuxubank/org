@@ -26,7 +26,7 @@
 :CV_ENV:   cventries
 :END:
 
-** Android 工程师
+** Android 工程师 ｜ Yale Home（全球智能门锁核心 App）
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2022-01-05 Wed>
@@ -34,7 +34,7 @@
 :LOCATION: 中国，上海
 :EMPLOYER: 亚萨合莱（中国）投资有限公司上海分公司
 :END:
-- *负责维护与演进 Yale Home（全球用户的智能家居核心 App）Android 客户端* ：
+- *负责维护与演进 Yale Home Android 客户端* ：
   面向高 MAU、跨区域用户的生产级应用，
   支持智能门锁等 IoT 设备的绑定、配置、蓝牙控制与远程管理，
   长期参与核心功能开发、架构演进与稳定性保障。
