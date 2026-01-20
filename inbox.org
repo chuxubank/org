@@ -269,7 +269,7 @@ SCHEDULED: <2025-06-20 Fri>
 * TODO Coin Bot
 https://github.com/freqtrade/freqtrade
 
-* STRT 准备面试
+* STRT 准备 Android 面试
 SCHEDULED: <2026-01-20 Tue>
 [[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
 [[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
@@ -277,6 +277,7 @@ SCHEDULED: <2026-01-20 Tue>
 [[https://github.com/jinguangyue/Android-Advanced-Interview][GitHub - jinguangyue/Android-Advanced-Interview: 只针对 Android 高级开发整理的面试题以及答案，我...]]
 [[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
 [[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
+[[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
 
 ** STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
