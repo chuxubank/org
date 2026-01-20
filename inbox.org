@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 让 ChatGPT 模拟面试，追问技术细节
+SCHEDULED: <2026-01-20 Tue>
+
 * TODO 考取 GDE
 SCHEDULED: <2026-01-07 Wed>
 https://developers.google.com/community/experts#how_do_i_apply
