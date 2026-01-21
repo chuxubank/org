@@ -2891,6 +2891,27 @@ SCHEDULED: <2025-12-11 Thu>
 CLOCK: [2025-12-17 Wed 15:50]--[2025-12-17 Wed 16:26] =>  0:36
 :END:
 
+** DONE Update CV
+SCHEDULED: <2025-12-11 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-01-21 Wed 12:22
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+*** DONE Update LinkedIn
+SCHEDULED: <2025-12-11 Thu>
+
+*** DONE Add CI/CD tech
+- Fastlane
+- Concourse
+
+*** DONE Add Ansible tech
+
+*** DONE Add use MCP/ACP AI agent tools
+
+*** KILL 把工作经历和项目分开
+职业技能方面通过话术，比如精通 Kotlin 语言，熟练运用 CI/CD 工程化工具
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
