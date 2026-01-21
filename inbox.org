@@ -291,6 +291,16 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 [[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
 [[https://app.mokahr.com/apply/tesla/68247?source=LinkedIn#/jobs?commitment%5B0%5D=全职&page=1&anchorName=jobsList&location%5B0%5D=上海市&keyword=App][Tesla 招聘]]
 
+** Android 内容
+View 自定义
+原生与非原生的区别
+Kotlin 和 Java 区别，相互调用
+Android 四大组件
+
+** 代码（算法）
+单链表反转
+四则运算
+
 * TODO 学习日语
 
 * TODO 国际驾照
