@@ -287,7 +287,8 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&weeks=8
 
 ** STRT 投递简历
-https://job.toutiao.com/referral/mobile/position?token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx
+[[https://jobs.bytedance.com/referral/pc/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx][字节跳动 内推]]
+[[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
 
 * TODO 学习日语
 
