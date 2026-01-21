@@ -26,7 +26,7 @@
 :CV_ENV:   cventries
 :END:
 
-** Android 工程师 ｜ Yale Home（全球智能门锁核心 App）
+** Android 工程师
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2022-01-05 Wed>
@@ -109,6 +109,13 @@
 - 使用 PersistentCookieJar 管理并持久化登录 Cookie；
   在使用过程中发现其 Cookie 校验逻辑与公司后端实现不一致，
   通过 Java 重写机制修复该问题，保障登录状态的稳定性。
+
+* 项目经历
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** Yale Home（全球智能门锁核心 App）
 
 * 教育经历
 :PROPERTIES:
