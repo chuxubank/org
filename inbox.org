@@ -289,6 +289,7 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 ** STRT 投递简历
 [[https://jobs.bytedance.com/referral/pc/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx][字节跳动 内推]]
 [[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
+[[https://app.mokahr.com/apply/tesla/68247?source=LinkedIn#/jobs?commitment%5B0%5D=全职&page=1&anchorName=jobsList&location%5B0%5D=上海市&keyword=App][Tesla 招聘]]
 
 * TODO 学习日语
 
