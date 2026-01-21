@@ -113,14 +113,21 @@
 ** Yale Home（全球智能门锁核心 App）
 :PROPERTIES:
 :CV_ENV:   cventry
-:FROM:     <2022-01-05 Wed>
+:FROM:     <2023-01-05 Thu>
 :TO:       至今
 :END:
-- *在用户核心路径中主导 Jetpack Compose 重构*: 设计可复用的状态驱动 UI 架构；自定义并封装视频播放与扫码组件，与 Compose 深度整合。
-  在 All-Hands Meeting 上向全球团队进行技术与产品展示。
 - *重构 BI 与埋点体系以适配 Compose 架构*: 实现页面 PV 等数据的极简化采集，通过异步上报，降低业务代码侵入性并提高性能。
 - *优化应用启动流程与初始化依赖结构*: 统一管理启动依赖，优化应用启动速度，梳理并解决历史遗留的初始化耦合问题；通过 UML 在代码库内沉淀启动流程文档及依赖图。
 - *对线上稳定性负责*: 持续排查并解决崩溃、ANR 与内存泄露问题，结合日志、监控与问题复现手段定位复杂线上问题，并通过代码与架构层面的优化降低问题复发率。
+
+** Yale China / Gateman China / 盼盼
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2022-01-05 Wed>
+:TO:       <2023-01-05 Thu>
+:END:
+- *在用户核心路径中主导 Jetpack Compose 重构*: 设计可复用的状态驱动 UI 架构；自定义并封装视频播放与扫码组件，与 Compose 深度整合。
+  在 All-Hands Meeting 上向全球团队进行技术与产品展示。
 
 * 教育经历
 :PROPERTIES:
