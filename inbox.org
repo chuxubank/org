@@ -280,6 +280,8 @@ SCHEDULED: <2026-01-20 Tue>
 [[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
 [[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
 [[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
+[[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
+[[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
 
 ** STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
@@ -296,6 +298,7 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 ** STRT 修改简历
 [[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
 - 添加机器人项目经历
+- 修改英文简历
 
 * TODO 学习日语
 
