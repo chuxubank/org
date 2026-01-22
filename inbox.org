@@ -283,6 +283,9 @@ SCHEDULED: <2026-01-20 Tue>
 [[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
 [[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
 
+内核态 用户态
+虚拟地址 硬件地址
+
 ** STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
 :LOGBOOK:
