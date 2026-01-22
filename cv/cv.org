@@ -13,12 +13,12 @@
 :PROPERTIES:
 :CV_ENV:   cvskills
 :END:
-- Mobile Development :: Android (Kotlin, Jetpack Compose); KMP; iOS (Swift, SwiftUI)
-- Programming Languages :: Kotlin (Coroutines, Flow), Java (RxJava), Swift; C/C++ (JNI), Rust; Python, Bash, Ruby; SQL
+- Mobile Development :: *Android (Kotlin, Jetpack Compose)*; KMP; iOS (Swift, SwiftUI)
+- Programming Languages :: *Kotlin (Coroutines, Flow), Java (RxJava)*, Swift; C/C++ (JNI), Rust; Python, Bash, Ruby; SQL
 - Architecture & Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger2/Koin), CI/CD (Concourse, Jenkins, Fastlane), Docker, Ansible
-- Networking & Communication :: Retrofit2, OpenAPI Codegen, Ktor (kRPC), GraphQL, MQTT, BLE
+- Networking & Communication :: Retrofit2, OpenAPI Codegen, Ktor (kRPC), MQTT, BLE, GraphQL
 - Tools :: Git, Emacs (Org-mode, \LaTeX), Vim, AI Agents (CLI Agent, MCP / ACP / Skills)
-- Languages :: English (CET-6, professional reading & communication), Mandarin Chinese (Level 2-B)
+- Languages :: English (CET-6, professional reading & communication), Mandarin Chinese (Native)
 
 * Work Experience
 :PROPERTIES:
@@ -39,8 +39,8 @@
   participated in cross-team technical discussions and design reviews to ensure stability and scalability in complex device environments.
 - *Driving migration of core modules and engineering infrastructure to modern tech stacks*:
   Led multiple key module and infrastructure upgrades while ensuring online stability;
-  migrated the device QR scanning module from Camera2 to CameraX, resolving focus and compatibility issues across devices, enabling region-based scanning, and significantly improving recognition success rate and user experience;
-  promoted DI and testing stack upgrades, completing migrations from Dagger to Hilt and JUnit4 to JUnit5;
+  migrated the device QR scanning module from =Camera2= to =CameraX=, resolving focus and compatibility issues across devices, enabling region-based scanning, and significantly improving recognition success rate and user experience;
+  promoted DI and testing stack upgrades, completing migrations from =Dagger= to =Hilt= and =JUnit4= to =JUnit5=;
   introduced parallel test execution, substantially reducing CI test duration and long-term maintenance cost.
 - *Introducing AI-assisted development practices and fostering technical knowledge sharing*:
   Proficient in AI-assisted development tools (CLI Agent, Cursor);
@@ -60,30 +60,12 @@
 :LOCATION: Shanghai, China
 :EMPLOYER: Shanghai Zhiyan Intelligent Technology Co., Ltd.
 :END:
-- *Developed a Java-based Android client for a library inventory system* using a C/S architecture;
-  communicated with RFID scanners via Bluetooth to enable fast inventory scanning;
-  implemented call-number sorting algorithms on the client side to improve inventory and verification efficiency;
-  optimized server deployment using Docker, accelerating device delivery.
-- *Maintained and refactored a dual-door RFID self-service borrowing/returning cabinet system*:
-  improved code structure and readability while preserving existing functionality, and fixed multiple stability issues;
-  added remote configuration modification and soft/hard reboot capabilities via a central control system, significantly improving operational efficiency.
-- *Developed a licensing and authorization control library in C++ (Crypto++)*,
-  built cross-platform using CMake to support authorization and validation across multiple terminal devices.
-- *Independently designed and implemented multiple terminal and business-oriented Android applications*:
-  covering face registration terminals, e-book reading applications, and self-service library terminals;
-  selected appropriate technology stacks and delivered solutions based on hardware constraints and business requirements.
-- *Led the architecture design and core implementation of a face registration terminal*:
-  implemented face detection and angle validation using Kotlin, CameraX, and Google ML Kit;
-  automatically captured and cropped face regions when conditions were met, binding them with card IDs obtained from HID devices;
-  enabled dual authentication modes (“card / face”) for access control systems.
-- *Responsible for core feature development and architecture implementation of an e-book reader application*:
-  built on Jetpack architecture components and modern Android stacks (Hilt, Coroutines, Flow, Room, etc.);
-  implemented online/offline reading, cache management, and asynchronous data handling;
-  supported waterfall-style book lists and provided admin-side bulk import of book content via XLSX / ZIP.
-- *Led Jetpack Compose adoption and hardware communication abstraction for self-service terminals*:
-  built terminal UIs using Jetpack Compose;
-  wrapped Android serial communication libraries with Kotlin coroutines;
-  supported USB serial as well as RS-232 / RS-485 communication.
+- Developed and maintained multiple production Android applications, including inventory management, self-service terminals, and content reading products.
+- Built client-side features for data acquisition and processing, integrating Bluetooth-based devices and optimizing data sorting and workflow efficiency.
+- Designed and implemented a face registration application using =Kotlin= and =CameraX=, delivering reliable capture and validation flows.
+- Implemented modern Android architecture with =Coroutines=, =Flow=, =Room=, and dependency injection to support scalable and maintainable codebases.
+- Introduced =Jetpack Compose= for UI development and improved UI consistency and development efficiency.
+- Improved system reliability and delivery efficiency through refactoring, stability fixes, and automated deployment practices.
 
 ** Android Development Intern
 :PROPERTIES:
@@ -165,10 +147,10 @@
 :TO:       <2019-07-01 Mon>
 :END:
 - GPA: 3.56 (Top 3% of major)
-- Shanghai Outstanding Graduate (2019);
-  Second-Class Scholarship for three consecutive years (2015–2018);
-  Science & Technology Innovation Scholarship (2017–2018);
-  Outstanding Student Award (2017–2018)
+- Shanghai Outstanding Graduate (2019)
+- Second-Class Scholarship for three consecutive years (2015–2018)
+- Science & Technology Innovation Scholarship (2017–2018)
+- Outstanding Student Award (2017–2018)
 
 * Honors & Awards
 :PROPERTIES:
