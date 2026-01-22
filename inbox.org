@@ -285,6 +285,7 @@ SCHEDULED: <2026-01-20 Tue>
 
 内核态 用户态
 虚拟地址 硬件地址
+ANR 的原理 怎么检测
 
 ** STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
