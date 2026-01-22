@@ -17,7 +17,7 @@
 - Programming Languages :: Kotlin (Coroutines, Flow), Java (RxJava), Swift; C/C++ (JNI), Rust; Python, Bash, Ruby; SQL
 - Architecture & Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger2/Koin), CI/CD (Concourse, Jenkins, Fastlane), Docker, Ansible
 - Networking & Communication :: Retrofit2, OpenAPI Codegen, Ktor (kRPC), GraphQL, MQTT, BLE
-- Tools :: Git, Emacs (Org-mode, \LaTeX), Vim, AI Agents (CLI Agent, MCP / ACP)
+- Tools :: Git, Emacs (Org-mode, \LaTeX), Vim, AI Agents (CLI Agent, MCP / ACP / Skills)
 - Languages :: English (CET-6, professional reading & communication), Mandarin Chinese (Level 2-B)
 
 * Work Experience
@@ -31,48 +31,26 @@
 :FROM:     <2022-01-05 Wed>
 :TO:       Present
 :LOCATION: Shanghai, China
-:EMPLOYER: ASSA ABLOY (China) Investment Co., Ltd., Shanghai Branch
+:EMPLOYER: ASSA ABLOY (China) Investment Co., Ltd. Shanghai Branch
 :END:
-- *Maintained and evolved Yale Home (a core smart home App with global users) Android client*:
-  A production-grade application serving high MAU and cross-regional users,
-  supporting smart lock binding, configuration, Bluetooth control, and remote management.
-  Long-term involvement in core feature development, architectural evolution, and stability assurance.
-- *Led Jetpack Compose refactoring in core Yale Home user journeys*:
-  Covered high-frequency scenarios such as smart lock onboarding, configuration, and settings;
-  designed reusable, state-driven UI architecture.
-  Built and encapsulated custom ExoPlayer components deeply integrated with Compose,
-  enabling gradual UI stack migration while maintaining production stability.
-  Presented technical and product outcomes at global All-Hands meetings.
-- *Redesigned BI and analytics system to adapt to Compose architecture*:
-  Built generic SideEffect utilities for Compose to enable lightweight data collection (e.g. page PV),
-  and used WorkManager for asynchronous reporting to reduce business logic intrusion.
-- *Migrated device QR scanning module from Camera2 to CameraX*:
-  Resolved focus and compatibility issues across diverse devices,
-  and implemented region-limited QR scanning combined with Compose UI,
-  significantly improving scan success rate and user experience.
-- *Drove dependency injection and testing framework upgrades*:
-  Led migration from Dagger to Hilt, simplifying dependency graphs while maintaining MVVM and Clean Architecture.
-  Upgraded test framework from JUnit4 to JUnit5 and enabled parallel test execution,
-  significantly reducing CI test execution time.
-- *Led multi-flavor build architecture governance*:
-  Consolidated multiple brand flavors into a unified codebase via modularization and custom build logic,
-  enabling flavor-specific dependency injection and build configuration.
-  Reduced APK size and maintenance complexity while improving build consistency.
-- *Optimized application startup and initialization dependencies*:
-  Leveraged App Startup to split initialization tasks and introduced Hilt into Initializers
-  for unified dependency management, improving cold start performance.
-  Resolved historical initialization coupling issues and documented startup flows and dependency graphs
-  using PlantUML within the codebase.
-- *Introduced AI-assisted development practices into engineering workflows*:
-  Proficient with AI development tools (CLI Agents, Cursor),
-  and applied MCP / ACP protocols in real projects for code generation, refactoring,
-  debugging, testing, review, and overall productivity improvement.
-- *Led Concourse CI pipeline refactoring and performance optimization*:
-  Rebuilt pipelines through parameterization, templating, and build tuning.
-  Implemented reusable packaging and release capabilities via Concourse Tasks,
-  introduced Task-level caching, and achieved ~2× build performance improvement under reduced resources.
-  Participated in the full release lifecycle from build to store deployment,
-  monitoring crash rates to guide release decisions.
+- *Responsible for maintenance and evolution of the Yale Home Android apps (domestic and international)*:
+  Production-grade applications serving high MAU and cross-region users;
+  supporting IoT devices such as smart locks and window openers, including device onboarding, configuration, BLE control, remote control, and OTA upgrades;
+  participated in cross-team technical discussions and design reviews to ensure stability and scalability in complex device environments.
+- *Driving migration of core modules and engineering infrastructure to modern tech stacks*:
+  Led multiple key module and infrastructure upgrades while ensuring online stability;
+  migrated the device QR scanning module from Camera2 to CameraX, resolving focus and compatibility issues across devices, enabling region-based scanning, and significantly improving recognition success rate and user experience;
+  promoted DI and testing stack upgrades, completing migrations from Dagger to Hilt and JUnit4 to JUnit5;
+  introduced parallel test execution, substantially reducing CI test duration and long-term maintenance cost.
+- *Introducing AI-assisted development practices and fostering technical knowledge sharing*:
+  Proficient in AI-assisted development tools (CLI Agent, Cursor);
+  applied MCP / ACP protocols in real projects for code generation, refactoring, debugging, testing, and review, improving overall engineering efficiency;
+  delivered multiple internal technical sharing sessions, attended developer conferences such as Google I/O, and completed MongoDB-related technical training to continuously track platform and infrastructure evolution.
+- *Responsible for Concourse CI refactoring and performance optimization*:
+  Refactored CI pipelines through parameterization, templating, and build tuning;
+  implemented reusable submodule packaging and release capabilities based on Concourse Tasks;
+  introduced Task-level caching, achieving approximately 2× build performance improvement under reduced build resources;
+  participated in the full release lifecycle from build and testing to store submission, making release decisions based on metrics such as crash rate.
 
 ** Android Software Engineer
 :PROPERTIES:
@@ -82,37 +60,30 @@
 :LOCATION: Shanghai, China
 :EMPLOYER: Shanghai Zhiyan Intelligent Technology Co., Ltd.
 :END:
-- *Developed a Java-based Android client for a library inventory system*:
-  Adopted a C/S architecture and communicated with RFID scanners via Bluetooth
-  to enable rapid inventory checking.
-  Implemented call-number sorting algorithms on the client side to improve verification efficiency.
-  Optimized server deployment using Docker, accelerating on-site delivery.
+- *Developed a Java-based Android client for a library inventory system* using a C/S architecture;
+  communicated with RFID scanners via Bluetooth to enable fast inventory scanning;
+  implemented call-number sorting algorithms on the client side to improve inventory and verification efficiency;
+  optimized server deployment using Docker, accelerating device delivery.
 - *Maintained and refactored a dual-door RFID self-service borrowing/returning cabinet system*:
-  Improved code structure and readability while preserving existing functionality,
-  and fixed multiple stability issues.
-  Added remote configuration and soft/hard reboot capabilities via a central control system,
-  significantly improving device operations efficiency.
-- *Developed an authorization control library in C++ (Crypto++)*:
-  Built cross-platform solutions using CMake to support authorization and validation
-  across multiple terminal devices.
+  improved code structure and readability while preserving existing functionality, and fixed multiple stability issues;
+  added remote configuration modification and soft/hard reboot capabilities via a central control system, significantly improving operational efficiency.
+- *Developed a licensing and authorization control library in C++ (Crypto++)*,
+  built cross-platform using CMake to support authorization and validation across multiple terminal devices.
 - *Independently designed and implemented multiple terminal and business-oriented Android applications*:
-  Covered scenarios such as face registration terminals, e-book readers,
-  and self-service borrowing/returning terminals,
-  selecting and delivering appropriate technical stacks based on hardware constraints and business requirements.
-- *Led architecture design and core feature implementation for face registration terminals*:
-  Used Kotlin, CameraX, and Google ML Kit to implement face detection and pose validation.
-  Automatically captured and cropped face images when conditions were met,
-  and bound them with card IDs from HID devices,
-  enabling dual authentication modes (card / face) for access control systems.
-- *Implemented core features and architecture for an e-book reader application*:
-  Based on modern Android stack (Jetpack components, Hilt, Coroutines, Flow, Room),
-  supporting online/offline reading, cache management, and asynchronous data handling.
-  Implemented waterfall-style book lists and enabled admin-side batch import
-  of book content via XLSX / ZIP packages.
-- *Applied Jetpack Compose and hardware communication abstraction in self-service terminals*:
-  Built terminal UIs using Jetpack Compose,
-  and wrapped Android serial communication libraries with Kotlin coroutines,
-  supporting USB serial as well as RS-232 / RS-485 communication.
+  covering face registration terminals, e-book reading applications, and self-service library terminals;
+  selected appropriate technology stacks and delivered solutions based on hardware constraints and business requirements.
+- *Led the architecture design and core implementation of a face registration terminal*:
+  implemented face detection and angle validation using Kotlin, CameraX, and Google ML Kit;
+  automatically captured and cropped face regions when conditions were met, binding them with card IDs obtained from HID devices;
+  enabled dual authentication modes (“card / face”) for access control systems.
+- *Responsible for core feature development and architecture implementation of an e-book reader application*:
+  built on Jetpack architecture components and modern Android stacks (Hilt, Coroutines, Flow, Room, etc.);
+  implemented online/offline reading, cache management, and asynchronous data handling;
+  supported waterfall-style book lists and provided admin-side bulk import of book content via XLSX / ZIP.
+- *Led Jetpack Compose adoption and hardware communication abstraction for self-service terminals*:
+  built terminal UIs using Jetpack Compose;
+  wrapped Android serial communication libraries with Kotlin coroutines;
+  supported USB serial as well as RS-232 / RS-485 communication.
 
 ** Android Development Intern
 :PROPERTIES:
@@ -120,14 +91,65 @@
 :FROM:     <2019-04-01 Mon>
 :TO:       <2019-08-01 Thu>
 :LOCATION: Shanghai, China
-:EMPLOYER: Shanghai CPI Intelligent Systems Co., Ltd.
+:EMPLOYER: Shanghai Xipai Intelligent Systems Co., Ltd.
 :END:
-- Developed NFC read/write utility applications,
-  using Retrofit for networking, Realm for local persistence,
-  and Android NFC APIs for tag interaction.
-- Used PersistentCookieJar for login cookie persistence;
-  identified inconsistencies between its validation logic and backend implementation,
-  and fixed the issue via Java override mechanisms to ensure stable login sessions.
+- Developed an NFC read/write utility application;
+  used Retrofit for networking, Realm for local persistence, and interacted with Android NFC modules to complete tag operations.
+- Used PersistentCookieJar to manage and persist login cookies;
+  identified inconsistencies between its cookie validation logic and the backend implementation;
+  resolved the issue via Java override mechanisms, ensuring stable login state.
+
+* Project Experience
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** Yale Home (Global Smart Lock Core App)
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2023-01-05 Thu>
+:TO:       Present
+:END:
+- *Led multi-flavor project architecture governance*:
+  consolidated multiple flavors into a unified codebase via modularization, componentization, and custom ~build-logic~;
+  enabled flavor-specific dependency injection and build configuration;
+  significantly reduced APK size, maintenance complexity, and improved build consistency.
+- *Participated in Design System implementation*:
+  built componentized Compose UI based on design specs;
+  optimized parameters to cover multiple variants and improve code reuse.
+- *Improved local build performance*:
+  benchmarked with =gradle-profiler=, analyzed =build-scan= results, identified slow dependencies and migrated them;
+  significantly improved build speed and developer productivity.
+- *Refactored BI and analytics to adapt to Compose architecture*:
+  implemented simplified page PV collection with asynchronous reporting;
+  reduced business code intrusion and improved performance.
+- *Optimized app startup flow and initialization dependency structure*:
+  unified startup dependency management, improved launch performance;
+  resolved historical initialization coupling issues;
+  documented startup flows and dependency graphs using UML within the codebase.
+- *Enhanced application security and compliance*:
+  encrypted sensitive fields in local databases;
+  stored critical data in the ~KeyStore~.
+- *Owned online stability*:
+  continuously investigated and resolved crashes, ANRs, and memory leaks;
+  combined logging, monitoring, and reproduction techniques to diagnose complex production issues;
+  reduced recurrence through code and architectural improvements.
+
+** Yale China / Gateman China / Panpan Security Door Apps
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2022-01-05 Wed>
+:TO:       <2023-01-05 Thu>
+:END:
+- *Led Jetpack Compose refactoring on critical user paths*:
+  designed reusable state-driven UI architecture;
+  implemented custom video playback and scanning components deeply integrated with Compose;
+  presented technical and product outcomes to the global team at All-Hands Meetings.
+- *Integrated domestic push notification frameworks*,
+  coordinated server-side testing and assisted with app store submissions across major Chinese app markets.
+- *Integrated BI frameworks and crash/ANR reporting SDKs*:
+  designed and implemented analytics methods using dynamic proxies and annotations;
+  assisted Product Owners with user behavior analysis.
 
 * Education
 :PROPERTIES:
@@ -142,23 +164,23 @@
 :FROM:     <2015-09-01 Tue>
 :TO:       <2019-07-01 Mon>
 :END:
-- GPA: 3.56 (Top 3% in major)
-- Shanghai Outstanding Graduate (2019)
-- Second-Class Scholarship (2015–2018, three consecutive years)
-- Science & Technology Innovation Scholarship (2017–2018)
-- Outstanding Student Award (2017–2018)
+- GPA: 3.56 (Top 3% of major)
+- Shanghai Outstanding Graduate (2019);
+  Second-Class Scholarship for three consecutive years (2015–2018);
+  Science & Technology Innovation Scholarship (2017–2018);
+  Outstanding Student Award (2017–2018)
 
 * Honors & Awards
 :PROPERTIES:
 :CV_ENV:   cvhonors
 :END:
 
-** Merit Award, Fighting Spirit Award
+** Honorable Mention, Perseverance Award
 :PROPERTIES:
 :CV_ENV:   cvhonor
 :DATE:     2018
 :LOCATION: Xiangtan, China
-:EVENT: CCPC China Collegiate Programming Contest Xiangtan Invitational
+:EVENT: CCPC China Collegiate Programming Contest – Xiangtan Invitational
 :END:
 
 ** Third Prize
@@ -169,12 +191,12 @@
 :EVENT: China Collegiate Computing Contest – Group Programming Ladder Tournament (National Finals, “Huashan Division”)
 :END:
 
-** Merit Award
+** Honorable Mention
 :PROPERTIES:
 :CV_ENV:   cvhonor
 :DATE:     2017
 :LOCATION: Qinhuangdao, China
-:EVENT: CCPC China Collegiate Programming Contest Qinhuangdao Regional
+:EVENT: CCPC China Collegiate Programming Contest – Qinhuangdao Regional
 :END:
 
 * Interests
@@ -182,7 +204,6 @@
 :CV_ENV:   cvskills
 :END:
 - Calligraphy :: Multiple national and Shanghai-level exhibition awards; Member of Shanghai Calligraphers Association
-- Music :: Rhythm guitarist in a band; rehearsal and live performance experience
-- Hackintosh :: Long-term maintenance of Hackintosh environments; deep knowledge of macOS hardware compatibility and system debugging
-- Home Assistant :: Built and maintained personal homelab with Home Assistant automation,
-  and supported company-level Home Assistant integration testing environments
+- Music :: Rhythm guitarist in a band; participated in rehearsals and live performances
+- Hackintosh :: Long-term maintenance of Hackintosh environments; familiar with macOS hardware compatibility and system debugging
+- Home Assistant :: Operates a personal homelab; conducts automation practices based on Home Assistant and supports the setup of HA-based integration test environments at work
