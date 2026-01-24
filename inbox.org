@@ -182,6 +182,9 @@ SCHEDULED: <2025-02-17 Mon>
 #+begin_src sh
   gpg --import --pinentry-mode=loopback ~/storage/downloads/secret-keys.pgp
 #+end_src
+
+** TODO 使用 chezmoi 实现所有 agent 的 MCP/Skills 管理
+
 ** IDEA 打印邮箱中的发票
 可以使用 mu4e 进行筛选（正则）
 然后定义 ~mu4e-attachment-dir~ 到对应的文件夹
