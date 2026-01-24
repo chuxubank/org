@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 让 ChatGPT 模拟面试，追问技术细节
+* DONE 让 ChatGPT 模拟面试，追问技术细节
 SCHEDULED: <2026-01-20 Tue>
 
 * TODO 考取 GDE
@@ -28,10 +28,10 @@ https://www.apexrentals.co.nz/zh-cn/reservations/location
 https://www.hertz.cn/rentacar/reservation/
 https://www.hertz.com/us/en
 
-** TODO 确定新西兰自驾线路
+** DONE 确定新西兰自驾线路
 SCHEDULED: <2025-12-30 Tue>
 
-** TODO 驾照翻译件
+* TODO 驾照翻译件
 SCHEDULED: <2026-01-16 Fri>
 https://www.nzta.govt.nz/driver-licences/new-residents-and-visitors/approved-translators
 
