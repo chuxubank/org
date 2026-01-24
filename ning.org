@@ -609,13 +609,13 @@ https://basic.smartedu.cn/training/2024sqpx
       student_data = []
 
       # Split the content by form feed character
-      student_entries = md_content.split("\f")
+      student_entries = md_content.split("2026.1")
 
       # Extract student names and their content
       for entry in student_entries:
           lines = entry.strip().split("\n")  # Split entry into lines
           if lines:
-              student_data.append(lines[1:-3])
+              student_data.append(lines[2:-3])
 
       # List all files in the destination directory
       existing_files = os.listdir(input_directory)
@@ -636,19 +636,19 @@ https://basic.smartedu.cn/training/2024sqpx
               matched_doc = Document(os.path.join(input_directory, matched_filename))
               first_table = matched_doc.tables[0]
               for index in range(8):
-                  first_table.cell(12, 3 + index).text = "优秀"
+                  first_table.cell(13, 3 + index).text = "优秀"
 
               for index in range(8):
-                  first_table.cell(12, 12 + index).text = "合格"
+                  first_table.cell(13, 12 + index).text = "合格"
 
               existing_table = matched_doc.tables[1]  # Access the first existing table
-              cell = existing_table.cell(1, 2)  # Specify the cell to insert content
+              cell = existing_table.cell(3, 1)  # Specify the cell to insert content
 
               # Append content lines from the student data to the cell
               for line in content_lines:
                   cell.text += line  # Append text to the cell
 
-              sign_cell = existing_table.cell(2, 2)
+              sign_cell = existing_table.cell(3, 2)
               sign_cell.text = "班主任（签名）　朱宁婕　　　　　　2026 年　1 月"
 
               # Save the updated document
