@@ -6,7 +6,11 @@
 ** TODO iapm 兑换
 SCHEDULED: <2026-03-01 Sun 10:00>
 ** TODO 学籍卡
-SCHEDULED: <2026-01-24 Sat ++6m>
+SCHEDULED: <2026-07-24 Fri ++6m>
+:PROPERTIES:
+:LAST_REPEAT: [2026-01-25 Sun 02:31]
+:END:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 02:31]
 ** DONE 名字贴 5 份
 SCHEDULED: <2025-08-25 Mon>
 
