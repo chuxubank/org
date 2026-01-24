@@ -615,8 +615,7 @@ https://basic.smartedu.cn/training/2024sqpx
       for entry in student_entries:
           lines = entry.strip().split("\n")  # Split entry into lines
           if lines:
-              student_data.append(lines[2:-1])
-              student_data.append(lines[-2:-3])
+              student_data.append(lines[2:-1] + lines[-2:-3])
 
       # Swap every two entries in student_data
       for i in range(0, len(student_data) - 1, 2):
