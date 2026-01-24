@@ -617,6 +617,10 @@ https://basic.smartedu.cn/training/2024sqpx
           if lines:
               student_data.append(lines[2:-3])
 
+      # Swap every two entries in student_data
+      for i in range(0, len(student_data) - 1, 2):
+          student_data[i], student_data[i + 1] = student_data[i + 1], student_data[i]
+
       # List all files in the destination directory
       existing_files = os.listdir(input_directory)
 
