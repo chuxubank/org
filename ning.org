@@ -593,7 +593,7 @@ https://basic.smartedu.cn/training/2024sqpx
   markitdown input.docx > input.md
 #+end_src
 
-#+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Documents/Ning/
+#+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Downloads/Ning/
   from docx import Document
   import os
 
