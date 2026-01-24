@@ -593,10 +593,10 @@ https://basic.smartedu.cn/training/2024sqpx
   markitdown input.docx > input.md
   uv venv
   source .venv/bin/activate
-  uv pip install docx
+  uv pip install python-docx
 #+end_src
 
-#+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Downloads/Ning/
+#+begin_src python :var tab=data-2024 :results none :python ~/Downloads/Ning/.venv/bin/python :dir ~/Downloads/Ning/
   from docx import Document
   import os
 
