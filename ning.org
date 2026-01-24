@@ -591,6 +591,7 @@ https://basic.smartedu.cn/training/2024sqpx
 
 #+begin_src sh :dir ~/Downloads/Ning/ :results silent
   markitdown input.docx > input.md
+  uv venv
 #+end_src
 
 #+begin_src python :var tab=data-2024 :results none :python ~/Documents/Ning/.venv/bin/python :dir ~/Downloads/Ning/
