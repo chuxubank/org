@@ -11,7 +11,7 @@ https://gist.githubusercontent.com/chuxubank/8d6cb46516a044772a21f343a8b9a857/ra
 **** Android :android:
 ***** [[https://android-developers.blogspot.com/atom.xml][Android Developers Blog]]
 ***** [[https://androidstudio.googleblog.com/feeds/posts/default][Android Studio Release Updates]] :ide:
-***** [[https://developer.android.com/feeds/androidx-release-notes.xml][AndroidX - Release Notes]] :androix:
+***** [[https://developer.android.com/feeds/androidx-release-notes.xml][AndroidX - Release Notes]]
 *** Emacs :emacs:
 **** [[https://emacstalk.codeberg.page/podcast/index.xml][EmacsTalk]] :podcast:
 *** UEFI :uefi:
@@ -53,8 +53,8 @@ https://en.wikipedia.org/wiki/Jason_Kottke
 *** [[https://www.appelsiini.net/index.xml][Mika Tuupola]] :apple:
 *** [[https://www.jasonpearson.dev/rss/][Jason Pearson]] :gradle:android:
 *** [[https://sinyalee.com/blog/][新的原野]]
-
 *** [[https://diygod.cc/feed][DIYGod]]
+*** [[https://blog.mmckenna.me/rss.xml][Matt McKenna's Blog]] :android:
 ** Science :science:
 *** [[http://feeds.nature.com/nature/rss/current][Nature]] :nature:
 *** NASA :nasa:
