@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 开机器人发票
+SCHEDULED: <2026-01-25 Sun>
+
 * DONE 让 ChatGPT 模拟面试，追问技术细节
 SCHEDULED: <2026-01-20 Tue>
 
