@@ -34,3 +34,17 @@
 
 #+RESULTS:
 [[file:awesomecv-cn.pdf]]
+
+* Export Framework :noexport:
+:PROPERTIES:
+:EXPORT_TITLE: Android 开发
+:END:
+#+include: cv-fw.org
+#+begin_src elisp :results file link :file "awesomecv-fw.pdf" :exports none
+  (let ((org-export-default-language "zh-CN"))
+    (org-export-to-file 'awesomecv "awesomecv-fw.tex" nil t)
+    (org-latex-compile "awesomecv-fw.tex"))
+#+end_src
+
+#+RESULTS:
+[[file:awesomecv-fw.pdf]]
