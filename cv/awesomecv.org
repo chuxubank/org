@@ -26,6 +26,9 @@
 :EXPORT_TITLE: Android 开发
 :END:
 #+include: cv-cn.org
+#+include: education-cn.org
+#+include: honors-cn.org
+#+include: interests-cn.org
 #+begin_src elisp :results file link :file "awesomecv-cn.pdf" :exports none
   (let ((org-export-default-language "zh-CN"))
     (org-export-to-file 'awesomecv "awesomecv-cn.tex" nil t)
@@ -35,11 +38,21 @@
 #+RESULTS:
 [[file:awesomecv-cn.pdf]]
 
+#+begin_src shell :results file link :file "~/Documents/Work/CV/褚旭_Android开发工程师.pdf" :exports none
+  cp awesomecv-cn.pdf ~/Documents/Work/CV/褚旭_Android开发工程师.pdf
+#+end_src
+
+#+RESULTS:
+[[file:~/Documents/Work/CV/褚旭_Android开发工程师.pdf]]
+
 * Export Framework :noexport:
 :PROPERTIES:
 :EXPORT_TITLE: Android 开发
 :END:
-#+include: cv-fw.org
+#+include: cv-fw-cn.org
+#+include: education-cn.org
+#+include: honors-cn.org
+#+include: interests-cn.org
 #+begin_src elisp :results file link :file "awesomecv-fw.pdf" :exports none
   (let ((org-export-default-language "zh-CN"))
     (org-export-to-file 'awesomecv "awesomecv-fw.tex" nil t)
@@ -48,3 +61,10 @@
 
 #+RESULTS:
 [[file:awesomecv-fw.pdf]]
+
+#+begin_src shell :results file link :file "~/Documents/Work/CV/褚旭_安卓开发工程师.pdf" :exports none
+  cp awesomecv-fw.pdf ~/Documents/Work/CV/褚旭_安卓开发工程师.pdf
+#+end_src
+
+#+RESULTS:
+[[file:~/Documents/Work/CV/褚旭_安卓开发工程师.pdf]]

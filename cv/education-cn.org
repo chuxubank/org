@@ -1,0 +1,16 @@
+* 教育经历
+:PROPERTIES:
+:CV_ENV:   cventries
+:END:
+
+** 软件工程
+:PROPERTIES:
+:CV_ENV:   cventry
+:LOCATION: 中国，上海
+:SCHOOL:   上海市第二工业大学
+:FROM:     <2015-09-01 Tue>
+:TO:       <2019-07-01 Mon>
+:END:
+
+- GPA: 3.56 （专业排名前 3%）
+- 2019 年度上海市优秀毕业生；2015‑2018 连续三年校二等奖学金；2017‑2018 学年科技创新奖学金；2017‑2018 学年优秀学生
