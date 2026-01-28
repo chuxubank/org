@@ -18,7 +18,7 @@
 - 性能与稳定性 :: App Startup, Perfetto, Android Studio Profiler, Logcat, systrace
 - 编程语言 :: Kotlin(Coroutine, Flow), Java(RxJava), Swift; C/C++(JNI), Rust; Python, Bash, Ruby; SQL
 - 架构与工程化 :: MVVM/MVI, Clean Architecture, DI(Hilt/Dagger2/Koin), CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
-- 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, BLE
+- 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, Streaming / SSE / WebSocket
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP / Skills)
 - 语言 :: 英语 CET-6(可进行技术阅读与工作交流), 普通话(二级乙等)
 
