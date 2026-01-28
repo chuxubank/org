@@ -134,6 +134,13 @@
 - *负责集成国内厂商推送框架* ，对接 Server 测试，协助上架国内各大应用市场。
 - *负责集成 BI 框架，异常及 ANR 上报 SDK* ，利用动态代理和注解设计并实现埋点方法，协助 PO 进行用户行为分析。
 
+** Cat Emacs (Emacs 编辑器配置框架)
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2021-07-06 Tue>
+:TO:       至今
+:END:
+
 * 教育经历
 :PROPERTIES:
 :CV_ENV:   cventries
