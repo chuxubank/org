@@ -18,7 +18,7 @@
 - 性能与稳定性 :: App Startup, Perfetto, Android Studio Profiler, Logcat, systrace
 - 编程语言 :: Kotlin(Coroutine, Flow), Java(RxJava), Swift; C/C++(JNI), Rust; Python, Bash, Ruby; SQL
 - 架构与工程化 :: MVVM/MVI, Clean Architecture, DI(Hilt/Dagger2/Koin), CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
-- 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, Streaming / SSE / WebSocket
+- 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, Streaming(SSE / WebSocket)
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP / Skills)
 - 语言 :: 英语 CET-6(可进行技术阅读与工作交流), 普通话(二级乙等)
 
@@ -134,34 +134,32 @@
 - *负责集成国内厂商推送框架* ，对接 Server 测试，协助上架国内各大应用市场。
 - *负责集成 BI 框架，异常及 ANR 上报 SDK* ，利用动态代理和注解设计并实现埋点方法，协助 PO 进行用户行为分析。
 
-** Cat Emacs — AI-Enhanced Developer Productivity Platform
+** Cat Emacs （AI 增强型开发者生产力平台）
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2021-07-06 Tue>
 :TO:       至今
 :END:
 - *构建并长期维护一套以 Emacs 为核心的工程化开发平台* ，
-  面向 Android、后端与算法等多语言项目，
+  面向前端，客户端，后端，算法等多语言项目，
   解决复杂工程下的效率、上下文切换与环境一致性问题。
 - *将 AI 辅助开发能力系统性引入真实工程流程* ，
-  深度整合 GitHub Copilot / Codeium / Aider，
+  深度整合 GitHub Copilot / Codeium / Aider ，
+  通过 ACP 操控 Codex, Claude Code 等 CLI 工具，
   在代码生成、重构、调试与测试等场景中实践 Agentic Coding，
   提升复杂任务处理效率与工程吞吐能力。
-- *探索并实践 Model Context Protocol (MCP)* ，
-  构建 AI 模型与本地编辑器、代码仓库、开发工具之间的标准化交互，
-  提升 AI 在本地复杂工程环境中的可控性与可扩展性。
-- *设计并实现 AI 驱动的 Git 工作流* ，
+- *设计并实现 AI 驱动的 Git 工作流* ：
   基于代码变更自动生成符合 Conventional Commits 规范的提交信息，
   降低代码审查成本并提升协作质量。
-- *采用高性能 lsp-proxy 架构* ，
+- *采用高性能 lsp-proxy 架构* ：
   解决大型项目中传统 LSP 客户端的响应与性能瓶颈，
   实现稳定、低延迟的智能补全体验。
-- *提供 Docker 化开发环境* ，
+- *提供 Docker 化开发环境* ：
   封装图形化 Emacs 及其复杂依赖，
   实现 macOS / Linux / Windows (WSLg) 下的一致、可复现开发体验。
 - *自研多款开发效率工具与 Emacs 插件* ，
   包括算法题自动化知识沉淀（LeetCode → Org-roam）、
-  Android Jetpack Compose 预览增强、
+  Android Jetpack Compose 预览增强、PDF 处理及标记、
   以及研发任务与 Git / Jira 的自动化集成。
 
 * 教育经历
