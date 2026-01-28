@@ -134,12 +134,35 @@
 - *负责集成国内厂商推送框架* ，对接 Server 测试，协助上架国内各大应用市场。
 - *负责集成 BI 框架，异常及 ANR 上报 SDK* ，利用动态代理和注解设计并实现埋点方法，协助 PO 进行用户行为分析。
 
-** Cat Emacs (Emacs 编辑器配置框架)
+** Cat Emacs — AI-Enhanced Developer Productivity Platform
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2021-07-06 Tue>
 :TO:       至今
 :END:
+- 构建并持续演进一套以 =Emacs= 为核心的高生产力开发平台，
+  覆盖 Android、后端、算法学习与知识管理等多类工程场景，
+  支撑长期高强度与高复杂度的个人与工程化开发需求。
+- 深度集成多模态 AI 编码能力（GitHub Copilot / Codeium / Aider），
+  结合 Agentic Coding 思想，实现复杂任务的自动化代码生成、
+  重构与问题修复，显著提升开发效率与问题处理能力。
+- 率先引入并实践 =Model Context Protocol (MCP)= ，
+  探索 AI 模型与本地编辑器工具之间的标准化交互方式，
+  提升 AI 辅助开发在真实工程环境中的可控性与可扩展性。
+- 设计并实现 AI 辅助 Git 工作流，
+  基于代码变更自动生成符合 =Conventional Commits= 规范的高质量提交信息，
+  改善代码审查体验并提升团队协作效率。
+- 采用高性能 =lsp-bridge= 架构，
+  解决传统 LSP 客户端在大型项目中的性能瓶颈，
+  实现毫秒级补全与流畅的编辑体验。
+- 维护并发布 Docker 化开发环境，
+  封装图形化 Emacs 及复杂依赖，
+  实现 macOS / Linux / Windows (WSLg) 下的一致、可复现开发体验。
+- 自研多款 Emacs 插件与工程工具，
+  覆盖算法学习自动化（LeetCode → Org-roam 知识库）、
+  Android Jetpack Compose 预览增强、
+  以及研发任务与 Git / Jira 的自动化集成。
+
 
 * 教育经历
 :PROPERTIES:
