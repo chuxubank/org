@@ -212,6 +212,14 @@
 :EVENT: CCPC 中国大学生程序设计竞赛湘潭邀请赛
 :END:
 
+** 二等奖
+:PROPERTIES:
+:CV_ENV:   cvhonor
+:DATE:     2018
+:LOCATION: 中国，上海
+:EVENT: 第九届蓝桥杯全国软件和信息技术专业人才大赛 — 个人赛省赛（软件类）
+:END:
+
 ** 三等奖
 :PROPERTIES:
 :CV_ENV:   cvhonor
