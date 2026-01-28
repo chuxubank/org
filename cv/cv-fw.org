@@ -14,25 +14,13 @@
 :PROPERTIES:
 :CV_ENV:   cvskills
 :END:
-- Android 系统与 Framework ::
-  熟悉 Android 应用与系统运行机制，
-  理解 Activity / Service / Broadcast / ContentProvider 生命周期，
-  对 AMS / WMS / Binder 通信模型有实际分析与排查经验；
-  熟悉应用启动流程、进程模型与跨进程通信。
-- 性能与稳定性分析 ::
-  具备系统化的 Android 性能与稳定性问题分析能力，
-  熟练使用 Perfetto、Android Studio Profiler、systrace、logcat 等工具，
-  能定位并解决卡顿、掉帧、ANR、内存泄漏、启动慢等问题。
-- 编程语言 ::
-  Kotlin（Coroutine / Flow），Java，
-  C++（JNI、CMake、跨平台构建），熟悉 Java / Native 混合开发模式。
-- Linux 与系统基础 ::
-  熟悉 Linux 用户态基础，
-  有文件系统、进程、线程、I/O 相关实践经验，
-  在 Android 终端场景下与底层硬件（USB / 串口 / 蓝牙）进行交互。
-- 工程与工具 ::
-  Git，Gradle，CI/CD（Concourse / Jenkins），Docker，
-  熟悉构建性能分析与工程稳定性治理。
+- 移动端开发 :: Android(Kotlin, Jetpack Compose, AMS, WMS, Binder); KMP
+- 性能与稳定性 :: App Startup, Perfetto, Android Studio Profiler, Logcat, systrace
+- 编程语言 :: Kotlin(Coroutine, Flow), Java(RxJava), C/C++(JNI), Rust; Python, Bash, Ruby; SQL
+- 架构与工程化 :: MVVM/MVI, Clean Architecture, DI(Hilt/Dagger2/Koin), CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
+- 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, Socket
+- 设备通信 :: BLE, USB Serial, RS-232 / RS-485
+- 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP / Skills)
 - 语言 :: 英语 CET-6(可进行技术阅读与工作交流), 普通话(二级乙等)
 
 * 工作经历
