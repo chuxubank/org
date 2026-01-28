@@ -19,7 +19,7 @@
 - 编程语言 :: Kotlin(Coroutine, Flow), Java(RxJava), C/C++(JNI), Rust; Python, Bash, Ruby; SQL
 - 架构与工程化 :: MVVM/MVI, Clean Architecture, DI(Hilt/Dagger2/Koin), CI/CD(Concourse, Jenkins, Fastlane), Docker, Ansible
 - 网络通讯 :: Retrofit2, OpenAPI Codegen, Ktor(kRPC), GraphQL, MQTT, Socket
-- 设备通信 :: BLE, USB Serial, RS-232 / RS-485
+- 设备通信 :: BLE, NFC, USB Serial, RS-232 / RS-485
 - 工具 :: Git, Emacs(Org-mode, \LaTeX), Vim, AI Agent(CLI Agent, MCP / ACP / Skills)
 - 语言 :: 英语 CET-6(可进行技术阅读与工作交流), 普通话(二级乙等)
 
@@ -41,24 +41,20 @@
   对应用崩溃、ANR、卡顿与启动性能负责；
   结合日志、线上监控与问题复现，
   从线程调度、进程模型与系统调用角度定位复杂问题。
-
 - *应用启动与系统初始化流程优化* ：
   系统性梳理 Application / ContentProvider / Service 初始化顺序，
   拆分非关键初始化任务并进行异步化处理，
   明显降低冷启动耗时并减少主线程阻塞风险；
   在排查过程中结合 Binder 调用链与系统日志分析启动瓶颈。
-
 - *性能与稳定性问题专项分析* ：
   使用 Perfetto、Android Studio Profiler 等工具，
   对卡顿、掉帧与 ANR 问题进行 Trace 分析，
   定位主线程阻塞、锁竞争与 I/O 延迟等根因，
   并通过代码与架构层面的调整降低问题复现率。
-
 - *涉及 Native / 系统交互的功能开发* ：
   在蓝牙（BLE）、USB 与设备通信场景中，
   处理 Android 与底层硬件交互带来的稳定性与性能问题；
   理解 Java / Native 边界，在需要时通过 JNI 与 C++ 模块协作完成需求。
-
 - *持续推进工程与系统级质量提升* ：
   在 CI 流水线中引入稳定性与性能相关指标，
   将构建、测试与发布流程中的问题前移，
@@ -76,12 +72,16 @@
   项目运行于定制 Android 系统与专用硬件环境，
   涉及 USB、串口（RS-232 / RS-485）、RFID 等外设通信，
   对系统稳定性与长期运行可靠性要求较高。
-
+- *基于 TCP Socket 实现图书馆 SIP2 协议通信* ：
+  在图书馆盘点与自助借还终端项目中，
+  基于 TCP Socket 实现 SIP2（Standard Interchange Protocol v2）协议，
+  完成与图书馆后台 ILS 系统的稳定通信；
+  负责协议报文拼装与解析、粘包拆包处理、超时控制与断线重连，
+  保障 RFID 盘点、自助借还等核心业务在长时间运行场景下的可靠性。
 - *处理终端场景下的性能与稳定性问题* ：
   排查并修复设备长时间运行过程中出现的卡顿、
   内存占用异常与通信不稳定问题，
   对问题进行日志分析与复现验证，确保终端可持续稳定运行。
-
 - *C++ 授权控制库开发与系统集成* ：
   使用 C++（Crypto++）实现核心授权逻辑，
   通过 JNI 与 Android 应用交互，
