@@ -134,6 +134,34 @@
 - *负责集成国内厂商推送框架* ，对接 Server 测试，协助上架国内各大应用市场。
 - *负责集成 BI 框架，异常及 ANR 上报 SDK* ，利用动态代理和注解设计并实现埋点方法，协助 PO 进行用户行为分析。
 
+** Cat Emacs （AI 增强型开发者生产力平台）
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2021-07-06 Tue>
+:TO:       至今
+:END:
+- *构建并长期维护一套以 Emacs 为核心的工程化开发平台* ，
+  面向 Android，后端，算法等多语言项目，
+  解决复杂工程下的效率、上下文切换与环境一致性问题。
+- *将 AI 辅助开发能力系统性引入真实工程流程* ，
+  深度整合 GitHub Copilot / Codeium / Aider ，
+  通过 ACP 操控 Codex, Claude Code 等 CLI 工具，
+  在代码生成、重构、调试与测试等场景中实践 Agentic Coding，
+  提升复杂任务处理效率与工程吞吐能力。
+- *设计并实现 AI 驱动的 Git 工作流* ：
+  基于代码变更自动生成符合 Conventional Commits 规范的提交信息，
+  降低代码审查成本并提升协作质量。
+- *采用高性能 lsp-proxy 架构* ：
+  解决大型项目中传统 LSP 客户端的响应与性能瓶颈，
+  实现稳定、低延迟的智能补全体验。
+- *提供 Docker 化开发环境* ：
+  封装图形化 Emacs 及其复杂依赖，
+  实现 macOS / Linux / Windows (WSLg) 下的一致、可复现开发体验。
+- *自研多款开发效率工具与 Emacs 插件* ，
+  包括算法题自动化知识沉淀（LeetCode → Org-roam）、
+  Android Jetpack Compose 预览增强、PDF 处理及标记、
+  以及研发任务与 Git / Jira 的自动化集成。
+
 ** 机器人终端系统二次开发
 :PROPERTIES:
 :CV_ENV:   cventry
@@ -167,34 +195,6 @@
   关注资源占用、I/O 阻塞与通信异常带来的系统风险，
   通过合理的线程与通信模型设计，
   提升机器人系统的长期运行可靠性。
-
-** Cat Emacs （AI 增强型开发者生产力平台）
-:PROPERTIES:
-:CV_ENV:   cventry
-:FROM:     <2021-07-06 Tue>
-:TO:       至今
-:END:
-- *构建并长期维护一套以 Emacs 为核心的工程化开发平台* ，
-  面向前端，客户端，后端，算法等多语言项目，
-  解决复杂工程下的效率、上下文切换与环境一致性问题。
-- *将 AI 辅助开发能力系统性引入真实工程流程* ，
-  深度整合 GitHub Copilot / Codeium / Aider ，
-  通过 ACP 操控 Codex, Claude Code 等 CLI 工具，
-  在代码生成、重构、调试与测试等场景中实践 Agentic Coding，
-  提升复杂任务处理效率与工程吞吐能力。
-- *设计并实现 AI 驱动的 Git 工作流* ：
-  基于代码变更自动生成符合 Conventional Commits 规范的提交信息，
-  降低代码审查成本并提升协作质量。
-- *采用高性能 lsp-proxy 架构* ：
-  解决大型项目中传统 LSP 客户端的响应与性能瓶颈，
-  实现稳定、低延迟的智能补全体验。
-- *提供 Docker 化开发环境* ：
-  封装图形化 Emacs 及其复杂依赖，
-  实现 macOS / Linux / Windows (WSLg) 下的一致、可复现开发体验。
-- *自研多款开发效率工具与 Emacs 插件* ，
-  包括算法题自动化知识沉淀（LeetCode → Org-roam）、
-  Android Jetpack Compose 预览增强、PDF 处理及标记、
-  以及研发任务与 Git / Jira 的自动化集成。
 
 * 教育经历
 :PROPERTIES:
