@@ -1,6 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 书法
+SCHEDULED: <2026-01-30 Fri>
+专业敬业
+热情热爱
+求医者：李爱国
+
 * TODO 开机器人发票
 SCHEDULED: <2026-01-25 Sun>
 
