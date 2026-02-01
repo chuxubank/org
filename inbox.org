@@ -54,7 +54,7 @@ CLOCK: [2025-12-11 Thu 08:26]--[2025-12-11 Thu 08:43] =>  0:17
 :END:
 
 * TODO Homelab in 小窝
-SCHEDULED: <2025-12-01 Mon>
+SCHEDULED: <2026-03-01 Sun>
 
 * TODO AI 根据 ISO 生成 Kotlin 语言的高频、超高频解码库
 
