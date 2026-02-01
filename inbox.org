@@ -39,7 +39,7 @@ SCHEDULED: <2025-12-30 Tue>
 
 * TODO 打印签证信息
 
-* TODO 驾照翻译件
+* DONE 驾照翻译件
 SCHEDULED: <2026-01-16 Fri>
 https://www.nzta.govt.nz/driver-licences/new-residents-and-visitors/approved-translators
 
