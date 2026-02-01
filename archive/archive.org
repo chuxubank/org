@@ -2912,6 +2912,40 @@ SCHEDULED: <2025-12-11 Thu>
 
 *** KILL 把工作经历和项目分开
 职业技能方面通过话术，比如精通 Kotlin 语言，熟练运用 CI/CD 工程化工具
+
+** KILL 修复 kotlin-ts-mode 在 org mode 中的高亮
+SCHEDULED: <2025-12-09 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-02-02 Mon 00:47
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+:LOGBOOK:
+CLOCK: [2025-12-11 Thu 08:26]--[2025-12-11 Thu 08:43] =>  0:17
+:END:
+
+** DONE 书法
+SCHEDULED: <2026-01-30 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-02-02 Mon 00:48
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+专业敬业
+热情热爱
+求医者：李爱国
+
+** DONE 让 ChatGPT 模拟面试，追问技术细节
+SCHEDULED: <2026-01-20 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-02-02 Mon 00:48
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
