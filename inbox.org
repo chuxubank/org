@@ -1,23 +1,14 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 开澳元信用卡
-SCHEDULED: <2026-02-02 Mon>
+* TODO 开全币种信用卡
+SCHEDULED: <2026-03-01 Sun>
 
 * TODO 询问江苏银行公积金
 SCHEDULED: <2026-02-02 Mon>
 
-* TODO 书法
-SCHEDULED: <2026-01-30 Fri>
-专业敬业
-热情热爱
-求医者：李爱国
-
 * TODO 开机器人发票
 SCHEDULED: <2026-01-25 Sun>
-
-* DONE 让 ChatGPT 模拟面试，追问技术细节
-SCHEDULED: <2026-01-20 Tue>
 
 * TODO 考取 GDE
 SCHEDULED: <2026-01-07 Wed>
@@ -46,18 +37,14 @@ https://www.hertz.com/us/en
 ** DONE 确定新西兰自驾线路
 SCHEDULED: <2025-12-30 Tue>
 
+* TODO 打印签证信息
+
 * TODO 驾照翻译件
 SCHEDULED: <2026-01-16 Fri>
 https://www.nzta.govt.nz/driver-licences/new-residents-and-visitors/approved-translators
 
 * TODO Google AI Pro
 https://one.google.com/ai-nye
-
-* KILL 修复 kotlin-ts-mode 在 org mode 中的高亮
-SCHEDULED: <2025-12-09 Tue>
-:LOGBOOK:
-CLOCK: [2025-12-11 Thu 08:26]--[2025-12-11 Thu 08:43] =>  0:17
-:END:
 
 * TODO Homelab in 小窝
 SCHEDULED: <2026-03-01 Sun>
