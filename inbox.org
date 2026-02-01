@@ -23,33 +23,16 @@ https://developers.google.com/static/community/experts/assets/GDE_Program_Applic
 - https://g.dev/qiaoyuang
 
 * TODO 预订澳新机票酒店
-SCHEDULED: <2025-12-30 Tue>
+SCHEDULED: <2026-02-02 Mon>
 
-** DONE 新西兰租车
-SCHEDULED: <2025-12-30 Tue>
-[[https://www.xiaohongshu.com/explore/6915584e0000000005000d33?xsec_token=ABwRRgJUt6OUe1P-x05DgTgI4mruWpneEZFXg9x8qUiuc=&xsec_source=pc_search&source=unknown][新西兰租车小窍门，省了1000+ - 小红书]]
-https://www.ezicarrental.co.nz
-https://www.avis.com/en/home
-https://www.apexrentals.co.nz/zh-cn/reservations/location
-https://www.hertz.cn/rentacar/reservation/
-https://www.hertz.com/us/en
-
-** DONE 确定新西兰自驾线路
-SCHEDULED: <2025-12-30 Tue>
-
-* TODO 打印签证信息
-
-* DONE 驾照翻译件
-SCHEDULED: <2026-01-16 Fri>
-https://www.nzta.govt.nz/driver-licences/new-residents-and-visitors/approved-translators
-
-* TODO Google AI Pro
-https://one.google.com/ai-nye
+* TODO 确定新西兰自驾线路
+SCHEDULED: <2026-02-02 Mon>
 
 * TODO Homelab in 小窝
 SCHEDULED: <2026-03-01 Sun>
 
 * TODO AI 根据 ISO 生成 Kotlin 语言的高频、超高频解码库
+SCHEDULED: <2026-03-01 Sun>
 
 * TODO 跨所有客户端的书签同步工具
 SCHEDULED: <2025-11-25 Tue>
@@ -58,28 +41,6 @@ SCHEDULED: <2025-11-25 Tue>
 
 ** TODO 用 AI 创建根据文件修改 Safari 的浏览器插件
 SCHEDULED: <2025-12-09 Tue>
-
-* DONE 分体键盘键位优化
-SCHEDULED: <2025-11-06 Thu>
-https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifiers_really_the_best_options/
-https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
-https://github.com/the-via/qmk_userspace_via/blob/main/keyboards/meetlab/kalice/keymaps/via/keymap.c
-
-https://getreuer.info/posts/keyboards/alt-layouts/index.html
-https://getreuer.info/posts/keyboards/symbol-layer/index.html
-https://filiphalas.com/my-journey-zsa-voyager-miryoku-colemak-dh
-
-** DONE Add new shield for Silakka54
-SCHEDULED: <2025-11-12 Wed>
-https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
-https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
-
-** KILL Tools
-https://yal-tools.github.io/vial-to-keymap-drawer/
-https://keymap-drawer.streamlit.app/
-https://nickcoutsos.github.io/keymap-layout-tools/
-https://config.qmk.fm/#/chalice/LAYOUT_default
-https://usevia.app/design
 
 * TODO Crypto Automation
 SCHEDULED: <2025-11-12 Wed>
@@ -112,7 +73,7 @@ https://github.com/duo/matrix-wechat
 * TODO 旅行路书
 SCHEDULED: <2025-08-07 Thu>
 
-* TODO Use Apple Container
+* TODO Use Apple Container for OpenWrt
 
 * TODO 迁移照片
 SCHEDULED: <2025-06-12 Thu>
@@ -169,7 +130,6 @@ SCHEDULED: <2025-09-01 Mon>
 CLOCK: [2025-11-04 Tue 09:15]--[2025-11-04 Tue 11:40] =>  2:25
 :END:
 
-* DONE 汇丰(HKBC) 入金
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
 https://kaihao.io/2018/mdict-to-macos-dictionary/
@@ -215,12 +175,6 @@ SCHEDULED: <2025-02-17 Mon>
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 
-* STRT 学习 Rust
-SCHEDULED: <2025-07-27 Sun>
-https://github.com/google/comprehensive-rust
-
-** TODO 制作 Rust 命令行工具并开源
-
 * TODO 重构 Ansible
 SCHEDULED: <2025-06-03 Tue>
 :PROPERTIES:
@@ -258,9 +212,6 @@ SCHEDULED: <2025-07-26 Sat>
 - Note taken on [2024-04-05 Fri 06:52] \\
   https://github.com/lizongying/my-tv
 
-* DONE 修复地下室网关 M1S
-SCHEDULED: <2025-06-20 Fri>
-
 * TODO 基于 TrueNAS 搭建 nextCloud 私有云
 :PROPERTIES:
 :TRIGGER:  next-sibling scheduled!("++0d")
@@ -273,6 +224,21 @@ SCHEDULED: <2025-06-20 Fri>
 
 * TODO Coin Bot
 https://github.com/freqtrade/freqtrade
+
+* TODO 学习日语
+
+* TODO 国际驾照
+
+* TODO 学习拍照
+[[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
+Fuji Classic Negative
+https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+
+* STRT 学习 Rust
+SCHEDULED: <2025-07-27 Sun>
+https://github.com/google/comprehensive-rust
+
+** TODO 制作 Rust 命令行工具并开源
 
 * STRT 准备 Android 面试
 SCHEDULED: <2026-01-20 Tue>
@@ -306,12 +272,25 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 - 添加机器人项目经历
 - 修改英文简历
 
-* TODO 学习日语
+* DONE 分体键盘键位优化
+SCHEDULED: <2025-11-06 Thu>
+https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifiers_really_the_best_options/
+https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
+https://github.com/the-via/qmk_userspace_via/blob/main/keyboards/meetlab/kalice/keymaps/via/keymap.c
 
-* TODO 国际驾照
+https://getreuer.info/posts/keyboards/alt-layouts/index.html
+https://getreuer.info/posts/keyboards/symbol-layer/index.html
+https://filiphalas.com/my-journey-zsa-voyager-miryoku-colemak-dh
 
-* TODO 学习拍照
-[[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
-Fuji Classic Negative
-https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+** DONE Add new shield for Silakka54
+SCHEDULED: <2025-11-12 Wed>
+https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
+https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
+
+** KILL Tools
+https://yal-tools.github.io/vial-to-keymap-drawer/
+https://keymap-drawer.streamlit.app/
+https://nickcoutsos.github.io/keymap-layout-tools/
+https://config.qmk.fm/#/chalice/LAYOUT_default
+https://usevia.app/design
 
