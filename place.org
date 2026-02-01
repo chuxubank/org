@@ -211,19 +211,32 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 SCHEDULED: <2026-02-04 Wed 13:35> DEADLINE: <2026-02-09 Mon 09:35>
 [[geo:-33.869844,151.208285;z=14][Sydney]]
 
+**** Hilton Sydney
+SCHEDULED: <2026-02-04 Wed 15:00> DEADLINE: <2026-02-05 Thu 11:00>
+
+**** Hyatt Regency Sydney
+SCHEDULED: <2026-02-05 Thu 15:00> DEADLINE: <2026-02-09 Mon 11:00>
+
 ** TOGO 新西兰
 https://maps.app.goo.gl/VRVwhCuYPqWsVTdt6
 
 *** 皇后镇
 SCHEDULED: <2026-02-09 Mon 14:35> DEADLINE: <2026-02-10 Tue>
 [[geo:-45.032192,168.661000;z=14][Queenstown]]
+
 **** 湖区
 **** Arrowtown
 **** Glenorchy
 
+**** Holiday Inn
+SCHEDULED: <2026-02-09 Mon 15:00> DEADLINE: <2026-02-10 Tue 11:00>
+
 *** 瓦纳卡
 SCHEDULED: <2026-02-10 Tue> DEADLINE: <2026-02-11 Wed>
 [[geo:-44.694169,169.136464;z=13][Peninsula Bay, Wānaka, Queenstown-Lakes District, Otago, 9305, New Zealand, -44.69° 169.14° Z13]]
+
+**** Edgewater Hotel
+SCHEDULED: <2026-02-10 Tue 15:00> DEADLINE: <2026-02-11 Wed 10:30>
 
 *** 库克山
 SCHEDULED: <2026-02-11 Wed> DEADLINE: <2026-02-11 Wed>
