@@ -213,7 +213,7 @@ SCHEDULED: <2026-02-04 Wed 13:35> DEADLINE: <2026-02-09 Mon 09:35>
 
 ** TOGO 新西兰
 *** 皇后镇
-SCHEDULED: <2026-02-09 Mon> DEADLINE: <2026-02-12 Thu>
+SCHEDULED: <2026-02-09 Mon 14:35> DEADLINE: <2026-02-12 Thu>
 [[geo:-45.032192,168.661000;z=14][Queenstown]]
 - 湖区 / 缆车 / 市区
 - Arrowtown
