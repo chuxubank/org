@@ -254,6 +254,9 @@ SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat 09:00>
 - 雅芳河
 - 还车准备
 
+**** Commodore Hotel Christchurch Airport
+SCHEDULED: <2026-02-13 Fri 14:00> DEADLINE: <2026-02-14 Sat 12:00>
+
 *** 奥克兰
 SCHEDULED: <2026-02-14 Sat 10:20> DEADLINE: <2026-02-16 Mon 22:00>
 - 市区散步 / 购物
