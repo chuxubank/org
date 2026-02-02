@@ -248,6 +248,9 @@ SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 - 湖畔散步
 - 夜晚观星（天气允许）
 
+**** Stellar Apartment
+SCHEDULED: <2026-02-12 Thu 15:00> DEADLINE: <2026-02-13 Fri 10:00>
+
 *** 基督城
 SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat 09:00>
 - 植物园
