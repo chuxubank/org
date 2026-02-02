@@ -261,6 +261,9 @@ SCHEDULED: <2026-02-13 Fri 14:00> DEADLINE: <2026-02-14 Sat 12:00>
 SCHEDULED: <2026-02-14 Sat 10:20> DEADLINE: <2026-02-16 Mon 22:00>
 - 市区散步 / 购物
 
+**** Horizon by SkyCity
+SCHEDULED: <2026-02-14 Sat 15:00> DEADLINE: <2026-02-16 Mon 11:00>
+
 *** 驾车
 **** 交规
 新西兰自驾交规十记
