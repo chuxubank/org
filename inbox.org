@@ -52,6 +52,10 @@ https://axiom.trade
 SCHEDULED: <2025-09-25 Thu>
 https://github.com/zepinglee/zotero-translators-zh
 
+* TODO 备份手机中同步的电脑照片后删除
+1. 用电脑重新同步一个空白的照片文件夹
+2. 在 iPhone 上打开 iCloud 照片功能会自动删除所有从电脑同步的照片。
+
 * TODO 更新 HomeAssistant
 SCHEDULED: <2025-09-05 Fri>
 
