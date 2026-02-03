@@ -242,14 +242,14 @@ SCHEDULED: <2026-02-11 Wed> DEADLINE: <2026-02-12 Thu>
 **** Jillies Unit On Temple @ Twizel Holiday Homes
 SCHEDULED: <2026-02-11 Wed 15:00> DEADLINE: <2026-02-12 Thu 10:00>
 
-*** 库克山
+*** 库克山 Mount Cook
 SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-12 Thu>
 [[geo:-43.604873,170.241074;z=11][Mackenzie District, Canterbury, New Zealand, -43.60° 170.24° Z11]]
 - [ ] Hooker Valley Track
 - [ ] 冰川 / 雪山景观
   [[https://fareharbor.com/embeds/book/inflite-mtcook/items/107890/calendar/2026/02/?full-items=yes&back=https://infliteexperiences.co.nz/tours/the-ultimate-alpine-experience-399/&flow=100123][FareHarbor]]
 
-*** 特卡波
+*** 特卡波 Tekapo
 SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 - 湖畔散步
 - 夜晚观星（天气允许）
@@ -257,7 +257,7 @@ SCHEDULED: <2026-02-12 Thu> DEADLINE: <2026-02-13 Fri>
 **** Stellar Apartment
 SCHEDULED: <2026-02-12 Thu 15:00> DEADLINE: <2026-02-13 Fri 10:00>
 
-*** 基督城
+*** 基督城 Christchurch
 SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat 09:00>
 - 植物园
 - 雅芳河
@@ -266,7 +266,7 @@ SCHEDULED: <2026-02-13 Fri> DEADLINE: <2026-02-14 Sat 09:00>
 **** Commodore Hotel Christchurch Airport
 SCHEDULED: <2026-02-13 Fri 14:00> DEADLINE: <2026-02-14 Sat 12:00>
 
-*** 奥克兰
+*** 奥克兰 Auckland
 SCHEDULED: <2026-02-14 Sat 10:20> DEADLINE: <2026-02-16 Mon 22:00>
 - 市区散步 / 购物
 
