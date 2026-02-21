@@ -205,7 +205,7 @@ SCHEDULED: <2025-07-08 Tue 14:45>
 *** TOGO 那不勒斯
 **** TOGO L'Antica Pizzeria Da Michele
 
-** TOGO 澳大利亚
+** BEEN 澳大利亚
 
 *** 悉尼
 SCHEDULED: <2026-02-04 Wed 13:35> DEADLINE: <2026-02-09 Mon 09:35>
@@ -217,7 +217,7 @@ SCHEDULED: <2026-02-04 Wed 15:00> DEADLINE: <2026-02-05 Thu 11:00>
 **** Hyatt Regency Sydney
 SCHEDULED: <2026-02-05 Thu 15:00> DEADLINE: <2026-02-09 Mon 11:00>
 
-** TOGO 新西兰
+** BEEN 新西兰
 https://maps.app.goo.gl/VRVwhCuYPqWsVTdt6
 
 *** 皇后镇 Qweenstown
