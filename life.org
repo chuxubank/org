@@ -1308,7 +1308,7 @@ SCHEDULED: <2031-03-01 Sat .+2y> DEADLINE: <2031-04-01 Tue .+2y>
 :END:
 - State "DONE"       from "TODO"       [2024-07-18 Thu 18:40]
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
-** TODO 车辆续保
+** STRT 车辆续保
 DEADLINE: <2026-03-19 Thu> SCHEDULED: <2026-02-19 Thu .+1y>
 :PROPERTIES:
 :LAST_REPEAT: [2025-03-17 Mon 15:03]
