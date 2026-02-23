@@ -1,10 +1,13 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 朱老师开东方航空发票
+SCHEDULED: <2026-02-23 Mon>
+
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
 
-* TODO 询问江苏银行公积金
+* STRT 询问江苏银行公积金
 SCHEDULED: <2026-02-02 Mon>
 
 * TODO 开机器人发票
