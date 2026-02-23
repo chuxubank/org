@@ -22,12 +22,6 @@ https://developers.google.com/static/community/experts/assets/GDE_Program_Applic
 - https://g.dev/shixin
 - https://g.dev/qiaoyuang
 
-* TODO 预订澳新机票酒店
-SCHEDULED: <2026-02-02 Mon>
-
-* TODO 确定新西兰自驾线路
-SCHEDULED: <2026-02-02 Mon>
-
 * TODO Homelab in 小窝
 SCHEDULED: <2026-03-01 Sun>
 
@@ -47,10 +41,6 @@ SCHEDULED: <2025-11-12 Wed>
 https://www.freqtrade.io/en/stable/
 https://github.com/ccxt/ccxt
 https://axiom.trade
-
-* TODO Relocate Zotero translators
-SCHEDULED: <2025-09-25 Thu>
-https://github.com/zepinglee/zotero-translators-zh
 
 * TODO 备份手机中同步的电脑照片后删除
 1. 用电脑重新同步一个空白的照片文件夹
