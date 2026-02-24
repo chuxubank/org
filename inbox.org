@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 李女士随申办退公积金担保费
+* DONE 李女士随申办退公积金担保费
 SCHEDULED: <2026-02-24 Tue>
 
 * DONE 朱老师开东方航空发票
@@ -10,7 +10,7 @@ SCHEDULED: <2026-02-23 Mon>
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
 
-* STRT 询问江苏银行公积金
+* DONE 询问江苏银行公积金
 SCHEDULED: <2026-02-02 Mon>
 
 * TODO 开机器人发票
