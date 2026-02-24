@@ -4,7 +4,7 @@
 * TODO 李女士随申办退公积金担保费
 SCHEDULED: <2026-02-24 Tue>
 
-* STRT 朱老师开东方航空发票
+* DONE 朱老师开东方航空发票
 SCHEDULED: <2026-02-23 Mon>
 
 * TODO 开全币种信用卡
