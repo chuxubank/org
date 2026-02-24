@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 朱老师开东方航空发票
+* STRT 朱老师开东方航空发票
 SCHEDULED: <2026-02-23 Mon>
 
 * TODO 开全币种信用卡
