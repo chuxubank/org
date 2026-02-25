@@ -169,17 +169,6 @@ Available TTS voices:
 {{tts zh-TW voices=Apple_美嘉:Front}}
 ** [2023-03-02 Thu] Merlin AsusWRT
 https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/
-** [2022-07-05 Tue] Xray log config
-
-[[file:/usr/local/Cellar/xray/1.5.5/homebrew.mxcl.xray.plist::<key>RunAtLoad</key>]]
-
-#+begin_src plist
-  	<key>StandardErrorPath</key>
-	<string>/usr/local/var/log/xray/error.log</string>
-	<key>StandardOutPath</key>
-	<string>/usr/local/var/log/xray/access.log</string>
-#+end_src
-
 ** [2021-12-21 Tue] 面试问题
 - 对 MVVM 的理解，activity 属于哪一部分？
 - Java switch 和 Kotlin when 的区别
