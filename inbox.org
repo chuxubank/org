@@ -240,7 +240,7 @@ https://github.com/google/comprehensive-rust
 
 ** TODO 制作 Rust 命令行工具并开源
 
-* STRT 准备 Android 面试
+* KILL 准备 Android 面试
 SCHEDULED: <2026-01-20 Tue>
 [[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
 [[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
@@ -254,20 +254,20 @@ SCHEDULED: <2026-01-20 Tue>
 [[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
 [[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
 
-** STRT 刷算法题
+* STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
 :LOGBOOK:
 CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 :END:
 [[https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&order=difficulty&weeks=8][Grind 75 - A better Blind 75 you can customize, by the author of Blind 75]]
 
-** STRT 投递简历
+** DONE 投递简历
 [[https://jobs.bytedance.com/referral/pc/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx][字节跳动 内推]]
 [[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
 [[https://app.mokahr.com/apply/tesla/68247?source=LinkedIn#/jobs?commitment%5B0%5D=全职&page=1&anchorName=jobsList&location%5B0%5D=上海市&keyword=App][Tesla 招聘]]
 [[https://www.accenture.com/cn-en/careers/jobdetails?id=13846044_en&src=LINKEDINJP#accordion-91a1f10331-item-aba13a9c6c][Android Developer Accenture]]
 
-** STRT 修改简历
+** DONE 修改简历
 [[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
 - 添加机器人项目经历
 - 修改英文简历
