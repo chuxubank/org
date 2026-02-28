@@ -622,11 +622,12 @@ SCHEDULED: <2025-12-29 Mon .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2026-02-26 Thu 07:15 .+4d/6d>
+SCHEDULED: <2026-03-04 Wed 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-02-22 Sun 23:59]
+:LAST_REPEAT: [2026-02-28 Sat 22:35]
 :END:
+- State "DONE"       from "TODO"       [2026-02-28 Sat 22:35]
 - State "DONE"       from "TODO"       [2026-02-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-02-01 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-01-22 Thu 00:46]
