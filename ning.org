@@ -2,8 +2,8 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
-* Inbox [1/4]
-** TODO iapm 兑换
+* Inbox [2/4]
+** DONE iapm 兑换
 SCHEDULED: <2026-03-01 Sun 10:00>
 ** TODO 学籍卡
 SCHEDULED: <2026-07-24 Fri ++6m>
