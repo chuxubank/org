@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 剃须刀充电
+SCHEDULED: <2026-03-04 Wed 21:30>
+
 * DONE 填写入职登记表
 SCHEDULED: <2026-03-01 Sun>
 
@@ -296,4 +299,3 @@ https://keymap-drawer.streamlit.app/
 https://nickcoutsos.github.io/keymap-layout-tools/
 https://config.qmk.fm/#/chalice/LAYOUT_default
 https://usevia.app/design
-
