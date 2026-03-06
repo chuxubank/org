@@ -3,6 +3,12 @@
 
 <<<<<<< Updated upstream
 =======
+
+* TODO 中午吃什么 App
+- 自动导入周边商场
+- 获取排队情况
+- 点评信息
+
 * TODO Move anki from brew to uv
 SCHEDULED: <2026-03-05 Thu>
 
