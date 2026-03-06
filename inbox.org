@@ -1,23 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 剃须刀充电
-SCHEDULED: <2026-03-04 Wed 21:30>
-
-* DONE 填写入职登记表
-SCHEDULED: <2026-03-01 Sun>
-
-* DONE 李女士随申办退公积金担保费
-SCHEDULED: <2026-02-24 Tue>
-
-* DONE 朱老师开东方航空发票
-SCHEDULED: <2026-02-23 Mon>
-
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
-
-* DONE 询问江苏银行公积金
-SCHEDULED: <2026-02-02 Mon>
 
 * TODO 开机器人发票
 SCHEDULED: <2026-01-25 Sun>
@@ -71,11 +56,6 @@ https://www.hacs.xyz
 
 * TODO Android jks file from Pass
 
-* TODO 使用 Matrix 代理 WeChat
-SCHEDULED: <2025-08-07 Thu>
-https://matrix.org/ecosystem/bridges/
-https://github.com/duo/matrix-wechat
-
 * TODO 旅行路书
 SCHEDULED: <2025-08-07 Thu>
 
@@ -102,7 +82,7 @@ https://context7.com/dashboard
 
 *** TODO Raycast
 
-*** TODO Amazon Q
+*** TODO Kiro CLI
 
 *** TODO Claude Code
 
@@ -110,7 +90,7 @@ https://context7.com/dashboard
 
 *** DONE Codex
 
-*** TODO Goose
+*** DONE Goose
 **** KILL Recipes
 CLOSED: [2025-12-01 Mon 18:36] SCHEDULED: <2025-10-23 Thu>
 - State "KILL"       from "TODO"       [2025-12-01 Mon 18:36]
