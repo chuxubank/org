@@ -918,11 +918,12 @@ SCHEDULED: <2026-03-04 Wed 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2026-03-05 Thu .+3d/5d>
+SCHEDULED: <2026-03-09 Mon .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-03-02 Mon 21:51]
+:LAST_REPEAT: [2026-03-06 Fri 08:06]
 :END:
+- State "DONE"       from "TODO"       [2026-03-06 Fri 08:06]
 - State "DONE"       from "TODO"       [2026-03-02 Mon 21:51]
 - State "DONE"       from "TODO"       [2026-02-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-02-01 Sun 20:44]
@@ -1103,11 +1104,12 @@ SCHEDULED: <2026-04-10 Fri .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Scalp massage
-SCHEDULED: <2026-03-03 Tue 22:00 .+1d>
+SCHEDULED: <2026-03-06 Fri 22:00 .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2026-03-02 Mon 21:51]
+:LAST_REPEAT: [2026-03-05 Thu 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-03-05 Thu 23:59]
 - State "DONE"       from "TODO"       [2026-03-02 Mon 21:51]
 - State "DONE"       from "TODO"       [2026-02-28 Sat 22:16]
 - State "DONE"       from "TODO"       [2026-01-24 Sat 23:59]
@@ -1148,11 +1150,12 @@ SCHEDULED: <2026-01-11 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2026-03-03 Tue 14:10 .+1d>
+SCHEDULED: <2026-03-06 Fri 14:10 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-03-02 Mon 21:49]
+:LAST_REPEAT: [2026-03-05 Thu 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-03-05 Thu 23:59]
 - State "DONE"       from "TODO"       [2026-03-02 Mon 21:49]
 - State "DONE"       from "TODO"       [2026-03-01 Sun 20:30]
 - State "DONE"       from "TODO"       [2026-02-28 Sat 22:16]
@@ -1319,6 +1322,9 @@ SCHEDULED: <2026-03-03 Tue 14:10 .+1d>
 - State "DONE"       from "TODO"       [2024-11-04 Mon 23:59]
 - State "DONE"       from "TODO"       [2024-10-31 Thu 00:08]
 - State "DONE"       from "TODO"       [2024-10-30 Wed 16:31]
+* TODO 剃须刀充电
+SCHEDULED: <2026-03-04 Wed 21:30 .+3m>
+
 * Car
 ** TODO 汽车年检
 SCHEDULED: <2031-03-01 Sat .+2y> DEADLINE: <2031-04-01 Tue .+2y>
@@ -1328,7 +1334,7 @@ SCHEDULED: <2031-03-01 Sat .+2y> DEADLINE: <2031-04-01 Tue .+2y>
 - State "DONE"       from "TODO"       [2024-07-18 Thu 18:40]
 - State "DONE"       from "TODO"       [2023-08-10 Thu 00:03]
 ** TODO 车辆续保
-DEADLINE: <2026-03-19 Thu> SCHEDULED: <2027-02-24 Wed .+1y>
+SCHEDULED: <2027-02-24 Wed .+1y> DEADLINE: <2027-03-19 Fri>
 :PROPERTIES:
 :LAST_REPEAT: [2026-02-24 Tue 14:36]
 :END:
