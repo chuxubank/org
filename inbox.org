@@ -1,6 +1,11 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 开德国 N26 卡
+SCHEDULED: <2026-03-11 Wed>
+- Note taken on [2026-03-11 Wed 00:02] \\
+  https://x.com/evanwritesx/status/2013854994701987962?s=46
+
 * TODO 中午吃什么 App
 - 自动导入周边商场
 - 获取排队情况
