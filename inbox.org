@@ -1,5 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+* TODO Mac Mini 部署本地模型
+SCHEDULED: <2026-03-14 Sat>
 
 * TODO 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
@@ -130,6 +132,9 @@ SCHEDULED: <2025-09-01 Mon>
 :LOGBOOK:
 CLOCK: [2025-11-04 Tue 09:15]--[2025-11-04 Tue 11:40] =>  2:25
 :END:
+
+**** TODO xray TUN research
+DEADLINE: <2026-03-13 Fri>
 
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
