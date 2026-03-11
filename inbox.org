@@ -2,6 +2,9 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 * TODO Mac Mini 部署本地模型
 SCHEDULED: <2026-03-14 Sat>
+* TODO 修复Claude Code 输出缓慢
+SCHEDULED: <2026-03-11 Wed>
+环境变量
 
 * TODO 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
