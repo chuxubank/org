@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2026-03-04 Wed 20:10 .+2d>
+SCHEDULED: <2026-03-13 Fri 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-03-02 Mon 21:52]
+:LAST_REPEAT: [2026-03-11 Wed 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-03-11 Wed 23:59]
 - State "DONE"       from "TODO"       [2026-03-02 Mon 21:52]
 - State "DONE"       from "TODO"       [2026-02-27 Fri 22:21]
 - State "DONE"       from "TODO"       [2026-02-23 Mon 13:50]
@@ -625,11 +626,12 @@ SCHEDULED: <2025-12-29 Mon .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2026-03-04 Wed 07:15 .+4d/6d>
+SCHEDULED: <2026-03-15 Sun 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-02-28 Sat 22:35]
+:LAST_REPEAT: [2026-03-11 Wed 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-03-11 Wed 23:59]
 - State "DONE"       from "TODO"       [2026-02-28 Sat 22:35]
 - State "DONE"       from "TODO"       [2026-02-22 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-02-01 Sun 23:59]
@@ -919,11 +921,12 @@ SCHEDULED: <2026-03-04 Wed 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2026-03-09 Mon .+3d/5d>
+SCHEDULED: <2026-03-14 Sat .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-03-06 Fri 08:06]
+:LAST_REPEAT: [2026-03-11 Wed 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-03-11 Wed 23:59]
 - State "DONE"       from "TODO"       [2026-03-06 Fri 08:06]
 - State "DONE"       from "TODO"       [2026-03-02 Mon 21:51]
 - State "DONE"       from "TODO"       [2026-02-22 Sun 23:59]
