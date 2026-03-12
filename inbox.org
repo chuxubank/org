@@ -11,6 +11,9 @@ https://github.com/nickrunning/wechat-selkies
 * TODO Mac Mini 部署本地模型
 SCHEDULED: <2026-03-14 Sat>
 
+* TODO 带酒精湿纸巾到公司
+SCHEDULED: <2026-03-13 Fri>
+
 * DONE 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
 - Note taken on [2026-03-11 Wed 00:02] \\
