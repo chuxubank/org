@@ -2,9 +2,6 @@
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 * TODO Mac Mini 部署本地模型
 SCHEDULED: <2026-03-14 Sat>
-* TODO 修复Claude Code 输出缓慢
-SCHEDULED: <2026-03-11 Wed>
-环境变量
 
 * TODO 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
@@ -13,7 +10,7 @@ SCHEDULED: <2026-03-11 Wed>
 
 ** 英国手机卡
 
-* TODO 中午吃什么 App
+* IDEA 中午吃什么 App
 - 自动导入周边商场
 - 获取排队情况
 - 点评信息
