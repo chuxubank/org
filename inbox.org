@@ -3,7 +3,7 @@
 * TODO Mac Mini 部署本地模型
 SCHEDULED: <2026-03-14 Sat>
 
-* TODO 开德国 N26 卡
+* DONE 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
 - Note taken on [2026-03-11 Wed 00:02] \\
   https://x.com/evanwritesx/status/2013854994701987962?s=46
