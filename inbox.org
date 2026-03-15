@@ -4,6 +4,7 @@
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
 https://github.com/hicccc77/WeFlow
+https://github.com/nickrunning/wechat-selkies
 
 * TODO Mac Mini 部署本地模型
 SCHEDULED: <2026-03-14 Sat>
