@@ -1,7 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-* TODO 更换 Apple Home Owner
-SCHEDULED: <2026-03-16 Mon>
+* DONE 更换 Apple Home Owner
+CLOSED: [2026-03-18 Wed 23:47] SCHEDULED: <2026-03-16 Mon>
+- State "DONE"       from "TODO"       [2026-03-18 Wed 23:47]
 
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
