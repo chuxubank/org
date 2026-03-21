@@ -1,5 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO Dot 添加学期日历
+SCHEDULED: <2026-03-22 Sun>
+
 * DONE 更换 Apple Home Owner
 CLOSED: [2026-03-18 Wed 23:47] SCHEDULED: <2026-03-16 Mon>
 - State "DONE"       from "TODO"       [2026-03-18 Wed 23:47]
