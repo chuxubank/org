@@ -27,7 +27,7 @@ SCHEDULED: <2026-03-11 Wed>
 - 获取排队情况
 - 点评信息
 
-* TODO Move anki from brew to uv
+* KILL Move anki from brew to uv
 SCHEDULED: <2026-03-05 Thu>
 
 * TODO 开全币种信用卡
