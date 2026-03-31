@@ -63,7 +63,8 @@ https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 ** TODO Use Gnus as Mail client
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
 
-** TODO flycheck-xray
+** TODO xray json schema
+SCHEDULED: <2026-03-31 Tue>
 
 ** TODO Language Translate and Dictionary
 SCHEDULED: <2025-06-16 Mon>

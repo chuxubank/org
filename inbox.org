@@ -167,6 +167,7 @@ CLOCK: [2025-11-04 Tue 09:15]--[2025-11-04 Tue 11:40] =>  2:25
 **** TODO xray TUN research
 DEADLINE: <2026-03-13 Fri>
 https://github.com/XTLS/Xray-core/tree/main/proxy/tun
+https://github.com/XTLS/Xray-core/discussions/2971
 
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
