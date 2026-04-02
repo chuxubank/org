@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Asspp server
+SCHEDULED: <2026-04-03 Fri>
+
 * TODO 提肛提醒！
 SCHEDULED: <2026-04-02 Thu>
 
