@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 提肛提醒！
+SCHEDULED: <2026-04-02 Thu>
+
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
