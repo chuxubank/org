@@ -6,3 +6,4 @@ auto/
 *.tex
 *.pdf
 .aider*
+/.agent-shell/
