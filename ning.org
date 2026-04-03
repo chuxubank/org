@@ -260,10 +260,10 @@ SCHEDULED: <2023-09-19 Tue>
 ** DONE 拍立得
 ** DONE Lululemon 瑜伽垫
 ** DONE 移动硬盘
-** DONE 朱宁婕名章
+** DONE 名章
 CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22 Mon>
 - State "DONE"       from "TODO"       [2023-06-02 Fri 09:00]
-* Knowledge [0/0]
+* Knowledge :crypt:
 ** 三公
 - 上外
 - 浦外
@@ -657,7 +657,7 @@ https://basic.smartedu.cn/training/2024sqpx
                   cell.text += line  # Append text to the cell
 
               sign_cell = existing_table.cell(4, 1)
-              sign_cell.text = "班主任（签名）　朱宁婕　　　　　　2026 年　1 月"
+              sign_cell.text = "班主任（签名）　xxx　　　　　　2026 年　1 月"
 
               # Save the updated document
               matched_doc.save(os.path.join(output_directory, matched_filename))
