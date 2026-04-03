@@ -264,43 +264,34 @@ SCHEDULED: <2023-09-19 Tue>
 CLOSED: [2023-06-02 Fri 09:00] DEADLINE: <2023-06-02 Fri> SCHEDULED: <2023-05-22 Mon>
 - State "DONE"       from "TODO"       [2023-06-02 Fri 09:00]
 * Knowledge :crypt:
-** 三公
-- 上外
-- 浦外
-- 上实
-** 奇怪的数学老师
-许治平（宇宙无敌能吃的奥义皮皮）
-** 账号
-- Instgram :: jud887
-- Bilibili :: itdikdt
-** 公众号
-- 秀米
-** 副班主任费用组成
-10/7 年级组长会议
-一、各年级组长总结交流
-1、常规落地
-2、亮点+问题
-3、改进措施
-二、副班主任费用组成（600 元包含）：
-1⃣两早两中看班管理
-班主任有事尽量调换，单次费用：600/4/4.5
-2⃣协助管理班级事务
-👉因公外出不扣班主任费用，属于副班主任工作职责范围内
-👉班主任请病事假（整天），从班主任费用中扣除给副班主任，85/天，如遇周一包括班会课
-👉班主任因公因私外出，必须告知副班主任
-‼️私：平台请假+告知年级组长+告知副班主任
-‼️公：门口登记+告知年级组长+告知副班主任
-👉对副班主任看班情况做好记录
-⚠️⚠️⚠️晚托班不能看电视
-（低年级全部任务完成后，可适当看有教育意义的短片）
-三、10 月开始升旗仪式+校班会恢复正常时间
-👉10/16 看儿童剧
-👉10/19 一年级开放日
-‼️10/13 各班教室外墙都布置完成
-四、大队委员竞选
-五、午餐剩菜称重
-五年级较好：1，2，3班
-六、年级组长工作月报表
+-----BEGIN PGP MESSAGE-----
+
+hF4DeAnNi+D7LJYSAQdApGfuxSBuAGL+matEoDj9kvUQZcrdsEDv2ATN4HfDmx0w
+PFZlmDeJMRfXxAmalmh3S2CFdUsF2VmHeaj+MSZ8xy3joSSOZjp8LH8m+y/uF5sy
+hF4DHAI7aRBNu2ISAQdAfM+lLvaehpd9r0Je/Dt769c7HQSpEtI7D9e3Ohi0xg8w
+V9FDoJ1xcW1XcZWiowoYYKLt+RaKZyX192tdyEsgmKooTcKQs5lGRdPy5LYzASrQ
+1OkBCQIQShq6T7NwohkimMww1g+/OoaWQJzJnaXWc0l25dtfKPRjw8u5Q/GKYrYS
+5EI4D9nNYJNQWtVlUVI9rKbymV171ybVoXFlayJJeGt9mtow6ISb0LApcZhb1i9f
+JN5eHlJe8NTJOcui4wV9NXCVr74E8DaWiQoJzIV5YQIICd4Cm+oVx3/OB4o/NBY/
+ovoF3Lk9dhkReCtcMMG0gTVzD+LmoOq3rRLSZ5PJXE1aFLT9ot1nj8Th3x4PQp8M
+CYLYEelAZSDuO3yohYslwMCkXtTztkdAOpSEyS9GdgKFXc4VS+x45X/yGkbb0TRF
+2sLTTyONgGBRi6iRIyevgPM2kr4Y38h25UlUsNPgryMI0JKp8ldVA1BlAJPRD0DH
++M4gpjfSWHLkd9JwDLKu2m9OAZJekyJe/GcjmwN6dS3I4+QYiOkeadO1NxLIpLJu
+YfjOl5WEoIz/bVXCDQ7gzEvj7nvTt7YeykJi32l/Ty2KKksxC7NDFvVeYXRxDKd5
+oA0JGfBmbozSKZ3SkiDeNWKIfByQS6l0E0ySkZlNkhiiRxJghK6d5Fl2aIrq7bLA
+kKMiRFGrMZ1jrQusocWW1MoofG9S9X7AQlCeyYKm7mWaAN5M3Amqbz7lqrOx5IX4
+tuwdthm1Hlky6SRk33b7EVX9hiRuMphu5ihMPLbckRnow8DTRvsqHUrmleJx1TAS
+DGm503uHoogTuG1YvQ3DvPAcr55ST2STsiRajPBGZUrlSs2mC6lTpkXn+0m6x0rl
+OqyI8TUNTFWwLVaspWw8war2eRJGG77xJ1J8vmNMO3drFhwezETOtRa4KqHrbho0
+XUP9HLUcSa2xIB3zvNetm8Yy7OWYIsOkcyGmOuQ8OHEdJFQRpjKDHH+3i/Xk3DLh
+BvVwBvtLaaWOIoZ1UkBs50IlIDFClDRNT5e/39lz2Qu3IMRbmIu4UTdbwxbaW8Ee
+SRp8Ctpe3a5cgwpqnJykA0P+zjXMd7LHjjdgHg0+UdMuyBB6V5x9gKDABSsl1cw7
+hGcTARSBGXk4QQBAtZdLtYIMAmhqB5CCNjRgOcmUx/c4vBkUrCpnzpdGSPYBB3Sy
+iKHu9EVOIOhAU3x/DJeploVxgPZceZlj8zKuWXA/1Y35lHMfIiVJ+zTzyULAOB/r
+w0PpYUwKtIzNKY4X8Od/NTAHy8OMCdUmbEB1nLNj9UHvD/CuAvgiu4AGGU9bZjRP
+kHg7KUpHuw==
+=nUw2
+-----END PGP MESSAGE-----
 * Remind [1/2]
 ** DONE 给父母的关于如何和朱老师相处的一些建议
 1. 不要给她施加压力, 尤其是带着答案的问题, 她由于要顾及大家的感受, 会作出委屈自己的选择, 但实际上会给她带来很大的负担和压力, 并造成内耗.
