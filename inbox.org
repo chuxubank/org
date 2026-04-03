@@ -10,7 +10,7 @@ SCHEDULED: <2026-04-02 Thu>
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
-* TODO 整理 iCloud 文件
+* DONE 整理 iCloud 文件
 SCHEDULED: <2026-04-01 Wed>
 
 * TODO Add raycast settings to chezmoi
