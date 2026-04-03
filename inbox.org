@@ -10,9 +10,6 @@ SCHEDULED: <2026-04-02 Thu>
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
-* DONE 整理 iCloud 文件
-SCHEDULED: <2026-04-01 Wed>
-
 * TODO Add raycast settings to chezmoi
 SCHEDULED: <2026-03-30 Mon>
 
@@ -29,10 +26,6 @@ https://github.com/twpayne/chezmoi
 * TODO Dot 添加学期日历
 SCHEDULED: <2026-03-22 Sun>
 
-* DONE 更换 Apple Home Owner
-CLOSED: [2026-03-18 Wed 23:47] SCHEDULED: <2026-03-16 Mon>
-- State "DONE"       from "TODO"       [2026-03-18 Wed 23:47]
-
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
 https://github.com/hicccc77/WeFlow
@@ -45,13 +38,6 @@ SCHEDULED: <2026-04-03 Fri>
 SCHEDULED: <2026-04-06 Mon>
 - [ ] 酒精湿纸巾
 - [ ] 水杯
-
-* DONE 开德国 N26 卡
-SCHEDULED: <2026-03-11 Wed>
-- Note taken on [2026-03-11 Wed 00:02] \\
-  https://x.com/evanwritesx/status/2013854994701987962?s=46
-
-** 英国手机卡
 
 * IDEA 中午吃什么 App
 - 自动导入周边商场
