@@ -44,9 +44,6 @@ SCHEDULED: <2026-04-06 Mon>
 - 获取排队情况
 - 点评信息
 
-* KILL Move anki from brew to uv
-SCHEDULED: <2026-03-05 Thu>
-
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
 
@@ -112,13 +109,13 @@ SCHEDULED: <2025-06-12 Thu>
 
 * TODO AI Agent
 
-** TODO MCP Server
+** DONE MCP Server
 
-*** TODO Figma
+*** DONE Figma
 
-*** TODO Android Studio
+*** DONE Android Studio
 
-*** TODO Jira
+*** KILL Jira
 
 *** DONE Context7
 https://github.com/upstash/context7
@@ -130,9 +127,9 @@ https://context7.com/dashboard
 
 *** TODO Kiro CLI
 
-*** TODO Claude Code
+*** DONE Claude Code
 
-*** TODO Gemini CLI
+*** DONE Gemini CLI
 
 *** DONE Codex
 
@@ -308,25 +305,3 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 [[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
 - 添加机器人项目经历
 - 修改英文简历
-
-* DONE 分体键盘键位优化
-SCHEDULED: <2025-11-06 Thu>
-https://www.reddit.com/r/ErgoMechKeyboards/comments/1cuawom/are_home_row_modifiers_really_the_best_options/
-https://github.com/caksoylar/keymap-drawer/blob/main/PHYSICAL_LAYOUTS.md#qmk-infojson-specification
-https://github.com/the-via/qmk_userspace_via/blob/main/keyboards/meetlab/kalice/keymaps/via/keymap.c
-
-https://getreuer.info/posts/keyboards/alt-layouts/index.html
-https://getreuer.info/posts/keyboards/symbol-layer/index.html
-https://filiphalas.com/my-journey-zsa-voyager-miryoku-colemak-dh
-
-** DONE Add new shield for Silakka54
-SCHEDULED: <2025-11-12 Wed>
-https://github.com/zmkfirmware/zmk/blob/main/app/dts/layouts/kata0510/lily58.dtsi
-https://github.com/Squalius-cephalus/silakka54/blob/main/firmware/keymaps/vial/vial.json
-
-** KILL Tools
-https://yal-tools.github.io/vial-to-keymap-drawer/
-https://keymap-drawer.streamlit.app/
-https://nickcoutsos.github.io/keymap-layout-tools/
-https://config.qmk.fm/#/chalice/LAYOUT_default
-https://usevia.app/design
