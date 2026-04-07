@@ -42,7 +42,7 @@ SCHEDULED: <2026-04-03 Fri>
 * TODO 带物品到公司
 SCHEDULED: <2026-04-06 Mon>
 - [ ] 酒精湿纸巾
-- [ ] 水杯
+- [X] 水杯
 
 * IDEA 中午吃什么 App
 - 自动导入周边商场
