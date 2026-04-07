@@ -1,6 +1,11 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Use ob-mermaid and mermaid-rs-renderer
+SCHEDULED: <2026-04-07 Tue>
+https://github.com/arnm/ob-mermaid
+https://github.com/1jehuang/mermaid-rs-renderer
+
 * TODO Asspp server
 SCHEDULED: <2026-04-03 Fri>
 
