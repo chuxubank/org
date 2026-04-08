@@ -3169,6 +3169,16 @@ https://keymap-drawer.streamlit.app/
 https://nickcoutsos.github.io/keymap-layout-tools/
 https://config.qmk.fm/#/chalice/LAYOUT_default
 https://usevia.app/design
+
+** DONE 提肛提醒！
+SCHEDULED: <2026-04-02 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-08 Wed 16:45
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
