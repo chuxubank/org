@@ -9,18 +9,17 @@ https://github.com/1jehuang/mermaid-rs-renderer
 * TODO Asspp server
 SCHEDULED: <2026-04-03 Fri>
 
-* DONE 提肛提醒！
-SCHEDULED: <2026-04-02 Thu>
-
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
 * TODO Add raycast settings to chezmoi
 SCHEDULED: <2026-03-30 Mon>
 
-* TODO 给 dorso 添加久坐提醒
+* KILL 给 dorso 添加久坐提醒
 SCHEDULED: <2026-03-24 Tue>
 https://github.com/tldev/dorso
+https://github.com/tldev/dorso/issues/56
+https://github.com/tldev/dorso/issues/79
 
 * TODO 给 chezmoi 添加 plist 支持
 SCHEDULED: <2026-03-24 Tue>
