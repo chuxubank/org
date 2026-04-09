@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO Use ob-mermaid and mermaid-rs-renderer
+* STRT Use ob-mermaid and mermaid-rs-renderer
 SCHEDULED: <2026-04-07 Tue>
 https://github.com/arnm/ob-mermaid
 https://github.com/1jehuang/mermaid-rs-renderer
@@ -35,7 +35,7 @@ SCHEDULED: <2026-03-15 Sun>
 https://github.com/hicccc77/WeFlow
 https://github.com/nickrunning/wechat-selkies
 
-* TODO Mac Mini 部署本地模型接口
+* STRT Mac Mini 部署本地模型接口
 SCHEDULED: <2026-04-03 Fri>
 
 * TODO 带物品到公司
