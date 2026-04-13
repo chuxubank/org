@@ -34,7 +34,10 @@ SCHEDULED: <2026-03-15 Sun>
 https://github.com/hicccc77/WeFlow
 https://github.com/nickrunning/wechat-selkies
 
-* STRT Mac Mini 部署本地模型接口
+** TODO 云部署微信
+SCHEDULED: <2026-04-13 Mon>
+
+* DONE Mac Mini 部署本地模型接口
 SCHEDULED: <2026-04-03 Fri>
 
 * TODO 带物品到公司
