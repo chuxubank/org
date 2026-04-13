@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 复制小区门禁
+* KILL 复制小区门禁
 SCHEDULED: <2026-04-13 Mon>
 * STRT Use ob-mermaid and mermaid-rs-renderer
 SCHEDULED: <2026-04-07 Tue>
@@ -35,10 +35,10 @@ SCHEDULED: <2026-03-22 Sun>
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
 https://github.com/hicccc77/WeFlow
-https://github.com/nickrunning/wechat-selkies
 
 ** TODO 云部署微信
 SCHEDULED: <2026-04-13 Mon>
+https://github.com/nickrunning/wechat-selkies
 
 * DONE Mac Mini 部署本地模型接口
 SCHEDULED: <2026-04-03 Fri>
