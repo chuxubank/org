@@ -8,7 +8,7 @@ SCHEDULED: <2026-04-07 Tue>
 https://github.com/arnm/ob-mermaid
 https://github.com/1jehuang/mermaid-rs-renderer
 
-* TODO Asspp server
+* DONE Asspp server
 SCHEDULED: <2026-04-03 Fri>
 
 * TODO 沉浸式翻译配置加入 chezmoi
