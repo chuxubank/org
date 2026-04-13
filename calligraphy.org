@@ -943,10 +943,11 @@ SCHEDULED: <2023-05-13 Sat>
 ** TODO 怀素小草千字文
 ** TODO 整理奖项
 ** TODO 练字
-SCHEDULED: <2026-04-11 Sat ++2w>
+SCHEDULED: <2026-04-25 Sat ++2w>
 :PROPERTIES:
-:LAST_REPEAT: [2026-04-08 Wed 16:34]
+:LAST_REPEAT: [2026-04-13 Mon 21:22]
 :END:
+- State "KILL"       from "TODO"       [2026-04-13 Mon 21:22]
 - State "KILL"       from "TODO"       [2026-04-08 Wed 16:34]
 - State "KILL"       from "TODO"       [2026-03-14 Sat 22:19]
 - State "KILL"       from "TODO"       [2026-02-28 Sat 22:35]
