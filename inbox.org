@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Write go-template-ts mode
+SCHEDULED: <2026-04-14 Tue>
+
 * KILL 复制小区门禁
 SCHEDULED: <2026-04-13 Mon>
 * STRT Use ob-mermaid and mermaid-rs-renderer
