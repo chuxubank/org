@@ -1,7 +1,6 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
-
-* TODO Use sing-box apple
+* TODO Use sing-box on iOS
 SCHEDULED: <2026-04-15 Wed>
 https://github.com/seiry/sing-box-for-apple
 
@@ -82,9 +81,6 @@ https://developers.google.com/static/community/experts/assets/GDE_Program_Applic
 - https://g.dev/qiaoyuang
 
 * TODO Homelab in 小窝
-SCHEDULED: <2026-03-01 Sun>
-
-* TODO AI 根据 ISO 生成 Kotlin 语言的高频、超高频解码库
 SCHEDULED: <2026-03-01 Sun>
 
 * TODO 跨所有客户端的书签同步工具
