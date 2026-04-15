@@ -1,6 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Use sing-box apple
+SCHEDULED: <2026-04-15 Wed>
+https://github.com/seiry/sing-box-for-apple
+
 * TODO Write go-template-ts mode
 SCHEDULED: <2026-04-14 Tue>
 
