@@ -3179,6 +3179,66 @@ SCHEDULED: <2026-04-02 Thu>
 :ARCHIVE_TODO: DONE
 :END:
 
+** KILL 复制小区门禁
+SCHEDULED: <2026-04-13 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+
+** DONE Asspp server
+SCHEDULED: <2026-04-03 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** KILL 给 dorso 添加久坐提醒
+SCHEDULED: <2026-03-24 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+https://github.com/tldev/dorso
+https://github.com/tldev/dorso/issues/56
+https://github.com/tldev/dorso/issues/79
+
+** KILL 给 chezmoi 添加 plist 支持
+SCHEDULED: <2026-03-24 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+https://github.com/twpayne/chezmoi
+
+** DONE Mac Mini 部署本地模型接口
+SCHEDULED: <2026-04-03 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 带物品到公司
+SCHEDULED: <2026-04-06 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-04-19 Sun 20:24
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- [X] 酒精湿纸巾
+- [X] 水杯
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
