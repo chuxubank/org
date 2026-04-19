@@ -1,5 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO 带口罩到车上
+SCHEDULED: <2026-04-26 Sun>
+
 * TODO Use sing-box on iOS
 SCHEDULED: <2026-04-15 Wed>
 https://github.com/seiry/sing-box-for-apple
