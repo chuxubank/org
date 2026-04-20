@@ -47,10 +47,10 @@ https://github.com/nickrunning/wechat-selkies
 SCHEDULED: <2026-03-01 Sun>
 
 * TODO 开机器人发票
-SCHEDULED: <2026-01-25 Sun>
+SCHEDULED: <2026-04-20 Mon>
 
 ** TODO 更改经营范围
-SCHEDULED: <2026-04-09 Thu>
+SCHEDULED: <2026-04-20 Mon>
 
 * TODO 考取 GDE
 SCHEDULED: <2026-01-07 Wed>
