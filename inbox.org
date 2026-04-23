@@ -22,6 +22,10 @@ https://github.com/1jehuang/mermaid-rs-renderer
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
+** WAIT Use kiss-translator replace immersive-translate
+https://github.com/fishjar/kiss-translator
+If support macOS Safari
+
 * TODO Add raycast settings to chezmoi
 SCHEDULED: <2026-03-30 Mon>
 
@@ -46,10 +50,10 @@ https://github.com/nickrunning/wechat-selkies
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
 
-* TODO 开机器人发票
+* DONE 开机器人发票
 SCHEDULED: <2026-04-20 Mon>
 
-** TODO 更改经营范围
+* TODO 更改经营范围
 SCHEDULED: <2026-04-20 Mon>
 
 * TODO 考取 GDE
