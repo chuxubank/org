@@ -140,7 +140,11 @@ https://block.github.io/goose/docs/guides/recipes/recipe-reference/
 https://block.github.io/goose/docs/guides/recipes/session-recipes/#configure-recipe-location
 
 *** TODO Emacs
+SCHEDULED: <2026-04-23 Thu>
+https://github.com/laurynas-biveinis/org-mcp
+https://github.com/laurynas-biveinis/elisp-dev-mcp
 https://github.com/lizqwerscott/mcp.el
+https://github.com/ahyatt/llm
 
 * TODO Meta 眼镜
 
