@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 带衣服回宝山和松江
+* DONE 带衣服回宝山和松江
 SCHEDULED: <2026-04-24 Fri>
 
 * TODO 带口罩到车上
