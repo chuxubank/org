@@ -1,11 +1,12 @@
 #+TITLE: Life
 #+startup: overview
 * TODO Eat fruit
-SCHEDULED: <2026-04-21 Tue 20:10 .+2d>
+SCHEDULED: <2026-05-07 Thu 20:10 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-19 Sun 20:40]
+:LAST_REPEAT: [2026-05-05 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-05-05 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:40]
 - State "DONE"       from "TODO"       [2026-04-14 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-12 Sun 20:04]
@@ -64,11 +65,12 @@ DEADLINE: <2026-12-31 Thu ++1y> SCHEDULED: <2026-12-01 Tue ++1y>
 :END:
 - State "DONE"       from "TODO"       [2025-12-05 Fri 16:20]
 * TODO Cut nails
-SCHEDULED: <2026-05-03 Sun 20:00 .+6d/9d>
+SCHEDULED: <2026-05-11 Mon 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-27 Mon 10:45]
+:LAST_REPEAT: [2026-05-05 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-05-05 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-27 Mon 10:45]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:38]
 - State "DONE"       from "TODO"       [2026-04-09 Thu 23:23]
@@ -636,11 +638,12 @@ SCHEDULED: <2026-04-21 Tue .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 * TODO Shave
-SCHEDULED: <2026-04-30 Thu 07:15 .+4d/6d>
+SCHEDULED: <2026-05-09 Sat 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-26 Sun 23:59]
+:LAST_REPEAT: [2026-05-05 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-05-05 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-26 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-04-23 Thu 21:37]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:40]
@@ -938,11 +941,12 @@ SCHEDULED: <2026-04-30 Thu 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2026-04-26 Sun .+3d/5d>
+SCHEDULED: <2026-05-08 Fri .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-23 Thu 21:40]
+:LAST_REPEAT: [2026-05-05 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-05-05 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-23 Thu 21:40]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:41]
 - State "DONE"       from "TODO"       [2026-04-14 Tue 23:59]
@@ -1132,11 +1136,12 @@ SCHEDULED: <2026-06-19 Fri .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Scalp massage
-SCHEDULED: <2026-04-24 Fri 22:00 .+1d>
+SCHEDULED: <2026-05-06 Wed 22:00 .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2026-04-23 Thu 21:39]
+:LAST_REPEAT: [2026-05-05 Tue 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-05-05 Tue 23:59]
 - State "DONE"       from "TODO"       [2026-04-23 Thu 21:39]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:41]
 - State "DONE"       from "TODO"       [2026-03-05 Thu 23:59]
@@ -1153,11 +1158,12 @@ SCHEDULED: <2026-04-24 Fri 22:00 .+1d>
 - State "DONE"       from "TODO"       [2025-09-15 Mon 13:00]
 - State "DONE"       from "TODO"       [2025-09-08 Mon 23:59]
 * TODO Clean bathroom
-SCHEDULED: <2026-05-03 Sun .+2w>
+SCHEDULED: <2026-05-20 Wed .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-19 Sun 20:39]
+:LAST_REPEAT: [2026-05-06 Wed 14:36]
 :END:
+- State "KILL"       from "TODO"       [2026-05-06 Wed 14:36]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:39]
 - State "DONE"       from "TODO"       [2025-12-28 Sun 13:21]
 - State "DONE"       from "TODO"       [2025-11-21 Fri 15:16]
@@ -1181,11 +1187,12 @@ SCHEDULED: <2026-05-03 Sun .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2026-04-28 Tue 14:30 .+2d>
+SCHEDULED: <2026-05-08 Fri 14:30 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-04-26 Sun 23:59]
+:LAST_REPEAT: [2026-05-06 Wed 14:35]
 :END:
+- State "DONE"       from "TODO"       [2026-05-06 Wed 14:35]
 - State "DONE"       from "TODO"       [2026-04-26 Sun 23:59]
 - State "DONE"       from "TODO"       [2026-04-23 Thu 21:37]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:38]
