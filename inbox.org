@@ -276,10 +276,9 @@ Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 
 * STRT 学习 Rust
-SCHEDULED: <2025-07-27 Sun>
+SCHEDULED: <2026-05-19 Tue>
 https://github.com/google/comprehensive-rust
-
-** TODO 制作 Rust 命令行工具并开源
+https://google.github.io/comprehensive-rust/index.html
 
 * KILL 准备 Android 面试
 SCHEDULED: <2026-01-20 Tue>
