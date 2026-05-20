@@ -1,6 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Setup OpenCode
+SCHEDULED: <2026-05-20 Wed>
+https://github.com/kdcokenny/opencode-notify
+
 * DONE 带衣服回宝山和松江
 SCHEDULED: <2026-04-24 Fri>
 
