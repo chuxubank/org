@@ -5,6 +5,10 @@
 SCHEDULED: <2026-05-20 Wed>
 https://github.com/kdcokenny/opencode-notify
 
+* TODO Setup Air
+
+* TODO Setup Warp
+
 * DONE 带衣服回宝山和松江
 SCHEDULED: <2026-04-24 Fri>
 
