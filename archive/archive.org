@@ -3248,6 +3248,49 @@ SCHEDULED: <2026-05-21 Thu 08:00>
 :ARCHIVE_TODO: DONE
 :END:
 
+** DONE 带衣服回宝山和松江
+SCHEDULED: <2026-04-24 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-21 Thu 22:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE 开机器人发票
+SCHEDULED: <2026-04-20 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-21 Thu 22:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE sing-box research
+SCHEDULED: <2025-09-01 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-21 Thu 22:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: Meta 眼镜/AI/家庭网络透明代理
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2025-11-04 Tue 09:15]--[2025-11-04 Tue 11:40] =>  2:25
+:END:
+
+** DONE xray TUN research
+DEADLINE: <2026-03-13 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-21 Thu 22:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: Meta 眼镜/AI/家庭网络透明代理
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/XTLS/Xray-core/tree/main/proxy/tun
+https://github.com/XTLS/Xray-core/discussions/2971
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
@@ -4473,6 +4516,17 @@ SCHEDULED: <2025-11-06 Thu>
 :END:
 https://agentclientprotocol.com/overview/introduction
 https://github.com/xenodium/agent-shell
+
+** DONE Add key bindings for git-misc
+SCHEDULED: <2025-11-28 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-21 Thu 22:18
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+[[file:~/.config/emacs/cats/+git-misc.el::(use-package git-timemachine]]
 
 * From place.org
 
