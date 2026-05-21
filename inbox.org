@@ -40,9 +40,6 @@ SCHEDULED: <2026-04-01 Wed>
 https://github.com/fishjar/kiss-translator
 If support macOS Safari
 
-* TODO Add raycast settings to chezmoi
-SCHEDULED: <2026-03-30 Mon>
-
 * TODO 探索 claude-code 的 office skills
 
 * TODO Dot 添加学期日历
@@ -141,6 +138,9 @@ https://context7.com/dashboard
 ** TODO MCP Client
 
 *** TODO Raycast
+
+**** TODO Add raycast settings to chezmoi
+SCHEDULED: <2026-05-21 Thu>
 
 *** TODO Kiro CLI
 
