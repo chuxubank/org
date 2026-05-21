@@ -15,9 +15,6 @@ SCHEDULED: <2026-05-21 Thu>
 
 * TODO Setup Warp
 
-* DONE 带衣服回宝山和松江
-SCHEDULED: <2026-04-24 Fri>
-
 * TODO 带口罩到车上
 SCHEDULED: <2026-05-24 Sun>
 
@@ -60,9 +57,6 @@ https://github.com/nickrunning/wechat-selkies
 
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
-
-* DONE 开机器人发票
-SCHEDULED: <2026-04-20 Mon>
 
 * TODO 更改经营范围
 SCHEDULED: <2026-04-20 Mon>
@@ -173,17 +167,6 @@ https://github.com/ahyatt/llm
 *** TODO 家庭网络透明代理
 SCHEDULED: <2025-06-20 Fri>
 https://github.com/LongLights/sing-box_template_merge_sub-store/blob/main/sing-box_v1.13/realip模板（仅ipv4）/singbox_realip.json
-
-**** DONE sing-box research
-SCHEDULED: <2025-09-01 Mon>
-:LOGBOOK:
-CLOCK: [2025-11-04 Tue 09:15]--[2025-11-04 Tue 11:40] =>  2:25
-:END:
-
-**** DONE xray TUN research
-DEADLINE: <2026-03-13 Fri>
-https://github.com/XTLS/Xray-core/tree/main/proxy/tun
-https://github.com/XTLS/Xray-core/discussions/2971
 
 * TODO 添加 macOS 系统词典
 https://www.zhihu.com/question/20428599
