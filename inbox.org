@@ -1,15 +1,15 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* DONE 联想键盘小红点报修
-SCHEDULED: <2026-05-21 Thu 08:00>
-
 * TODO New project OpenCourse
 SCHEDULED: <2026-05-20 Wed>
 
 * TODO Setup OpenCode
 SCHEDULED: <2026-05-20 Wed>
 https://github.com/kdcokenny/opencode-notify
+
+* TODO Setup Craft Agents
+SCHEDULED: <2026-05-21 Thu>
 
 * TODO Setup Air
 

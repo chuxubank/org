@@ -24,23 +24,12 @@ https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 
 ** TODO AI Agent for Emacs
 SCHEDULED: <2025-10-24 Fri>
-https://github.com/MatthewZMD/emigo
-https://github.com/s-kostyaev/elisa
+https://github.com/karthink/gptel-agent
 
-*** DONE ACP in Emacs
-SCHEDULED: <2025-11-06 Thu>
-https://agentclientprotocol.com/overview/introduction
-https://github.com/xenodium/agent-shell
+** TODO Use libghostty instead of libvterm
+SCHEDULED: <2026-05-21 Thu>
 
 ** TODO scrcpy for Emacs
-
-** KILL Task.el use =acli= as backend
-SCHEDULED: <2025-12-09 Tue>
-
-** DONE OpenRouter
-SCHEDULED: <2025-10-13 Mon>
-https://openrouter.ai/docs/use-cases/reasoning-tokens#excluding-reasoning-tokens
-https://openrouter.ai/docs/api-reference/responses-api/reasoning
 
 ** TODO Make image scroll smooth
 https://github.com/casouri/iscroll
@@ -64,9 +53,6 @@ https://lists.gnu.org/archive/html/emacs-orgmode/2017-01/msg00003.html
 
 ** TODO Use Gnus as Mail client
 https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org
-
-** KILL xray json schema
-SCHEDULED: <2026-03-31 Tue>
 
 ** TODO Language Translate and Dictionary
 SCHEDULED: <2025-06-16 Mon>
