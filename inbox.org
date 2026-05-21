@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO 联想键盘小红点报修
+* DONE 联想键盘小红点报修
 SCHEDULED: <2026-05-21 Thu 08:00>
 
 * TODO New project OpenCourse
