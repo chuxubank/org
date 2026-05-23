@@ -1,19 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* DONE Add skills
-SCHEDULED: <2026-05-22 Fri>
-- https://github.com/openai/plugins/tree/main/plugins/test-android-apps/skills/android-emulator-qa
-
 * TODO New project OpenCourse
 SCHEDULED: <2026-05-20 Wed>
 
 * TODO Setup OpenCode
 SCHEDULED: <2026-05-20 Wed>
 https://github.com/kdcokenny/opencode-notify
-
-* TODO Setup Craft Agents
-SCHEDULED: <2026-05-21 Thu>
 
 * TODO Setup Air
 

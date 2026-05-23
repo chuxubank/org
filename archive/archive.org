@@ -3291,6 +3291,25 @@ DEADLINE: <2026-03-13 Fri>
 https://github.com/XTLS/Xray-core/tree/main/proxy/tun
 https://github.com/XTLS/Xray-core/discussions/2971
 
+** DONE Setup Craft Agents
+SCHEDULED: <2026-05-21 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-23 Sat 16:51
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE Add skills
+SCHEDULED: <2026-05-22 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-23 Sat 16:51
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- https://github.com/openai/plugins/tree/main/plugins/test-android-apps/skills/android-emulator-qa
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
