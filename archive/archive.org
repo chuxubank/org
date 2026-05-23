@@ -4244,6 +4244,16 @@ CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
 *** DONE 购买手表电池
 SCHEDULED: <2024-02-01 Thu>
 
+** KILL 陈香贵积分兑换
+DEADLINE: <2026-12-31 Thu ++0y> SCHEDULED: <2026-12-01 Tue ++0y>
+:PROPERTIES:
+:LAST_REPEAT: [2025-12-05 Fri 16:20]
+:ARCHIVE_TIME: 2026-05-23 Sat 17:52
+:ARCHIVE_FILE: ~/Developer/Personal/org/life.org
+:ARCHIVE_CATEGORY: life
+:ARCHIVE_TODO: KILL
+:END:
+- State "DONE"       from "TODO"       [2025-12-05 Fri 16:20]
 * From emacs.org :ARCHIVE:
 
 ** DONE 使用 chezmoi 设置 rime

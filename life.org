@@ -61,12 +61,6 @@ SCHEDULED: <2026-05-19 Tue 20:10 .+2d>
 - State "DONE"       from "TODO"       [2025-03-03 Mon 08:25]
 - State "DONE"       from "TODO"       [2025-02-26 Wed 10:39]
 - State "DONE"       from "TODO"       [2025-02-24 Mon 09:04]
-* TODO 陈香贵积分兑换
-DEADLINE: <2026-12-31 Thu ++1y> SCHEDULED: <2026-12-01 Tue ++1y>
-:PROPERTIES:
-:LAST_REPEAT: [2025-12-05 Fri 16:20]
-:END:
-- State "DONE"       from "TODO"       [2025-12-05 Fri 16:20]
 * TODO Cut nails
 SCHEDULED: <2026-05-26 Tue 20:00 .+6d/9d>
 :PROPERTIES:
