@@ -28,6 +28,8 @@ https://github.com/karthink/gptel-agent
 
 ** TODO Use libghostty instead of libvterm
 SCHEDULED: <2026-05-21 Thu>
+https://github.com/dakra/ghostel
+https://github.com/rwc9u/emacs-libgterm
 
 ** TODO scrcpy for Emacs
 
