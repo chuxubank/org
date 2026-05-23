@@ -99,6 +99,9 @@ https://stackoverflow.com/questions/48330742/file-encryption-in-git-repository
 ** IDEA hass.el
 homeassistant
 
+** IDEA Agent for emacs
+之后可能尝试在 emacs 里实现一个更原生的 agent loop，不局限于现在 gptel-agent 和 基于 acp 的 agent-shell 感觉可能性会更大
+
 ** TODO mu4e context
 SCHEDULED: <2025-10-27 Mon>
 https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
