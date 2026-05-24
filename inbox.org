@@ -1,6 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Setup ssh to use gpg key
+SCHEDULED: <2026-05-24 Sun>
 * TODO New project OpenCourse
 SCHEDULED: <2026-05-20 Wed>
 
