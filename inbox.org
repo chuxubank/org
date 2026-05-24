@@ -1,6 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Improve gptel-model-updater
+SCHEDULED: <2026-05-24 Sun>
+https://github.com/karthink/gptel/issues/1330#issuecomment-4526729014
+
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
 * TODO New project OpenCourse
