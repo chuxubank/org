@@ -7,10 +7,11 @@ https://github.com/karthink/gptel/issues/1330#issuecomment-4526729014
 
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
-* TODO New project OpenCourse
+
+* IDEA OpenCourse
 SCHEDULED: <2026-05-20 Wed>
 
-* TODO Setup OpenCode
+* DONE Setup OpenCode
 SCHEDULED: <2026-05-20 Wed>
 https://github.com/kdcokenny/opencode-notify
 
