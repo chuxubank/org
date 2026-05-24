@@ -20,7 +20,7 @@ SCHEDULED: <2026-05-25 Mon>
 * TODO Setup Warp
 SCHEDULED: <2026-05-23 Sat>
 
-* TODO 带口罩到车上
+* KILL 带口罩到车上
 SCHEDULED: <2026-05-24 Sun>
 
 * TODO Use sing-box on iOS
