@@ -26,11 +26,6 @@ https://aider.chat/docs/recordings/tree-sitter-language-pack.html
 SCHEDULED: <2025-10-24 Fri>
 https://github.com/karthink/gptel-agent
 
-** DONE Use libghostty instead of libvterm
-SCHEDULED: <2026-05-21 Thu>
-https://github.com/dakra/ghostel
-https://github.com/rwc9u/emacs-libgterm
-
 ** TODO scrcpy for Emacs
 
 ** TODO Make image scroll smooth
@@ -71,6 +66,10 @@ https://github.com/hoodie/notify-rust
 ** TODO Calendar support for Email
 [[https://www.reddit.com/r/emacs/comments/vowjto/accept_ms_teams_calendar_invites_in_notmuch/][Accept MS Teams calendar invites in notmuch]]
 
+** TODO mu4e context
+SCHEDULED: <2025-10-27 Mon>
+https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
+
 ** STRT beancount 学习记账
 SCHEDULED: <2024-12-26 Thu>
 https://github.com/polarmutex/beancount-language-server
@@ -103,8 +102,4 @@ homeassistant
 
 ** IDEA Agent for emacs
 之后可能尝试在 emacs 里实现一个更原生的 agent loop，不局限于现在 gptel-agent 和 基于 acp 的 agent-shell 感觉可能性会更大
-
-** TODO mu4e context
-SCHEDULED: <2025-10-27 Mon>
-https://www.djcbsoftware.nl/code/mu/mu4e/Contexts-example.html
 

@@ -1,19 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO Improve gptel-model-updater
-SCHEDULED: <2026-05-24 Sun>
-https://github.com/karthink/gptel/issues/1330#issuecomment-4526729014
-
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
-
-* IDEA OpenCourse
-SCHEDULED: <2026-05-20 Wed>
-
-* DONE Setup OpenCode
-SCHEDULED: <2026-05-20 Wed>
-https://github.com/kdcokenny/opencode-notify
 
 * TODO Setup Air
 SCHEDULED: <2026-05-25 Mon>
@@ -21,20 +10,12 @@ SCHEDULED: <2026-05-25 Mon>
 * TODO Setup Warp
 SCHEDULED: <2026-05-23 Sat>
 
-* KILL 带口罩到车上
-SCHEDULED: <2026-05-24 Sun>
-
 * TODO Use sing-box on iOS
 SCHEDULED: <2026-04-15 Wed>
 https://github.com/seiry/sing-box-for-apple
 
 * TODO Write go-template-ts mode
 SCHEDULED: <2026-04-14 Tue>
-
-* STRT Use ob-mermaid and mermaid-rs-renderer
-SCHEDULED: <2026-04-07 Tue>
-https://github.com/arnm/ob-mermaid
-https://github.com/1jehuang/mermaid-rs-renderer
 
 * TODO 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
@@ -55,11 +36,6 @@ https://github.com/hicccc77/WeFlow
 ** TODO 云部署微信
 SCHEDULED: <2026-04-13 Mon>
 https://github.com/nickrunning/wechat-selkies
-
-* IDEA 中午吃什么 App
-- 自动导入周边商场
-- 获取排队情况
-- 点评信息
 
 * TODO 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
@@ -278,24 +254,15 @@ https://github.com/freqtrade/freqtrade
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 
+* STRT Use ob-mermaid and mermaid-rs-renderer
+SCHEDULED: <2026-04-07 Tue>
+https://github.com/arnm/ob-mermaid
+https://github.com/1jehuang/mermaid-rs-renderer
+
 * STRT 学习 Rust
 SCHEDULED: <2026-05-19 Tue>
 https://github.com/google/comprehensive-rust
 https://google.github.io/comprehensive-rust/index.html
-
-* KILL 准备 Android 面试
-SCHEDULED: <2026-01-20 Tue>
-[[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
-[[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
-[[https://www.nowcoder.com/feed/main/detail/58f5e6c68560474eac91eb31359e76cb?sourceSSR=users][字节十三面（附面经），终于战胜...（上）_牛客网]]
-[[https://www.nowcoder.com/feed/main/detail/90350bbd3c724f4e93a6f5352dc19e33?sourceSSR=users][字节十三面（附面经），终于战胜...（下）_牛客网]]
-[[https://www.nowcoder.com/experience/642][牛客网 - 安卓工程师精选面经合集]]
-[[https://github.com/jinguangyue/Android-Advanced-Interview][GitHub - jinguangyue/Android-Advanced-Interview: 只针对 Android 高级开发整理的面试题以及答案，我...]]
-[[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
-[[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
-[[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
-[[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
-[[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
 
 * STRT 刷算法题
 SCHEDULED: <2025-12-02 Tue>
@@ -314,3 +281,28 @@ CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
 [[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
 - 添加机器人项目经历
 - 修改英文简历
+* IDEA OpenCourse
+SCHEDULED: <2026-05-20 Wed>
+
+* IDEA 中午吃什么 App
+- 自动导入周边商场
+- 获取排队情况
+- 点评信息
+
+* KILL 带口罩到车上
+SCHEDULED: <2026-05-24 Sun>
+
+* KILL 准备 Android 面试
+SCHEDULED: <2026-01-20 Tue>
+[[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
+[[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
+[[https://www.nowcoder.com/feed/main/detail/58f5e6c68560474eac91eb31359e76cb?sourceSSR=users][字节十三面（附面经），终于战胜...（上）_牛客网]]
+[[https://www.nowcoder.com/feed/main/detail/90350bbd3c724f4e93a6f5352dc19e33?sourceSSR=users][字节十三面（附面经），终于战胜...（下）_牛客网]]
+[[https://www.nowcoder.com/experience/642][牛客网 - 安卓工程师精选面经合集]]
+[[https://github.com/jinguangyue/Android-Advanced-Interview][GitHub - jinguangyue/Android-Advanced-Interview: 只针对 Android 高级开发整理的面试题以及答案，我...]]
+[[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
+[[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
+[[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
+[[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
+[[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
+

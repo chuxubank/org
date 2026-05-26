@@ -3310,6 +3310,26 @@ SCHEDULED: <2026-05-22 Fri>
 :END:
 - https://github.com/openai/plugins/tree/main/plugins/test-android-apps/skills/android-emulator-qa
 
+** DONE Improve gptel-model-updater
+SCHEDULED: <2026-05-24 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-26 Tue 22:04
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/karthink/gptel/issues/1330#issuecomment-4526729014
+
+** DONE Setup OpenCode
+SCHEDULED: <2026-05-20 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-26 Tue 22:04
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/kdcokenny/opencode-notify
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
@@ -4556,6 +4576,18 @@ SCHEDULED: <2025-11-28 Fri>
 :ARCHIVE_TODO: DONE
 :END:
 [[file:~/.config/emacs/cats/+git-misc.el::(use-package git-timemachine]]
+
+** DONE Use libghostty instead of libvterm
+SCHEDULED: <2026-05-21 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-05-26 Tue 22:03
+:ARCHIVE_FILE: ~/Developer/Personal/org/emacs.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: emacs
+:ARCHIVE_TODO: DONE
+:END:
+https://github.com/dakra/ghostel
+https://github.com/rwc9u/emacs-libgterm
 
 * From place.org
 
