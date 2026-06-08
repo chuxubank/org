@@ -1153,11 +1153,12 @@ SCHEDULED: <2026-06-19 Fri .+2m>
 - State "KILL"       from "TODO"       [2022-02-10 Thu 11:48]
 - State "DONE"       from "TODO"       [2022-01-26 Wed 10:03]
 * TODO Scalp massage
-SCHEDULED: <2026-05-25 Mon 22:00 .+1d>
+SCHEDULED: <2026-06-09 Tue 22:00 .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-05-24 Sun 22:09]
+:LAST_REPEAT: [2026-06-08 Mon 22:47]
 :END:
+- State "DONE"       from "TODO"       [2026-06-08 Mon 22:47]
 - State "DONE"       from "TODO"       [2026-05-24 Sun 22:09]
 - State "DONE"       from "TODO"       [2026-05-19 Tue 22:54]
 - State "DONE"       from "TODO"       [2026-05-17 Sun 21:37]
