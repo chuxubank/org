@@ -4,7 +4,7 @@
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
 
-* TODO Setup Air
+* KILL Setup Air
 SCHEDULED: <2026-05-25 Mon>
 
 * DONE Setup Warp
