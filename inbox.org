@@ -7,7 +7,7 @@ SCHEDULED: <2026-05-24 Sun>
 * TODO Setup Air
 SCHEDULED: <2026-05-25 Mon>
 
-* TODO Setup Warp
+* DONE Setup Warp
 SCHEDULED: <2026-05-23 Sat>
 
 * TODO Use sing-box on iOS
