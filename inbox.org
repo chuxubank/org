@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 预约小青龙（楼上火锅）
+DEADLINE: <2026-06-18 Thu>
+
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
 
