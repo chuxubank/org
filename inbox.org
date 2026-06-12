@@ -118,7 +118,7 @@ https://context7.com/dashboard
 
 *** TODO Raycast
 
-**** TODO Add raycast settings to chezmoi
+**** DONE Add raycast settings to chezmoi
 SCHEDULED: <2026-05-21 Thu>
 
 *** TODO Kiro CLI

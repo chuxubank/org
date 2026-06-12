@@ -12,7 +12,7 @@ https://kristofferbalintona.me/posts/202505291438/
 https://marek-g.github.io/posts/tips_and_tricks/emacs_on_android/
 
 ** TODO Compose Preview on Emacs
-SCHEDULED: <2026-05-21 Thu>
+SCHEDULED: <2026-06-15 Mon>
 https://docs.gradle.org/current/userguide/init_scripts.html
 https://cashapp.github.io/paparazzi/
 https://www.jetbrains.com/help/kotlin-multiplatform-dev/amper.html
