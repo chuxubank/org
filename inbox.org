@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Ktor Template
+https://start.ktor.io/settings?name=server&website=opentactic.com&artifact=com.opentactic.server&kotlinVersion=2.4.0&ktorVersion=3.5.0&buildSystem=GRADLE_KTS&buildSystemArgs.version_catalog=true&engine=NETTY&configurationIn=YAML&addSampleCode=true&plugins=io.ktor%252Fserver-core%252Cio.ktor%252Fserver-openapi%252Cio.ktor%252Fserver-auth%252Cio.ktor%252Fserver-request-validation%252Cio.ktor%252Fserver-call-logging%252Cio.ktor%252Fserver-status-pages%252Cio.ktor%252Fserver-resources%252Corg.jetbrains%252Fserver-koog%252Cio.ktor%252Fserver-kotlinx-serialization%252Cio.ktor%252Fserver-content-negotiation%252Corg.jetbrains%252Fserver-exposed
+
 * TODO 预约小青龙（楼上火锅）
 DEADLINE: <2026-06-18 Thu>
 
