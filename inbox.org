@@ -1,6 +1,10 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO mpv on emacs
+https://github.com/bpanthi977/org-mpv-notes
+https://github.com/isamert/empv.el
+https://github.com/lorniu/mpvi
 * KILL 预约小青龙（楼上火锅）
 SCHEDULED: <2026-06-15 Mon> DEADLINE: <2026-06-18 Thu>
 
