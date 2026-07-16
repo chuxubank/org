@@ -646,6 +646,22 @@ SCHEDULED: <2026-06-06 Sat .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-22 Sun 22:34]
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
+
+** TODO 开合跳 30
+SCHEDULED: <2026-07-16 Thu>
+
+** TODO 同侧提膝 60
+SCHEDULED: <2026-07-16 Thu>
+
+** TODO 胯下击掌 30
+SCHEDULED: <2026-07-16 Thu>
+
+** TODO 深蹲 20
+SCHEDULED: <2026-07-16 Thu>
+
+** TODO 登山跑 100
+SCHEDULED: <2026-07-16 Thu>
+
 * TODO Shave
 SCHEDULED: <2026-07-02 Thu 07:15 .+4d/6d>
 :PROPERTIES:
