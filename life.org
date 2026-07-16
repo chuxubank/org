@@ -463,11 +463,12 @@ SCHEDULED: <2026-05-12 Tue .+2d/5d>
 - State "DONE"       from "TODO"       [2021-08-11 Wed 22:52]
 - State "DONE"       from "TODO"       [2021-08-10 Tue 07:22]
 * TODO Do exercise
-SCHEDULED: <2026-06-06 Sat .+2d/3d>
+SCHEDULED: <2026-07-18 Sat .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-06-04 Thu 22:39]
+:LAST_REPEAT: [2026-07-17 Fri 00:08]
 :STYLE: habit
 :END:
+- State "DONE"       from "TODO"       [2026-07-17 Fri 00:08]
 - State "DONE"       from "TODO"       [2026-06-04 Thu 22:39]
 - State "DONE"       from "TODO"       [2026-05-10 Sun 21:13]
 - State "DONE"       from "TODO"       [2026-04-19 Sun 20:38]
@@ -647,35 +648,17 @@ SCHEDULED: <2026-06-06 Sat .+2d/3d>
 - State "DONE"       from "TODO"       [2021-08-20 Fri 22:21]
 - State "DONE"       from "TODO"       [2021-08-17 Tue 23:46]
 
-** TODO 开合跳 30
-SCHEDULED: <2026-07-16 Thu .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:END:
+http://xhslink.com/o/1D0XTU0JvTB
 
-** TODO 同侧提膝 60
-SCHEDULED: <2026-07-16 Thu .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:END:
+** 开合跳 30
 
-** TODO 胯下击掌 30
-SCHEDULED: <2026-07-16 Thu .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:END:
+** 同侧提膝 60
 
-** TODO 深蹲 20
-SCHEDULED: <2026-07-16 Thu .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:END:
+** 胯下击掌 30
 
-** TODO 登山跑 100
-SCHEDULED: <2026-07-16 Thu .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:END:
+** 深蹲 20
+
+** 登山跑 100
 
 * TODO Shave
 SCHEDULED: <2026-07-02 Thu 07:15 .+4d/6d>
