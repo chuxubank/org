@@ -1,5 +1,5 @@
 #+TITLE: Music
-* KILL Take care guitar
+* TODO Take care guitar
 SCHEDULED: <2021-09-03 Fri .+0w/2w>
 :PROPERTIES:
 :STYLE:    habit
@@ -41,8 +41,27 @@ DEADLINE: <2027-04-01 Thu>
 最后三个 Take Over 分别对应 查尔斯，马克，4068
 ** TODO 制作音乐动画
 [[https://www.youtube.com/watch?v=dJf4wCdLU18][心予報 - Eve MV - YouTube]]
+
+* TODO 言って
+SCHEDULED: <2026-08-07 Fri>
+[[bili:BV1zh4y1S7WS][【教学】手把手教你弹 ヨルシカ「言って」Yorushika <说吧。> 夜鹿 吉他谱 日摇 电吉他 伴奏 SOLO 吉他教学 摇滚史密斯]]
+
+* TODO ただ君に晴れ
+SCHEDULED: <2026-08-07 Fri>
+[[https://www.songsterr.com/a/wsa/yorushika-tada-kimi-no-hare-whitedays-tab-s4336199][Tada Kimi no Hare (White:Days) Tab]]
+
+* TODO 藍二乗
+SCHEDULED: <2026-08-08 Sat>
+[[bili:BV1uenuzCEJJ][【教学】手把手教你弹 「蓝二乘」ヨルシカ 藍二乗 Yorushika 吉他谱 拿不拿 电吉他教学 伴奏 SOLO 吉他教学 Rocksmith 五声音阶]]
+
 * TODO Apple Music 经典摇滚
 [2021-03-24 Wed 21:21]
 https://music.apple.com/cn/curator/apple-music-%E7%BB%8F%E5%85%B8%E6%91%87%E6%BB%9A/976439531
+
 * TODO neo soul progression
 
+* TODO Guitar Effect
+SCHEDULED: <2026-08-07 Fri>
+[[https://zhuanlan.zhihu.com/p/645169204][如何搭建「顶级电吉他音色」？吉他【音色链】全解指南]]
+
+[[bili:BV1W9LG6UEvT][mini效果器也能调出玻璃质感？教你用ampero mini做出emogaze的经典音色]]
