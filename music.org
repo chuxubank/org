@@ -1,10 +1,11 @@
 #+TITLE: Music
 * TODO Take care guitar
-SCHEDULED: <2021-09-03 Fri .+0w/2w>
+SCHEDULED: <2026-08-09 Sun .+1w/2w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2021-08-27 Fri 11:50]
+:LAST_REPEAT: [2026-08-02 Sun 10:21]
 :END:
+- State "DONE"       from "TODO"       [2026-08-02 Sun 10:21]
 - State "KILL"       from "TODO"       [2021-08-27 Fri 11:50]
 - State "DONE"       from "TODO"       [2021-08-19 Thu 22:21]
 - State "DONE"       from "TODO"       [2021-07-12 Mon 23:06]
