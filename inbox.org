@@ -6,17 +6,8 @@ https://github.com/bpanthi977/org-mpv-notes
 https://github.com/isamert/empv.el
 https://github.com/lorniu/mpvi
 
-* KILL 预约小青龙（楼上火锅）
-SCHEDULED: <2026-06-15 Mon> DEADLINE: <2026-06-18 Thu>
-
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
-
-* KILL Setup Air
-SCHEDULED: <2026-05-25 Mon>
-
-* DONE Setup Warp
-SCHEDULED: <2026-05-23 Sat>
 
 * TODO Use sing-box on iOS
 SCHEDULED: <2026-04-15 Wed>
