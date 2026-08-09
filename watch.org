@@ -4,7 +4,7 @@
 #+link: imdb    https://www.imdb.com/title/%s
 #+link: tyys    https://www.tyys2.com/
 
-* 番剧 [7/38]
+* 番剧 [6/38]
 ** TODO 四叶游戏
 ** TODO 奇巧计程车
 ** TODO 化物语
@@ -59,8 +59,7 @@
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "STRT"       from "TODO"       [2025-05-12 Mon 08:03]
 [[imdb:tt0434706]]
-** KILL 重启咲良田
-CLOSED: [2022-05-05 Thu 21:24] SCHEDULED: <2022-05-01 Sun>
+** TODO 重启咲良田
 ** DONE 国王排名
 [[bili:md28235154]]
 ** DONE 时光代理人
@@ -74,7 +73,8 @@ SCHEDULED: <2018-04-06 Fri>
 以 [[明日之杖]] 为蓝本的精神续作
 ** DONE 葬送的芙莉莲
 ** DONE 怪兽 8 号
-* 电影 [2/8]
+* 电影 [2/9]
+** TODO 乱世佳人
 ** TODO 猫鼠游戏
 ** TODO Don't Look Up
 ** TODO 低俗小说
