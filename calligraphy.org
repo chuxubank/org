@@ -5,7 +5,7 @@
 # #+LATEX_HEADER: \setlength{\droptitle}{-3cm}
 #+LATEX_HEADER: \geometry{a4paper,hmargin=0.5in,vmargin=0.5in}
 #+LATEX_HEADER: \newcommand\specialsectioning{\setcounter{secnumdepth}{-2}}
-* 展览 [22/23]
+* 展览 [23/23]
 https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MjEwNzc3Ng==&hid=12
 ** DONE 第九届上海市书法篆刻大赛征稿启事
 DEADLINE: <2025-07-06 Sun>
@@ -648,7 +648,7 @@ https://mp.weixin.qq.com/s/xyaNfvbZPqz6nQKESiZOfw
 贫贱骄人，傲骨生成难改；英雄欺世，浪语必多不经。
 一池荷叶衣无尽，翻骄锦绣纂组；数亩松花食有余，绝胜钟鸣鼎食。
 
-** TODO 全国第三届楷书作品展览
+** KILL 全国第三届楷书作品展览
 https://mp.weixin.qq.com/s/ZbsyFvUqgU9XvY509JQIbw
 *** 释文
 **** 雨霖铃
