@@ -1,6 +1,14 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Agent 节省 token
+SCHEDULED: <2026-08-12 Wed>
+https://github.com/rtk-ai/rtk
+
+* TODO Multiplexer for Agent
+SCHEDULED: <2026-08-12 Wed>
+https://github.com/herdrdev/herdr
+
 * TODO mpv on emacs
 https://github.com/bpanthi977/org-mpv-notes
 https://github.com/isamert/empv.el
