@@ -63,7 +63,7 @@ https://music.apple.com/cn/curator/apple-music-%E7%BB%8F%E5%85%B8%E6%91%87%E6%BB
 * TODO neo soul progression
 
 * TODO Guitar Effect
-SCHEDULED: <2026-08-07 Fri>
+SCHEDULED: <2026-08-14 Fri>
 [[https://zhuanlan.zhihu.com/p/645169204][如何搭建「顶级电吉他音色」？吉他【音色链】全解指南]]
 
 [[bili:BV1W9LG6UEvT][mini效果器也能调出玻璃质感？教你用ampero mini做出emogaze的经典音色]]
