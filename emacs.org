@@ -17,11 +17,6 @@ https://docs.gradle.org/current/userguide/init_scripts.html
 https://cashapp.github.io/paparazzi/
 https://www.jetbrains.com/help/kotlin-multiplatform-dev/amper.html
 
-** TODO MCP for Emacs
-https://www.anthropic.com/news/model-context-protocol
-https://modelcontextprotocol.io/introduction
-https://aider.chat/docs/recordings/tree-sitter-language-pack.html
-
 ** TODO AI Agent for Emacs
 SCHEDULED: <2025-10-24 Fri>
 https://github.com/karthink/gptel-agent

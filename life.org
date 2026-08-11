@@ -661,11 +661,12 @@ http://xhslink.com/o/1D0XTU0JvTB
 ** 登山跑 100
 
 * TODO Shave
-SCHEDULED: <2026-08-10 Mon 07:15 .+4d/6d>
+SCHEDULED: <2026-08-14 Fri 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-08-06 Thu 23:59]
+:LAST_REPEAT: [2026-08-10 Mon 23:59]
 :END:
+- State "DONE"       from "TODO"       [2026-08-10 Mon 23:59]
 - State "DONE"       from "TODO"       [2026-08-06 Thu 23:59]
 - State "DONE"       from "TODO"       [2026-07-29 Wed 20:50]
 - State "DONE"       from "TODO"       [2026-06-28 Sun 23:59]

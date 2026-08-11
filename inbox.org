@@ -99,26 +99,14 @@ SCHEDULED: <2025-06-12 Thu>
 
 * TODO AI Agent
 
-** DONE MCP Server
+** TODO MCP Client [6/7]
 
-*** DONE Figma
-
-*** DONE Android Studio
-
-*** KILL Jira
-
-*** DONE Context7
-https://github.com/upstash/context7
-https://context7.com/dashboard
-
-** TODO MCP Client
-
-*** TODO Raycast
+*** KILL Raycast
 
 **** DONE Add raycast settings to chezmoi
 SCHEDULED: <2026-05-21 Thu>
 
-*** TODO Kiro CLI
+*** KILL Kiro CLI
 
 *** DONE Claude Code
 
@@ -133,10 +121,7 @@ CLOSED: [2025-12-01 Mon 18:36] SCHEDULED: <2025-10-23 Thu>
 https://block.github.io/goose/docs/guides/recipes/recipe-reference/
 https://block.github.io/goose/docs/guides/recipes/session-recipes/#configure-recipe-location
 
-*** TODO Emacs
-SCHEDULED: <2026-04-23 Thu>
-https://github.com/laurynas-biveinis/org-mcp
-https://github.com/laurynas-biveinis/elisp-dev-mcp
+*** TODO Emacs MCP Client
 https://github.com/lizqwerscott/mcp.el
 https://github.com/ahyatt/llm
 
@@ -165,7 +150,7 @@ SCHEDULED: <2025-02-17 Mon>
   gpg --import --pinentry-mode=loopback ~/storage/downloads/secret-keys.pgp
 #+end_src
 
-** TODO 使用 chezmoi 实现所有 agent 的 MCP/Skills 管理
+** TODO 使用 chezmoi 实现所有 agent 的 MCP/Skills 管理和 model 自动发现
 
 ** IDEA 打印邮箱中的发票
 可以使用 mu4e 进行筛选（正则）
