@@ -17,11 +17,11 @@ https://github.com/lorniu/mpvi
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
 
-* TODO Use sing-box on iOS
+* KILL Use sing-box on iOS
 SCHEDULED: <2026-04-15 Wed>
 https://github.com/seiry/sing-box-for-apple
 
-* TODO Write go-template-ts mode
+* DONE Write go-template-ts mode
 SCHEDULED: <2026-04-14 Tue>
 
 * TODO 沉浸式翻译配置加入 chezmoi
@@ -45,7 +45,7 @@ https://github.com/lurve1314/WeFlow
 SCHEDULED: <2026-04-13 Mon>
 https://github.com/nickrunning/wechat-selkies
 
-* TODO 开全币种信用卡
+* KILL 开全币种信用卡
 SCHEDULED: <2026-03-01 Sun>
 
 * TODO 更改经营范围
