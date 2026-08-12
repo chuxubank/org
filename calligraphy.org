@@ -937,6 +937,29 @@ SCHEDULED: <2023-05-13 Sat>
 2023 年上海市第八届草书书法作品展入展
 2023 年“周慧珺杯” 第七届上海市书法大赛优秀奖
 2024 年第十届上海市民艺术大展优秀奖
+
+** 信息 :crypt:
+-----BEGIN PGP MESSAGE-----
+
+hF4DHAI7aRBNu2ISAQdAchzBNpa7hQsKfnSbXkmhhpjqvniimayKb9srj464aCEw
+j+KIuGWrofIkjuFJBDp+aAydO2sp63/yGh20mTWC3g+lS90UFOgx2zv+U9ASSMjm
+hF4DeAnNi+D7LJYSAQdA1tuU9TQD/PkD4nVLv8eWJxy95ec5Sa69BWVrB05hwggw
+I1YSsGtOQcdj3WlFpZdnHtpD79wpCtpaNChTZ0KD65B+I4VyDANVCbs+rKRk8APe
+1OkBCQIQCJnyEGOQV03Lfo/VkMxkVBi24trF5HkIT6BOYeyBkxYSl+RhIGrmWBRl
+JUDBPwKflwy+TnCCTRAByTtF1FrWukN+9PYOKxEZr9BEphjvR8R/51e0C0Jb3rNz
+5n+ZCG6ZGcYum4+bDqdzelT0bqtRHm4kjETcwAYhCdDDheIEea6UhxifQiUvzAzO
+7/plhOZsujBOhR8SAZM8M+DQiNUGaCy7ItQMo+0f6cel2W2lSOJQaieRjAuSp3eb
+Ca4ZnxsDGzYOsSGC2TkIarpNNJllUJWQvYPA5klA4NvcIe4dExt8csiwC0XTVnjp
+wEf8qBzoaNlWwiSzLw54PLMr6VzmL72u+mmEL31JO7x+6DS1yu6xbw4GUPrsfz96
+zWUcmMKlB8HYgmkvq+i921eKKGczRuFFB1+WYIP5kWXM+tSCTLK2J14nlHeFRSjE
+zGlNugUXmeC2c2K9R9jf43G/tasmqSRbuRxy0g3Bac3TuK+CLc4ViXO78ghQW2CU
+eGGursQkHmtVue0VETzhscNlKe348ZAiTyiLUMig7tp0FIumA3IaZlGRf9og7CPi
+E0Q+1x+S2kBzklld5A7IrUdf8QFZqHoCXCdlJBxSyYBiDYogP8NAh60dGKcqqtpP
+hrag+hrdD0xIYnglxVd0h8dJlYN1ZQFBVZ+f5kh6v8AGiA/X8Ter4KkGJO2eGzFm
+sxE=
+=5mDa
+-----END PGP MESSAGE-----
+
 * Inbox
 ** KILL 篆隶学习
 ** TODO 怀素小草千字文
