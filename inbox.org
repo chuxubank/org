@@ -24,10 +24,10 @@ https://github.com/seiry/sing-box-for-apple
 * DONE Write go-template-ts mode
 SCHEDULED: <2026-04-14 Tue>
 
-* TODO 沉浸式翻译配置加入 chezmoi
+* DONE 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
-** WAIT Use kiss-translator replace immersive-translate
+* WAIT Use kiss-translator replace immersive-translate
 https://github.com/fishjar/kiss-translator
 If support macOS Safari
 
