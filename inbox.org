@@ -27,7 +27,10 @@ SCHEDULED: <2026-04-14 Tue>
 * DONE 沉浸式翻译配置加入 chezmoi
 SCHEDULED: <2026-04-01 Wed>
 
-* WAIT Use kiss-translator replace immersive-translate
+* DONE Use kiss-translator replace immersive-translate
+:PROPERTIES:
+:ID:       7F9A33AD-61BF-4DC7-96D0-A6671D5D9DA9
+:END:
 https://github.com/fishjar/kiss-translator
 If support macOS Safari
 
