@@ -250,8 +250,11 @@ https://github.com/freqtrade/freqtrade
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 
-* STRT Use ob-mermaid and mermaid-rs-renderer
+* DONE Use ob-mermaid and mermaid-rs-renderer
 SCHEDULED: <2026-04-07 Tue>
+:PROPERTIES:
+:ID:       F435C64A-6FF5-414D-866E-33969F55EDC3
+:END:
 https://github.com/arnm/ob-mermaid
 https://github.com/1jehuang/mermaid-rs-renderer
 
