@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Local LLM
+SCHEDULED: <2026-08-14 Fri>
+
 * DONE Agent 节省 token
 SCHEDULED: <2026-08-12 Wed>
 https://github.com/rtk-ai/rtk
