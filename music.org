@@ -43,25 +43,30 @@ DEADLINE: <2027-04-01 Thu>
 ** TODO 制作音乐动画
 [[https://www.youtube.com/watch?v=dJf4wCdLU18][心予報 - Eve MV - YouTube]]
 
-* STRT 言って
+* Guitar Songs
+** STRT 言って
 SCHEDULED: <2026-08-14 Fri>
 [[bili:BV1zh4y1S7WS][【教学】手把手教你弹 ヨルシカ「言って」Yorushika <说吧。> 夜鹿 吉他谱 日摇 电吉他 伴奏 SOLO 吉他教学 摇滚史密斯]]
 [[bili:BV1djS2YHEhQ][【【吉他教学 附谱】言って 说吧 吉他教学 夜鹿  Yorushika】]]
 
-* STRT ただ君に晴れ
+** STRT ただ君に晴れ
 SCHEDULED: <2026-08-14 Fri>
 [[https://www.bilibili.com/video/BV1sN4y1h7CV][【教学】手把手教你弹 (ただ君に晴れ) 夜鹿 Yorushika 仅予你晴天 只予你的晴天 吉他谱 日摇 电吉他 吉他教学 君晴 摇滚史密斯 ヨルシカ]]
 [[https://www.songsterr.com/a/wsa/yorushika-tada-kimi-no-hare-whitedays-tab-s4336199][Tada Kimi no Hare (White:Days) Tab]]
 
-* TODO 藍二乗
+** TODO 藍二乗
 SCHEDULED: <2026-08-15 Sat>
 [[bili:BV1uenuzCEJJ][【教学】手把手教你弹 「蓝二乘」ヨルシカ 藍二乗 Yorushika 吉他谱 拿不拿 电吉他教学 伴奏 SOLO 吉他教学 Rocksmith 五声音阶]]
 
-** TODO 五声音阶
+*** TODO 五声音阶
 SCHEDULED: <2026-08-17 Mon>
+[[https://www.bilibili.com/video/BV1Yjuh6NEiU][今天你练五声音阶了吗？]]
 
-*** TODO 音阶
+**** TODO 音阶
 [[https://www.bilibili.com/video/BV1Nf4y1i7Pf][五个大调音阶指型怎么记！！全网最详细讲解！保证不会忘！必学！]]
+
+** TODO God Knows
+[[https://www.bilibili.com/video/BV1FX4y177Be][就凭本豆这颜值现在出门也会前拥后堵但我不想太高调了]]
 
 * TODO Apple Music 经典摇滚
 [2021-03-24 Wed 21:21]
