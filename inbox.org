@@ -39,8 +39,8 @@ If support macOS Safari
 
 * TODO 探索 claude-code 的 office skills
 
-* TODO Dot 添加学期日历
-SCHEDULED: <2026-03-22 Sun>
+* STRT Dot 添加学期日历
+SCHEDULED: <2026-08-15 Sat>
 
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
