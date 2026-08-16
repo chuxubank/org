@@ -98,6 +98,6 @@ homeassistant
 ** IDEA Agent for emacs
 之后可能尝试在 emacs 里实现一个更原生的 agent loop，不局限于现在 gptel-agent 和 基于 acp 的 agent-shell 感觉可能性会更大
 
-** TODO Remove chatgpt-shell from Emacs
+** DONE Remove chatgpt-shell from Emacs
 SCHEDULED: <2026-08-16 Sun>
 

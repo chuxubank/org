@@ -1,7 +1,7 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO Use chezmoi modify script for ~warp~ config
+* DONE Use chezmoi modify script for ~warp~ config
 SCHEDULED: <2026-08-16 Sun>
 
 * TODO Local LLM
