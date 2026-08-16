@@ -1,15 +1,8 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* DONE Use chezmoi modify script for ~warp~ config
-SCHEDULED: <2026-08-16 Sun>
-
 * TODO Local LLM
 SCHEDULED: <2026-08-14 Fri>
-
-* DONE Agent 节省 token
-SCHEDULED: <2026-08-12 Wed>
-https://github.com/rtk-ai/rtk
 
 * TODO Multiplexer for Agent
 SCHEDULED: <2026-08-12 Wed>
@@ -23,27 +16,7 @@ https://github.com/lorniu/mpvi
 * TODO Setup ssh to use gpg key
 SCHEDULED: <2026-05-24 Sun>
 
-* KILL Use sing-box on iOS
-SCHEDULED: <2026-04-15 Wed>
-https://github.com/seiry/sing-box-for-apple
-
-* DONE Write go-template-ts mode
-SCHEDULED: <2026-04-14 Tue>
-
-* DONE 沉浸式翻译配置加入 chezmoi
-SCHEDULED: <2026-04-01 Wed>
-
-* DONE Use kiss-translator replace immersive-translate
-:PROPERTIES:
-:ID:       7F9A33AD-61BF-4DC7-96D0-A6671D5D9DA9
-:END:
-https://github.com/fishjar/kiss-translator
-If support macOS Safari
-
 * TODO 探索 claude-code 的 office skills
-
-* STRT Dot 添加学期日历
-SCHEDULED: <2026-08-15 Sat>
 
 * TODO 微信聊天记录分析
 SCHEDULED: <2026-03-15 Sun>
@@ -53,9 +26,6 @@ https://github.com/lurve1314/WeFlow
 ** TODO 云部署微信
 SCHEDULED: <2026-04-13 Mon>
 https://github.com/nickrunning/wechat-selkies
-
-* KILL 开全币种信用卡
-SCHEDULED: <2026-03-01 Sun>
 
 * TODO 更改经营范围
 SCHEDULED: <2026-04-20 Mon>
@@ -256,13 +226,8 @@ https://github.com/freqtrade/freqtrade
 Fuji Classic Negative
 https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
 
-* DONE Use ob-mermaid and mermaid-rs-renderer
-SCHEDULED: <2026-04-07 Tue>
-:PROPERTIES:
-:ID:       F435C64A-6FF5-414D-866E-33969F55EDC3
-:END:
-https://github.com/arnm/ob-mermaid
-https://github.com/1jehuang/mermaid-rs-renderer
+* STRT Dot 添加学期日历
+SCHEDULED: <2026-08-15 Sat>
 
 * STRT 学习 Rust
 SCHEDULED: <2026-05-19 Tue>
@@ -294,8 +259,12 @@ SCHEDULED: <2026-05-20 Wed>
 - 获取排队情况
 - 点评信息
 
-* KILL 带口罩到车上
-SCHEDULED: <2026-05-24 Sun>
+* KILL Use sing-box on iOS
+SCHEDULED: <2026-04-15 Wed>
+https://github.com/seiry/sing-box-for-apple
+
+* KILL 开全币种信用卡
+SCHEDULED: <2026-03-01 Sun>
 
 * KILL 准备 Android 面试
 SCHEDULED: <2026-01-20 Tue>
@@ -310,4 +279,12 @@ SCHEDULED: <2026-01-20 Tue>
 [[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
 [[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
 [[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
+
+* DONE Use ob-mermaid and mermaid-rs-renderer
+SCHEDULED: <2026-04-07 Tue>
+:PROPERTIES:
+:ID:       F435C64A-6FF5-414D-866E-33969F55EDC3
+:END:
+https://github.com/arnm/ob-mermaid
+https://github.com/1jehuang/mermaid-rs-renderer
 
