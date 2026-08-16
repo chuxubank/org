@@ -101,3 +101,6 @@ homeassistant
 ** DONE Remove chatgpt-shell from Emacs
 SCHEDULED: <2026-08-16 Sun>
 
+** TODO RESTful API Caller/Test in Emacs
+SCHEDULED: <2026-08-16 Sun>
+
