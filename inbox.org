@@ -1,6 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO Remove chatgpt-shell from Emacs
+SCHEDULED: <2026-08-16 Sun>
+
+* TODO Use chezmoi modify script for  ~warp~ config
+SCHEDULED: <2026-08-16 Sun>
+
 * TODO Local LLM
 SCHEDULED: <2026-08-14 Fri>
 
