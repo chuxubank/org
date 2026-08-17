@@ -1,6 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 更换手机壳
+SCHEDULED: <2026-08-17 Mon>
+
 * TODO 后备箱东西处理
 SCHEDULED: <2026-08-21 Fri>
 
@@ -293,4 +296,3 @@ SCHEDULED: <2026-04-07 Tue>
 :END:
 https://github.com/arnm/ob-mermaid
 https://github.com/1jehuang/mermaid-rs-renderer
-
