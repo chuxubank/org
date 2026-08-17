@@ -65,6 +65,9 @@ SCHEDULED: <2026-08-17 Mon>
 **** TODO 音阶
 [[https://www.bilibili.com/video/BV1Nf4y1i7Pf][五个大调音阶指型怎么记！！全网最详细讲解！保证不会忘！必学！]]
 
+**** TODO 音程
+[[https://www.bilibili.com/video/BV1sa411A7AE][你必须会音程度数，才能让你的吉他更上一层楼，仔细观看]]
+
 ** TODO God Knows
 [[https://www.bilibili.com/video/BV1FX4y177Be][就凭本豆这颜值现在出门也会前拥后堵但我不想太高调了]]
 
