@@ -1,6 +1,12 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
+* TODO 寻找可以用文本配置 Workspace 的 Agent Manager
+SCHEDULED: <2026-08-19 Wed>
+
+** TODO Emacs 中的 Activity 和 treemacs 也可以用同一套 chezmoi 模板配置 Workspace
+SCHEDULED: <2026-08-19 Wed>
+
 * IDEA GitHub Star manager
 SCHEDULED: <2026-08-19 Wed>
 
