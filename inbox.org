@@ -15,6 +15,9 @@ SCHEDULED: <2026-08-19 Wed>
 * IDEA GitHub Star manager
 SCHEDULED: <2026-08-19 Wed>
 
+* TODO 量衣柜、吃饭柜子尺寸
+SCHEDULED: <2026-08-19 Wed 21:00>
+
 * TODO 更换手机壳
 SCHEDULED: <2026-08-17 Mon>
 
