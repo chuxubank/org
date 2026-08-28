@@ -1,11 +1,9 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* TODO Inventory
-SCHEDULED: <2026-08-26 Wed>
-- AFI 和 EAS 只有 HF 有
-  + AFI 区分层架标
-- UHF 用自定义的方式区分层架标
+* IDEA RedNote Image Gen Market
+SCHEDULED: <2026-08-29 Sat>
+photo-abstract-editorial
 
 * STRT 寻找可以用文本配置 Workspace 的 Agent Manager
 SCHEDULED: <2026-08-19 Wed>
