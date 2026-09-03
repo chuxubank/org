@@ -1,6 +1,7 @@
 playground.org
 
 auto/
+.venv/
 
 *.html
 *.tex
