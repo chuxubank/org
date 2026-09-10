@@ -1,118 +1,13 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
 
-* IDEA RedNote Image Gen Market
-SCHEDULED: <2026-08-29 Sat>
-photo-abstract-editorial
-
-* STRT 寻找可以用文本配置 Workspace 的 Agent Manager
-SCHEDULED: <2026-08-19 Wed>
-:PROPERTIES:
-:ID:       387F8B7D-53F7-4357-96B2-2BD5123DF92A
-:END:
-
-Chosen: Herdr (https://github.com/herdrdev/herdr).
-Text-configured workspaces via chezmoi; plugin apply path is in this repo.
-** TODO Emacs 中的 Activity 和 treemacs 也可以用同一套 chezmoi 模板配置 Workspace
-SCHEDULED: <2026-08-19 Wed>
-
-* IDEA GitHub Star manager
-SCHEDULED: <2026-08-19 Wed>
-
-* DONE 量衣柜、吃饭柜子尺寸
-SCHEDULED: <2026-08-19 Wed 21:00>
-
-* DONE 更换手机壳
-SCHEDULED: <2026-08-17 Mon>
-
-* DONE 后备箱东西处理
-SCHEDULED: <2026-08-21 Fri>
-
-* DONE 盘点项目更新添加超高频（UHF）
-SCHEDULED: <2026-08-16 Sun>
-
-* TODO Local LLM
-SCHEDULED: <2026-08-14 Fri>
-
-* TODO Multiplexer for Agent
-SCHEDULED: <2026-08-12 Wed>
-https://github.com/herdrdev/herdr
-
-* TODO mpv on emacs
-https://github.com/bpanthi977/org-mpv-notes
-https://github.com/isamert/empv.el
-https://github.com/lorniu/mpvi
-
-* TODO Setup ssh to use gpg key
-SCHEDULED: <2026-05-24 Sun>
-
-* TODO 探索 claude-code 的 office skills
-
-* TODO 微信聊天记录分析
-SCHEDULED: <2026-03-15 Sun>
-https://github.com/hicccc77/WeFlow
-https://github.com/lurve1314/WeFlow
-
-** TODO 云部署微信
-SCHEDULED: <2026-04-13 Mon>
-https://github.com/nickrunning/wechat-selkies
-
-* TODO 更改经营范围
-SCHEDULED: <2026-04-20 Mon>
-
-* TODO 考取 GDE
-SCHEDULED: <2026-01-07 Wed>
-https://developers.google.com/community/experts#how_do_i_apply
-https://developers.google.com/static/community/experts/assets/GDE_Program_Application_Guide.pdf
-
-** Apply
-- https://g.dev/hamber
-  hamberluo@gmail.com
-- https://g.dev/panthole
-- https://g.dev/shixin
-- https://g.dev/qiaoyuang
-
-* TODO Homelab in 小窝
-SCHEDULED: <2026-03-01 Sun>
-
-* TODO 跨所有客户端的书签同步工具
-SCHEDULED: <2025-11-25 Tue>
-- Floccus
-- Raindrop.io
-
-** TODO 用 AI 创建根据文件修改 Safari 的浏览器插件
-SCHEDULED: <2025-12-09 Tue>
-
-* TODO Crypto Automation
-SCHEDULED: <2025-11-12 Wed>
-https://www.freqtrade.io/en/stable/
-https://github.com/ccxt/ccxt
-https://axiom.trade
-
 * TODO 备份手机中同步的电脑照片后删除
 1. 用电脑重新同步一个空白的照片文件夹
 2. 在 iPhone 上打开 iCloud 照片功能会自动删除所有从电脑同步的照片。
 
-* TODO 更新 HomeAssistant
-SCHEDULED: <2025-09-05 Fri>
-
-** TODO Update Frigate
-SCHEDULED: <2025-09-01 Mon>
-https://docs.frigate.video/integrations/home-assistant/
-https://github.com/blakeblackshear/frigate-hass-integration
-
-*** TODO Setup HACS
-https://www.hacs.xyz
-
 * TODO Android jks file from Pass
 
-* TODO 旅行路书
-SCHEDULED: <2025-08-07 Thu>
-
 * TODO Use Apple Container for OpenWrt
-
-* TODO 迁移照片
-SCHEDULED: <2025-06-12 Thu>
 
 * TODO AI Agent
 
@@ -158,6 +53,205 @@ https://kaihao.io/2018/mdict-to-macos-dictionary/
 https://github.com/jjgod/mac-dictionary-kit
 https://sspai.com/post/43155
 
+* TODO Conventions
+- https://keepachangelog.com/
+- https://semver.org/
+- https://www.conventionalcommits.org/
+
+* TODO 基于 TrueNAS 搭建 nextCloud 私有云
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+
+* TODO 整理 Download 文件夹
+:PROPERTIES:
+:BLOCKER:  previous-sibling
+:END:
+
+* TODO Coin Bot
+https://github.com/freqtrade/freqtrade
+
+* TODO 学习日语
+
+* TODO 国际驾照
+
+* TODO 学习拍照
+[[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
+Fuji Classic Negative
+https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
+
+* IDEA 中午吃什么 App
+- 自动导入周边商场
+- 获取排队情况
+- 点评信息
+
+* IDEA RedNote Image Gen Market
+SCHEDULED: <2026-08-29 Sat>
+photo-abstract-editorial
+
+* STRT 寻找可以用文本配置 Workspace 的 Agent Manager
+SCHEDULED: <2026-08-19 Wed>
+:PROPERTIES:
+:ID:       387F8B7D-53F7-4357-96B2-2BD5123DF92A
+:END:
+
+Chosen: Herdr (https://github.com/herdrdev/herdr).
+Text-configured workspaces via chezmoi; plugin apply path is in this repo.
+** TODO Emacs 中的 Activity 和 treemacs 也可以用同一套 chezmoi 模板配置 Workspace
+SCHEDULED: <2026-08-19 Wed>
+
+* IDEA GitHub Star manager
+SCHEDULED: <2026-08-19 Wed>
+
+* STRT Dot 添加学期日历
+SCHEDULED: <2026-08-15 Sat>
+
+* TODO Local LLM
+SCHEDULED: <2026-08-14 Fri>
+
+* TODO Multiplexer for Agent
+SCHEDULED: <2026-08-12 Wed>
+https://github.com/herdrdev/herdr
+
+* TODO Setup ssh to use gpg key
+SCHEDULED: <2026-05-24 Sun>
+
+* IDEA OpenCourse
+SCHEDULED: <2026-05-20 Wed>
+
+* STRT 学习 Rust
+SCHEDULED: <2026-05-19 Tue>
+https://github.com/google/comprehensive-rust
+https://google.github.io/comprehensive-rust/index.html
+
+* TODO 更改经营范围
+SCHEDULED: <2026-04-20 Mon>
+
+* KILL Use sing-box on iOS
+SCHEDULED: <2026-04-15 Wed>
+https://github.com/seiry/sing-box-for-apple
+
+* TODO 微信聊天记录分析
+SCHEDULED: <2026-03-15 Sun>
+https://github.com/hicccc77/WeFlow
+https://github.com/lurve1314/WeFlow
+
+** TODO 云部署微信
+SCHEDULED: <2026-04-13 Mon>
+https://github.com/nickrunning/wechat-selkies
+
+* TODO Homelab in 小窝
+SCHEDULED: <2026-03-01 Sun>
+
+* KILL 开全币种信用卡
+SCHEDULED: <2026-03-01 Sun>
+
+* KILL 准备 Android 面试
+SCHEDULED: <2026-01-20 Tue>
+[[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
+[[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
+[[https://www.nowcoder.com/feed/main/detail/58f5e6c68560474eac91eb31359e76cb?sourceSSR=users][字节十三面（附面经），终于战胜...（上）_牛客网]]
+[[https://www.nowcoder.com/feed/main/detail/90350bbd3c724f4e93a6f5352dc19e33?sourceSSR=users][字节十三面（附面经），终于战胜...（下）_牛客网]]
+[[https://www.nowcoder.com/experience/642][牛客网 - 安卓工程师精选面经合集]]
+[[https://github.com/jinguangyue/Android-Advanced-Interview][GitHub - jinguangyue/Android-Advanced-Interview: 只针对 Android 高级开发整理的面试题以及答案，我...]]
+[[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
+[[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
+[[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
+[[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
+[[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
+
+* TODO 考取 GDE
+SCHEDULED: <2026-01-07 Wed>
+https://developers.google.com/community/experts#how_do_i_apply
+https://developers.google.com/static/community/experts/assets/GDE_Program_Application_Guide.pdf
+
+** Apply
+- https://g.dev/hamber
+  hamberluo@gmail.com
+- https://g.dev/panthole
+- https://g.dev/shixin
+- https://g.dev/qiaoyuang
+
+* STRT 刷算法题
+SCHEDULED: <2025-12-02 Tue>
+:LOGBOOK:
+CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
+:END:
+[[https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&order=difficulty&weeks=8][Grind 75 - A better Blind 75 you can customize, by the author of Blind 75]]
+
+** DONE 投递简历
+[[https://jobs.bytedance.com/referral/pc/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx][字节跳动 内推]]
+[[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
+[[https://app.mokahr.com/apply/tesla/68247?source=LinkedIn#/jobs?commitment%5B0%5D=全职&page=1&anchorName=jobsList&location%5B0%5D=上海市&keyword=App][Tesla 招聘]]
+[[https://www.accenture.com/cn-en/careers/jobdetails?id=13846044_en&src=LINKEDINJP#accordion-91a1f10331-item-aba13a9c6c][Android Developer Accenture]]
+
+** DONE 修改简历
+[[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
+- 添加机器人项目经历
+- 修改英文简历
+* TODO 跨所有客户端的书签同步工具
+SCHEDULED: <2025-11-25 Tue>
+- Floccus
+- Raindrop.io
+
+** TODO 用 AI 创建根据文件修改 Safari 的浏览器插件
+SCHEDULED: <2025-12-09 Tue>
+
+* TODO Crypto Automation
+SCHEDULED: <2025-11-12 Wed>
+https://www.freqtrade.io/en/stable/
+https://github.com/ccxt/ccxt
+https://axiom.trade
+
+* TODO 更新 HomeAssistant
+SCHEDULED: <2025-09-05 Fri>
+
+** TODO Update Frigate
+SCHEDULED: <2025-09-01 Mon>
+https://docs.frigate.video/integrations/home-assistant/
+https://github.com/blakeblackshear/frigate-hass-integration
+
+*** TODO Setup HACS
+https://www.hacs.xyz
+
+* TODO 旅行路书
+SCHEDULED: <2025-08-07 Thu>
+
+* TODO IPTV
+SCHEDULED: <2025-07-26 Sat>
+- Note taken on [2024-04-05 Fri 06:52] \\
+  https://github.com/lizongying/my-tv
+
+* TODO 迁移照片
+SCHEDULED: <2025-06-12 Thu>
+
+* TODO 重构 Ansible
+SCHEDULED: <2025-06-03 Tue>
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+https://github.com/IronicBadger/ansible-role-docker-compose-generator
+
+** TODO 使用 Ansible 优化 HomeLab
+:PROPERTIES:
+:TRIGGER:  next-sibling scheduled!("++0d")
+:END:
+https://docs.ansible.com/projects/ansible/latest/collections/community/proxmox/index.html
+https://docs.ansible.com/projects/ansible/latest/collections/community/proxmox/proxmox_module.html
+https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
+https://openwrt.org/docs/guide-user/additional-software/opkg
+
+*** TODO Setup OpenWrt
+SCHEDULED: <2025-11-15 Sat>
+:PROPERTIES:
+:TRIGGER: next-sibling scheduled!("++0d")
+:END:
+https://docs.ansible.com/projects/ansible/latest/collections/community/general/openwrt_init_module.html
+https://docs.ansible.com/projects/ansible/latest/collections/community/general/opkg_module.html
+
+*** TODO Lucky
+[[https://ljmeng.site/posts/16549/#SOHUCS][【教程】Lucky配合Cloudflare更安全的访问局域网服务 | 岂曰无衣的博客]]
+
 * TODO Blog
 https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
@@ -197,123 +291,3 @@ SCHEDULED: <2025-02-17 Mon>
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 
-* TODO 重构 Ansible
-SCHEDULED: <2025-06-03 Tue>
-:PROPERTIES:
-:TRIGGER:  next-sibling scheduled!("++0d")
-:END:
-https://github.com/IronicBadger/ansible-role-docker-compose-generator
-
-** TODO 使用 Ansible 优化 HomeLab
-:PROPERTIES:
-:TRIGGER:  next-sibling scheduled!("++0d")
-:END:
-https://docs.ansible.com/projects/ansible/latest/collections/community/proxmox/index.html
-https://docs.ansible.com/projects/ansible/latest/collections/community/proxmox/proxmox_module.html
-https://pve.proxmox.com/wiki/Proxmox_VE_API#API_URL
-https://openwrt.org/docs/guide-user/additional-software/opkg
-
-*** TODO Setup OpenWrt
-SCHEDULED: <2025-11-15 Sat>
-:PROPERTIES:
-:TRIGGER: next-sibling scheduled!("++0d")
-:END:
-https://docs.ansible.com/projects/ansible/latest/collections/community/general/openwrt_init_module.html
-https://docs.ansible.com/projects/ansible/latest/collections/community/general/opkg_module.html
-
-*** TODO Lucky
-[[https://ljmeng.site/posts/16549/#SOHUCS][【教程】Lucky配合Cloudflare更安全的访问局域网服务 | 岂曰无衣的博客]]
-
-* TODO Conventions
-- https://keepachangelog.com/
-- https://semver.org/
-- https://www.conventionalcommits.org/
-
-* TODO IPTV
-SCHEDULED: <2025-07-26 Sat>
-- Note taken on [2024-04-05 Fri 06:52] \\
-  https://github.com/lizongying/my-tv
-
-* TODO 基于 TrueNAS 搭建 nextCloud 私有云
-:PROPERTIES:
-:TRIGGER:  next-sibling scheduled!("++0d")
-:END:
-
-* TODO 整理 Download 文件夹
-:PROPERTIES:
-:BLOCKER:  previous-sibling
-:END:
-
-* TODO Coin Bot
-https://github.com/freqtrade/freqtrade
-
-* TODO 学习日语
-
-* TODO 国际驾照
-
-* TODO 学习拍照
-[[https://sspai.com/post/68186][泛用、简单、易出片——这款滤镜为照片增加胶片质感]]
-Fuji Classic Negative
-https://www.opaterny.com/notes/2015/1/12/get-classic-chrome-on-the-fujifilm-x100-and-x100s-with-this-lightroom-preset
-
-* STRT Dot 添加学期日历
-SCHEDULED: <2026-08-15 Sat>
-
-* STRT 学习 Rust
-SCHEDULED: <2026-05-19 Tue>
-https://github.com/google/comprehensive-rust
-https://google.github.io/comprehensive-rust/index.html
-
-* STRT 刷算法题
-SCHEDULED: <2025-12-02 Tue>
-:LOGBOOK:
-CLOCK: [2025-12-02 Tue 22:18]--[2025-12-02 Tue 22:40] =>  0:22
-:END:
-[[https://www.techinterviewhandbook.org/grind75/?difficulty=Medium&difficulty=Hard&difficulty=Easy&hours=8&order=difficulty&weeks=8][Grind 75 - A better Blind 75 you can customize, by the author of Blind 75]]
-
-** DONE 投递简历
-[[https://jobs.bytedance.com/referral/pc/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&token=MzsxNzEyODg4ODc0ODEwOzcyOTU1Njc4MzgzODc0MjI3NDY7MDsx][字节跳动 内推]]
-[[https://poizon.jobs.feishu.cn/referral/position?keywords=Android&category=&location=CT_125&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=&token=MzsxNzU0MDQzMjcyNTQwOzY4NTM5NjA2MDU1OTA2MTk2NTY7MDsxLzE][得物App内推]]
-[[https://app.mokahr.com/apply/tesla/68247?source=LinkedIn#/jobs?commitment%5B0%5D=全职&page=1&anchorName=jobsList&location%5B0%5D=上海市&keyword=App][Tesla 招聘]]
-[[https://www.accenture.com/cn-en/careers/jobdetails?id=13846044_en&src=LINKEDINJP#accordion-91a1f10331-item-aba13a9c6c][Android Developer Accenture]]
-
-** DONE 修改简历
-[[https://www.bilibili.com/video/BV1Lr421c7jV][大厂android framework工程师模拟面试/framework简历修改/面试题/经验总结直播_哔哩哔哩_bilibili]]
-- 添加机器人项目经历
-- 修改英文简历
-* IDEA OpenCourse
-SCHEDULED: <2026-05-20 Wed>
-
-* IDEA 中午吃什么 App
-- 自动导入周边商场
-- 获取排队情况
-- 点评信息
-
-* KILL Use sing-box on iOS
-SCHEDULED: <2026-04-15 Wed>
-https://github.com/seiry/sing-box-for-apple
-
-* KILL 开全币种信用卡
-SCHEDULED: <2026-03-01 Sun>
-
-* KILL 准备 Android 面试
-SCHEDULED: <2026-01-20 Tue>
-[[https://github.com/yangshun/tech-interview-handbook][GitHub - yangshun/tech-interview-handbook: Curated coding interview preparati...]]
-[[https://leetcode.cn/discuss/post/1772881/by-17190796468-dbgz/][字节跳动Android客户端实习 3+1 面经，内部面试官透露通关秘籍]]
-[[https://www.nowcoder.com/feed/main/detail/58f5e6c68560474eac91eb31359e76cb?sourceSSR=users][字节十三面（附面经），终于战胜...（上）_牛客网]]
-[[https://www.nowcoder.com/feed/main/detail/90350bbd3c724f4e93a6f5352dc19e33?sourceSSR=users][字节十三面（附面经），终于战胜...（下）_牛客网]]
-[[https://www.nowcoder.com/experience/642][牛客网 - 安卓工程师精选面经合集]]
-[[https://github.com/jinguangyue/Android-Advanced-Interview][GitHub - jinguangyue/Android-Advanced-Interview: 只针对 Android 高级开发整理的面试题以及答案，我...]]
-[[https://github.com/amitshekhariitbhu/android-interview-questions][GitHub - amitshekhariitbhu/android-interview-questions: Your Cheat Sheet For ...]]
-[[https://juejin.cn/post/7332048519157481491][2024年初Android面试总结（面经）话不多说，只上干货！ 基本信息 工作年限：硕4.5 面试准备时间：2023.1 - 掘金]]
-[[https://www.bilibili.com/opus/454535104748743277][Android面经：我是如何一举拿下阿里、抖音、等八家大厂offer成为面霸的]]
-[[https://tech.meituan.com/2018/06/14/waimai-android-crash.html][美团外卖Android Crash治理之路 - 美团技术团队]]
-[[https://tech.dewu.com/article?id=172][得物 Android Crash 治理实践]]
-
-* DONE Use ob-mermaid and mermaid-rs-renderer
-SCHEDULED: <2026-04-07 Tue>
-:PROPERTIES:
-:ID:       F435C64A-6FF5-414D-866E-33969F55EDC3
-:END:
-https://github.com/arnm/ob-mermaid
-https://github.com/1jehuang/mermaid-rs-renderer
