@@ -22,13 +22,13 @@ SCHEDULED: <2026-08-19 Wed>
 * DONE 量衣柜、吃饭柜子尺寸
 SCHEDULED: <2026-08-19 Wed 21:00>
 
-* TODO 更换手机壳
+* DONE 更换手机壳
 SCHEDULED: <2026-08-17 Mon>
 
-* TODO 后备箱东西处理
+* DONE 后备箱东西处理
 SCHEDULED: <2026-08-21 Fri>
 
-* TODO 盘点项目更新添加超高频（UHF）
+* DONE 盘点项目更新添加超高频（UHF）
 SCHEDULED: <2026-08-16 Sun>
 
 * TODO Local LLM
