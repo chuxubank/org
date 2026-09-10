@@ -104,3 +104,8 @@ SCHEDULED: <2026-08-16 Sun>
 ** TODO RESTful API Caller/Test in Emacs
 SCHEDULED: <2026-08-16 Sun>
 
+** TODO mpv on emacs
+https://github.com/bpanthi977/org-mpv-notes
+https://github.com/isamert/empv.el
+https://github.com/lorniu/mpvi
+
