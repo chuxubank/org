@@ -253,8 +253,8 @@ https://docs.ansible.com/projects/ansible/latest/collections/community/general/o
 [[https://ljmeng.site/posts/16549/#SOHUCS][【教程】Lucky配合Cloudflare更安全的访问局域网服务 | 岂曰无衣的博客]]
 
 * TODO Blog
-https://github.com/chuxubank/chuxubank.github.io
 SCHEDULED: <2025-02-17 Mon>
+https://github.com/chuxubank/chuxubank.github.io
 ** TODO GPG 相关密钥导出为 QR
 *** Android
 #+begin_src sh
@@ -291,3 +291,9 @@ SCHEDULED: <2025-02-17 Mon>
 - Note taken on [2025-04-22 Tue 16:01] \\
   https://x.com/digitalychee/status/1914556025170223371?s=46&t=hN2xsAOqv7K2si8OImIqAw
 
+* Luvus
+
+** TODO 添加指定 worktree 目录功能
+
+** TODO 开放 worktree 创建命令 (worktrunk)
+SCHEDULED: <2026-09-10 Thu>
