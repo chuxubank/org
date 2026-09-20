@@ -65,11 +65,12 @@ SCHEDULED: <2026-06-10 Wed 20:10 .+2d>
 - State "DONE"       from "TODO"       [2025-02-26 Wed 10:39]
 - State "DONE"       from "TODO"       [2025-02-24 Mon 09:04]
 * TODO Cut nails
-SCHEDULED: <2026-09-16 Wed 20:00 .+6d/9d>
+SCHEDULED: <2026-09-23 Wed 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-10 Thu 12:08]
+:LAST_REPEAT: [2026-09-17 Thu 12:31]
 :END:
+- State "DONE"       from "TODO"       [2026-09-17 Thu 12:31]
 - State "DONE"       from "TODO"       [2026-09-10 Thu 12:08]
 - State "DONE"       from "TODO"       [2026-07-15 Wed 10:02]
 - State "DONE"       from "TODO"       [2026-06-28 Sun 23:59]
@@ -664,11 +665,12 @@ http://xhslink.com/o/1D0XTU0JvTB
 ** 登山跑 100
 
 * TODO Shave
-SCHEDULED: <2026-09-20 Sun 07:15 .+4d/6d>
+SCHEDULED: <2026-09-24 Thu 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-16 Wed 18:00]
+:LAST_REPEAT: [2026-09-20 Sun 12:30]
 :END:
+- State "DONE"       from "TODO"       [2026-09-20 Sun 12:30]
 - State "DONE"       from "TODO"       [2026-09-16 Wed 18:00]
 - State "DONE"       from "TODO"       [2026-09-10 Thu 12:08]
 - State "DONE"       from "TODO"       [2026-08-10 Mon 23:59]
@@ -1245,11 +1247,12 @@ SCHEDULED: <2026-07-13 Mon .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2026-09-17 Thu 14:30 .+2d>
+SCHEDULED: <2026-09-20 Sun 14:30 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-15 Tue 18:00]
+:LAST_REPEAT: [2026-09-18 Fri 12:30]
 :END:
+- State "DONE"       from "TODO"       [2026-09-18 Fri 12:30]
 - State "DONE"       from "TODO"       [2026-09-15 Tue 18:00]
 - State "DONE"       from "TODO"       [2026-09-08 Tue 12:08]
 - State "DONE"       from "TODO"       [2026-08-13 Thu 09:19]

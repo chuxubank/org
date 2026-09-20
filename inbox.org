@@ -296,7 +296,3 @@ https://github.com/chuxubank/chuxubank.github.io
 
 * Luvus
 
-** KILL 添加指定 worktree 目录功能
-
-** TODO 开放 worktree 创建命令 (worktrunk)
-SCHEDULED: <2026-09-10 Thu>

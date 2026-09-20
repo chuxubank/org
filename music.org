@@ -46,21 +46,21 @@ DEADLINE: <2027-04-01 Thu>
 
 * Guitar Songs
 ** STRT 言って
-SCHEDULED: <2026-08-14 Fri>
+SCHEDULED: <2026-10-14 Wed>
 [[bili:BV1zh4y1S7WS][【教学】手把手教你弹 ヨルシカ「言って」Yorushika <说吧。> 夜鹿 吉他谱 日摇 电吉他 伴奏 SOLO 吉他教学 摇滚史密斯]]
 [[bili:BV1djS2YHEhQ][【【吉他教学 附谱】言って 说吧 吉他教学 夜鹿  Yorushika】]]
 
 ** STRT ただ君に晴れ
-SCHEDULED: <2026-08-14 Fri>
+SCHEDULED: <2026-10-14 Wed>
 [[https://www.bilibili.com/video/BV1sN4y1h7CV][【教学】手把手教你弹 (ただ君に晴れ) 夜鹿 Yorushika 仅予你晴天 只予你的晴天 吉他谱 日摇 电吉他 吉他教学 君晴 摇滚史密斯 ヨルシカ]]
 [[https://www.songsterr.com/a/wsa/yorushika-tada-kimi-no-hare-whitedays-tab-s4336199][Tada Kimi no Hare (White:Days) Tab]]
 
 ** TODO 藍二乗
-SCHEDULED: <2026-08-15 Sat>
+SCHEDULED: <2026-10-15 Thu>
 [[bili:BV1uenuzCEJJ][【教学】手把手教你弹 「蓝二乘」ヨルシカ 藍二乗 Yorushika 吉他谱 拿不拿 电吉他教学 伴奏 SOLO 吉他教学 Rocksmith 五声音阶]]
 
 *** TODO 五声音阶
-SCHEDULED: <2026-08-17 Mon>
+SCHEDULED: <2026-10-17 Sat>
 [[https://www.bilibili.com/video/BV1Yjuh6NEiU][今天你练五声音阶了吗？]]
 
 **** TODO 音阶
@@ -79,7 +79,7 @@ https://music.apple.com/cn/curator/apple-music-%E7%BB%8F%E5%85%B8%E6%91%87%E6%BB
 * TODO neo soul progression
 
 * TODO Guitar Effect
-SCHEDULED: <2026-08-14 Fri>
+SCHEDULED: <2026-10-14 Wed>
 [[https://zhuanlan.zhihu.com/p/645169204][如何搭建「顶级电吉他音色」？吉他【音色链】全解指南]]
 
 [[bili:BV1W9LG6UEvT][mini效果器也能调出玻璃质感？教你用ampero mini做出emogaze的经典音色]]

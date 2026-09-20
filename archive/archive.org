@@ -3506,6 +3506,25 @@ SCHEDULED: <2026-08-19 Wed 21:00>
 :ARCHIVE_TODO: DONE
 :END:
 
+** DONE 开放 worktree 创建命令 (worktrunk)
+SCHEDULED: <2026-09-10 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-20 Sun 12:31
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: Luvus
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+** KILL 添加指定 worktree 目录功能
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-09-20 Sun 12:32
+:ARCHIVE_FILE: ~/Developer/Personal/org/inbox.org
+:ARCHIVE_OLPATH: Luvus
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: KILL
+:END:
+
 * From watch.org :ARCHIVE:
 ** KILL 《我的姐姐》
 CLOSED: [2021-04-18 Sun 09:15] SCHEDULED: <2021-04-18 Sun>
