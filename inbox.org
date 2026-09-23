@@ -9,6 +9,8 @@ DEADLINE: <2026-10-31 Sat> SCHEDULED: <2026-10-25 Sun>
 - [ ] 主要获奖、入展情况
 - [ ] 周慧珺杯创作手记（300 字左右）
 
+* TODO 枯木生花 鲁迪
+SCHEDULED: <2026-09-23 Wed>
 * TODO TinyCast
 SCHEDULED: <2026-09-15 Tue>
 https://github.com/abue-ammar/tinycast
