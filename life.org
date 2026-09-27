@@ -668,11 +668,12 @@ http://xhslink.com/o/1D0XTU0JvTB
 ** 登山跑 100
 
 * TODO Shave
-SCHEDULED: <2026-09-24 Thu 07:15 .+4d/6d>
+SCHEDULED: <2026-10-01 Thu 07:15 .+4d/6d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-20 Sun 12:30]
+:LAST_REPEAT: [2026-09-27 Sun 14:57]
 :END:
+- State "DONE"       from "TODO"       [2026-09-27 Sun 14:57]
 - State "DONE"       from "TODO"       [2026-09-20 Sun 12:30]
 - State "DONE"       from "TODO"       [2026-09-16 Wed 18:00]
 - State "DONE"       from "TODO"       [2026-09-10 Thu 12:08]
@@ -1252,11 +1253,12 @@ SCHEDULED: <2026-07-13 Mon .+2w>
 - State "DONE"       from "TODO"       [2024-07-22 Mon 12:36]
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 * TODO Drink water
-SCHEDULED: <2026-09-27 Sun 14:30 .+2d>
+SCHEDULED: <2026-09-29 Tue 14:30 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-25 Fri 23:46]
+:LAST_REPEAT: [2026-09-27 Sun 14:57]
 :END:
+- State "DONE"       from "TODO"       [2026-09-27 Sun 14:57]
 - State "DONE"       from "TODO"       [2026-09-25 Fri 23:46]
 - State "DONE"       from "TODO"       [2026-09-18 Fri 12:30]
 - State "DONE"       from "TODO"       [2026-09-15 Tue 18:00]
