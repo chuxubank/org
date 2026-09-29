@@ -986,11 +986,12 @@ SCHEDULED: <2026-10-01 Thu 07:15 .+4d/6d>
 - State "DONE"       from "TODO"       [2022-01-19 Wed 09:13]
 - State "DONE"       from "TODO"       [2022-01-18 Tue 09:40]
 * TODO Clean Glasses
-SCHEDULED: <2026-09-28 Mon .+3d/5d>
+SCHEDULED: <2026-10-02 Fri .+3d/5d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-25 Fri 23:48]
+:LAST_REPEAT: [2026-09-29 Tue 10:24]
 :END:
+- State "DONE"       from "TODO"       [2026-09-29 Tue 10:24]
 - State "DONE"       from "TODO"       [2026-09-25 Fri 23:48]
 - State "DONE"       from "TODO"       [2026-09-16 Wed 18:02]
 - State "DONE"       from "TODO"       [2026-08-11 Tue 23:58]
