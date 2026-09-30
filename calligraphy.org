@@ -987,7 +987,7 @@ sxE=
 :ORGANIZER: 上海韩天衡文化艺术基金会、《新民晚报》社
 :RESULT:    入展
 :SCOPE:     国际
-:CALL:      https://mp.weixin.qq.com/s/SYyUXGkVeNQL2jA81Tzq9w?
+:CALL:      http://newsxmwb.xinmin.cn/wenyu/wh/2017/01/21/30783796.html
 :WINNERS:   https://mp.weixin.qq.com/s/EPHSJrkvCD57YqsVvl0BFw
 :END:
 
@@ -996,7 +996,6 @@ sxE=
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
 :SCOPE:     省级
-:CALL:      http://collection.sina.com.cn/zgsh/jgxx/2017-09-18/doc-ifykymue6992098.shtml
 :WINNERS:   http://www.shanghaishuxie.com/sxdt/381.html
 :END:
 
@@ -1005,7 +1004,6 @@ sxE=
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
 :SCOPE:     省级
-:WINNERS:   https://www.sohu.com/a/141645247_200821
 :END:
 
 *** 2018 年上海市第五届草书展
@@ -1021,7 +1019,6 @@ sxE=
 :ORGANIZER: 上海市志愿者协会、上海市机关书法家协会
 :RESULT:    入展
 :SCOPE:     省级
-:CALL:      https://mp.weixin.qq.com/s?src=11&timestamp=1639240233&ver=3490&signature=Nw3EqiGbSNLPWbt5EZCTYCuwIYAkhPMxIlhSWoiGzuQLTv98auir6vcQER34OwbooArGHRT3k-mtmLsUkMIxZrcaGCSRWIPOd6EdC8I3gPml-QS4z9CxWSNFObmF9-vG&new=1
 :END:
 
 *** 2018 年“讴歌新目标”闵行区书法作品报刊
@@ -1044,7 +1041,6 @@ sxE=
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
 :SCOPE:     省级
-:CALL:      http://www.eshufa.com/html/97/n-22397.html
 :WINNERS:   https://mp.weixin.qq.com/s/Caguv7etrgz3aIeyy-Fd5Q
 :END:
 
@@ -1070,7 +1066,6 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 山西省关心下一代工作委员会、山西省书法教育研究会
 :SCOPE:     全国
-:CALL:      http://www.cn5v.com/2020/03/16717.html
 :WINNERS:   http://www.sxggw.gov.cn/NewsDetail/2128008.html
 :END:
 
@@ -1102,8 +1097,6 @@ sxE=
 :ORGANIZER: 政协微山县委员会、济宁市书法家协会
 :RESULT:    入展
 :SCOPE:     全国
-:CALL:      http://www.dengdingsheng.com/?id=7819
-:WINNERS:   http://www.dengdingsheng.com/?id=8089
 :END:
 
 *** 2021 年第十届中国花博会上海市书法大赛
@@ -1145,7 +1138,6 @@ sxE=
 :RESULT:    入展
 :SCOPE:     省级
 :CALL:      https://mp.weixin.qq.com/s/-UsH4Nc5Cy4Ws-x-BYr44g
-:WINNERS:   http://www.dengdingsheng.com/?id=9052
 :END:
 
 *** 2022 年“奋进新征程”第九届上海市民艺术大展
@@ -1153,7 +1145,6 @@ sxE=
 :ORGANIZER: 上海市文化和旅游局、上海市文学艺术界联合会、杨浦区人民政府、奉贤区人民政府、静安区人民政府
 :RESULT:    三等奖
 :SCOPE:     省级
-:CALL:      https://mp.weixin.qq.com/s/G3gwdfcmBfKjvhdWrIwxcQ
 :END:
 
 *** 2022 年上海市第七届草书作品展
@@ -1162,7 +1153,6 @@ sxE=
 :RESULT:    优秀奖
 :SCOPE:     省级
 :CALL:      https://mp.weixin.qq.com/s/c8JmZlQtaiQFFDB85w6RVQ
-:WINNERS:   http://www.dengdingsheng.com/?id=9105
 :END:
 
 *** 2023 年“莘庄杯”上海市第二届书法小品展
@@ -1171,7 +1161,6 @@ sxE=
 :RESULT:    入展
 :SCOPE:     省级
 :CALL:      https://mp.weixin.qq.com/s/YU962exzi0SDOlXE1im-FA
-:WINNERS:   http://www.dengdingsheng.com/?id=9405
 :END:
 
 *** 2023 年上海市第十二届书法篆刻大展
@@ -1196,7 +1185,7 @@ sxE=
 :RESULT:    优秀奖
 :SCOPE:     省级
 :CALL:      https://mp.weixin.qq.com/s/IJytmfL2gmM94BmC7-P9aA
-:WINNERS:   http://www.dengdingsheng.com/?id=9380
+:WINNERS:   https://mp.weixin.qq.com/s/U8WxGSZFZyhKJfIWJG3xWQ
 :END:
 
 *** 2024 年第十届上海市民艺术大展
@@ -1204,7 +1193,6 @@ sxE=
 :ORGANIZER: 上海市文化和旅游局、上海市文学艺术界联合会、松江区人民政府
 :RESULT:    优秀奖
 :SCOPE:     省级
-:CALL:      https://mp.weixin.qq.com/s/A4gUZPZoeJxhuHk8DIfPmA
 :END:
 
 *** 2026 年第十一届上海市民艺术大展
