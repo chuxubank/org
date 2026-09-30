@@ -980,30 +980,41 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海韩天衡文化艺术基金会、《新民晚报》社
 :RESULT:    入展
+:SCOPE:     国际
+:CALL:      https://mp.weixin.qq.com/s/SYyUXGkVeNQL2jA81Tzq9w?
+:WINNERS:   https://mp.weixin.qq.com/s/EPHSJrkvCD57YqsVvl0BFw
 :END:
 
 *** 2017 年“周慧珺杯”上海市行书大赛
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:WINNERS:   http://www.shanghaishuxie.com/sxdt/381.html
 :END:
 
 *** 2017 年上海市第四届草书展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:WINNERS:   https://www.sohu.com/a/141645247_200821
 :END:
 
 *** 2018 年上海市第五届草书展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:WINNERS:   http://www.shanghaishuxie.com/sxzl/401.html
 :END:
 
 *** 2018 年善行天下上海市机关书法家协会第七届书法篆刻
 :PROPERTIES:
 :ORGANIZER: 上海市志愿者协会、上海市机关书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s?src=11&timestamp=1639240233&ver=3490&signature=Nw3EqiGbSNLPWbt5EZCTYCuwIYAkhPMxIlhSWoiGzuQLTv98auir6vcQER34OwbooArGHRT3k-mtmLsUkMIxZrcaGCSRWIPOd6EdC8I3gPml-QS4z9CxWSNFObmF9-vG&new=1
 :END:
 
 *** 2018 年“讴歌新目标”闵行区书法作品报刊
@@ -1016,29 +1027,42 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、上海周慧珺书法艺术基金会、上海市黄浦区文化和旅游局
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      http://www.shanghaishuxie.com/tggg/461.html
+:WINNERS:   https://mp.weixin.qq.com/s/_6d9hB-NVS0i35m2dS333A
 :END:
 
 *** 2019 年上海市第八届篆隶展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:WINNERS:   https://mp.weixin.qq.com/s/Caguv7etrgz3aIeyy-Fd5Q
 :END:
 
 *** 2020 年上海市书法小品展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    优秀提名奖
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/qYC2-sOra8zvlQdqAt7qvw
+:WINNERS:   https://mp.weixin.qq.com/s/5DufXZkZvuQLY4NZFKb_ZQ
 :END:
 
 *** 2020 年上海市第九届篆隶书法展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、上海市拥军优属基金会黄浦区工作委员会
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/yyWTzo-L3JvAXvPDhsdwdA
+:WINNERS:   https://mp.weixin.qq.com/s/xWpvtz7qq99Yn48cGAmbWQ
 :END:
 
 *** 2020 年‘劝学杯’全国大中小学教师篆隶书法作品展
 :PROPERTIES:
 :ORGANIZER: 山西省关心下一代工作委员会、山西省书法教育研究会
+:SCOPE:     全国
+:WINNERS:   http://www.sxggw.gov.cn/NewsDetail/2128008.html
 :END:
 
 *** 2020 年上海市第八届市民展
@@ -1057,6 +1081,9 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、上海市嘉定区文联
 :RESULT:    获奖
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/sQ7_paYLiEJBONwO4Ezu_w
+:WINNERS:   https://mp.weixin.qq.com/s/dh2dI42gFetKvQLLL5Bdag
 :END:
 
 *** 2021 年“微山湖奖”全国书法精品展
@@ -1069,6 +1096,9 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、崇明区文化和旅游局
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/uK923Tk3yvPV_fdyXn27xQ
+:WINNERS:   https://mp.weixin.qq.com/s/XfRd5-OB7qXO7KSGNZ68Pw
 :END:
 
 *** 2021 年首届中国农民书画大奖赛
@@ -1081,12 +1111,18 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、黄浦区文化和旅游局、上海周慧珺书法艺术基金会
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/wlILOoLSdiKXRPBrlXomig
+:WINNERS:   https://mp.weixin.qq.com/s/rsNkYxML17-mYPARrQ_aSQ
 :END:
 
 *** 2021 年上海市第六届草书展
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会
 :RESULT:    入展
+:SCOPE:     省级
+:CALL:      https://mp.weixin.qq.com/s/Bpd1JE-m6fFCFibF9hRLIQ
+:WINNERS:   https://mp.weixin.qq.com/s/J7L8mugAJvp_NukSaNeUTg
 :END:
 
 *** 2022 年“周慧珺杯” 上海中青年书法大赛
@@ -1147,6 +1183,8 @@ sxE=
 :PROPERTIES:
 :ORGANIZER: 上海市书法家协会、黄浦区文化和旅游局、上海周慧珺书法艺术基金会
 :RESULT:    前 20 名
+:CALL:      https://mp.weixin.qq.com/s/rnAgUBcB9Nt9VE42ev0Dsg
+:WINNERS:   https://mp.weixin.qq.com/s/9MsfPNK4ag14z5U-E2WzIA
 :END:
 
 * Inbox
