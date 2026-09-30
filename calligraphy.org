@@ -1145,7 +1145,7 @@ sxE=
 
 *** 2026 年“周慧珺杯” 第十届上海市书法篆刻大赛
 :PROPERTIES:
-:ORGANIZER: 未查到
+:ORGANIZER: 上海市书法家协会
 :RESULT:    前 20 名
 :END:
 
