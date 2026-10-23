@@ -5,6 +5,7 @@ SCHEDULED: <2026-10-02 Fri .+1w/2w>
 :STYLE:    habit
 :LAST_REPEAT: [2026-09-25 Fri 23:48]
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2026-09-25 Fri 23:48]
 - State "KILL"       from "TODO"       [2026-09-16 Wed 18:02]
 - State "DONE"       from "TODO"       [2026-08-02 Sun 10:21]
@@ -34,6 +35,7 @@ SCHEDULED: <2026-10-02 Fri .+1w/2w>
 - State "DONE"       from "TODO"       [2020-04-29 Wed 06:20]
 - State "DONE"       from "TODO"       [2020-04-21 Tue 08:08]
 - State "DONE"       from "TODO"       [2020-04-13 Mon 06:59]
+:END:
 * Project
 ** HOLD 制作 wowaka 印象曲
 DEADLINE: <2027-04-01 Thu>

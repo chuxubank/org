@@ -48,6 +48,7 @@
 :LAST_REPEAT: [2025-05-23 Fri 11:32]
 :REPEAT_TO_STATE: STRT
 :END:
+:LOGBOOK:
 - State "DONE"       from "STRT"       [2025-05-23 Fri 11:32]
 - State "DONE"       from "STRT"       [2025-05-23 Fri 11:30]
 - State "DONE"       from "STRT"       [2025-05-23 Fri 11:30]
@@ -58,6 +59,7 @@
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "DONE"       from "STRT"       [2025-05-13 Tue 15:10]
 - State "STRT"       from "TODO"       [2025-05-12 Mon 08:03]
+:END:
 [[imdb:tt0434706]]
 ** TODO 重启咲良田
 ** DONE 国王排名
@@ -83,7 +85,9 @@ SCHEDULED: <2018-04-06 Fri>
 ** TODO 洛城机密
 ** DONE 寻枪
 CLOSED: [2025-01-18 Sat 10:27]
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-01-18 Sat 10:27]
+:END:
 ** DONE 华尔街之狼
 * 电视 [1/8]
 ** TODO 请回答 1988

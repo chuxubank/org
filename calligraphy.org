@@ -168,7 +168,9 @@ CLOSED: [2022-08-30 Tue 12:24] SCHEDULED: <2022-08-27 Sat> DEADLINE: <2022-08-31
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-08-30 Tue 12:24]
+:END:
 https://mp.weixin.qq.com/s/-UsH4Nc5Cy4Ws-x-BYr44g
 *** 释文
 “侠”之一字，昔以之加意气，今以之加挥霍，只在气魄、气骨之分。
@@ -225,7 +227,9 @@ CLOSED: [2022-09-19 Mon 08:24] SCHEDULED: <2022-09-12 Mon> DEADLINE: <2022-09-20
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-09-19 Mon 08:24]
+:END:
 https://mp.weixin.qq.com/s/c8JmZlQtaiQFFDB85w6RVQ
 *** 释文
 万事皆易满足，惟读书终身无尽。人何不以不知足一念加之书？
@@ -267,7 +271,9 @@ https://mp.weixin.qq.com/s/gr3X8dCzvhTr_qVdVvis4A
 多方分别，是非之窦易开；一味圆融，人我之见不立。上可以陪玉皇大帝，下可以陪卑田院乞儿。
 ** DONE 第三届“卫夫人奖”全国书法篆刻作品展
 CLOSED: [2023-07-02 Sun 09:52] DEADLINE: <2023-07-10 Mon> SCHEDULED: <2023-06-29 Thu>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-07-02 Sun 09:52]
+:END:
 https://shhs.sxnu.edu.cn/info/1093/2791.htm
 *** 释文
 “侠”之一字，昔以之加意气，今以之加挥霍，只在气魄、气骨之分。
@@ -286,7 +292,9 @@ https://shhs.sxnu.edu.cn/info/1093/2791.htm
 幽居虽非绝世，而一切使令供俱，交游晤对之事。
 ** DONE [#A] 2023“书圣故里·中国临沂” 中国书法临书大会
 CLOSED: [2023-07-16 Sun 21:32] DEADLINE: <2023-07-20 Thu> SCHEDULED: <2023-07-01 Sat>
+:LOGBOOK:
 - State "DONE"       from "STRT"       [2023-07-16 Sun 21:32]
+:END:
 https://mp.weixin.qq.com/s/ZFf-o8lAcnlo0SBd4v211Q
 综合评审前 60 名作者（以公布名单为准），具备加入中国书法家协会的条件之一。
 六尺整张以内。
@@ -360,7 +368,9 @@ https://mp.weixin.qq.com/s/IJytmfL2gmM94BmC7-P9aA
 清疏畅快，月色最称风光；潇洒风流，花情何如柳态。
 ** KILL [#A] 2023“中国书法·年展”全国书法篆刻作品展
 CLOSED: [2023-09-18 Mon 10:53] SCHEDULED: <2023-09-08 Fri> DEADLINE: <2023-09-15 Fri>
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2023-09-18 Mon 10:53]
+:END:
 规格：
 书法：书法作品请投寄作品原件，尺寸为 6 尺整张（高 180cm，宽 96cm）以内，一律为竖式。小字类（单字字径一般在 2cm 以内）作品尺寸为 4 尺整张（高 138cm，宽 69cm）以内，一律为竖式。手卷作品尺寸为高 35cm 以内，长度 248cm 以内。册页作品成品尺寸每页高宽不超过 40cm，正文页数为 5—12 开（10—24 页）。手卷、册页作品入展数量一般不超过入展作品总数的 6%。
 信息填写：
@@ -372,7 +382,9 @@ CLOSED: [2023-09-18 Mon 10:53] SCHEDULED: <2023-09-08 Fri> DEADLINE: <2023-09-15
 https://mp.weixin.qq.com/s/j3Cb6Ph2Ow3rZHslVUDqGQ
 ** DONE [#A] 全国第三届手卷书法作品展
 CLOSED: [2023-10-06 Fri 23:34] SCHEDULED: <2023-09-09 Sat> DEADLINE: <2023-10-15 Sun>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-10-06 Fri 23:34]
+:END:
 高度不超过 35cm，长度不超过 248cm。
 请在作品背面最下方用铅笔正楷注明：投稿作者真实姓名、性别、身份证号、省份、通讯地址、邮编、联系电话（固定电话、手机）、内容是否自撰、是否退稿、书体、作品名称。所有投稿作品须附释文。
 https://mp.weixin.qq.com/s/Z7bzVwGzvO_vkNbeAYKHzg
@@ -442,7 +454,9 @@ https://mp.weixin.qq.com/s/Z7bzVwGzvO_vkNbeAYKHzg
 雪林初下瓦跳珠，归来冰颗乱黏鬚。
 ** DONE [#A] 第二届“白蕉奖”上海市书法篆刻作品展
 CLOSED: [2023-09-19 Tue 09:25] SCHEDULED: <2023-09-14 Thu> DEADLINE: <2023-09-20 Wed>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-19 Tue 09:25]
+:END:
 https://mp.weixin.qq.com/s/RAhOe-afEoxznOBDT3IEig
 “白蕉奖”奖金每人 3000 元（税前）
 *** 释文
@@ -769,7 +783,9 @@ SCHEDULED: <2023-03-17 Fri>
 其他自選內容也可以，謝謝！
 ** DONE 篆刻 小朋友姓名 苏俏微
 CLOSED: [2023-04-10 Mon 11:17] DEADLINE: <2023-04-10 Mon> SCHEDULED: <2023-04-08 Sat>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-10 Mon 11:17]
+:END:
 ** DONE 篆刻作业
 SCHEDULED: <2023-07-01 Sat>
 @所有人
@@ -785,7 +801,9 @@ SCHEDULED: <2023-07-01 Sat>
 思接千載
 ** DONE 篆刻作业
 CLOSED: [2023-06-18 Sun 12:59] SCHEDULED: <2023-05-01 Mon>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-18 Sun 12:59]
+:END:
 @所有人
 週六來的人，設計印稿 4 方
 ① 春長好
@@ -811,7 +829,9 @@ CLOSED: [2023-06-18 Sun 12:59] SCHEDULED: <2023-05-01 Mon>
 其他自選內容也可以，謝謝！
 ** DONE 篆刻 作业
 CLOSED: [2023-04-16 Sun 09:44] SCHEDULED: <2023-04-11 Tue>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-16 Sun 09:44]
+:END:
 
 @所有人
 週六來的人，設計印稿 4 方
@@ -822,7 +842,9 @@ CLOSED: [2023-04-16 Sun 09:44] SCHEDULED: <2023-04-11 Tue>
 其他自選內容也可以，謝謝！
 ** DONE 篆刻 作业
 CLOSED: [2023-04-16 Sun 09:44] SCHEDULED: <2023-04-11 Tue>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-16 Sun 09:44]
+:END:
 
 @所有人
 週六來的人，設計印稿 4 方
@@ -1220,6 +1242,7 @@ SCHEDULED: <2026-06-20 Sat ++2w>
 :PROPERTIES:
 :LAST_REPEAT: [2026-06-06 Sat 22:32]
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2026-06-06 Sat 22:32]
 - State "DONE"       from "TODO"       [2026-05-23 Sat 23:05]
 - State "KILL"       from "TODO"       [2026-05-10 Sun 21:39]
@@ -1259,6 +1282,7 @@ SCHEDULED: <2026-06-20 Sat ++2w>
 - State "DONE"       from "TODO"       [2024-11-21 Thu 08:48]
 - State "DONE"       from "TODO"       [2024-11-04 Mon 23:59]
 - State "DONE"       from "TODO"       [2024-10-21 Mon 16:51]
+:END:
 ** DONE 约稿
 **** 释文
 \specialsectioning

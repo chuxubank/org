@@ -273,8 +273,10 @@ CLOSED: [2022-10-17 Mon 20:06] SCHEDULED: <2022-09-28 Wed>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "KILL"       [2022-10-17 Mon 20:06]
 - State "KILL"       from "TODO"       [2022-09-30 Fri 08:59]
+:END:
 | Brand | Model       | Date | Price(CNY) | Duration    | Official | JD                |
 |-------+-------------+------+------------+-------------+----------+-------------------|
 | BOSS  | QC35 II     | 2017 |       1399 | 20h         |          | [[jd:5046941]]        |
@@ -291,7 +293,9 @@ CLOSED: [2022-09-01 Thu 08:02] SCHEDULED: <2022-06-17 Fri 20:00>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-09-01 Thu 08:02]
+:END:
 - NAS
 - IPTV
 - HomeAssistant Debian
@@ -304,7 +308,9 @@ CLOSED: [2022-11-10 Thu 20:00] DEADLINE: <2022-11-11 Fri> SCHEDULED: <2022-11-08
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-11-10 Thu 20:00]
+:END:
 ** DONE 浴巾
 CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :PROPERTIES:
@@ -313,7 +319,9 @@ CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+:END:
 ** DONE 抹布
 CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :PROPERTIES:
@@ -322,7 +330,9 @@ CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+:END:
 ** DONE 牙刷杯子
 CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :PROPERTIES:
@@ -331,7 +341,9 @@ CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-14 Fri 07:38]
+:END:
 ** DONE [#C] 买拖鞋
 CLOSED: <2023-04-14 Fri> SCHEDULED: <2022-08-01 Mon 19:00>
 :PROPERTIES:
@@ -340,7 +352,9 @@ CLOSED: <2023-04-14 Fri> SCHEDULED: <2022-08-01 Mon 19:00>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2022-09-02 Fri 02:31]
+:END:
 [2022-07-30 Sat 18:49]
 ** DONE [#B] 垃圾袋
 CLOSED: [2022-08-30 Tue 11:36] SCHEDULED: <2022-08-12 Fri>
@@ -350,7 +364,9 @@ CLOSED: [2022-08-30 Tue 11:36] SCHEDULED: <2022-08-12 Fri>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-08-30 Tue 11:36]
+:END:
 ** DONE 洗碗块
 CLOSED: [2022-11-01 Tue 20:32]
 :PROPERTIES:
@@ -359,7 +375,9 @@ CLOSED: [2022-11-01 Tue 20:32]
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-11-01 Tue 20:32]
+:END:
 ** DONE 湿纸巾
 SCHEDULED: <2023-04-17 Mon>
 :PROPERTIES:
@@ -427,7 +445,9 @@ CLOSED: [2023-06-21 Wed 07:54] SCHEDULED: <2023-06-19 Mon>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-21 Wed 07:54]
+:END:
 ** DONE 打印机
 SCHEDULED: <2023-11-11 Sat>
 :PROPERTIES:
@@ -452,8 +472,10 @@ CLOSED: [2023-05-04 Thu 19:54] SCHEDULED: <2023-04-25 Tue>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-04 Thu 19:54]
 - State "DONE"       from "TODO"       [2023-05-03 Wed 13:44]
+:END:
 ** DONE 洗手液
 CLOSED: [2023-05-04 Thu 19:59] SCHEDULED: <2023-04-25 Tue>
 :PROPERTIES:
@@ -462,7 +484,9 @@ CLOSED: [2023-05-04 Thu 19:59] SCHEDULED: <2023-04-25 Tue>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-04 Thu 19:59]
+:END:
 ** DONE 拖把
 CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
 :PROPERTIES:
@@ -471,7 +495,9 @@ CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+:END:
 ** DONE 扫帚
 CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
 :PROPERTIES:
@@ -480,7 +506,9 @@ CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+:END:
 ** DONE 晾衣服的杆子 [1/1]
 CLOSED: [2023-04-18 Tue 23:01] SCHEDULED: <2023-04-17 Mon>
 :PROPERTIES:
@@ -489,10 +517,14 @@ CLOSED: [2023-04-18 Tue 23:01] SCHEDULED: <2023-04-17 Mon>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-18 Tue 23:01]
+:END:
 *** DONE 卷尺
 CLOSED: [2023-04-17 Mon 23:53] SCHEDULED: <2023-04-17 Mon>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-17 Mon 23:53]
+:END:
 ** DONE 指甲剪
 CLOSED: [2023-04-17 Mon 23:54]
 :PROPERTIES:
@@ -501,7 +533,9 @@ CLOSED: [2023-04-17 Mon 23:54]
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-17 Mon 23:54]
+:END:
 ** DONE 砧板
 SCHEDULED: <2023-05-11 Thu>
 :PROPERTIES:
@@ -561,7 +595,9 @@ CLOSED: [2024-12-05 Thu 16:30] SCHEDULED: <2024-12-05 Thu 17:00>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-12-05 Thu 16:30]
+:END:
 - [X] 起酥 黄油可颂
 - [X] 坚果棒
 
@@ -665,7 +701,9 @@ CLOSED: [2025-11-19 Wed 18:07] SCHEDULED: <2025-08-11 Mon 14:00>
 :ARCHIVE_CATEGORY: buy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-11-19 Wed 18:07]
+:END:
 
 * From inbox.org :ARCHIVE:
 ** DONE org bibtex roam pdf
@@ -908,7 +946,9 @@ CLOSED: [2023-02-26 Sun 08:27] SCHEDULED: <2023-02-22 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-02-26 Sun 08:27]
+:END:
 ** DONE 将相机放到餐厅
 CLOSED: [2023-02-21 Tue 08:40] SCHEDULED: <2023-02-15 Wed>
 :PROPERTIES:
@@ -917,7 +957,9 @@ CLOSED: [2023-02-21 Tue 08:40] SCHEDULED: <2023-02-15 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-02-21 Tue 08:40]
+:END:
 ** DONE 篆刻
 CLOSED: [2023-02-12 Sun 18:34] SCHEDULED: <2023-02-11 Sat>
 :PROPERTIES:
@@ -926,7 +968,9 @@ CLOSED: [2023-02-12 Sun 18:34] SCHEDULED: <2023-02-11 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-02-12 Sun 18:34]
+:END:
 
 - Note taken on [2023-02-11 Sat 09:44] \\
   @所有人
@@ -943,7 +987,9 @@ CLOSED: [2022-09-30 Fri 21:33] SCHEDULED: <2022-09-26 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-09-30 Fri 21:33]
+:END:
 ** DONE [#A] 连接打印机
 CLOSED: [2022-08-14 Sun 14:20] SCHEDULED: <2022-08-14 Sun>
 :PROPERTIES:
@@ -968,8 +1014,10 @@ CLOSED: [2022-09-16 Fri 11:09] SCHEDULED: <2022-09-14 Wed> DEADLINE: <2022-09-18
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-09-16 Fri 11:09]
 - State "TODO"       from ""           [2022-08-30 Tue 18:36]
+:END:
 [2022-08-30 Tue 18:29]
 ** DONE 买电熨斗
 CLOSED: [2022-10-29 Sat 14:38] SCHEDULED: <2022-10-01 Sat>
@@ -979,7 +1027,9 @@ CLOSED: [2022-10-29 Sat 14:38] SCHEDULED: <2022-10-01 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-29 Sat 14:38]
+:END:
 [2022-09-09 Fri 22:35]
 ** DONE 预报名
 SCHEDULED: <2022-09-26 Mon>
@@ -998,7 +1048,9 @@ CLOSED: [2022-10-01 Sat 21:37] SCHEDULED: <2022-09-29>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-10-01 Sat 21:37]
+:END:
 [2022-09-29 Thu 19:39]
 ** DONE 买鞋子
 SCHEDULED: <2022-12-02>
@@ -1017,7 +1069,9 @@ CLOSED: [2023-01-05 Thu 00:44] SCHEDULED: <2023-01-04 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from ""           [2023-01-05 Thu 00:44]
+:END:
 [2023-01-04 Wed 18:23]
 ** DONE 京东白条还款
 DEADLINE: <2023-04-17 Mon>
@@ -1035,7 +1089,9 @@ CLOSED: [2023-04-11 Tue 07:54] SCHEDULED: <2023-04-09 Sun 09:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-11 Tue 07:54]
+:END:
 ** DONE 磨指甲
 CLOSED: [2023-03-27 Mon 07:47] SCHEDULED: <2023-03-24 Fri>
 :PROPERTIES:
@@ -1044,7 +1100,9 @@ CLOSED: [2023-03-27 Mon 07:47] SCHEDULED: <2023-03-24 Fri>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-03-27 Mon 07:47]
+:END:
 ** DONE HomeAssistant frigate 录像
 CLOSED: [2022-11-22 Tue 12:11] SCHEDULED: <2022-11-19 Sat>
 :PROPERTIES:
@@ -1053,7 +1111,9 @@ CLOSED: [2022-11-22 Tue 12:11] SCHEDULED: <2022-11-19 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2022-11-22 Tue 12:11]
+:END:
 ** KILL 预约保洁
 CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :PROPERTIES:
@@ -1062,7 +1122,9 @@ CLOSED: [2023-04-14 Fri 07:38] SCHEDULED: <2023-04-13 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2023-04-14 Fri 07:38]
+:END:
 ** KILL 检查青光眼
 :PROPERTIES:
 :ARCHIVE_TIME: 2023-04-14 Fri 23:03
@@ -1078,7 +1140,9 @@ CLOSED: [2023-02-26 Sun 08:28] SCHEDULED: <2022-11-19 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-02-26 Sun 08:28]
+:END:
 ** DONE 修复 GnuPG
 CLOSED: [2023-05-22 Mon 19:10] SCHEDULED: <2023-05-22 Mon>
 :PROPERTIES:
@@ -1087,7 +1151,9 @@ CLOSED: [2023-05-22 Mon 19:10] SCHEDULED: <2023-05-22 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-22 Mon 19:10]
+:END:
 *downgrade* GnuPG from 2.4.1 -> 2.4.0 fixed the problem.
 
 #+begin_src sh
@@ -1165,7 +1231,9 @@ CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-21 Sun>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-21 Sun 12:59]
+:END:
 ** DONE 携带口罩
 SCHEDULED: <2023-05-21 Sun>
 :PROPERTIES:
@@ -1182,7 +1250,9 @@ CLOSED: [2023-05-04 Thu 19:59] SCHEDULED: <2023-04-27 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-04 Thu 19:59]
+:END:
 ** DONE 带演唱会物品 [9/9]
 SCHEDULED: <2023-11-16 Thu 13:00>
 :PROPERTIES:
@@ -1217,7 +1287,9 @@ CLOSED: [2023-11-05 Sun 15:13] SCHEDULED: <2023-11-03 Fri>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-05 Sun 15:13]
+:END:
 ** DONE 修复网易云 Shortcut
 CLOSED: [2023-10-31 Tue 09:05] SCHEDULED: <2023-10-24 Tue>
 :PROPERTIES:
@@ -1226,7 +1298,9 @@ CLOSED: [2023-10-31 Tue 09:05] SCHEDULED: <2023-10-24 Tue>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-10-31 Tue 09:05]
+:END:
 ** DONE Track beorg tag issue
 CLOSED: [2023-10-10 Tue 09:17] SCHEDULED: <2023-10-09 Mon>
 :PROPERTIES:
@@ -1235,7 +1309,9 @@ CLOSED: [2023-10-10 Tue 09:17] SCHEDULED: <2023-10-09 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-10-10 Tue 09:17]
+:END:
 https://appsonthemove.freshdesk.com/support/discussions/topics/14000013560/
 ** DONE 接外公外婆
 CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
@@ -1245,7 +1321,9 @@ CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-29 Fri 11:55]
+:END:
 ** KILL 买水果
 CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
 :PROPERTIES:
@@ -1254,7 +1332,9 @@ CLOSED: [2023-09-29 Fri 11:55] SCHEDULED: <2023-09-28 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2023-09-29 Fri 11:55]
+:END:
 ** DONE 下载博世说明书
 CLOSED: [2023-10-03 Tue 08:46] SCHEDULED: <2023-09-23 Sat>
 :PROPERTIES:
@@ -1263,7 +1343,9 @@ CLOSED: [2023-10-03 Tue 08:46] SCHEDULED: <2023-09-23 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-10-03 Tue 08:46]
+:END:
 ** DONE 医保报销
 SCHEDULED: <2023-09-18 Mon>
 :PROPERTIES:
@@ -1306,6 +1388,7 @@ SCHEDULED: <2023-11-21 Tue 09:00 ++0w>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-14 Tue 09:24]
 - State "DONE"       from "TODO"       [2023-11-07 Tue 13:14]
 - State "DONE"       from "TODO"       [2023-10-31 Tue 09:05]
@@ -1319,6 +1402,7 @@ SCHEDULED: <2023-11-21 Tue 09:00 ++0w>
 - State "DONE"       from "TODO"       [2023-09-05 Tue 19:23]
 - State "DONE"       from "TODO"       [2023-08-29 Tue 11:20]
 - State "DONE"       from "TODO"       [2023-08-22 Tue 10:20]
+:END:
 [2023-08-16 Wed 09:14]
 ** DONE 兑换生馄饨
 CLOSED: [2023-11-29 Wed 19:23] SCHEDULED: <2023-11-28 Tue>
@@ -1328,7 +1412,9 @@ CLOSED: [2023-11-29 Wed 19:23] SCHEDULED: <2023-11-28 Tue>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-29 Wed 19:23]
+:END:
 [2023-11-27 Mon 09:56]
 ** DONE 询问桥接
 CLOSED: [2023-11-22 Wed 18:00] SCHEDULED: <2023-11-22 Wed>
@@ -1338,7 +1424,9 @@ CLOSED: [2023-11-22 Wed 18:00] SCHEDULED: <2023-11-22 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-22 Wed 18:00]
+:END:
 https://tcp.ping.pe/chuxubank.asuscomm.com:8443
 ** DONE 带土豆
 CLOSED: [2023-11-23 Thu 09:45] SCHEDULED: <2023-11-21 Tue>
@@ -1348,7 +1436,9 @@ CLOSED: [2023-11-23 Thu 09:45] SCHEDULED: <2023-11-21 Tue>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-23 Thu 09:45]
+:END:
 *** DONE 炸土豆
 SCHEDULED: <2023-11-21 Tue 18:30>
 ** DONE 创建个体户 [2/2]
@@ -1360,7 +1450,9 @@ SCHEDULED: <2023-11-04 Sat>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-16 Thu 10:53]
+:END:
 周家浜路 255 号
 - [X] 身份证
 - [X] 淘宝证明
@@ -1388,11 +1480,15 @@ CLOSED: [2023-12-14 Thu 20:29] SCHEDULED: <2023-12-14 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-14 Thu 20:29]
 - State "DONE"       from "TODO"       [2023-11-23 Thu 09:45]
+:END:
 *** DONE 炸土豆
 CLOSED: [2023-12-14 Thu 19:44] SCHEDULED: <2023-12-14 Thu 18:30>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-14 Thu 19:44]
+:END:
 ** DONE 机器人 Money
 SCHEDULED: <2023-08-10 Thu>
 :PROPERTIES:
@@ -1409,7 +1505,9 @@ CLOSED: [2023-12-14 Thu 12:37] SCHEDULED: <2023-12-14 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-14 Thu 12:37]
+:END:
 [2023-12-13 Wed 19:34]
 ** DONE 询问电子营业执照
 CLOSED: [2023-12-07 Thu 11:19] SCHEDULED: <2023-12-07 Thu 13:00>
@@ -1419,7 +1517,9 @@ CLOSED: [2023-12-07 Thu 11:19] SCHEDULED: <2023-12-07 Thu 13:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-07 Thu 11:19]
+:END:
 ** DONE 华心糖水
 CLOSED: [2023-12-14 Thu 19:44] SCHEDULED: <2023-12-14 Thu>
 :PROPERTIES:
@@ -1428,7 +1528,9 @@ CLOSED: [2023-12-14 Thu 19:44] SCHEDULED: <2023-12-14 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-14 Thu 19:44]
+:END:
 [2023-12-13 Wed 19:34]
 ** DONE 带螺丝钉和螺丝刀
 CLOSED: [2023-12-20 Wed 20:03] SCHEDULED: <2023-12-20 Wed>
@@ -1438,7 +1540,9 @@ CLOSED: [2023-12-20 Wed 20:03] SCHEDULED: <2023-12-20 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-20 Wed 20:03]
+:END:
 [2023-12-19 Tue 23:05]
 ** DONE 开 10k 发票
 SCHEDULED: <2024-01-08 Mon>
@@ -1562,8 +1666,10 @@ SCHEDULED: <2024-08-07 Wed 17:50>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "TODO"       from "DONE"       [2024-08-07 Wed 08:11]
 - State "DONE"       from "TODO"       [2024-08-07 Wed 07:20]
+:END:
 
 ** DONE 拿小棒槌
 SCHEDULED: <2024-08-07 Wed>
@@ -1582,7 +1688,9 @@ CLOSED: [2024-08-07 Wed 07:09] SCHEDULED: <2024-08-07 Wed>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-08-07 Wed 07:09]
+:END:
 
 ** DONE [#B] 打印韩国签证
 CLOSED: [2024-08-03 Sat 23:20] SCHEDULED: <2024-08-03 Sat 09:00>
@@ -1592,7 +1700,9 @@ CLOSED: [2024-08-03 Sat 23:20] SCHEDULED: <2024-08-03 Sat 09:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-08-03 Sat 23:20]
+:END:
 https://www.visa.go.kr/openPage.do?MENU_ID=10301
 E42999540
 
@@ -1604,7 +1714,9 @@ CLOSED: [2024-08-15 Thu 05:30] SCHEDULED: <2024-08-15 Thu 06:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-08-15 Thu 05:30]
+:END:
 
 ** DONE 取韩元
 SCHEDULED: <2024-08-13 Tue>
@@ -1660,7 +1772,9 @@ CLOSED: [2024-08-23 Fri 22:12] SCHEDULED: <2024-08-23 Fri>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2024-08-23 Fri 22:12]
+:END:
 https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-1977583648
 https://github.com/ValveSoftware/csgo-osx-linux/issues/3262#issuecomment-2165164722
 https://github.com/hyprwm/hyprland-plugins
@@ -1704,7 +1818,9 @@ CLOSED: [2024-10-25 Fri 07:45] SCHEDULED: <2024-10-24 Thu 12:10>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-25 Fri 07:45]
+:END:
 
 ** DONE 火锅调料
 SCHEDULED: <2024-10-24 Thu 07:00>
@@ -1723,7 +1839,9 @@ CLOSED: [2024-10-22 Tue 14:56] SCHEDULED: <2024-10-22 Tue>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-22 Tue 14:56]
+:END:
 
 ** DONE 买拖把
 SCHEDULED: <2024-10-21 Mon>
@@ -1742,7 +1860,9 @@ CLOSED: [2024-10-25 Fri 07:45] SCHEDULED: <2024-10-24 Thu 14:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-25 Fri 07:45]
+:END:
 
 ** DONE RSSHub 自部署
 SCHEDULED: <2024-09-26 Thu>
@@ -1791,8 +1911,10 @@ SCHEDULED: <2024-10-31 Thu .+0d>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-30 Wed 23:38]
 - State "DONE"       from "TODO"       [2024-10-29 Tue 23:59]
+:END:
 
 ** DONE 拿新银行卡
 SCHEDULED: <2024-10-30 Wed>
@@ -1811,7 +1933,9 @@ CLOSED: [2024-10-31 Thu 17:59] SCHEDULED: <2024-10-31 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-31 Thu 17:59]
+:END:
 
 ** DONE 预订饭店 旬の蔵
 :PROPERTIES:
@@ -1895,7 +2019,9 @@ CLOSED: [2025-03-17 Mon 18:31] SCHEDULED: <2025-03-17 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-03-17 Mon 18:31]
+:END:
 
 ** DONE 特斯拉
 SCHEDULED: <2025-03-09 Sun>
@@ -1908,7 +2034,9 @@ SCHEDULED: <2025-03-09 Sun>
 
 *** DONE 试驾
 SCHEDULED: <2025-03-09 Sun>
+:LOGBOOK:
 - State "TODO"       from "DONE"       [2025-03-17 Mon 18:30]
+:END:
 
 *** DONE 电表安装时间确认
 SCHEDULED: <2025-03-18 Tue>
@@ -2041,7 +2169,9 @@ CLOSED: [2025-03-27 Thu 22:00] SCHEDULED: <2025-03-27 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-03-27 Thu 22:00]
+:END:
 
 ** KILL 婚车
 :PROPERTIES:
@@ -2075,7 +2205,9 @@ SCHEDULED: <2025-02-08 Sat>
 :END:
 *** DONE 买钻戒
 CLOSED: [2025-01-21 Tue 08:14] DEADLINE: <2025-01-19 Sun> SCHEDULED: <2025-01-09 Thu>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-01-21 Tue 08:14]
+:END:
 *** 求婚词
 亲爱的朱老师, 1350 天前, 我鼓起勇气向你表白，我们的故事也迎来了新的篇章。
 你是温柔而坚定的语文老师，而我是理性的程序员，但你的包容和命运的安排让我们走到了一起。
@@ -2114,7 +2246,9 @@ SCHEDULED: <2025-03-09 Sun>
 
 *** DONE 试驾
 SCHEDULED: <2025-03-09 Sun>
+:LOGBOOK:
 - State "TODO"       from "DONE"       [2025-03-17 Mon 18:30]
+:END:
 
 *** DONE 电表安装时间确认
 SCHEDULED: <2025-03-18 Tue>
@@ -2127,7 +2261,9 @@ SCHEDULED: <2025-03-20 Thu>
 
 *** DONE 安装 ETC
 CLOSED: [2025-03-27 Thu 22:00] SCHEDULED: <2025-03-27 Thu>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-03-27 Thu 22:00]
+:END:
 
 ** DONE 婚纱照 [1/1]
 SCHEDULED: <2025-02-23 Sun>
@@ -2310,7 +2446,9 @@ SCHEDULED: <2025-03-02 Sun>
 :END:
 *** DONE 带一次性相机
 CLOSED: [2025-02-23 Sun 11:18] SCHEDULED: <2025-02-23 Sun>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-02-23 Sun 11:18]
+:END:
 
 ** DONE 服装
 :PROPERTIES:
@@ -2501,7 +2639,9 @@ CLOSED: [2025-05-25 Sun 23:48] SCHEDULED: <2025-05-25 Sun>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-05-25 Sun 23:48]
+:END:
 
 ** KILL 买充电头
 SCHEDULED: <2025-05-25 Sun>
@@ -2548,7 +2688,9 @@ CLOSED: [2025-06-11 Wed 10:04] SCHEDULED: <2025-06-11 Wed 07:00>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-06-11 Wed 10:04]
+:END:
 
 ** KILL Wise Card
 CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
@@ -2558,7 +2700,9 @@ CLOSED: [2025-06-10 Tue 08:33] SCHEDULED: <2025-06-09 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2025-06-10 Tue 08:33]
+:END:
 
 (626) 369-8185
 2401 West Pico Boulevard, Los Angeles, CA 90006
@@ -2719,7 +2863,9 @@ SCHEDULED: <2025-08-18 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "WAIT"       from "STRT"       [2025-09-03 Wed 18:06]
+:END:
 https://www.idaocao.com.hk/profile/orderid?oid=6442374895894528
 
 ** DONE 激活 兴业银行 寰宇人生借记卡
@@ -2745,11 +2891,15 @@ SCHEDULED: <2025-06-19 Thu> DEADLINE: <2025-06-27 Fri>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "WAIT"       from "TODO"       [2025-06-11 Wed 10:04]
+:END:
 
 *** DONE 带身份证和银行卡
 CLOSED: [2025-06-19 Thu 08:31] SCHEDULED: <2025-06-19 Thu 07:30>
+:LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-06-19 Thu 08:31]
+:END:
 
 ** DONE Bitcoin Whitepaper
 :PROPERTIES:
@@ -2786,7 +2936,9 @@ SCHEDULED: <2025-05-25 Sun>
 SCHEDULED: <2025-05-26 Mon>
 **** DONE 拿在职证明回家
 CLOSED: [2025-05-30 Fri 16:45] SCHEDULED: <2025-05-30 Fri>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-05-30 Fri 16:45]
+:END:
 **** DONE 复印房产证
 SCHEDULED: <2025-06-02 Mon>
 **** DONE 准备照片
@@ -2815,15 +2967,21 @@ SCHEDULED: <2025-06-26 Thu>
 
 *** DONE BLS 退款
 CLOSED: [2025-07-04 Fri 17:38] DEADLINE: <2025-06-25 Wed>
+:LOGBOOK:
 - State "DONE"       from "WAIT"       [2025-07-04 Fri 17:38]
+:END:
 
 *** DONE 手机卡
 CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-02 Wed>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
+:END:
 
 *** DONE 带 U 型枕
 CLOSED: [2025-07-04 Fri 17:38] SCHEDULED: <2025-07-04 Fri>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-07-04 Fri 17:38]
+:END:
 
 ** DONE 取 Apple AirPods 2
 SCHEDULED: <2025-10-19 Sun>
@@ -2852,7 +3010,9 @@ CLOSED: [2025-04-22 Tue 14:15] SCHEDULED: <2025-04-21 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-04-22 Tue 14:15]
+:END:
 Use hugo module
 
 ** DONE 皮肤科复诊
@@ -3118,7 +3278,9 @@ CLOSED: [2026-03-18 Wed 23:47] SCHEDULED: <2026-03-16 Mon>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2026-03-18 Wed 23:47]
+:END:
 
 ** DONE 开德国 N26 卡
 SCHEDULED: <2026-03-11 Wed>
@@ -3618,7 +3780,9 @@ CLOSED: [2023-01-05 Thu 00:45] SCHEDULED: <2023-01-01 Sun>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2023-01-05 Thu 00:45]
+:END:
 ** DONE 上海市第十一届篆隶书法作品展
 DEADLINE: <2022-06-30 Thu> SCHEDULED: <2022-06-19 Sun>
 :PROPERTIES:
@@ -3681,7 +3845,9 @@ CLOSED: [2022-10-02 Sun 07:22] DEADLINE: <2022-09-30 Fri>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2022-10-02 Sun 07:22]
+:END:
 https://mp.weixin.qq.com/s/aTUPYgYT-6L0352lbYZpVQ
 ** DONE 拍摄宣传短视频
 CLOSED: [2023-04-23 Sun 10:17] SCHEDULED: <2023-04-23 Sun 10:00>
@@ -3692,7 +3858,9 @@ CLOSED: [2023-04-23 Sun 10:17] SCHEDULED: <2023-04-23 Sun 10:00>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-23 Sun 10:17]
+:END:
 上身浅色衬衫或者外套。仪表整洁干净，女生建议画淡妆。若是党员，请佩戴党徽。
 刘霆tel:13564493116
 ** DONE 领取作品
@@ -3713,7 +3881,9 @@ CLOSED: [2023-04-27 Thu 00:28] SCHEDULED: <2023-04-26 Wed 09:00>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-27 Thu 00:28]
+:END:
 ** DONE 2022 上海市书法家协会表彰大会暨新会员入会仪式
 CLOSED: [2023-04-28 Fri 09:25] SCHEDULED: <2023-04-27 Thu 09:30>
 :PROPERTIES:
@@ -3723,7 +3893,9 @@ CLOSED: [2023-04-28 Fri 09:25] SCHEDULED: <2023-04-27 Thu 09:30>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-28 Fri 09:25]
+:END:
 延安西路 200 号 3 号楼 3 楼多功能厅
 会员登记表、承诺书将上传在联系群内，请自行下载、妥善填写，并带到会场提交；另根据要求缴纳入会费 350 元、2023 年会费 100 元，共计 450 元，办理入会手续并领取会员证。会议议程安排 1 天，会议重要，请安排好时间，准时出席。
 ** DONE 打印书协入会发言
@@ -3735,7 +3907,9 @@ CLOSED: [2023-04-27 Thu 00:29] SCHEDULED: <2023-04-26 Wed 09:00>
 :ARCHIVE_CATEGORY: calligraphy
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-04-27 Thu 00:29]
+:END:
 
 ** DONE 买纸
 SCHEDULED: <2023-11-19 Sun>
@@ -3822,7 +3996,9 @@ CLOSED: [2023-09-19 Tue 17:10] SCHEDULED: <2023-09-19 Tue>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-19 Tue 17:10]
+:END:
 - 饭盒
 - 勺子
 ** DONE 个税申报
@@ -3834,7 +4010,9 @@ CLOSED: [2023-06-29 Thu 11:39] SCHEDULED: <2023-06-26 Mon 07:00>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-29 Thu 11:39]
+:END:
 ** DONE 带咖啡冰杯
 SCHEDULED: <2023-05-31 Wed 06:40>
 :PROPERTIES:
@@ -3853,7 +4031,9 @@ CLOSED: [2023-07-27 Thu 08:26] SCHEDULED: <2023-07-24 Mon>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-07-27 Thu 08:26]
+:END:
 @所有人 关于做好 2023 年暑假教师研修的通知
 https://jfy.pudong-edu.sh.cn/web/pdjfy/4560078-4560000015236.htm?Page=1
 https://basic.smartedu.cn/training/2023sqpx
@@ -3868,7 +4048,9 @@ CLOSED: [2023-05-18 Thu 15:54] SCHEDULED: <2023-05-18 Thu 15:10>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-18 Thu 15:54]
+:END:
 [2023-05-18 Thu 10:44]
 ** KILL 讨论喜欢和讨厌的食物
 SCHEDULED: <2023-08-06 Sun>
@@ -3888,7 +4070,9 @@ CLOSED: [2023-09-21 Thu 23:33] SCHEDULED: <2023-09-19 Tue>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-21 Thu 23:33]
+:END:
 ** DONE 语文练习答案
 CLOSED: [2023-09-29 Fri 11:54] SCHEDULED: <2023-09-20 Wed>
 :PROPERTIES:
@@ -3898,7 +4082,9 @@ CLOSED: [2023-09-29 Fri 11:54] SCHEDULED: <2023-09-20 Wed>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-29 Fri 11:54]
+:END:
 ** DONE 传绯闻？
 CLOSED: [2024-02-05 Mon 13:40] SCHEDULED: <2024-02-01 Thu>
 :PROPERTIES:
@@ -3908,7 +4094,9 @@ CLOSED: [2024-02-05 Mon 13:40] SCHEDULED: <2024-02-01 Thu>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-02-05 Mon 13:40]
+:END:
 ** DONE 买 iPhone13 Pro Max 钢化膜
 CLOSED: [2024-01-30 Tue 11:53] SCHEDULED: <2024-01-24 Wed>
 :PROPERTIES:
@@ -3918,7 +4106,9 @@ CLOSED: [2024-01-30 Tue 11:53] SCHEDULED: <2024-01-24 Wed>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-01-30 Tue 11:53]
+:END:
 
 ** DONE 座位表 :crypt:
 CLOSED: [2023-09-06 Wed 20:57] SCHEDULED: <2023-09-06 Wed>
@@ -3929,8 +4119,10 @@ CLOSED: [2023-09-06 Wed 20:57] SCHEDULED: <2023-09-06 Wed>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "KILL"       [2023-09-06 Wed 20:57]
 - State "KILL"       from "TODO"       [2023-09-06 Wed 20:57]
+:END:
 *** 黄色
 杨腾跃
 沈欣怡
@@ -4005,7 +4197,9 @@ SCHEDULED: <2024-08-13 Tue>
 SCHEDULED: <2024-08-13 Tue>
 *** DONE 订酒店
 CLOSED: [2024-08-14 Wed 09:54] SCHEDULED: <2024-08-13 Tue>
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-08-14 Wed 09:54]
+:END:
 
 ** DONE 旅行
 :PROPERTIES:
@@ -4055,7 +4249,9 @@ CLOSED: [2023-12-20 Wed 20:03] SCHEDULED: <2023-12-20 Wed>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-12-20 Wed 20:03]
+:END:
 
 ** DONE 带身份证
 SCHEDULED: <2023-11-19 Sun>
@@ -4076,7 +4272,9 @@ CLOSED: [2023-11-19 Sun 14:27] SCHEDULED: <2023-11-19 Sun 14:30>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-11-19 Sun 14:27]
+:END:
 
 ** KILL 整理英文作文
 SCHEDULED: <2022-10-06 Thu>
@@ -4087,7 +4285,9 @@ SCHEDULED: <2022-10-06 Thu>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "TODO"       from ""           [2022-10-06 Thu 07:15]
+:END:
 [2022-10-04 Tue 16:07]
 
 ** DONE [#B] 学习 Latex 排版 名字贴
@@ -4110,7 +4310,9 @@ CLOSED: [2023-03-27 Mon 12:05] SCHEDULED: <2023-03-24 Fri>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-03-27 Mon 12:05]
+:END:
 
 ** DONE (045101)(专业学位)教育管理 考研
 :PROPERTIES:
@@ -4192,7 +4394,9 @@ CLOSED: [2024-09-01 Sun 13:56] SCHEDULED: <2024-09-01 Sun>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-09-01 Sun 13:56]
+:END:
 ** DONE 拿护照
 CLOSED: [2024-09-26 Thu 16:41] SCHEDULED: <2024-09-17 Tue>
 :PROPERTIES:
@@ -4201,7 +4405,9 @@ CLOSED: [2024-09-26 Thu 16:41] SCHEDULED: <2024-09-17 Tue>
 :ARCHIVE_CATEGORY: ning.org
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-09-26 Thu 16:41]
+:END:
 
 ** DONE 公众号
 SCHEDULED: <2023-12-26 Tue>
@@ -4343,7 +4549,9 @@ CLOSED: [2023-05-12 Fri 00:00] SCHEDULED: <2023-05-12 Fri>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "KILL"       from "TODO"       [2023-05-12 Fri 00:00]
+:END:
 
 ** DONE 义卖
 CLOSED: [2023-06-01 Thu 09:11] SCHEDULED: <2023-06-01 Thu>
@@ -4354,7 +4562,9 @@ CLOSED: [2023-06-01 Thu 09:11] SCHEDULED: <2023-06-01 Thu>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-01 Thu 09:11]
+:END:
 
 ** DONE 听课
 CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-18 Thu>
@@ -4365,7 +4575,9 @@ CLOSED: [2023-05-21 Sun 12:59] SCHEDULED: <2023-05-18 Thu>
 :ARCHIVE_CATEGORY: ning
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-21 Sun 12:59]
+:END:
 
 ** KILL 复制小区大门钥匙
 SCHEDULED: <2024-12-05 Thu 20:30>
@@ -4455,7 +4667,9 @@ CLOSED: [2024-02-25 Sun 19:08] SCHEDULED: <2024-01-27 Sat>
 :ARCHIVE_CATEGORY: life
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-02-25 Sun 19:08]
+:END:
 *** DONE 购买手表电池
 SCHEDULED: <2024-02-01 Thu>
 
@@ -4468,7 +4682,9 @@ DEADLINE: <2026-12-31 Thu ++0y> SCHEDULED: <2026-12-01 Tue ++0y>
 :ARCHIVE_CATEGORY: life
 :ARCHIVE_TODO: KILL
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2025-12-05 Fri 16:20]
+:END:
 * From emacs.org :ARCHIVE:
 
 ** DONE 使用 chezmoi 设置 rime
@@ -4494,7 +4710,9 @@ CLOSED: [2024-05-17 Fri 07:24] SCHEDULED: <2024-05-11 Sat>
 :ARCHIVE_CATEGORY: emacs
 :ARCHIVE_TODO: DONE
 :END:
+:LOGBOOK:
 - State "DONE"       from "TODO"       [2024-05-17 Fri 07:24]
+:END:
 
 ** DONE 自动查看所有未同步的仓库
 SCHEDULED: <2024-04-27 Sat>
