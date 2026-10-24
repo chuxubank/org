@@ -1,5 +1,14 @@
 #+title: Inbox
 #+OPTIONS: toc:nil author:nil date:nil prop:t p:t
+
+* TODO 周慧君公众号信息
+DEADLINE: <2026-10-31 Sat> SCHEDULED: <2026-10-25 Sun>
+拟在“周慧珺书法艺术馆”公众号上发布作者推介文章，如参加请准备
+- 本人照片
+- 其他作品照片（3-5 张）
+- 主要获奖、入展情况
+- 周慧珺杯创作手记（300 字左右）
+
 * TODO TinyCast
 SCHEDULED: <2026-09-15 Tue>
 https://github.com/abue-ammar/tinycast
