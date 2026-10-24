@@ -11,3 +11,5 @@ dependencies = [
 [tool.uv]
 # Dependency environment only; nothing here is built or installed as a package.
 package = false
+# ReportLab pulls Pillow in transitively. Keep it on a patched release.
+constraint-dependencies = ["pillow>=13.0.0"]
