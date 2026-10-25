@@ -68,12 +68,13 @@ SCHEDULED: <2026-09-27 Sun 20:10 .+2d>
 - State "DONE"       from "TODO"       [2025-02-24 Mon 09:04]
 :END:
 * TODO Cut nails
-SCHEDULED: <2026-09-30 Wed 20:00 .+6d/9d>
+SCHEDULED: <2026-10-31 Sat 20:00 .+6d/9d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-24 Thu 23:59]
+:LAST_REPEAT: [2026-10-25 Sun 15:39]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2026-10-25 Sun 15:39]
 - State "DONE"       from "TODO"       [2026-09-24 Thu 23:59]
 - State "DONE"       from "TODO"       [2026-09-17 Thu 12:31]
 - State "DONE"       from "TODO"       [2026-09-10 Thu 12:08]
@@ -1241,12 +1242,13 @@ SCHEDULED: <2026-09-26 Sat 22:00 .+1d>
 - State "DONE"       from "TODO"       [2025-09-08 Mon 23:59]
 :END:
 * TODO Clean bathroom
-SCHEDULED: <2026-07-13 Mon .+2w>
+SCHEDULED: <2026-11-08 Sun .+2w>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-06-29 Mon 22:43]
+:LAST_REPEAT: [2026-10-25 Sun 15:39]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2026-10-25 Sun 15:39]
 - State "DONE"       from "TODO"       [2026-06-29 Mon 22:43]
 - State "DONE"       from "TODO"       [2026-05-24 Sun 22:06]
 - State "KILL"       from "TODO"       [2026-05-06 Wed 14:36]
@@ -1274,12 +1276,13 @@ SCHEDULED: <2026-07-13 Mon .+2w>
 - State "DONE"       from "TODO"       [2024-07-15 Mon 16:42]
 :END:
 * TODO Drink water
-SCHEDULED: <2026-09-29 Tue 14:30 .+2d>
+SCHEDULED: <2026-10-27 Tue 14:30 .+2d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2026-09-27 Sun 14:57]
+:LAST_REPEAT: [2026-10-25 Sun 15:39]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2026-10-25 Sun 15:39]
 - State "DONE"       from "TODO"       [2026-09-27 Sun 14:57]
 - State "DONE"       from "TODO"       [2026-09-25 Fri 23:46]
 - State "DONE"       from "TODO"       [2026-09-18 Fri 12:30]
