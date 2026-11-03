@@ -1,5 +1,17 @@
 ;; -*- lexical-binding: t; -*-
 
+;; The Ubuntu 26.04 runner's GnuPG reports "No secret key" when pinentry
+;; has no tty, even after the key is imported. CI supplies the passphrase
+;; and Emacs has to return it through loopback pinentry. `copy-sequence'
+;; matters: EasyPG wipes the string it gets back.
+(let ((passphrase (getenv "GPG_PASSPHRASE")))
+  (unless (or (null passphrase) (string-empty-p passphrase))
+    (setq epg-pinentry-mode 'loopback)
+    (defun org-batch-gpg-passphrase (_context _key-id _file)
+      (copy-sequence passphrase))
+    (advice-add 'epa-file-passphrase-callback-function :override
+                #'org-batch-gpg-passphrase)))
+
 (set-time-zone-rule nil)
 (package-initialize)
 

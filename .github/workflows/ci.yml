@@ -79,7 +79,16 @@ jobs:
       - name: Move assets
         run: mv $ORG_DIR/assets/ publish/
 
+      - name: Allow GnuPG loopback pinentry
+        run: |
+          conf="$HOME/.gnupg/gpg-agent.conf"
+          touch "$conf"
+          grep -qxF 'allow-loopback-pinentry' "$conf" || printf '\nallow-loopback-pinentry\n' >> "$conf"
+          gpgconf --kill gpg-agent || true
+
       - name: Run emacs commands
+        env:
+          GPG_PASSPHRASE: ${{ secrets.PASSPHRASE }}
         run: emacs -batch -l $ORG_DIR/batch/agenda.el -eval '(org-batch-store-agenda-views)'
 
       - name: Upload artifact
