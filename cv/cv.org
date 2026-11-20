@@ -20,7 +20,7 @@ Seeking senior Android/KMP or AI-product mobile roles; visa sponsorship required
 :END:
 - Mobile :: *Android (Kotlin, Jetpack Compose)*; Kotlin Multiplatform / Compose Multiplatform; iOS (Swift, SwiftUI)
 - Languages :: *Kotlin (Coroutines, Flow)*, Java, Swift; C/C++ (JNI), Rust; Python, Bash, SQL
-- Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger/Koin), Gradle build-logic, CI/CD (Concourse, Jenkins, Fastlane)
+- Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger/Koin), Gradle build-logic, CI/CD (Concourse, Jenkins, GitHub Actions, Fastlane)
 - Networking :: Retrofit, OpenAPI Codegen, Ktor, BLE, MQTT, GraphQL
 - Tools :: Git, Emacs (Org-mode, \LaTeX), AI agents (CLI agents, MCP / ACP / Skills)
 - Spoken :: English (CET-6, professional reading and everyday communication); Mandarin Chinese (Native)
@@ -42,7 +42,8 @@ Seeking senior Android/KMP or AI-product mobile roles; visa sponsorship required
 - Built Android and iOS clients for an AI companion app in Compose Multiplatform, including a character-bound love journal, birthday cards, share cards with QR codes, and minor-protection / real-name access flows.
 - Implemented UGC review and edit-management flows for the in-app theater feature, reused the create/edit event forms, and kept comment visibility, privacy state, and list data in sync, including conflict handling on edit and archive operations.
 - Built a shared image and animation pipeline for Compose Multiplatform: a thin native Coil integration, a single general-purpose image entry, locale-aware resource images, bounded in-package SVG decoding, request-state fixes, and a mall carousel fallback when later-frame decoding fails.
-- Set up AI-assisted development with OpenSpec, agent skills/rules, and Claude/opencode workflows, and added worktree/LFS tooling with resource-copy checks for Android worktrees.
+- Authored agent skills and rules, and established a spec-driven workflow on OpenSpec that takes work from specification to implementation with Claude Code and opencode.
+- Added worktree and LFS tooling, with resource-copy checks for Android worktrees.
 
 ** Android Engineer
 :PROPERTIES:
