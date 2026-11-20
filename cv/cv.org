@@ -1,4 +1,4 @@
-#+TITLE: Android Development
+#+TITLE: Android / Kotlin Multiplatform Engineer
 #+AUTHOR: Xu Chu
 #+EMAIL: chuxubank@gmail.com
 #+LANGUAGE: en
@@ -9,48 +9,54 @@
 #+LINKEDIN: chuxubank
 #+PHOTO: photo.jpg
 
-* Professional Skills
+* Summary
+Android and Kotlin Multiplatform engineer with 7 years of experience shipping production mobile apps.
+Currently building a cross-platform AI companion app for Android and iOS in Compose Multiplatform, spanning product features and shared client infrastructure.
+Seeking senior Android/KMP or AI-product mobile roles; visa sponsorship required.
+
+* Skills
 :PROPERTIES:
 :CV_ENV:   cvskills
 :END:
-- Mobile Development :: *Android (Kotlin, Jetpack Compose)*; KMP; iOS (Swift, SwiftUI)
-- Programming Languages :: *Kotlin (Coroutines, Flow), Java (RxJava)*, Swift; C/C++ (JNI), Rust; Python, Bash, Ruby; SQL
-- Architecture & Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger2/Koin), CI/CD (Concourse, Jenkins, Fastlane), Docker, Ansible
-- Networking & Communication :: Retrofit2, OpenAPI Codegen, Ktor (kRPC), MQTT, BLE, GraphQL
-- Tools :: Git, Emacs (Org-mode, \LaTeX), Vim, AI Agents (CLI Agent, MCP / ACP / Skills)
-- Languages :: English (CET-6, professional reading & communication), Mandarin Chinese (Native)
+- Mobile :: *Android (Kotlin, Jetpack Compose)*; Kotlin Multiplatform / Compose Multiplatform; iOS (Swift, SwiftUI)
+- Languages :: *Kotlin (Coroutines, Flow)*, Java, Swift; C/C++ (JNI), Rust; Python, Bash, SQL
+- Engineering :: MVVM/MVI, Clean Architecture, DI (Hilt/Dagger/Koin), Gradle build-logic, CI/CD (Concourse, Jenkins, Fastlane)
+- Networking :: Retrofit, OpenAPI Codegen, Ktor, BLE, MQTT, GraphQL
+- Tools :: Git, Emacs (Org-mode, \LaTeX), AI agents (CLI agents, MCP / ACP / Skills)
+- Spoken :: English (CET-6, professional reading and everyday communication); Mandarin Chinese (Native)
 
 * Work Experience
 :PROPERTIES:
 :CV_ENV:   cventries
 :END:
 
+** Mobile Engineer (Kotlin Multiplatform)
+:PROPERTIES:
+:CV_ENV:   cventry
+:FROM:     <2026-03-01 Sun>
+:TO:       Present
+:LOCATION: Shanghai, China
+:EMPLOYER: Infinity Valley (上海阿培伦网络科技有限公司)
+:END:
+# Known start month is March 2026. The day in FROM is only an Org timestamp; export shows Mar 2026.
+- Built Android and iOS clients for an AI companion app in Compose Multiplatform, including a character-bound love journal, birthday cards, share cards with QR codes, and minor-protection / real-name access flows.
+- Implemented UGC review and edit-management flows for the in-app theater feature, reused the create/edit event forms, and kept comment visibility, privacy state, and list data in sync, including conflict handling on edit and archive operations.
+- Built a shared image and animation pipeline for Compose Multiplatform: a thin native Coil integration, a single general-purpose image entry, locale-aware resource images, bounded in-package SVG decoding, request-state fixes, and a mall carousel fallback when later-frame decoding fails.
+- Set up AI-assisted development with OpenSpec, agent skills/rules, and Claude/opencode workflows, and added worktree/LFS tooling with resource-copy checks for Android worktrees.
+
 ** Android Engineer
 :PROPERTIES:
 :CV_ENV:   cventry
 :FROM:     <2022-01-05 Wed>
-:TO:       Present
+:TO:       <2026-02-01 Sun>
 :LOCATION: Shanghai, China
 :EMPLOYER: ASSA ABLOY (China) Investment Co., Ltd. Shanghai Branch
 :END:
-- *Responsible for maintenance and evolution of the Yale Home Android apps (domestic and international)*:
-  Production-grade applications serving high MAU and cross-region users;
-  supporting IoT devices such as smart locks and window openers, including device onboarding, configuration, BLE control, remote control, and OTA upgrades;
-  participated in cross-team technical discussions and design reviews to ensure stability and scalability in complex device environments.
-- *Driving migration of core modules and engineering infrastructure to modern tech stacks*:
-  Led multiple key module and infrastructure upgrades while ensuring online stability;
-  migrated the device QR scanning module from =Camera2= to =CameraX=, resolving focus and compatibility issues across devices, enabling region-based scanning, and significantly improving recognition success rate and user experience;
-  promoted DI and testing stack upgrades, completing migrations from =Dagger= to =Hilt= and =JUnit4= to =JUnit5=;
-  introduced parallel test execution, substantially reducing CI test duration and long-term maintenance cost.
-- *Introducing AI-assisted development practices and fostering technical knowledge sharing*:
-  Proficient in AI-assisted development tools (CLI Agent, Cursor);
-  applied MCP / ACP protocols in real projects for code generation, refactoring, debugging, testing, and review, improving overall engineering efficiency;
-  delivered multiple internal technical sharing sessions, attended developer conferences such as Google I/O, and completed MongoDB-related technical training to continuously track platform and infrastructure evolution.
-- *Responsible for Concourse CI refactoring and performance optimization*:
-  Refactored CI pipelines through parameterization, templating, and build tuning;
-  implemented reusable submodule packaging and release capabilities based on Concourse Tasks;
-  introduced Task-level caching, achieving approximately 2× build performance improvement under reduced build resources;
-  participated in the full release lifecycle from build and testing to store submission, making release decisions based on metrics such as crash rate.
+# Known departure month is February 2026. The day in TO is only an Org timestamp; export shows Feb 2026.
+- Maintained and evolved the Yale Home Android apps (China and international) for IoT devices such as smart locks and window openers, covering onboarding, configuration, BLE and remote control, and OTA updates.
+- Migrated the device QR-scanning module from =Camera2= to =CameraX=; upgraded DI and tests from =Dagger= to =Hilt= and =JUnit 4= to =JUnit 5=, introducing parallel test execution to shorten CI test time.
+- Unified multiple product flavors into one codebase with modularization and custom Gradle =build-logic=; introduced Compose on core user paths and a componentized design system; encrypted sensitive local database fields and stored critical material in the Android Keystore.
+- Refactored Concourse CI with parameterization, templating, reusable packaging tasks, and task-level caching, achieving about 2× build performance with fewer build resources; investigated production crashes, ANRs, and memory leaks.
 
 ** Android Software Engineer
 :PROPERTIES:
@@ -60,78 +66,38 @@
 :LOCATION: Shanghai, China
 :EMPLOYER: Shanghai Zhiyan Intelligent Technology Co., Ltd.
 :END:
-- Developed and maintained multiple production Android applications, including inventory management, self-service terminals, and content reading products.
-- Built client-side features for data acquisition and processing, integrating Bluetooth-based devices and optimizing data sorting and workflow efficiency.
-- Designed and implemented a face registration application using =Kotlin= and =CameraX=, delivering reliable capture and validation flows.
-- Implemented modern Android architecture with =Coroutines=, =Flow=, =Room=, and dependency injection to support scalable and maintainable codebases.
-- Introduced =Jetpack Compose= for UI development and improved UI consistency and development efficiency.
-- Improved system reliability and delivery efficiency through refactoring, stability fixes, and automated deployment practices.
+- Developed production Android apps for inventory management, self-service terminals, and content reading, including Bluetooth/RFID device integration and a face-registration flow with =Kotlin= and =CameraX=.
+- Adopted Kotlin Coroutines, Flow, Room, and Jetpack Compose, and improved reliability through refactoring, stability fixes, and automated deployment.
 
-** Android Development Intern
-:PROPERTIES:
-:CV_ENV:   cventry
-:FROM:     <2019-04-01 Mon>
-:TO:       <2019-08-01 Thu>
-:LOCATION: Shanghai, China
-:EMPLOYER: Shanghai Xipai Intelligent Systems Co., Ltd.
-:END:
-- Developed an NFC read/write utility application;
-  used Retrofit for networking, Realm for local persistence, and interacted with Android NFC modules to complete tag operations.
-- Used PersistentCookieJar to manage and persist login cookies;
-  identified inconsistencies between its cookie validation logic and the backend implementation;
-  resolved the issue via Java override mechanisms, ensuring stable login state.
-
-* Project Experience
+* Open Source
 :PROPERTIES:
 :CV_ENV:   cventries
 :END:
 
-** Yale Home (Global Smart Lock Core App)
+** Kotlin Multiplatform client built with Compose, SwiftUI, and Rust
 :PROPERTIES:
 :CV_ENV:   cventry
-:FROM:     <2023-01-05 Thu>
-:TO:       Present
+:EMPLOYER: https://github.com/AsahiArt/Luvia
+:FROM:
+:TO:
 :END:
-- *Led multi-flavor project architecture governance*:
-  consolidated multiple flavors into a unified codebase via modularization, componentization, and custom ~build-logic~;
-  enabled flavor-specific dependency injection and build configuration;
-  significantly reduced APK size, maintenance complexity, and improved build consistency.
-- *Participated in Design System implementation*:
-  built componentized Compose UI based on design specs;
-  optimized parameters to cover multiple variants and improve code reuse.
-- *Improved local build performance*:
-  benchmarked with =gradle-profiler=, analyzed =build-scan= results, identified slow dependencies and migrated them;
-  significantly improved build speed and developer productivity.
-- *Refactored BI and analytics to adapt to Compose architecture*:
-  implemented simplified page PV collection with asynchronous reporting;
-  reduced business code intrusion and improved performance.
-- *Optimized app startup flow and initialization dependency structure*:
-  unified startup dependency management, improved launch performance;
-  resolved historical initialization coupling issues;
-  documented startup flows and dependency graphs using UML within the codebase.
-- *Enhanced application security and compliance*:
-  encrypted sensitive fields in local databases;
-  stored critical data in the ~KeyStore~.
-- *Owned online stability*:
-  continuously investigated and resolved crashes, ANRs, and memory leaks;
-  combined logging, monitoring, and reproduction techniques to diagnose complex production issues;
-  reduced recurrence through code and architectural improvements.
+# FROM and TO are empty so the date stays blank. A missing FROM crashes ox-awesomecv.
 
-** Yale China / Gateman China / Panpan Security Door Apps
+** Contributor to an AI agent console
 :PROPERTIES:
 :CV_ENV:   cventry
-:FROM:     <2022-01-05 Wed>
-:TO:       <2023-01-05 Thu>
+:EMPLOYER: https://github.com/RizRiyz/luvus
+:FROM:
+:TO:
 :END:
-- *Led Jetpack Compose refactoring on critical user paths*:
-  designed reusable state-driven UI architecture;
-  implemented custom video playback and scanning components deeply integrated with Compose;
-  presented technical and product outcomes to the global team at All-Hands Meetings.
-- *Integrated domestic push notification frameworks*,
-  coordinated server-side testing and assisted with app store submissions across major Chinese app markets.
-- *Integrated BI frameworks and crash/ANR reporting SDKs*:
-  designed and implemented analytics methods using dynamic proxies and annotations;
-  assisted Product Owners with user behavior analysis.
+
+** Command-line Compose preview tool and related agent skill
+:PROPERTIES:
+:CV_ENV:   cventry
+:EMPLOYER: https://github.com/cat-emacs/compose-preview
+:FROM:
+:TO:
+:END:
 
 * Education
 :PROPERTIES:
@@ -146,46 +112,5 @@
 :FROM:     <2015-09-01 Tue>
 :TO:       <2019-07-01 Mon>
 :END:
-- GPA: 3.56 (Top 3% of major)
-- Shanghai Outstanding Graduate (2019)
-- Second-Class Scholarship for three consecutive years (2015–2018)
-- Science & Technology Innovation Scholarship (2017–2018)
-- Outstanding Student Award (2017–2018)
-
-* Honors & Awards
-:PROPERTIES:
-:CV_ENV:   cvhonors
-:END:
-
-** Honorable Mention, Perseverance Award
-:PROPERTIES:
-:CV_ENV:   cvhonor
-:DATE:     2018
-:LOCATION: Xiangtan, China
-:EVENT: CCPC China Collegiate Programming Contest – Xiangtan Invitational
-:END:
-
-** Third Prize
-:PROPERTIES:
-:CV_ENV:   cvhonor
-:DATE:     2018
-:LOCATION: Shanghai, China
-:EVENT: China Collegiate Computing Contest – Group Programming Ladder Tournament (National Finals, “Huashan Division”)
-:END:
-
-** Honorable Mention
-:PROPERTIES:
-:CV_ENV:   cvhonor
-:DATE:     2017
-:LOCATION: Qinhuangdao, China
-:EVENT: CCPC China Collegiate Programming Contest – Qinhuangdao Regional
-:END:
-
-* Interests
-:PROPERTIES:
-:CV_ENV:   cvskills
-:END:
-- Calligraphy :: Multiple national and Shanghai-level exhibition awards; Member of Shanghai Calligraphers Association
-- Music :: Rhythm guitarist in a band; participated in rehearsals and live performances
-- Hackintosh :: Long-term maintenance of Hackintosh environments; familiar with macOS hardware compatibility and system debugging
-- Home Assistant :: Operates a personal homelab; conducts automation practices based on Home Assistant and supports the setup of HA-based integration test environments at work
+- GPA: 3.56 (Top 3% of major); Shanghai Outstanding Graduate (2019)
+- CCPC Xiangtan Invitational --- Honorable Mention, Perseverance Award (2018); CCPC Qinhuangdao Regional --- Honorable Mention (2017)

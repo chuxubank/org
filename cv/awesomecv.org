@@ -10,7 +10,7 @@
 
 * Export :noexport:
 :PROPERTIES:
-:EXPORT_TITLE: Android Developer
+:EXPORT_TITLE: Android / Kotlin Multiplatform Engineer
 :END:
 #+include: cv.org
 #+begin_src elisp :results file link :file "awesomecv.pdf" :exports none
